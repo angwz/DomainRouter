@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,google.com.hk
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
@@ -314,7 +315,6 @@ payload:
   - DOMAIN-SUFFIX,google.com.gh
   - DOMAIN-SUFFIX,google.com.gi
   - DOMAIN-SUFFIX,google.com.gt
-  - DOMAIN-SUFFIX,google.com.hk
   - DOMAIN-SUFFIX,google.com.jm
   - DOMAIN-SUFFIX,google.com.kh
   - DOMAIN-SUFFIX,google.com.kw
