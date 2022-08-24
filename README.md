@@ -92,11 +92,12 @@ rules:
   - RULE-SET,Chat,DIRECT
   - RULE-SET,iCloud,DIRECT
   - RULE-SET,Apple,DIRECT
+  - RULE-SET,Netflix,🇺🇲 美国节点
   - RULE-SET,American,🇺🇲 美国节点
-  - RULE-SET,Direct,DIRECT
-  - RULE-SET,CNcidr,DIRECT
-  - RULE-SET,Google,🔰 节点选择
   - RULE-SET,Proxy,🔰 节点选择
+  - RULE-SET,Direct,DIRECT
+  - RULE-SET,Google,🔰 节点选择
+  - RULE-SET,CNcidr,DIRECT
   - RULE-SET,Goo.gl,🔰 节点选择
   - RULE-SET,Proxy2,🔰 节点选择
   - RULE-SET,GFW,🔰 节点选择
