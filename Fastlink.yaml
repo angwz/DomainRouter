@@ -112,5 +112,3 @@ rule-providers:
     url: "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Los%20Angeles.yaml"
     path: ./ruleset/Los%20Angeles.yaml
     interval: 86400
-
-
