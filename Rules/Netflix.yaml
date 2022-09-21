@@ -5,8 +5,8 @@ payload:
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 
   - DOMAIN,api.fast.com
-  - DOMAIN-SUFFIX,fast.com
   - DOMAIN,netflix.com.edgesuite.net
+  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,netflix.net
   - DOMAIN-SUFFIX,nflxext.com
