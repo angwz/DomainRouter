@@ -434,7 +434,7 @@ payload:
   - DOMAIN,smtp-mail.outlook.com
   - DOMAIN,smtp.office365.com
 
-  # #Steam
+  # Steam
   # - DOMAIN-SUFFIX,csgo.wmsj.cn
   # - DOMAIN-SUFFIX,dl.steam.ksyna.com
   # - DOMAIN-SUFFIX,dota2.wmsj.cn
