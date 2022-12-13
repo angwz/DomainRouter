@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,openai.com
+
   # OneDrive
   - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,oneclient.sfx.ms
