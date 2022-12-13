@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-KEYWORD,openai
 
   # OneDrive
   - DOMAIN-SUFFIX,livefilestore.com
