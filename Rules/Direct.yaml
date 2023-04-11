@@ -1,5 +1,5 @@
 payload:
-  #Game
+  # Game
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-KEYWORD,origin
   - DOMAIN-KEYWORD,epic
