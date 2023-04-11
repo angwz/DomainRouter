@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.nooc.ink
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-SUFFIX,hcaptcha.com
