@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,rockstargames.com
   - DOMAIN-SUFFIX,rsg.sc
 
+  - DOMAIN-SUFFIX,maxmind.com
+
   # Steam
   - DOMAIN-SUFFIX,csgo.wmsj.cn
   - DOMAIN-SUFFIX,dl.steam.ksyna.com
