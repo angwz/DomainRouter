@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,rsg.sc
 
   - DOMAIN-SUFFIX,maxmind.com
+  - DOMAIN-SUFFIX,infini-cloud.net
 
   # Steam
   - DOMAIN-SUFFIX,csgo.wmsj.cn
