@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,maxmind.com
   - DOMAIN-SUFFIX,infini-cloud.net
   - DOMAIN-SUFFIX,teracloud.jp
+  - DOMAIN-SUFFIX,angwz.com
+  - DOMAIN-SUFFIX,angwz.live
 
   # # Steam
   # - DOMAIN-SUFFIX,csgo.wmsj.cn
