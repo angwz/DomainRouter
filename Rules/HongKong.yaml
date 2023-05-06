@@ -1,4 +1,4 @@
 payload:
   # HongKong
-  - DOMAIN-SUFFIX,*.hk
+  - DOMAIN-KEYWORD,.hk
   - DOMAIN-SUFFIX,deepl.com
