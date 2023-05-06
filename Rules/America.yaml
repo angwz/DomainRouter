@@ -1,0 +1,4 @@
+payload:
+  # America
+  - DOMAIN-SUFFIX,*.us
+
