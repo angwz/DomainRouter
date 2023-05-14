@@ -122,7 +122,7 @@ proxies:
     #   custom: value
 
 # VMess
-- name: "搬瓦工|洛杉矶"
+- name: "v2ray"
   type: vmess
   server: angwz.com
   port: 5200
