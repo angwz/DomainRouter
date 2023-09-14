@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,angwz.live
   - DOMAIN-KEYWORD,angwz
   - DOMAIN-KEYWORD,angwatch
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,fastgit.org
 
   # WeChat
   - DOMAIN-KEYWORD,43.156.222.
