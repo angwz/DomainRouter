@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,teracloud.jp
   - DOMAIN-SUFFIX,angwz.com
   - DOMAIN-SUFFIX,angwz.live
+  - DOMAIN-KEYWORD,angwz
+  - DOMAIN-KEYWORD,angwatch
 
   # # Steam
   # - DOMAIN-SUFFIX,csgo.wmsj.cn
