@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,msn,com
+  - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,microsoft-falcon.io
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
@@ -14,7 +14,15 @@ payload:
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,msftauth.net
   - DOMAIN-SUFFIX,globalsign.com
+  - DOMAIN-SUFFIX,twing.com
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,everesttech.net
+  - DOMAIN-SUFFIX,demdex.net
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,omtrdc.com
+  - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-KEYWORD,.ms
 
   # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bing/Bing.yaml
