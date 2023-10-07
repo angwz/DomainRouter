@@ -18,46 +18,18 @@ payload:
   - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,twing.com
   - DOMAIN-SUFFIX,msecnd.net
-  - DOMAIN-SUFFIX,everesttech.net
-  - DOMAIN-SUFFIX,demdex.net
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-SUFFIX,omtrdc.com
-  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,inspectlet.com
+  - DOMAIN-SUFFIX,certainly.com
+  - DOMAIN-KEYWORD,netlify.
   - DOMAIN-KEYWORD,.ms
 
-  # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bing/Bing.yaml
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bing.com.cn
-  - DOMAIN-SUFFIX,bing.net
-  - DOMAIN-SUFFIX,bingads.com
-  - DOMAIN-SUFFIX,bingagencyawards.com
-  - DOMAIN-SUFFIX,bingapistatistics.com
-  - DOMAIN-SUFFIX,bingsandbox.com
-  - DOMAIN-SUFFIX,bingvisualsearch.com
-  - DOMAIN-SUFFIX,bingworld.com
-  - DOMAIN-SUFFIX,bluehatnights.com
-  - DOMAIN-SUFFIX,dictate.ms
-  - DOMAIN-SUFFIX,ditu.live.com
-  - DOMAIN-SUFFIX,flipwithsurface.com
-  - DOMAIN-SUFFIX,masalladeloslimites.com
-  - DOMAIN-SUFFIX,microsoft-give.com
-  - DOMAIN-SUFFIX,microsoftcloudsummit.com
-  - DOMAIN-SUFFIX,microsoftdiplomados.com
-  - DOMAIN-SUFFIX,microsoftlatamholiday.com
-  - DOMAIN-SUFFIX,microsoftmxfilantropia.com
-  - DOMAIN-SUFFIX,microsoftpartnersolutions.com
-  - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
-  - DOMAIN-SUFFIX,renovacionoffice.com
-  - DOMAIN-SUFFIX,sprinklesapp.com
-
   # Bing
-  - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,bing.
   - DOMAIN-SUFFIX,bbing.com
   - DOMAIN-SUFFIX,bibg.com
   - DOMAIN-SUFFIX,biing.com
   - DOMAIN-SUFFIX,binb.com
   - DOMAIN-SUFFIX,binf.com
-  - DOMAIN-SUFFIX,bing
   - DOMAIN-SUFFIX,bing.com.cn
   - DOMAIN-SUFFIX,bing123.com
   - DOMAIN-SUFFIX,bing135.com
@@ -89,3 +61,31 @@ payload:
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,cn.bing.net
   - DOMAIN-SUFFIX,ditu.live.com
+
+  #Authenticator
+
+
+  # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bing/Bing.yaml
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.com.cn
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingads.com
+  - DOMAIN-SUFFIX,bingagencyawards.com
+  - DOMAIN-SUFFIX,bingapistatistics.com
+  - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,bingvisualsearch.com
+  - DOMAIN-SUFFIX,bingworld.com
+  - DOMAIN-SUFFIX,bluehatnights.com
+  - DOMAIN-SUFFIX,dictate.ms
+  - DOMAIN-SUFFIX,ditu.live.com
+  - DOMAIN-SUFFIX,flipwithsurface.com
+  - DOMAIN-SUFFIX,masalladeloslimites.com
+  - DOMAIN-SUFFIX,microsoft-give.com
+  - DOMAIN-SUFFIX,microsoftcloudsummit.com
+  - DOMAIN-SUFFIX,microsoftdiplomados.com
+  - DOMAIN-SUFFIX,microsoftlatamholiday.com
+  - DOMAIN-SUFFIX,microsoftmxfilantropia.com
+  - DOMAIN-SUFFIX,microsoftpartnersolutions.com
+  - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
+  - DOMAIN-SUFFIX,renovacionoffice.com
+  - DOMAIN-SUFFIX,sprinklesapp.com
