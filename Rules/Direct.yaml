@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,angwatch
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,fastgit.org
+  - DOMAIN-SUFFIX,cloudflare.com
 
   # # Steam
   # - DOMAIN-SUFFIX,csgo.wmsj.cn
