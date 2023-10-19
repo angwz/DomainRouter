@@ -21,7 +21,7 @@ payload:
   - DOMAIN-SUFFIX,inspectlet.com
   - DOMAIN-SUFFIX,certainly.com
   - DOMAIN-KEYWORD,netlify.
-  - DOMAIN-KEYWORD,.ms
+  - DOMAIN-SUFFIX,ms
 
   # Bing
   - DOMAIN-KEYWORD,bing.
