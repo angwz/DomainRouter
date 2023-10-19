@@ -1,4 +1,4 @@
 payload:
   # America
-  - DOMAIN-KEYWORD,.us
+  - DOMAIN-SUFFIX,us
 
