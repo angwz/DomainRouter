@@ -4,7 +4,7 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN,img-s-msn-com.akamaized.net
-  - DOMAIN-SUFFIX,digicert.com
+  #- DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,virtualearth.net
   #- DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,live.com
