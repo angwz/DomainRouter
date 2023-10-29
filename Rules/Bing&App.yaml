@@ -1,18 +1,15 @@
 payload:
-  - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,microsoft-falcon.io
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN,img-s-msn-com.akamaized.net
   #- DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,virtualearth.net
   #- DOMAIN-SUFFIX,appcenter.ms
-  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,bingviz.com
   - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,azureedge.com
   - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,clarity.ms
+  #- DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,msauth.net
   - DOMAIN-SUFFIX,msftauth.net
   - DOMAIN-SUFFIX,globalsign.com
