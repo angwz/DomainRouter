@@ -19,6 +19,12 @@ payload:
   - DOMAIN-SUFFIX,certainly.com
   - DOMAIN-KEYWORD,netlify.
   - DOMAIN-SUFFIX,ms
+  - DOMAIN-SUFFIX,office365love.com
+  - DOMAIN-SUFFIX,office365tw.com
+
+
+
+
 
   # Bing
   - DOMAIN-KEYWORD,bing.
