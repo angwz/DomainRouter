@@ -8,4 +8,4 @@ payload:
   # Google Drive
   - DOMAIN-SUFFIX,drive.google.com
   - DOMAIN-SUFFIX,googledrive.com
-  - PROCESS-NAME,BackupandSync
+  #- PROCESS-NAME,BackupandSync
