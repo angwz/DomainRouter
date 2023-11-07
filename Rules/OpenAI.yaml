@@ -1,29 +1,37 @@
 payload:
-  #- DOMAIN-SUFFIX,openai.com
-  #- DOMAIN-SUFFIX,openai.nooc.ink
-  - DOMAIN-SUFFIX,hcaptcha.com
-  - DOMAIN-SUFFIX,statsig.com
-  - DOMAIN-SUFFIX,statsigapi.com
-  - DOMAIN-SUFFIX,revenuecat.com
-  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
-  - DOMAIN-SUFFIX,lencr.org
-  - DOMAIN-SUFFIX,wp.com
-  - DOMAIN-SUFFIX,gravatar.com
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,report-uri.com
-  - DOMAIN-SUFFIX,vimeo.com
-  - DOMAIN-SUFFIX,vimeocdn.com
-  - DOMAIN,30vod-adaptive.akamaized.net
+  # ChatGPT Application
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN,api.revenuecat.com
+  - DOMAIN,api.statsig.com
   - DOMAIN,o33249.ingest.sentry.io
-  - DOMAIN-SUFFIX,google-analytics.com
+  # ChatGPT&PayPal
+  - DOMAIN,browser-intake-datadoghq.com
+
+  # ChatGPT Web
+  - DOMAIN,oaic.report-uri.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+
+  # https://github.com/v2fly/domain-list-community/blob/master/data/openai
+  - DOMAIN-SUFFIX,oaistatic.com
+  # CDN & API
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN,production-openaicom-storage.azureedge.net
+  # tracking
+  - DOMAIN,openaicom.imgix.net
 
-  # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml
-  #- DOMAIN-SUFFIX,ai.com
+
+  #- DOMAIN-SUFFIX,hcaptcha.com
+  #- DOMAIN-SUFFIX,statsigapi.com
+  #- DOMAIN-SUFFIX,lencr.org
+  #- DOMAIN-SUFFIX,wp.com
+  #- DOMAIN-SUFFIX,gravatar.com
+  #- DOMAIN-SUFFIX,vimeo.com
+  #- DOMAIN-SUFFIX,vimeocdn.com
+  #- DOMAIN,30vod-adaptive.akamaized.net
+
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -35,4 +43,3 @@ payload:
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-KEYWORD,openai
