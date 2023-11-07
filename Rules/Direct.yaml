@@ -1,15 +1,13 @@
 payload:
   # Others
-  - DOMAIN-SUFFIX,maxmind.com
+  #- DOMAIN-SUFFIX,maxmind.com
   - DOMAIN-SUFFIX,infini-cloud.net
   - DOMAIN-SUFFIX,teracloud.jp
-  - DOMAIN-SUFFIX,angwz.com
-  - DOMAIN-SUFFIX,angwz.live
   - DOMAIN-KEYWORD,angwz
   - DOMAIN-KEYWORD,angwatch
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,fastgit.org
-  - DOMAIN-SUFFIX,cloudflare.com
+  #- DOMAIN-SUFFIX,jsdelivr.net
+  #- DOMAIN-SUFFIX,fastgit.org
+  #- DOMAIN-SUFFIX,cloudflare.com
 
   # # Steam
   # - DOMAIN-SUFFIX,csgo.wmsj.cn
