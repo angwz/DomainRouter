@@ -1,76 +1,76 @@
 payload:
   # Others
-  #- DOMAIN-SUFFIX,maxmind.com
   - DOMAIN-SUFFIX,infini-cloud.net
   - DOMAIN-SUFFIX,teracloud.jp
   - DOMAIN-KEYWORD,angwz
   - DOMAIN-KEYWORD,angwatch
-  #- DOMAIN-SUFFIX,jsdelivr.net
-  #- DOMAIN-SUFFIX,fastgit.org
-  #- DOMAIN-SUFFIX,cloudflare.com
+##- DOMAIN-SUFFIX,jsdelivr.net
+##- DOMAIN-SUFFIX,fastgit.org
+##- DOMAIN-SUFFIX,cloudflare.com
+##- DOMAIN-SUFFIX,maxmind.com
 
-  # # Steam
-  # - DOMAIN-SUFFIX,csgo.wmsj.cn
-  # - DOMAIN-SUFFIX,dl.steam.ksyna.com
-  # - DOMAIN-SUFFIX,dota2.wmsj.cn
-  # - DOMAIN-SUFFIX,fanatical.com
-  # - DOMAIN-SUFFIX,humblebundle.com
-  # - DOMAIN-SUFFIX,playartifact.com
-  # - DOMAIN-SUFFIX,st.dl.bscstorage.net
-  # - DOMAIN-SUFFIX,st.dl.eccdnx.com
-  # - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-  # - DOMAIN-SUFFIX,steam-chat.com
-  # - DOMAIN-SUFFIX,steambroadcast.akamaized.net
-  # - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-  # - DOMAIN-SUFFIX,steamcontent.com
-  # - DOMAIN-SUFFIX,steamcontent.tnkjmec.com
-  # - DOMAIN-SUFFIX,steamgames.com
-  # - DOMAIN-SUFFIX,steampowered.com
-  # - DOMAIN-SUFFIX,steampowered.com.8686c.com
-  # - DOMAIN-SUFFIX,steamstat.us
-  # - DOMAIN-SUFFIX,steamstatic.com
-  # - DOMAIN-SUFFIX,steamstatic.com.8686c.com
-  # - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
-  # - DOMAIN-SUFFIX,steamunlocked.net
-  # - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
-  # - DOMAIN-SUFFIX,steamusercontent.com
-  # - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
-  # - DOMAIN-SUFFIX,underlords.com
-  # - DOMAIN-SUFFIX,valvesoftware.com
-  # - DOMAIN-KEYWORD,steam
-  # - DOMAIN-KEYWORD,steambroadcast
-  # - DOMAIN-KEYWORD,steamstore
-  # - DOMAIN-KEYWORD,steamuserimages
+  # Steam
+##- DOMAIN-SUFFIX,csgo.wmsj.cn
+##- DOMAIN-SUFFIX,dl.steam.ksyna.com
+##- DOMAIN-SUFFIX,dota2.wmsj.cn
+##- DOMAIN-SUFFIX,fanatical.com
+##- DOMAIN-SUFFIX,humblebundle.com
+##- DOMAIN-SUFFIX,playartifact.com
+##- DOMAIN-SUFFIX,st.dl.bscstorage.net
+##- DOMAIN-SUFFIX,st.dl.eccdnx.com
+##- DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+##- DOMAIN-SUFFIX,steam-chat.com
+##- DOMAIN-SUFFIX,steambroadcast.akamaized.net
+##- DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+##- DOMAIN-SUFFIX,steamcontent.com
+##- DOMAIN-SUFFIX,steamcontent.tnkjmec.com
+##- DOMAIN-SUFFIX,steamgames.com
+##- DOMAIN-SUFFIX,steampowered.com
+##- DOMAIN-SUFFIX,steampowered.com.8686c.com
+##- DOMAIN-SUFFIX,steamstat.us
+##- DOMAIN-SUFFIX,steamstatic.com
+##- DOMAIN-SUFFIX,steamstatic.com.8686c.com
+##- DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+##- DOMAIN-SUFFIX,steamunlocked.net
+##- DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+##- DOMAIN-SUFFIX,steamusercontent.com
+##- DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+##- DOMAIN-SUFFIX,underlords.com
+##- DOMAIN-SUFFIX,valvesoftware.com
+##- DOMAIN-KEYWORD,steam
+##- DOMAIN-KEYWORD,steambroadcast
+##- DOMAIN-KEYWORD,steamstore
+##- DOMAIN-KEYWORD,steamuserimages
 
   # WeChat
-  # - DOMAIN,dl.wechat.com
-  # - DOMAIN,sglong.wechat.com
-  # - DOMAIN,sgminorshort.wechat.com
-  # - DOMAIN,sgshort.wechat.com
-  # - DOMAIN,tencentmap.wechat.com
-  # - DOMAIN-SUFFIX,qlogo.cn
-  # - DOMAIN-SUFFIX,qpic.cn
-  # - DOMAIN-SUFFIX,servicewechat.com
-  # - DOMAIN-SUFFIX,tenpay.com
-  # - DOMAIN-SUFFIX,wechat.com
-  # - DOMAIN-SUFFIX,wechatlegal.net
-  # - DOMAIN-SUFFIX,wechatpay.com
-  # - DOMAIN-SUFFIX,weixin.com
-  # - DOMAIN-SUFFIX,weixin.qq.com
-  # - DOMAIN-SUFFIX,weixinbridge.com
-  # - DOMAIN-SUFFIX,weixinsxy.com
-  # - DOMAIN-SUFFIX,wxapp.tc.qq.com
-  # - DOMAIN-KEYWORD,43.156.222.
-  # - IP-CIDR,101.32.104.4/32,no-resolve
-  # - IP-CIDR,101.32.104.41/32,no-resolve
-  # - IP-CIDR,101.32.104.56/32,no-resolve
-  # - IP-CIDR,101.32.118.25/32,no-resolve
-  # - IP-CIDR,101.32.133.16/32,no-resolve
-  # - IP-CIDR,101.32.133.209/32,no-resolve
-  # - IP-CIDR,101.32.133.53/32,no-resolve
-  # - IP-CIDR,129.226.107.244/32,no-resolve
-  # - IP-CIDR,129.226.3.47/32,no-resolve
-  # - IP-CIDR,162.62.163.63/32,no-resolve
+##- DOMAIN,dl.wechat.com
+##- DOMAIN,sglong.wechat.com
+##- DOMAIN,sgminorshort.wechat.com
+##- DOMAIN,sgshort.wechat.com
+##- DOMAIN,tencentmap.wechat.com
+##- DOMAIN-SUFFIX,qlogo.cn
+##- DOMAIN-SUFFIX,qpic.cn
+##- DOMAIN-SUFFIX,servicewechat.com
+##- DOMAIN-SUFFIX,tenpay.com
+##- DOMAIN-SUFFIX,wechat.com
+##- DOMAIN-SUFFIX,wechatlegal.net
+##- DOMAIN-SUFFIX,wechatpay.com
+##- DOMAIN-SUFFIX,weixin.com
+##- DOMAIN-SUFFIX,weixin.qq.com
+##- DOMAIN-SUFFIX,weixinbridge.com
+##- DOMAIN-SUFFIX,weixinsxy.com
+##- DOMAIN-SUFFIX,wxapp.tc.qq.com
+##- DOMAIN-KEYWORD,43.156.222.
+##- IP-CIDR,101.32.104.4/32,no-resolve
+##- IP-CIDR,101.32.104.41/32,no-resolve
+##- IP-CIDR,101.32.104.56/32,no-resolve
+##- IP-CIDR,101.32.118.25/32,no-resolve
+##- IP-CIDR,101.32.133.16/32,no-resolve
+##- IP-CIDR,101.32.133.209/32,no-resolve
+##- IP-CIDR,101.32.133.53/32,no-resolve
+##- IP-CIDR,129.226.107.244/32,no-resolve
+##- IP-CIDR,129.226.3.47/32,no-resolve
+##- IP-CIDR,162.62.163.63/32,no-resolve
 
   # Skype https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Skype
   - DOMAIN-SUFFIX,cloudapp.net
