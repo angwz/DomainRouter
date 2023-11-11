@@ -1,0 +1,11 @@
+payload:
+  # Google Photos
+  - DOMAIN,photos.google.com
+  - DOMAIN,photos.googleapis.com
+  - DOMAIN,photosdata-pa.googleapis.com
+  - DOMAIN,notifications-pa.googleapis.com
+
+  # Google Drive
+  - DOMAIN-SUFFIX,drive.google.com
+  - DOMAIN-SUFFIX,googledrive.com
+  # PROCESS-NAME,BackupandSync
