@@ -23,14 +23,14 @@ payload:
   - DOMAIN,openaicom.imgix.net
 
 
-  #- DOMAIN-SUFFIX,hcaptcha.com
-  #- DOMAIN-SUFFIX,statsigapi.com
-  #- DOMAIN-SUFFIX,lencr.org
-  #- DOMAIN-SUFFIX,wp.com
-  #- DOMAIN-SUFFIX,gravatar.com
-  #- DOMAIN-SUFFIX,vimeo.com
-  #- DOMAIN-SUFFIX,vimeocdn.com
-  #- DOMAIN,30vod-adaptive.akamaized.net
+##- DOMAIN-SUFFIX,hcaptcha.com
+##- DOMAIN-SUFFIX,statsigapi.com
+##- DOMAIN-SUFFIX,lencr.org
+##- DOMAIN-SUFFIX,wp.com
+##- DOMAIN-SUFFIX,gravatar.com
+##- DOMAIN-SUFFIX,vimeo.com
+##- DOMAIN-SUFFIX,vimeocdn.com
+##- DOMAIN,30vod-adaptive.akamaized.net
 
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
