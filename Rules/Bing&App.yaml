@@ -69,11 +69,10 @@ payload:
   - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
   - DOMAIN-SUFFIX,renovacionoffice.com
   - DOMAIN-SUFFIX,sprinklesapp.com
-
-  #- DOMAIN-SUFFIX,azureedge.com
-  #- DOMAIN-SUFFIX,globalsign.com
-  #- DOMAIN-SUFFIX,msecnd.net
-  #- DOMAIN-SUFFIX,inspectlet.com
-  #- DOMAIN-SUFFIX,certainly.com
+##- DOMAIN-SUFFIX,azureedge.com
+##- DOMAIN-SUFFIX,globalsign.com
+##- DOMAIN-SUFFIX,msecnd.net
+##- DOMAIN-SUFFIX,inspectlet.com
+##- DOMAIN-SUFFIX,certainly.com
   
 
