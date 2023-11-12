@@ -2,7 +2,7 @@ payload:
   # Others
   - DOMAIN-SUFFIX,infini-cloud.net
   - DOMAIN-SUFFIX,teracloud.jp
-##- IP-CIDR,47.103.212.143,no-resolve
+  - IP-CIDR,47.103.212.143/32,no-resolve
   - DOMAIN,ali.angwz.com
   - DOMAIN,openwrt.angwz.com
   - DOMAIN,opw.angwz.com
