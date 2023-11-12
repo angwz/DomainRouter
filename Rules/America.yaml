@@ -3,4 +3,4 @@ payload:
   - DOMAIN-SUFFIX,us
   - DOMAIN,angwz.com
   - DOMAIN,www.angwz.com
-##- IP-CIDR,107.182.31.148,no-resolve
+  - IP-CIDR,107.182.31.148/32,no-resolve
