@@ -7,6 +7,9 @@ payload:
   - DOMAIN,openwrt.angwz.com
   - DOMAIN,opw.angwz.com
   - DOMAIN,cf.angwz.top
+  - DOMAIN,angwz.com
+  - DOMAIN,www.angwz.com
+  - IP-CIDR,107.182.31.148/32,no-resolve
 ##- DOMAIN-KEYWORD,angwz
 ##- DOMAIN-KEYWORD,angwatch
 ##- DOMAIN-SUFFIX,jsdelivr.net
