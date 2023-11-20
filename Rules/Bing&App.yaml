@@ -47,6 +47,7 @@ payload:
   - DOMAIN,www2.bing.com
 
   # Bing
+  - DOMAIN,copilot.microsoft.com
   - DOMAIN-SUFFIX,bing.com.cn
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,bingads.com
