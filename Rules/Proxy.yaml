@@ -1,8 +1,5 @@
 payload:
-##- AND,((NOT,((GEOIP,CN,no-resolve))),(NETWORK,udp)),🐇 游戏UDP联机加速
-##- AND,((GEOSITE,geolocation-!cn),(NETWORK,udp)),🐇 游戏UDP联机加速
-##- GEOSITE,category-ads-all,REJECT
-  - DOMAIN-SUFFIX,deepl.com,🌠 节点选择
-  - DOMAIN-SUFFIX,mitce.com,🦚 私有固定IP
-  - DOMAIN-KEYWORD,fastlink,🌠 节点选择
-  - DOMAIN-KEYWORD,sqgw,🌠 节点选择
+  # HongKong
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-KEYWORD,fastlink
+  - DOMAIN-KEYWORD,sqgw
