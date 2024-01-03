@@ -1,4 +1,11 @@
 payload:
+  # Copilot Application
+  - DOMAIN,copilot.microsoft.com
+  - DOMAIN,services.bingapis.com
+  - DOMAIN,ssl.bing.com
+  - DOMAIN,eagle.sapphire.microsoftapp.net
+  - DOMAIN,graph.microsoft.com
+
   # Bing Application
   - DOMAIN,gateway.bingviz.microsoftapp.net
   - DOMAIN-SUFFIX,bing.com
@@ -47,7 +54,6 @@ payload:
   - DOMAIN,www2.bing.com
 
   # Bing
-  - DOMAIN,copilot.microsoft.com
   - DOMAIN-SUFFIX,bing.com.cn
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,bingads.com
