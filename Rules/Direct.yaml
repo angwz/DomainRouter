@@ -18,10 +18,10 @@ payload:
   - PROCESS-NAME,zerotier-one
   - DST-PORT,9993
   - SRC-PORT,9993
-  - DOMAIN-SUFFIX,vtor.io
-  - DOMAIN-SUFFIX,awsstatic.com
-  - DOMAIN-SUFFIX,cdn-apple.com
-  - DOMAIN,hkqipan.com
+##- DOMAIN-SUFFIX,vtor.io
+##- DOMAIN-SUFFIX,awsstatic.com
+##- DOMAIN-SUFFIX,cdn-apple.com
+##- DOMAIN,hkqipan.com
 ##- DOMAIN-KEYWORD,angwz
 ##- DOMAIN-KEYWORD,angwatch
 ##- DOMAIN-SUFFIX,jsdelivr.net
