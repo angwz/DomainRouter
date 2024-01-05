@@ -15,6 +15,9 @@ payload:
   - DOMAIN-SUFFIX,getxlx.com
   - DOMAIN-SUFFIX,meiquankongjian.com
   - DOMAIN-SUFFIX,desperadoj.com
+  - PROCESS-NAME,zerotier-one
+  - DST-PORT,9993
+  - SRC-PORT,9993
 ##- DOMAIN-KEYWORD,angwz
 ##- DOMAIN-KEYWORD,angwatch
 ##- DOMAIN-SUFFIX,jsdelivr.net
@@ -86,12 +89,11 @@ payload:
 ##- IP-CIDR,162.62.163.63/32,no-resolve
 
   # Skype https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Skype
-  - DOMAIN-SUFFIX,cloudapp.net
-  - DOMAIN-SUFFIX,lync.com
-  - DOMAIN-SUFFIX,sfbassets.com
-  - DOMAIN-SUFFIX,skype.com
-  - DOMAIN-SUFFIX,skype.net
-  - DOMAIN-SUFFIX,skypeassets.com
-  - DOMAIN-SUFFIX,skypeassets.net
-  - DOMAIN-SUFFIX,skypeforbusiness.com
-
+##- DOMAIN-SUFFIX,cloudapp.net
+##- DOMAIN-SUFFIX,lync.com
+##- DOMAIN-SUFFIX,sfbassets.com
+##- DOMAIN-SUFFIX,skype.com
+##- DOMAIN-SUFFIX,skype.net
+##- DOMAIN-SUFFIX,skypeassets.com
+##- DOMAIN-SUFFIX,skypeassets.net
+##- DOMAIN-SUFFIX,skypeforbusiness.com
