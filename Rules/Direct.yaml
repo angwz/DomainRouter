@@ -18,6 +18,7 @@ payload:
   - PROCESS-NAME,zerotier-one
   - DST-PORT,9993
   - SRC-PORT,9993
+  - DOMAIN-KEYWORD,razer
 ##- DOMAIN-SUFFIX,vtor.io
 ##- DOMAIN-SUFFIX,awsstatic.com
 ##- DOMAIN-SUFFIX,cdn-apple.com
