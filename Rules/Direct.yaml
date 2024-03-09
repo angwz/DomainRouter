@@ -10,11 +10,11 @@ payload:
   - DOMAIN,cf.angwz.top
   - DOMAIN,angwz.com
   - DOMAIN,www.angwz.com
-  - DOMAIN-SUFFIX,fast002.xyz
-  - DOMAIN-SUFFIX,speed-mitce.top
-  - DOMAIN-SUFFIX,getxlx.com
-  - DOMAIN-SUFFIX,p2tib8n.com
-  - DOMAIN-SUFFIX,desperadoj.com
+##- DOMAIN-SUFFIX,fast002.xyz
+##- DOMAIN-SUFFIX,speed-mitce.top
+##- DOMAIN-SUFFIX,getxlx.com
+##- DOMAIN-SUFFIX,p2tib8n.com
+##- DOMAIN-SUFFIX,desperadoj.com
   - PROCESS-NAME,zerotier-one
   - DST-PORT,9993
   - SRC-PORT,9993
