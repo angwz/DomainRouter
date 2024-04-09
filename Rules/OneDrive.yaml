@@ -13,3 +13,4 @@ payload:
 ##- DOMAIN,amp-api-edge.apps.apple.com
   - DOMAIN,cid-9d74c782394ca8ce.users.storage.live.com
   - DOMAIN,storage.live.com
+  - DOMAIN,onedrive.live.com
