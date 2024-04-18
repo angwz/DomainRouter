@@ -10,11 +10,23 @@ payload:
   - DOMAIN,cf.angwz.top
   - DOMAIN,angwz.com
   - DOMAIN,www.angwz.com
-##- DOMAIN-SUFFIX,fast002.xyz
-##- DOMAIN-SUFFIX,speed-mitce.top
-##- DOMAIN-SUFFIX,getxlx.com
-##- DOMAIN-SUFFIX,p2tib8n.com
-##- DOMAIN-SUFFIX,desperadoj.com
+  - DOMAIN-SUFFIX,etcle.site
+  - DOMAIN-SUFFIX,kd69.vip
+  - DOMAIN-SUFFIX,fosi.hk
+  - DOMAIN-SUFFIX,073505.cn
+  - DOMAIN-SUFFIX,speed-mitce.top
+  - DOMAIN-SUFFIX,getxlx.com
+  - DOMAIN-SUFFIX,p2tib8n.com
+  - DOMAIN-SUFFIX,desperadoj.com
+  - IP-CIDR,27.126.206.62/32,no-resolve
+  - IP-CIDR,205.189.160.94/32,no-resolve
+  - IP-CIDR,154.92.9.1/32,no-resolve
+  - IP-CIDR,154.92.9.5/32,no-resolve
+  - IP-CIDR,154.92.9.14/32,no-resolve
+  - IP-CIDR,154.92.9.62/32,no-resolve
+  - IP-CIDR,154.92.9.147/32,no-resolve
+  - IP-CIDR,154.92.9.216/32,no-resolve
+  - IP-CIDR,199.15.76.35/32,no-resolve
   - PROCESS-NAME,zerotier-one
   - DST-PORT,9993
   - SRC-PORT,9993
