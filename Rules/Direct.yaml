@@ -4,12 +4,13 @@ payload:
   - DOMAIN-SUFFIX,teracloud.jp
   - IP-CIDR,47.103.212.143/32,no-resolve
   - IP-CIDR,107.182.31.148/32,no-resolve
-  - DOMAIN,ali.angwz.com
-  - DOMAIN,openwrt.angwz.com
-  - DOMAIN,opw.angwz.com
-  - DOMAIN,cf.angwz.top
-  - DOMAIN,angwz.com
-  - DOMAIN,www.angwz.com
+  # - DOMAIN,ali.angwz.com
+  # - DOMAIN,openwrt.angwz.com
+  # - DOMAIN,opw.angwz.com
+  - DOMAIN-SUFFIX,angwz.top
+  - DOMAIN-SUFFIX,angwz.com
+  - DOMAIN-SUFFIX,weesire.com
+  # - DOMAIN,www.angwz.com
   - DOMAIN-SUFFIX,etcle.site
   - DOMAIN-SUFFIX,kd69.vip
   - DOMAIN-SUFFIX,fosi.hk
