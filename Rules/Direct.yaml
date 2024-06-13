@@ -11,10 +11,11 @@ payload:
   - DOMAIN-SUFFIX,angwz.com
   - DOMAIN-SUFFIX,weesire.com
   # - DOMAIN,www.angwz.com
-  - DOMAIN-SUFFIX,etcle.site
-  - DOMAIN-SUFFIX,kd69.vip
-  - DOMAIN-SUFFIX,fosi.hk
-  - DOMAIN-SUFFIX,073505.cn
+
+  # 直连
+  - DOMAIN-SUFFIX,596743944.top
+  - DOMAIN-SUFFIX,donghui.tech
+  - DOMAIN-SUFFIX,fast002.xyz
   - DOMAIN-SUFFIX,speed-mitce.top
   - DOMAIN-SUFFIX,getxlx.com
   - DOMAIN-SUFFIX,p2tib8n.com
@@ -28,6 +29,7 @@ payload:
   - IP-CIDR,154.92.9.147/32,no-resolve
   - IP-CIDR,154.92.9.216/32,no-resolve
   - IP-CIDR,199.15.76.35/32,no-resolve
+
   - PROCESS-NAME,zerotier-one
   - DST-PORT,9993
   - SRC-PORT,9993
