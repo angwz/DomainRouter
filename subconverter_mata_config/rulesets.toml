@@ -5,7 +5,7 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🍇 数据均衡"
+group = "🍇 负载均衡"
 ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Data.yaml"
 type = "clash-classic"
 interval = 21600
