@@ -51,7 +51,7 @@ type = "select"
 rule = ["[]DIRECT", "[]🌠 节点选择", "[]✈️ 手动切换"]
 
 [[custom_groups]]
-name = "🍇 负载均衡"
+name = "🍇 数据采集"
 type = "select"
 rule = ["[]DIRECT", "[]🍂 负载均衡", "[]🌠 节点选择", "[]✈️ 手动切换"]
 
