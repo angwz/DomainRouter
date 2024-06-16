@@ -214,7 +214,7 @@ tolerance = 299
 [[custom_groups]]
 name = "🍂 负载均衡"
 type = "load-balance"
-rule = ["!!GROUPID=1!!(.*)"]
+rule = ["!!GROUPID=1!!(.*)", "[]DIRECT"]
 url = "https://www.gstatic.com/generate_204"
 interval = 66
 lazy = true
