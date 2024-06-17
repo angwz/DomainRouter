@@ -187,7 +187,9 @@ rule = ["!!GROUPID=2!!(^(?=.*Reality)(?=.*洛杉矶).*)"]
 [[custom_groups]]
 name = "♾️ 无限流量"
 type = "fallback"
-rule = ["!!GROUPID=1!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*GRPC)(?!.*hy).*[^1]$)", "[]🦚 私有固定IP"]
+rule = ["!!GROUPID=1!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*GRPC)(?!.*hy).*[^1]$)", 
+        "!!GROUPID=1!!(.*)", 
+        "[]🦚 私有固定IP"]
 url = "https://www.gstatic.com/generate_204"
 interval = 567
 lazy = false
