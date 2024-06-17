@@ -13,7 +13,7 @@ name = "🗨️ ChatGPT"
 type = "select"
 rule = [
     "[]🗽 美国分流",
-    "!!GROUPID=0!!(台|新北|彰化|TW|tw|Taiwan)",
+    "!!GROUPID=0!!(GPT)",
     "[]🐸 台湾分流",
     "[]🍙 日本高速",
     "[]✈️ 手动切换",
@@ -53,7 +53,7 @@ rule = ["[]DIRECT", "[]🌠 节点选择", "[]✈️ 手动切换"]
 [[custom_groups]]
 name = "🍇 数据采集"
 type = "select"
-rule = ["[]DIRECT", "[]🍂 负载均衡", "!!GROUPID=0-1!!(.*)"]
+rule = ["[]DIRECT", "[]🍂 负载均衡", "!!GROUPID=0-1!!(^(?!.*(org|续费|备用|解锁|转用|更新|专用)).*)"]
 
 [[custom_groups]]
 name = "📱 抖音集团"
@@ -216,7 +216,7 @@ tolerance = 299
 [[custom_groups]]
 name = "🍂 负载均衡"
 type = "load-balance"
-rule = ["!!GROUPID=0-1!!(.*)", "[]DIRECT"]
+rule = ["!!GROUPID=0-1!!(^(?!.*(org|续费|备用|解锁|转用|更新|专用)).*)", "[]DIRECT"]
 url = "https://www.gstatic.com/generate_204"
 interval = 66
 lazy = true
