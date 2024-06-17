@@ -53,7 +53,7 @@ rule = ["[]DIRECT", "[]🌠 节点选择", "[]✈️ 手动切换"]
 [[custom_groups]]
 name = "🍇 数据采集"
 type = "select"
-rule = ["[]DIRECT", "[]🍂 负载均衡", "[]🌠 节点选择", "[]✈️ 手动切换"]
+rule = ["[]DIRECT", "[]🍂 负载均衡", "!!GROUPID=0-1!!(.*)"]
 
 [[custom_groups]]
 name = "📱 抖音集团"
@@ -209,14 +209,14 @@ type = "url-test"
 rule = ["!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 50
-lazy = true
+lazy = false
 timeout = 5
 tolerance = 299
 
 [[custom_groups]]
 name = "🍂 负载均衡"
 type = "load-balance"
-rule = ["!!GROUPID=1!!(.*)", "[]DIRECT"]
+rule = ["!!GROUPID=0-1!!(.*)", "[]DIRECT"]
 url = "https://www.gstatic.com/generate_204"
 interval = 66
 lazy = true
