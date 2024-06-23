@@ -122,7 +122,7 @@ rule = ["[]♾️ 无限流量", "[]✈️ 手动切换", "[]🌠 节点选择",
 [[custom_groups]]
 name = "☁️ 国际Cloud"
 type = "select"
-rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🗽 美国分流", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "🌍 国外流媒体"
