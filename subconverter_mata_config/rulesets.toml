@@ -305,13 +305,13 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌠 节点选择"
+group = "🗽 美国分流"
 ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌠 节点选择"
+group = "🗽 美国分流"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloudflare/Cloudflare_No_Resolve.yaml"
 type = "clash-classic"
 interval = 21600
@@ -585,20 +585,20 @@ group = "💻 Google"
 ruleset = "[]GEOIP,GOOGLE,no-resolve"
 
 [[rulesets]]
-group = "🌠 节点选择"
+group = "🗽 美国分流"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
 group = "🌠 节点选择"
 ruleset = "[]GEOIP,TELEGRAM,no-resolve"
 
-[[rulesets]]
-group = "DIRECT"
-ruleset = "[]GEOIP,FASTLY,no-resolve"
+# [[rulesets]]
+# group = "DIRECT"
+# ruleset = "[]GEOIP,FASTLY,no-resolve"
 
-[[rulesets]]
-group = "DIRECT"
-ruleset = "[]GEOIP,CLOUDFRONT,no-resolve"
+# [[rulesets]]
+# group = "DIRECT"
+# ruleset = "[]GEOIP,CLOUDFRONT,no-resolve"
 
 [[rulesets]]
 group = "🌈 香港高速"
