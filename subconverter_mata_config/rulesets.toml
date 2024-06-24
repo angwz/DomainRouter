@@ -585,7 +585,7 @@ group = "💻 Google"
 ruleset = "[]GEOIP,GOOGLE,no-resolve"
 
 [[rulesets]]
-group = "🗽 美国分流"
+group = "🌠 节点选择"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
