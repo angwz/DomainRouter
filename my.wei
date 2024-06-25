@@ -1,0 +1,36 @@
+[Direct]
+'+.cn'
+'+.infini-cloud.net'
+'+.teracloud.jp'
+'+.angwz.top'
+'+.angwz.com'
+'+.weesire.com'
+'+.'
+'+.'
+
+url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan_No_Resolve.yaml
+url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-game-accelerator-cn.yaml
+
+ipcidr: '47.103.212.143/32'
+ipcidr: '107.182.31.148/32'
+
+[Proxy]
+
+[America]
+'+.us'
+'+.mitce.com'
+
+[Load Balancing]
+'+.zhipin.com'
+
+[Hongkong]
+'+.hk'
+
+[Japan]
+'+.jp'
+
+[Singapore]
+'+.sg'
+
+[Taiwan]
+'+.tw'
