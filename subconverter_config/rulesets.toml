@@ -1,49 +1,25 @@
 [[rulesets]]
-group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Direct.yaml"
-type = "clash-classic"
+group = "🗨️ ChatGPT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/AI.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
 group = "🍇 数据采集"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Data.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/Direct.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan_No_Resolve.yaml"
-type = "clash-classic"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/Direct.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-game-accelerator-cn.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🗽 美国分流"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude_No_Resolve.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🗨️ ChatGPT"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/OpenAI.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🗨️ ChatGPT"
-ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🗨️ ChatGPT"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI_No_Resolve.yaml"
-type = "clash-classic"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/Direct_ipcidr.yaml"
+type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
@@ -54,32 +30,8 @@ interval = 21600
 
 [[rulesets]]
 group = "🐧 Tencent"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeChat/WeChat_No_Resolve.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🐧 Tencent"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TencentVideo/TencentVideo_No_Resolve.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🐧 Tencent"
-ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tencent-games.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🐧 Tencent"
 ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tencent.yaml"
 type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🐧 Tencent"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent_No_Resolve.yaml"
-type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
@@ -90,20 +42,8 @@ interval = 21600
 
 [[rulesets]]
 group = "📺 哔哩哔哩"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili_No_Resolve.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "📺 哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/biliintl.yaml"
 type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "📱 抖音集团"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DouYin/DouYin_No_Resolve.yaml"
-type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
@@ -113,27 +53,9 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload_No_Resolve.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN_No_Resolve.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
 group = "Ⓜ️ Meta"
 ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/facebook.yaml"
 type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "Ⓜ️ Meta"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Facebook/Facebook_No_Resolve.yaml"
-type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
@@ -143,7 +65,7 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🕊️ xAI"
+group = "🕊️ X"
 ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/x.yaml"
 type = "clash-domain"
 interval = 21600
@@ -179,27 +101,9 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "📚 Ms.Copilot"
-ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "📚 Ms.Copilot"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Ms.Copilot.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
 group = "⛅ OneDrive"
 ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/onedrive.yaml"
 type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "⛅ OneDrive"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/OneDrive.yaml"
-type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
@@ -248,12 +152,6 @@ interval = 21600
 group = "🗽 美国分流"
 ruleset = "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ea.yaml"
 type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🗽 美国分流"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini_No_Resolve.yaml"
-type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
@@ -360,44 +258,38 @@ interval = 21600
 
 [[rulesets]]
 group = "🌈 香港高速"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Hongkong.yaml"
-type = "clash-classic"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/Hongkong.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
 group = "🍙 日本高速"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Japan.yaml"
-type = "clash-classic"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/Japan.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
 group = "🐸 台湾分流"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Taiwan.yaml"
-type = "clash-classic"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/Taiwan.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
 group = "🦁 新加坡分流"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Singapore.yaml"
-type = "clash-classic"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/Singapore.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
 group = "🗽 美国分流"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/America.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🗽 美国分流"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Los_Angeles.yaml"
-type = "clash-classic"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/America.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
 group = "🌠 节点选择"
-ruleset = "https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/Proxy.yaml"
-type = "clash-classic"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/main/router/Proxy.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
@@ -577,7 +469,7 @@ group = "📽️ Netflix"
 ruleset = "[]GEOIP,NETFLIX,no-resolve"
 
 [[rulesets]]
-group = "🕊️ xAI"
+group = "🕊️ X"
 ruleset = "[]GEOIP,TWITTER,no-resolve"
 
 [[rulesets]]
@@ -592,29 +484,9 @@ ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 group = "🌠 节点选择"
 ruleset = "[]GEOIP,TELEGRAM,no-resolve"
 
-# [[rulesets]]
-# group = "DIRECT"
-# ruleset = "[]GEOIP,FASTLY,no-resolve"
-
-# [[rulesets]]
-# group = "DIRECT"
-# ruleset = "[]GEOIP,CLOUDFRONT,no-resolve"
-
 [[rulesets]]
 group = "🌈 香港高速"
 ruleset = "[]GEOIP,HK,no-resolve"
-
-[[rulesets]]
-group = "🍙 日本高速"
-ruleset = "[]GEOIP,JP,no-resolve"
-
-[[rulesets]]
-group = "🐸 台湾分流"
-ruleset = "[]GEOIP,TW,no-resolve"
-
-[[rulesets]]
-group = "🦁 新加坡分流"
-ruleset = "[]GEOIP,SG,no-resolve"
 
 [[rulesets]]
 group = "🗽 美国分流"
