@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 13:32:41
+# UPDATED: 2024-06-26 15:17:40
 # TYPE: domain
-# TOTAL: 378
+# TOTAL: 386
 payload:
   - '+.angwz.com'
   - '+.angwz.top'
@@ -27,7 +27,13 @@ payload:
   - '+.steamstatic.com.8686c.com'
   - 'asusrouter.com'
   - 'wmsjsteam.com'
+  - '+.596743944.top'
   - '+.acl4.ssr'
+  - '+.axe.is'
+  - '+.desperadoj.com'
+  - '+.donghui.tech'
+  - '+.fast002.xyz'
+  - '+.getxlx.com'
   - '+.hiwifi.com'
   - '+.home.arpa'
   - '+.leike.cc'
@@ -35,11 +41,13 @@ payload:
   - '+.msftncsi.com'
   - '+.my.router'
   - '+.p.to'
+  - '+.p2tib8n.com'
   - '+.peiluyou.com'
   - '+.phicomm.me'
   - '+.plex.direct'
   - '+.router.ctc'
   - '+.routerlogin.com'
+  - '+.speed-mitce.top'
   - '+.tendawifi.com'
   - '+.tplinkwifi.net'
   - '+.tplogin.cn'

@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 13:32:41
+# UPDATED: 2024-06-26 15:17:40
 # TYPE: domain
-# TOTAL: 286
+# TOTAL: 287
 payload:
   - '+.us'
   - '+.anthemgame.com'
@@ -96,6 +96,7 @@ payload:
   - '+.dice.se'
   - '+.dicela.com'
   - '+.dicela.net'
+  - '+.discuvver.com'
   - '+.dragonage.com'
   - '+.dragonagekeep.com'
   - '+.dragonagemovie.com'
