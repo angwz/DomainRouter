@@ -90,10 +90,14 @@ def classify_and_sort(values):
     }
 
     for item in values:
+        matched = False
         for category in categories:
             if item.startswith(category):
                 categories[category].append(item)
+                matched = True
                 break
+        if not matched:
+            categories["DOMAIN"].append(item)
 
     sorted_items = []
     for category in ["DOMAIN-SUFFIX", "DOMAIN-KEYWORD", "DOMAIN", "SRC-IP-CIDR", "IP-CIDR", "GEOIP", "DST-PORT", "SRC-PORT"]:
@@ -163,10 +167,9 @@ def deduplicate(items):
 for key, content in filtered_dict.items():
     values = content["values"]
     errors = content["errors"]
-    domain_list, classical_list = classify_and_sort(values)
+    domain_list = classify_and_sort(values)
 
     if domain_list or errors:
-        domain_list = classify_and_sort(domain_list)
         formatted_domain_list = [format_item(item, "domain") for item in domain_list]
         deduped_domain_list = deduplicate(formatted_domain_list)
         with open(f'router/{key}.yaml', 'w') as file:
@@ -182,16 +185,15 @@ for key, content in filtered_dict.items():
             for item in deduped_domain_list:
                 file.write(f"{item}\n")
 
-    if classical_list or errors:
-        classical_list = classify_and_sort(classical_list)
-        formatted_classical_list = [format_item(item, "classic") for item in classical_list]
+    if errors:
+        formatted_classical_list = [format_item(item, "classic") for item in classify_and_sort(values)]
         deduped_classical_list = deduplicate(formatted_classical_list)
-        with open(f'router/{key}.yaml', 'w') as file:
+        with open(f'router/{key}-Classic.yaml', 'w') as file:
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
-            file.write("# TYPE: classic\n")
             file.write(f"# UPDATED: {current_time}\n")
+            file.write(f"# TYPE: classic\n")
             file.write(f"# TOTAL: {len(deduped_classical_list)}\n")
             if errors:
                 file.write(f"# ERROR: {', '.join(errors)}\n")
@@ -199,4 +201,4 @@ for key, content in filtered_dict.items():
             for item in deduped_classical_list:
                 file.write(f"{item}\n")
 
-print("处理完成。")
+print("处理完成，生成的文件在'router'文件夹中。")
