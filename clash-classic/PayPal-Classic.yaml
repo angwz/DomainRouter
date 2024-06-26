@@ -1,8 +1,8 @@
-# NAME: Weibo
+# NAME: PayPal
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 15:43:40
+# UPDATED: 2024-06-26 16:03:26
 # TYPE: classic
 # TOTAL: 1
 payload:
-  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,paypal
