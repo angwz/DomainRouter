@@ -29,6 +29,7 @@ jobs:
 
     - name: Run script
       run: |
+        mkdir -p dnsmasq
         python script/domain_convert_dnsmasq.conf.py
 
     - name: Checkout or create release branch
@@ -58,8 +59,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
       with:
-        tag_name: 'release-$(date +%Y%m%d%H%M%S)'
-        release_name: 'Release $(date +%Y-%m-%d %H:%M:%S)'
+        tag_name: release-$(date +%Y%m%d-%H%M%S)
+        release_name: Release $(date +%Y-%m-%d %H:%M:%S)
         body: |
           This is an automated release to update the China domains configuration.
         draft: false
