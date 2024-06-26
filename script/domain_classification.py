@@ -183,7 +183,7 @@ for key, content in filtered_dict.items():
         domain_list = sort_domain_items(domain_list)
         formatted_domain_list = [format_item(item, "domain") for item in domain_list]
         deduped_domain_list = deduplicate(formatted_domain_list)
-        with open(f'router/{key}.yaml', 'w') as file:
+        with open(f'domain/{key}.yaml', 'w') as file:
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
@@ -199,7 +199,7 @@ for key, content in filtered_dict.items():
     if classical_list or errors:
         formatted_classical_list = [format_item(item, "classic") for item in classical_list]
         deduped_classical_list = deduplicate(formatted_classical_list)
-        with open(f'router/{key}-Classic.yaml', 'w') as file:
+        with open(f'classic/{key}.yaml', 'w') as file:
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
@@ -212,4 +212,4 @@ for key, content in filtered_dict.items():
             for item in deduped_classical_list:
                 file.write(f"{item}\n")
 
-print("处理完成，生成的文件在'router'文件夹中。")
+print("处理完成，生成的文件在'domain'和'classic'文件夹中。")
