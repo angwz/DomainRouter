@@ -89,7 +89,7 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "👬🏻 GitHub"
+group = "🌠 节点选择"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/GitHub.yaml"
 type = "clash-domain"
 interval = 21600
