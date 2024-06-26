@@ -1,9 +1,0 @@
-# NAME: Douyin
-# AUTHOR: angwz
-# REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 09:45:12
-# TYPE: classic
-# TOTAL: 2
-payload:
-  - IP-CIDR,114.246.10.65/32,no-resolve
-  - PROCESS-NAME,com.zhiliaoapp.musically
