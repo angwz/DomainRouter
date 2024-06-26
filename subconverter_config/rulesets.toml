@@ -18,7 +18,7 @@ interval = 21600
 
 [[rulesets]]
 group = "🍇 数据采集"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Load%20Balancing.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Balancer.yaml"
 type = "clash-domain"
 interval = 21600
 
@@ -174,7 +174,7 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/NetEase%20CloudMusic.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/NetEaseCloudMusic.yaml"
 type = "clash-domain"
 interval = 21600
 
