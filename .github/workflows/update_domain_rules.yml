@@ -1,0 +1,59 @@
+name: Update Domain Rules
+
+on:
+  schedule:
+    - cron: '0 16 * * *' # 每天北京时间12点（UTC时间04:00）
+  workflow_dispatch: # 手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update_release_branch:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        ref: main
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests ipaddress
+
+    - name: Run script
+      run: |
+        python script/domain_classification.py
+
+    - name: Checkout or create release branch
+      run: |
+        git fetch origin
+        if git ls-remote --heads origin release; then
+          git checkout release
+        else
+          git checkout -b release
+        fi
+
+    - name: Remove old files in clash-domain and clash-classic
+      run: |
+        rm -rf clash-domain clash-classic
+        mkdir -p clash-domain clash-classic
+
+    - name: Copy latest generated files
+      run: |
+        cp router/*.yaml clash-domain/
+        for file in router/*-Classic.yaml; do mv "$file" "clash-classic/$(basename "$file" -Classic.yaml).yaml"; done
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add clash-domain/ clash-classic/
+        git commit -m 'Update clash-domain and clash-classic files'
+        git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release
