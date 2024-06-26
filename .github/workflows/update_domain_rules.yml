@@ -47,9 +47,10 @@ jobs:
 
     - name: Copy latest generated files
       run: |
-        cp router/*.yaml clash-domain/
-        find clash-domain/ -name '*-Classic.yaml' -exec mv {} clash-classic/ \;
+        cp router/*-Classic.yaml clash-classic/
         find clash-classic/ -name '*-Classic.yaml' -exec sh -c 'mv "$0" "${0/-Classic.yaml/.yaml}"' {} \;
+        cp router/*.yaml clash-domain/
+        find clash-domain/ -name '*-Classic.yaml' -exec rm {} +
 
     - name: Commit and push changes
       run: |
