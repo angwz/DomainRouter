@@ -33,7 +33,7 @@ for match in matches:
         if item.startswith('http'):
             try:
                 sub_response = requests.get(item)
-                time.sleep(2)
+                time.sleep(0.5)
                 sub_response.raise_for_status()
                 sub_content = sub_response.text
                 sub_lines = sub_content.split('\n')
