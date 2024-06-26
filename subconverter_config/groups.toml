@@ -4,6 +4,11 @@ type = "select"
 rule = ["[]🛫 高速节点", "[]🗽 美国分流", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
+name = "✈️ 手动切换"
+type = "select"
+rule = ["!!GROUPID=1!!(.*)", "[]🗽 美国分流"]
+
+[[custom_groups]]
 name = "🗨️ ChatGPT"
 type = "select"
 rule = [
@@ -74,11 +79,6 @@ rule = ["[]📟 Xbox", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT
 name = "🍇 数据采集"
 type = "select"
 rule = ["[]DIRECT", "[]🍂 负载均衡", "!!GROUPID=0-1!!(^(?!.*(org|续费|备用|解锁|转用|更新|专用)).*)"]
-
-[[custom_groups]]
-name = "✈️ 手动切换"
-type = "select"
-rule = ["!!GROUPID=1!!(.*)", "[]🗽 美国分流"]
 
 [[custom_groups]]
 name = "📽️ Netflix"
