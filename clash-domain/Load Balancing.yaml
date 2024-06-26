@@ -1,8 +1,0 @@
-# NAME: Load Balancing
-# AUTHOR: angwz
-# REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 09:36:27
-# TYPE: domain
-# TOTAL: 1
-payload:
-  - '+.zhipin.com'
