@@ -116,12 +116,24 @@ def sort_domain_items(items):
     return plus_items + star_items + dot_items + plain_items
 
 
-# 创建router文件夹
-os.makedirs('router', exist_ok=True)
+# 创建domain和classic文件夹
+os.makedirs('domain', exist_ok=True)
+os.makedirs('classic', exist_ok=True)
 
-# 清空router文件夹中的所有文件
-for filename in os.listdir('router'):
-    file_path = os.path.join('router', filename)
+# 清空domain文件夹中的所有文件
+for filename in os.listdir('domain'):
+    file_path = os.path.join('domain', filename)
+    try:
+        if os.path.isfile(file_path) or os.path.islink(file_path):
+            os.unlink(file_path)
+        elif os.path.isdir(file_path):
+            os.rmdir(file_path)
+    except Exception as e:
+        print(f'Failed to delete {file_path}. Reason: {e}')
+
+# 清空classic文件夹中的所有文件
+for filename in os.listdir('classic'):
+    file_path = os.path.join('classic', filename)
     try:
         if os.path.isfile(file_path) or os.path.islink(file_path):
             os.unlink(file_path)
