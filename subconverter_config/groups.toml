@@ -4,11 +4,6 @@ type = "select"
 rule = ["[]🛫 高速节点", "[]🗽 美国分流", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
-name = "✈️ 手动切换"
-type = "select"
-rule = ["!!GROUPID=1!!(.*)", "[]🗽 美国分流"]
-
-[[custom_groups]]
 name = "🗨️ ChatGPT"
 type = "select"
 rule = [
@@ -30,10 +25,7 @@ name = "📟 Xbox"
 type = "select"
 rule = ["[]DIRECT", "[]🌠 节点选择", "[]✈️ 手动切换"]
 
-[[custom_groups]]
-name = "🍇 数据采集"
-type = "select"
-rule = ["[]DIRECT", "[]🍂 负载均衡", "!!GROUPID=0-1!!(^(?!.*(org|续费|备用|解锁|转用|更新|专用)).*)"]
+
 
 [[custom_groups]]
 name = "📺 哔哩哔哩"
@@ -46,11 +38,6 @@ type = "select"
 rule = ["[]DIRECT", "[]🌈 香港高速", "[]🐸 台湾分流", "[]🍙 日本高速", "[]🦁 新加坡分流", "[]🗽 美国分流", "[]✈️ 手动切换"]
 
 [[custom_groups]]
-name = "🕊️ X"
-type = "select"
-rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换"]
-
-[[custom_groups]]
 name = "📱 TikTok"
 type = "select"
 rule = ["[]🍙 日本高速", "[]🗽 美国分流", "[]🌠 节点选择", "[]🌈 香港高速", "[]🐸 台湾分流", "[]🦁 新加坡分流", "[]✈️ 手动切换"]
@@ -59,6 +46,11 @@ rule = ["[]🍙 日本高速", "[]🗽 美国分流", "[]🌠 节点选择", "[]
 name = "🛁 YouTube"
 type = "select"
 rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]🍙 日本高速", "[]🐸 台湾分流", "[]✈️ 手动切换"]
+
+[[custom_groups]]
+name = "🕊️ X"
+type = "select"
+rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换"]
 
 [[custom_groups]]
 name = "💻 Google"
@@ -79,6 +71,16 @@ rule = ["[]🗽 美国分流", "[]🌠 节点选择", "[]✈️ 手动切换", "
 name = "💾 Microsoft"
 type = "select"
 rule = ["[]📟 Xbox", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
+
+[[custom_groups]]
+name = "🍇 数据采集"
+type = "select"
+rule = ["[]DIRECT", "[]🍂 负载均衡", "!!GROUPID=0-1!!(^(?!.*(org|续费|备用|解锁|转用|更新|专用)).*)"]
+
+[[custom_groups]]
+name = "✈️ 手动切换"
+type = "select"
+rule = ["!!GROUPID=1!!(.*)", "[]🗽 美国分流"]
 
 [[custom_groups]]
 name = "📽️ Netflix"
