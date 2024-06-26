@@ -201,7 +201,7 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Alibaba.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Alibaba-Classic.yaml"
 type = "clash-classic"
 interval = 21600
 
@@ -231,7 +231,7 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/China.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/China-Classic.yaml"
 type = "clash-classic"
 interval = 21600
 
