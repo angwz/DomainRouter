@@ -73,26 +73,17 @@ jobs:
         tag_name: ${{ steps.generate_tag.outputs.tag }}
         release_name: Release ${{ steps.generate_tag.outputs.tag }}
         body: |
-          This is an automated release to update the clash-domain and clash-classic files.
+          This is an automated release to update the clash-domain files.
         draft: false
         prerelease: false
 
-    - name: Upload Release Asset
+    - name: Upload Release Assets
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: clash-domain/
-        asset_name: clash-domain
-        asset_content_type: application/zip
-
-    - name: Upload Release Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: clash-classic/
-        asset_name: clash-classic
-        asset_content_type: application/zip
+        asset_name: ${{ github.event.repository.name }}-clash-domain
+        asset_content_type: application/x-yaml
+        asset_path: clash-domain/*.yaml
