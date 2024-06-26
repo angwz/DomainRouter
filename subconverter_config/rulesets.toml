@@ -19,7 +19,7 @@ interval = 21600
 [[rulesets]]
 group = "🍇 数据采集"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Load%20Balancing.yaml"
-type = "clash-classic"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
