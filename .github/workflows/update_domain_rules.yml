@@ -78,12 +78,9 @@ jobs:
         prerelease: false
 
     - name: Upload Release Assets
-      uses: actions/upload-release-asset@v1
+      run: |
+        for file in clash-domain/*.yaml; do
+          gh release upload ${{ steps.generate_tag.outputs.tag }} "$file" --clobber
+        done
       env:
         GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: clash-domain/
-        asset_name: ${{ github.event.repository.name }}-clash-domain
-        asset_content_type: application/x-yaml
-        asset_path: clash-domain/*.yaml
