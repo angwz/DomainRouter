@@ -174,7 +174,7 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/NetEase CloudMusic.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/NetEase%20CloudMusic.yaml"
 type = "clash-domain"
 interval = 21600
 
