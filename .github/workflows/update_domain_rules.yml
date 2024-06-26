@@ -47,6 +47,7 @@ jobs:
 
     - name: Copy and rename latest generated files
       run: |
+        mkdir -p domain classic
         cp domain/*.yaml clash-domain/
         cp classic/*.yaml clash-classic/
 
