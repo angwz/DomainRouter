@@ -1,0 +1,11 @@
+# NAME: YouTube-Classic
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-26 09:23:03
+# TYPE: classic
+# TOTAL: 4
+payload:
+  - DOMAIN-KEYWORD,youtube
+  - IP-CIDR,172.110.32.0/21,no-resolve
+  - IP-CIDR,216.73.80.0/20,no-resolve
+  - IP-CIDR6,2620:120:e000::/40,no-resolve
