@@ -5,6 +5,7 @@
 '+.angwz.top'
 '+.angwz.com'
 '+.weesire.com'
+tieba.baidu.com
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan_No_Resolve.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-game-accelerator-cn.yaml
@@ -12,8 +13,14 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload_No_Resolve.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN_No_Resolve
 
-ipcidr: '47.103.212.143/32'
-ipcidr: '107.182.31.148/32'
+47.103.212.143/32
+107.182.31.148/32
+IP-CIDR,47.103.212.143/32
+
+DOMAIN-KEYWORD,angwz
+
+DST-PORT,9993
+SRC-PORT,9993
 
 [Proxy]
 
