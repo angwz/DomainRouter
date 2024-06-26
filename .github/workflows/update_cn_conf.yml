@@ -53,14 +53,18 @@ jobs:
         git commit -m 'Update china-domains.conf'
         git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release
 
+    - name: Generate tag name
+      id: generate_tag
+      run: echo ::set-output name=tag::release-$(date +%Y%m%d-%H%M%S)
+
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
       with:
-        tag_name: release-$(date +%Y%m%d-%H%M%S)
-        release_name: Release $(date +%Y-%m-%d %H:%M:%S)
+        tag_name: ${{ steps.generate_tag.outputs.tag }}
+        release_name: Release ${{ steps.generate_tag.outputs.tag }}
         body: |
           This is an automated release to update the China domains configuration.
         draft: false
