@@ -40,6 +40,6 @@ sorted_payload = sorted(filtered_payload, key=get_second_level_domain)
 transformed_lines = [f"server=/{domain}/119.29.29.29" for domain in sorted_payload]
 
 # 保存到文件
-output_file = "china-domains.conf"
+output_file = "dnsmasq/china-domains.conf"
 with open(output_file, 'w') as f:
     f.write("\n".join(transformed_lines))
