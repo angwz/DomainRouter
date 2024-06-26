@@ -76,44 +76,30 @@ for key, content in data_dict.items():
     }
 
 
-# 分类函数
-def classify_values(values):
-    domain_list = []
-    classical_list = []
+# 分类和排序函数
+def classify_and_sort(values):
+    categories = {
+        "DOMAIN-SUFFIX": [],
+        "DOMAIN-KEYWORD": [],
+        "DOMAIN": [],
+        "SRC-IP-CIDR": [],
+        "IP-CIDR": [],
+        "GEOIP": [],
+        "DST-PORT": [],
+        "SRC-PORT": []
+    }
+
     for item in values:
-        if re.match(r'(\+\..*|\*.*|DOMAIN-SUFFIX,.*|DOMAIN,.*|^[a-zA-Z0-9\-.]+$)', item, re.IGNORECASE):
-            domain_list.append(item)
-        else:
-            classical_list.append(item)
-    return domain_list, classical_list
+        for category in categories:
+            if item.startswith(category):
+                categories[category].append(item)
+                break
 
+    sorted_items = []
+    for category in ["DOMAIN-SUFFIX", "DOMAIN-KEYWORD", "DOMAIN", "SRC-IP-CIDR", "IP-CIDR", "GEOIP", "DST-PORT", "SRC-PORT"]:
+        sorted_items.extend(sorted(categories[category]))
 
-# 排序函数
-def sort_domain_items(items):
-    plus_items = []
-    star_items = []
-    dot_items = []
-    plain_items = []
-
-    for item in items:
-        if item.startswith('+.'):
-            plus_items.append(item)
-        elif item.startswith('*.'):
-            star_items.append(item)
-        elif item.startswith('.'):
-            dot_items.append(item)
-        else:
-            plain_items.append(item)
-
-    def sort_by_parts(items):
-        return sorted(items, key=lambda x: (x.count('.'), x))
-
-    plus_items = sort_by_parts(plus_items)
-    star_items = sort_by_parts(star_items)
-    dot_items = sort_by_parts(dot_items)
-    plain_items = sort_by_parts(plain_items)
-
-    return plus_items + star_items + dot_items + plain_items
+    return sorted_items
 
 
 # 创建router文件夹
@@ -177,10 +163,10 @@ def deduplicate(items):
 for key, content in filtered_dict.items():
     values = content["values"]
     errors = content["errors"]
-    domain_list, classical_list = classify_values(values)
+    domain_list, classical_list = classify_and_sort(values)
 
     if domain_list or errors:
-        domain_list = sort_domain_items(domain_list)
+        domain_list = classify_and_sort(domain_list)
         formatted_domain_list = [format_item(item, "domain") for item in domain_list]
         deduped_domain_list = deduplicate(formatted_domain_list)
         with open(f'router/{key}.yaml', 'w') as file:
@@ -197,14 +183,15 @@ for key, content in filtered_dict.items():
                 file.write(f"{item}\n")
 
     if classical_list or errors:
+        classical_list = classify_and_sort(classical_list)
         formatted_classical_list = [format_item(item, "classic") for item in classical_list]
         deduped_classical_list = deduplicate(formatted_classical_list)
-        with open(f'router/{key}-Classic.yaml', 'w') as file:
+        with open(f'router/{key}.yaml', 'w') as file:
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
+            file.write("# TYPE: classic\n")
             file.write(f"# UPDATED: {current_time}\n")
-            file.write(f"# TYPE: classic\n")
             file.write(f"# TOTAL: {len(deduped_classical_list)}\n")
             if errors:
                 file.write(f"# ERROR: {', '.join(errors)}\n")
@@ -212,4 +199,4 @@ for key, content in filtered_dict.items():
             for item in deduped_classical_list:
                 file.write(f"{item}\n")
 
-print("处理完成，生成的文件在'router'文件夹中。")
+print("处理完成。")
