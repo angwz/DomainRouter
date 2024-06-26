@@ -199,11 +199,11 @@ interval = 21600
 
 
 
-[[rulesets]]
-group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Alibaba.yaml"
-type = "clash-classic"
-interval = 21600
+# [[rulesets]]
+# group = "DIRECT"
+# ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Alibaba.yaml"
+# type = "clash-classic"
+# interval = 21600
 
 [[rulesets]]
 group = "☁️ 国际Cloud"
@@ -229,11 +229,11 @@ ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-do
 type = "clash-domain"
 interval = 21600
 
-[[rulesets]]
-group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/China.yaml"
-type = "clash-classic"
-interval = 21600
+# [[rulesets]]
+# group = "DIRECT"
+# ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/China.yaml"
+# type = "clash-classic"
+# interval = 21600
 
 [[rulesets]]
 group = "Ⓜ️ Meta"
