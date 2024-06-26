@@ -29,10 +29,44 @@ jobs:
       run: |
         python script/domain_convert_dnsmasq.conf.py
 
+    - name: Create or switch to release branch
+      run: |
+        git checkout --orphan release
+
+    - name: Remove all files
+      run: |
+        git rm -rf .
+
+    - name: Add latest generated file
+      run: |
+        git add dnsmasq/china-domains.conf
+
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add dnsmasq/china-domains.conf
         git commit -m 'Update china-domains.conf'
-        git push https://x-access-token:${{ secrets.TOKEN }}@github.com/angwz/DomainRouter.git
+        git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
+      with:
+        tag_name: 'release-$(date +%Y%m%d%H%M%S)'
+        release_name: 'Release $(date +%Y-%m-%d %H:%M:%S)'
+        body: |
+          This is an automated release to update the China domains configuration.
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: dnsmasq/china-domains.conf
+        asset_name: china-domains.conf
+        asset_content_type: text/plain
