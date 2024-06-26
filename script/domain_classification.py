@@ -199,8 +199,8 @@ for key, content in filtered_dict.items():
     if classical_list or errors:
         formatted_classical_list = [format_item(item, "classic") for item in classical_list]
         deduped_classical_list = deduplicate(formatted_classical_list)
-        with open(f'router/{key}-Classic.yaml', 'w') as file:
-            file.write(f"# NAME: {key}-Classic\n")
+        with open(f'router/{key}.yaml', 'w') as file:
+            file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
             file.write(f"# UPDATED: {current_time}\n")
