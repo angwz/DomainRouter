@@ -12,6 +12,15 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/appl
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam%40cn.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list
 
+DOMAIN-SUFFIX,596743944.top
+DOMAIN-SUFFIX,donghui.tech
+DOMAIN-SUFFIX,fast002.xyz
+DOMAIN-SUFFIX,axe.is
+DOMAIN-SUFFIX,speed-mitce.top
+DOMAIN-SUFFIX,getxlx.com
+DOMAIN-SUFFIX,p2tib8n.com
+DOMAIN-SUFFIX,desperadoj.com
+
 [Proxy]
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-scholar-!cn.yaml
@@ -110,6 +119,15 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 47.103.212.143/32
 107.182.31.148/32
+IP-CIDR,27.126.206.62/32,no-resolve
+IP-CIDR,205.189.160.94/32,no-resolve
+IP-CIDR,154.92.9.1/32,no-resolve
+IP-CIDR,154.92.9.5/32,no-resolve
+IP-CIDR,154.92.9.14/32,no-resolve
+IP-CIDR,154.92.9.62/32,no-resolve
+IP-CIDR,154.92.9.147/32,no-resolve
+IP-CIDR,154.92.9.216/32,no-resolve
+IP-CIDR,199.15.76.35/32,no-resolve
 
 DST-PORT,9993
 SRC-PORT,9993
@@ -211,6 +229,7 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cate
 
 [CloudGlobal]
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudGlobal/CloudGlobal.list
+
 
 
 [Xiaohongshu]
