@@ -27,12 +27,12 @@ jobs:
 
     - name: Run script
       run: |
-        python convert_domains.py
+        python script/domain_convert_dnsmasq.conf.py
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add cn.conf
-        git commit -m 'Update cn.conf'
-        git push https://x-access-token:${{ secrets.DNSMASQ_CONF_TOKEN }}@github.com/angwz/dnsmasq-conf.git
+        git add china-domains.conf
+        git commit -m 'Update china-domains.conf'
+        git push https://x-access-token:${{ secrets.TOKEN }}@github.com/angwz/DomainRouter.git

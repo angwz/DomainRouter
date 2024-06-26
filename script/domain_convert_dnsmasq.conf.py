@@ -23,7 +23,7 @@ china_max_response = requests.get(china_max_url)
 china_max_data = yaml.safe_load(china_max_response.text)
 
 # 下载global_domains.txt文件
-global_domains_url = "https://raw.githubusercontent.com/angwz/dnsmasq-conf/main/global_domains.txt"
+global_domains_url = "https://raw.githubusercontent.com/angwz/DomainRouter/main/dnsmasq/global_domains.txt"
 global_domains_response = requests.get(global_domains_url)
 global_domains_list = global_domains_response.text.splitlines()
 
@@ -40,6 +40,6 @@ sorted_payload = sorted(filtered_payload, key=get_second_level_domain)
 transformed_lines = [f"server=/{domain}/119.29.29.29" for domain in sorted_payload]
 
 # 保存到文件
-output_file = "cn.conf"
+output_file = "china-domains.conf"
 with open(output_file, 'w') as f:
     f.write("\n".join(transformed_lines))
