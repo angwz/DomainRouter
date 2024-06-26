@@ -47,12 +47,8 @@ jobs:
 
     - name: Copy and rename latest generated files
       run: |
-        for file in router/*-Classic.yaml; do
-          newfile=$(echo "$file" | sed 's/-Classic.yaml/.yaml/')
-          mv "$file" "clash-classic/$(basename $newfile)"
-        done
-        cp router/*.yaml clash-domain/
-        find clash-domain/ -name '*-Classic.yaml' -exec rm {} +
+        cp domain/*.yaml clash-domain/
+        cp classic/*.yaml clash-classic/
 
     - name: Commit and push changes
       run: |

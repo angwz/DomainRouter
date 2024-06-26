@@ -106,19 +106,21 @@ def classify_and_sort(values):
     return sorted_items
 
 
-# 创建router文件夹
-os.makedirs('router', exist_ok=True)
+# 创建domain和classic文件夹
+os.makedirs('domain', exist_ok=True)
+os.makedirs('classic', exist_ok=True)
 
-# 清空router文件夹中的所有文件
-for filename in os.listdir('router'):
-    file_path = os.path.join('router', filename)
-    try:
-        if os.path.isfile(file_path) or os.path.islink(file_path):
-            os.unlink(file_path)
-        elif os.path.isdir(file_path):
-            os.rmdir(file_path)
-    except Exception as e:
-        print(f'Failed to delete {file_path}. Reason: {e}')
+# 清空domain和classic文件夹中的所有文件
+for folder in ['domain', 'classic']:
+    for filename in os.listdir(folder):
+        file_path = os.path.join(folder, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                os.rmdir(file_path)
+        except Exception as e:
+            print(f'Failed to delete {file_path}. Reason: {e}')
 
 # 获取当前时间
 current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -172,7 +174,7 @@ for key, content in filtered_dict.items():
     if domain_list or errors:
         formatted_domain_list = [format_item(item, "domain") for item in domain_list]
         deduped_domain_list = deduplicate(formatted_domain_list)
-        with open(f'router/{key}.yaml', 'w') as file:
+        with open(f'domain/{key}.yaml', 'w') as file:
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
@@ -188,7 +190,7 @@ for key, content in filtered_dict.items():
     if errors:
         formatted_classical_list = [format_item(item, "classic") for item in classify_and_sort(values)]
         deduped_classical_list = deduplicate(formatted_classical_list)
-        with open(f'router/{key}-Classic.yaml', 'w') as file:
+        with open(f'classic/{key}.yaml', 'w') as file:
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
@@ -201,4 +203,4 @@ for key, content in filtered_dict.items():
             for item in deduped_classical_list:
                 file.write(f"{item}\n")
 
-print("处理完成，生成的文件在'router'文件夹中。")
+print("处理完成，生成的文件在'domain'和'classic'文件夹中。")
