@@ -17,21 +17,21 @@ def is_subdomain(domain, blacklist):
             return True
     return False
 
-# 下载ChinaMax_Domain.yaml文件
+# 下载 ChinaMax_Domain.yaml 文件
 china_max_url = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Domain.yaml"
 china_max_response = requests.get(china_max_url)
 china_max_data = yaml.safe_load(china_max_response.text)
 
-# 下载global_domains.txt文件
+# 下载 global_domains.txt 文件
 global_domains_url = "https://raw.githubusercontent.com/angwz/DomainRouter/main/dnsmasq/global_domains.txt"
 global_domains_response = requests.get(global_domains_url)
 global_domains_list = global_domains_response.text.splitlines()
 
-# 提取payload部分并处理
+# 提取 payload 部分并处理
 payload = china_max_data.get('payload', [])
 # 去掉通配符并去重
 processed_payload = list(set(remove_wildcard(domain) for domain in payload))
-# 排除global_domains.txt中的域名及其子域名
+# 排除 global_domains.txt 中的域名及其子域名
 filtered_payload = [domain for domain in processed_payload if not is_subdomain(domain, global_domains_list)]
 # 按二级域名排序
 sorted_payload = sorted(filtered_payload, key=get_second_level_domain)
@@ -40,6 +40,6 @@ sorted_payload = sorted(filtered_payload, key=get_second_level_domain)
 transformed_lines = [f"server=/{domain}/119.29.29.29" for domain in sorted_payload]
 
 # 保存到文件
-output_file = "china-domains.conf"
+output_file = "dnsmasq/china-domains.conf"
 with open(output_file, 'w') as f:
     f.write("\n".join(transformed_lines))
