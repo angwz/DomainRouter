@@ -45,11 +45,12 @@ jobs:
         rm -rf clash-domain clash-classic
         mkdir -p clash-domain clash-classic
 
-    - name: Copy and rename latest generated files
+    - name: Copy latest generated files
       run: |
-        mkdir -p domain classic
-        cp domain/*.yaml clash-domain/
-        cp classic/*.yaml clash-classic/
+        cp router/*-Classic.yaml clash-classic/
+        find clash-classic/ -name '*-Classic.yaml' -exec sh -c 'mv "$0" "${0/-Classic.yaml/.yaml}"' {} \;
+        cp router/*.yaml clash-domain/
+        find clash-domain/ -name '*-Classic.yaml' -exec rm {} +
 
     - name: Commit and push changes
       run: |
