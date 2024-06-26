@@ -1,8 +1,8 @@
-# NAME: GitHub
+# NAME: PayPal
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 11:11:55
+# UPDATED: 2024-06-26 13:32:41
 # TYPE: classic
 # TOTAL: 1
 payload:
-  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,paypal

@@ -1,10 +1,11 @@
-# NAME: OneDrive
+# NAME: Microsoft
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 11:11:55
+# UPDATED: 2024-06-26 13:32:41
 # TYPE: classic
-# TOTAL: 5
+# TOTAL: 6
 payload:
+  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
