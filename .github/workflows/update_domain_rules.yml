@@ -29,7 +29,7 @@ jobs:
 
     - name: Run script
       run: |
-        python script/domain_classification.py
+        python script/domain_router.py
 
     - name: Checkout or create release branch
       run: |
@@ -40,15 +40,16 @@ jobs:
           git checkout -b release
         fi
 
-    - name: Remove old files in clash-domain and clash-classic
+    - name: Remove old files in clash-domain and clash-ipcidr and clash-classic
       run: |
-        rm -rf clash-domain clash-classic
-        mkdir -p clash-domain clash-classic
+        rm -rf clash-domain clash-ipcidr clash-classic
+        mkdir -p clash-domain clash-ipcidr clash-classic
 
     - name: Copy latest generated files
       run: |
-        cp classic/*.yaml clash-classic/;
-        cp domain/*.yaml clash-domain/
+        cp domain/*.yaml clash-domain/;
+        cp ipcidr/*.yaml clash-ipcidr/;
+        cp classic/*.yaml clash-classic/
 
     - name: Commit and push changes
       run: |
