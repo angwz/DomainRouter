@@ -13,7 +13,7 @@ name = "🗨️ ChatGPT"
 type = "select"
 rule = [
     "[]🗽 美国分流",
-    "!!GROUPID=0!!(GPT)",
+    "(GPT)",
     "[]🐸 台湾分流",
     "[]🍙 日本高速",
     "[]✈️ 手动切换",
