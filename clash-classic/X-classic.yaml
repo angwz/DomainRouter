@@ -1,8 +1,9 @@
-# NAME: Taiwan
+# NAME: X
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
 # UPDATED: 2024-06-27 07:56:24
-# TYPE: domain
+# TYPE: classic
 # TOTAL: 1
+# DOMAIN-KEYWORD TOTAL: 1
 payload:
-  - '+.tw'
+  - DOMAIN-KEYWORD,twitter

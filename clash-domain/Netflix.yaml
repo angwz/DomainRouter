@@ -1,11 +1,13 @@
 # NAME: Netflix
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 16:23:37
+# UPDATED: 2024-06-27 07:56:24
 # TYPE: domain
 # TOTAL: 33
 payload:
+  - '+.cookielaw.org'
   - '+.fast.com'
+  - '+.flxvpn.net'
   - '+.netflix.ca'
   - '+.netflix.com'
   - '+.netflix.net'
@@ -21,6 +23,7 @@ payload:
   - '+.netflixdnstest8.com'
   - '+.netflixdnstest9.com'
   - '+.netflixinvestor.com'
+  - '+.netflixstudios.com'
   - '+.netflixtechblog.com'
   - '+.nflxext.com'
   - '+.nflximg.com'
@@ -28,13 +31,10 @@ payload:
   - '+.nflxsearch.net'
   - '+.nflxso.net'
   - '+.nflxvideo.net'
-  - '+.cookielaw.org'
-  - '+.flxvpn.net'
-  - '+.netflixstudios.com'
   - '+.onetrust.com'
-  - 'h-netflix.online-metrix.net'
   - '+.netflix.com.au'
   - '+.us-west-2.amazonaws.com'
+  - '+.netflix.com.edgesuite.net'
+  - 'h-netflix.online-metrix.net'
   - 'e13252.dscg.akamaiedge.net'
   - 'netflix.com.edgesuite.net'
-  - '+.netflix.com.edgesuite.net'

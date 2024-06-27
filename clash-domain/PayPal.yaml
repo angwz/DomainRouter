@@ -1,7 +1,7 @@
 # NAME: PayPal
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 16:23:37
+# UPDATED: 2024-06-27 07:56:25
 # TYPE: domain
 # TOTAL: 247
 payload:
@@ -113,6 +113,7 @@ payload:
   - '+.paypal-marketing.com'
   - '+.paypal-media.com'
   - '+.paypal-merchantloyalty.com'
+  - '+.paypal-mktg.com'
   - '+.paypal-mobilemoney.com'
   - '+.paypal-network.org'
   - '+.paypal-notice.com'
@@ -249,6 +250,5 @@ payload:
   - '+.paypal.org.cn'
   - '+.paypalhere.com.cn'
   - '+.xoom.net.cn'
-  - '+.paypal-mktg.com'
   - '+.venmo.s3.amazonaws.com'
   - 'venmo.s3.amazonaws.com'

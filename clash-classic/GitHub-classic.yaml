@@ -1,8 +1,9 @@
-# NAME: Weibo
+# NAME: GitHub
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 16:23:37
+# UPDATED: 2024-06-27 07:56:24
 # TYPE: classic
 # TOTAL: 1
+# DOMAIN-KEYWORD TOTAL: 1
 payload:
-  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,github

@@ -1,7 +1,7 @@
 # NAME: YouTube
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-26 16:23:37
+# UPDATED: 2024-06-27 07:56:24
 # TYPE: domain
 # TOTAL: 179
 payload:
@@ -9,6 +9,8 @@ payload:
   - '+.ggpht.cn'
   - '+.ggpht.com'
   - '+.googlevideo.com'
+  - '+.gvt1.com'
+  - '+.gvt2.com'
   - '+.withyoutube.com'
   - '+.youtu.be'
   - '+.youtube-nocookie.com'
@@ -104,6 +106,7 @@ payload:
   - '+.youtubemobilesupport.com'
   - '+.yt.be'
   - '+.ytimg.com'
+  - '+.video.google.com'
   - '+.youtube.co.ae'
   - '+.youtube.co.at'
   - '+.youtube.co.cr'
@@ -181,6 +184,3 @@ payload:
   - '+.youtubei.googleapis.com'
   - '+.wide-youtube.l.google.com'
   - '+.youtube-ui.l.google.com'
-  - '+.gvt1.com'
-  - '+.gvt2.com'
-  - '+.video.google.com'
