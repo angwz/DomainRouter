@@ -91,7 +91,7 @@ def filter_and_trim_values(values):
             logging.info(f"跳过行: {item}")
             continue
 
-        # 判断字符串所有字符是否有非.字母中文数字的字符
+        # 判断字符串所有字符是否有非.-字母中文数字的字符
         if re.match(r'^[a-zA-Z0-9\u4e00-\u9fa5.-]+$', item):
             # 判断是否为域名
             if item and not item.startswith('.') and not item.endswith('.') and not item.startswith('-') and not item.endswith('-'):
@@ -99,15 +99,15 @@ def filter_and_trim_values(values):
                     dns.resolver.resolve(item, 'A')
                     filtered_values.append(f"+.{item}")
                     logging.info(f"添加域名: +.{item}")
-                    continue
+                    continue  # 如果是有效的域名，直接跳到下一个 item
                 except (dns.resolver.NXDOMAIN, dns.resolver.NoAnswer, dns.resolver.Timeout, dns.resolver.NoNameservers, dns.name.EmptyLabel) as e:
                     logging.warning(f"域名解析失败: {item}, 错误: {e}")
 
         # 修剪内容，去掉两端所有非字母中文数字:+*.
         item_trimmed = re.sub(r'^[^\w\u4e00-\u9fa5:+*.]+|[^\w\u4e00-\u9fa5:+*.]+$', '', item)
 
-        # 判断字符串所有字符中包含的非字母中文数字()$正斜杠反斜杠^-,:+*.字符的数量是否大于3个
-        special_characters_count = len(re.findall(r'[^a-zA-Z0-9\u4e00-\u9fa5()$/\\^,:+*.]', item_trimmed))
+        # 判断字符串所有字符中包含的非字母中文数字()$正斜杠反斜杠^,:+*.-字符的数量是否大于3个
+        special_characters_count = len(re.findall(r'[^a-zA-Z0-9\u4e00-\u9fa5()$/\\^,:+*.-]', item_trimmed))
         if special_characters_count > 3:
             logging.info(f"剔除非法内容: {item_trimmed}")
             continue  # 剔除非法内容
@@ -115,6 +115,7 @@ def filter_and_trim_values(values):
         filtered_values.append(item_trimmed)
         logging.info(f"添加修剪后的内容: {item_trimmed}")
     return filtered_values
+
 
 # 处理字典中的每一组数据
 filtered_dict = {}
