@@ -1,4 +1,4 @@
-name: Generate Rulesets TOML
+name: Update Rulesets TOML
 
 on:
   schedule:
@@ -42,7 +42,7 @@ jobs:
 
     - name: Copy latest generated file
       run: |
-        cp script/rulesets.toml .
+        cp rulesets.toml .
 
     - name: Commit and push changes
       run: |
