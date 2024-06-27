@@ -1,0 +1,53 @@
+name: Generate Rulesets TOML
+
+on:
+  schedule:
+    - cron: '0 17 * * *' # 北京时间每天01点00分（UTC时间每天17点00分）
+  workflow_dispatch: # 手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  generate_rulesets:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        ref: main
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Run script
+      run: |
+        python script/generate_rulesets.py
+
+    - name: Checkout or create release branch
+      run: |
+        git fetch origin
+        if git ls-remote --heads origin release; then
+          git checkout release
+        else
+          git checkout -b release
+        fi
+
+    - name: Copy latest generated file
+      run: |
+        cp script/rulesets.toml .
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add rulesets.toml
+        git commit -m 'Update rulesets.toml'
+        git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release
