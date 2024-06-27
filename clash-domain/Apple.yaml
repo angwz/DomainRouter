@@ -1,9 +1,9 @@
 # NAME: Apple
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-28 03:17:56 (UTC+8)
+# UPDATED: 2024-06-28 03:31:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 3292
+# TOTAL: 3294
 payload:
   - '+.apple'
   - '+.100beatscheap.com'
@@ -1393,6 +1393,7 @@ payload:
   - '+.1to1conference.com.au'
   - '+.api-adservices.apple.com'
   - '+.apple-dns.com.cn'
+  - '+.apple-events.akamaized.net'
   - '+.apple-watch.com.ru'
   - '+.apple.co.cr'
   - '+.apple.co.hu'
@@ -1488,6 +1489,7 @@ payload:
   - '+.ichat.co.in'
   - '+.icloud.com.cn'
   - '+.icloud.net.cn'
+  - '+.icons.axm-usercontent-apple.com'
   - '+.ilecture.co.nz'
   - '+.imac.co.nz'
   - '+.ipad.co.kr'
@@ -1525,15 +1527,18 @@ payload:
   - '+.macbookpro.com.au'
   - '+.macos.com.au'
   - '+.mr-apple.com.tw'
+  - '+.p-events-delivery.akamaized.net'
   - '+.quicktime.com.au'
   - '+.researchkit.com.cn'
   - '+.swiftui.com.cn'
   - '+.webobjects.co.uk'
+  - '+.appleworldwidedeveloper.hb-api.omtrdc.net'
   - '+.appleworldwidedeveloper.sc.omtrdc.net'
   - '+.beatselectronicsllc.tt.omtrdc.net'
   - '+.e16991.b.akamaiedge.net'
   - '+.itunes-apple.com.akadns.net'
   - '+.appldnld.apple.com.edgesuite.net'
+  - '+.lookup-api.apple.com.edgekey.net'
   - '.100beatscheap.com'
   - '.12diasdepresentesdeitunes.com'
   - '.12diasderegalosdeitunes.cl'
@@ -3085,7 +3090,6 @@ payload:
   - 'adcdownload.apple.com'
   - 'app-site-association.cdn-apple.com'
   - 'appldnld.apple.com'
-  - 'apple-events.akamaized.net'
   - 'appleid.cdn-apple.com'
   - 'apps.mzstatic.com'
   - 'cdn-cn1.apple-mapkit.com'
@@ -3123,7 +3127,6 @@ payload:
   - 'guzzoni.apple.com'
   - 'iadsdk.apple.com'
   - 'icloud.cdn-apple.com'
-  - 'icons.axm-usercontent-apple.com'
   - 'images.apple.com'
   - 'init-kt.apple.com'
   - 'init-p01md.apple.com'
@@ -3272,7 +3275,6 @@ payload:
   - 'init-s01st-lb.push-apple.com.akadns.net'
   - 'iosapps.itunes.g.aaplimg.com'
   - 'iphone-ld.origin-apple.com.akadns.net'
-  - 'lookup-api.apple.com.edgekey.net'
   - 'mesu-cdn.apple.com.akadns.net'
   - 'mesu-china.apple.com.akadns.net'
   - 'ocsp-lb.apple.com.akadns.net'
