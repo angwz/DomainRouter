@@ -92,9 +92,9 @@ def filter_and_trim_values(values):
             continue
 
         # 判断字符串所有字符是否有非.字母中文数字的字符
-        if re.match(r'^[a-zA-Z0-9\u4e00-\u9fa5.]+$', item):
+        if re.match(r'^[a-zA-Z0-9\u4e00-\u9fa5.-]+$', item):
             # 判断是否为域名
-            if item and not item.startswith('.') and not item.endswith('.'):
+            if item and not item.startswith('.') and not item.endswith('.') and not item.startswith('-') and not item.endswith('-'):
                 try:
                     dns.resolver.resolve(item, 'A')
                     filtered_values.append(f"+.{item}")
@@ -382,7 +382,8 @@ for key, content in filtered_dict.items():
     logging.info(f"{key} - ipcidr_list count: {ipcidr_total}, ipv4_total: {ipv4_count}, ipv6_total: {ipv6_count}")
     logging.info(f"{key} - classical_list count: {classic_total}, classic_counts: {classic_counts}")
 
-    if domain_list:
+    # 生成 domain 文件
+    if domain_total > 0:
         with open(f'domain/{key}.yaml', 'w', encoding='utf-8') as file:
             current_time = datetime.now(timezone.utc) + timedelta(hours=8)
             current_time_str = current_time.strftime('%Y-%m-%d %H:%M:%S')
@@ -396,7 +397,8 @@ for key, content in filtered_dict.items():
             for item in deduped_domain_list:
                 file.write(f"{item}\n")
 
-    if ipcidr_list:
+    # 生成 ipcidr 文件
+    if ipcidr_total > 0:
         with open(f'ipcidr/{key}-ipcidr.yaml', 'w', encoding='utf-8') as file:
             current_time = datetime.now(timezone.utc) + timedelta(hours=8)
             current_time_str = current_time.strftime('%Y-%m-%d %H:%M:%S')
@@ -414,7 +416,8 @@ for key, content in filtered_dict.items():
             for item in deduped_ipcidr_list:
                 file.write(f"{item}\n")
 
-    if classical_list:
+    # 生成 classic 文件
+    if classic_total > 0:
         with open(f'classic/{key}-classic.yaml', 'w', encoding='utf-8') as file:
             current_time = datetime.now(timezone.utc) + timedelta(hours=8)
             current_time_str = current_time.strftime('%Y-%m-%d %H:%M:%S')
@@ -430,6 +433,7 @@ for key, content in filtered_dict.items():
             file.write("payload:\n")
             for item in deduped_classical_list:
                 file.write(f"{item}\n")
+
 
 print("处理完成，生成的文件在'domain', 'ipcidr'和'classic'文件夹中。")
 logging.info("处理完成，生成的文件在'domain', 'ipcidr'和'classic'文件夹中。")
