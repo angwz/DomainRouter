@@ -29,7 +29,7 @@ jobs:
 
     - name: Run script
       run: |
-        python generate_rulesets.py
+        python script/generate_rulesets.py
 
     - name: Checkout or create release branch
       run: |
