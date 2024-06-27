@@ -201,7 +201,7 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Alibaba-Classic.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Alibaba-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
@@ -231,8 +231,14 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/China-Classic.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/China-classic.yaml"
 type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/China-ipcidr.yaml,no-resolve"
+type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
