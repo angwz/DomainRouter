@@ -94,13 +94,14 @@ def filter_and_trim_values(values):
         # 判断字符串所有字符是否有非.字母中文数字的字符
         if re.match(r'^[a-zA-Z0-9\u4e00-\u9fa5.]+$', item):
             # 判断是否为域名
-            try:
-                dns.resolver.resolve(item, 'A')
-                filtered_values.append(f"+.{item}")
-                logging.info(f"添加域名: +.{item}")
-                continue
-            except (dns.resolver.NXDOMAIN, dns.resolver.NoAnswer, dns.resolver.Timeout, dns.resolver.NoNameservers):
-                pass
+            if item and not item.startswith('.') and not item.endswith('.'):
+                try:
+                    dns.resolver.resolve(item, 'A')
+                    filtered_values.append(f"+.{item}")
+                    logging.info(f"添加域名: +.{item}")
+                    continue
+                except (dns.resolver.NXDOMAIN, dns.resolver.NoAnswer, dns.resolver.Timeout, dns.resolver.NoNameservers, dns.name.EmptyLabel) as e:
+                    logging.warning(f"域名解析失败: {item}, 错误: {e}")
 
         # 修剪内容，去掉两端所有非字母中文数字:+*.
         item_trimmed = re.sub(r'^[^\w\u4e00-\u9fa5:+*.]+|[^\w\u4e00-\u9fa5:+*.]+$', '', item)
