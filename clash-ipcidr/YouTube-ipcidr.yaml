@@ -1,0 +1,12 @@
+# NAME: YouTube
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-27 16:21:24
+# TYPE: ipcidr
+# TOTAL: 3
+# IP-CIDR TOTAL: 2
+# IP-CIDR6 TOTAL: 1
+payload:
+  - '172.110.32.0/21'
+  - '216.73.80.0/20'
+  - '2620:120:e000::/40'

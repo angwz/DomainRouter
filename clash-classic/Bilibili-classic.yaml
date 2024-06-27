@@ -1,0 +1,14 @@
+# NAME: Bilibili
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-27 16:21:24
+# TYPE: classic
+# TOTAL: 6
+# PROCESS-NAME TOTAL: 6
+payload:
+  - PROCESS-NAME,com.bilibili.app.blue
+  - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,com.bilibili.comic
+  - PROCESS-NAME,com.bilibili.comic.intl
+  - PROCESS-NAME,tv.danmaku.bili
+  - PROCESS-NAME,tv.danmaku.bilibilihd
