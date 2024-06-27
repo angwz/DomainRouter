@@ -14,12 +14,12 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         ref: main
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
         python-version: '3.x'
 
@@ -55,17 +55,17 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add clash-domain/ clash-classic/
-        git commit -m 'Update clash-domain and clash-classic files'
+        git add clash-domain/ clash-ipcidr/ clash-classic/
+        git commit -m 'Update clash-domain, clash-ipcidr, and clash-classic files'
         git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release
 
     - name: Generate tag name
       id: generate_tag
-      run: echo ::set-output name=tag::release-$(date +%Y%m%d-%H%M%S)
+      run: echo "tag=release-$(date +%Y%m%d-%H%M%S)" >> $GITHUB_OUTPUT
 
     - name: Create Release
       id: create_release
-      uses: actions/create-release@v1
+      uses: actions/create-release@v3
       env:
         GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
       with:
@@ -75,6 +75,11 @@ jobs:
           This is an automated release to update the clash-domain files.
         draft: false
         prerelease: false
+
+    - name: Install GitHub CLI
+      run: |
+        sudo apt-get update
+        sudo apt-get install gh
 
     - name: Upload Release Assets
       run: |
