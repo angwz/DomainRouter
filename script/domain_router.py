@@ -335,7 +335,7 @@ for key, content in filtered_dict.items():
                 file.write(f"{item}\n")
 
     if ipcidr_list:
-        with open(f'ipcidr/{key}_ipcidr.yaml', 'w', encoding='utf-8') as file:
+        with open(f'ipcidr/{key}-ipcidr.yaml', 'w', encoding='utf-8') as file:
             current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
@@ -352,7 +352,7 @@ for key, content in filtered_dict.items():
                 file.write(f"{item}\n")
 
     if classical_list:
-        with open(f'classic/{key}_classic.yaml', 'w', encoding='utf-8') as file:
+        with open(f'classic/{key}-classic.yaml', 'w', encoding='utf-8') as file:
             current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
