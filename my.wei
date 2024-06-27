@@ -246,3 +246,52 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/jd.y
 
 [NetEaseCloudMusic]
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NetEaseMusic/NetEaseMusic.list
+
+[Rules]
+AI: 🗨️ ChatGPT
+DIRECT: DIRECT
+TikTok: 📱 TikTok
+Balancer: 🍇 数据采集
+Tencent: DIRECT
+Bilibili: 📺 哔哩哔哩
+Douyin: 📱 抖音集团
+Game: DIRECT
+Meta: Ⓜ️ Meta
+Netflix: 📽️ Netflix
+X: 🕊️ X
+Apple: 🍎 Apple
+Steam: 🎮 Steam
+OneDrive: ⛅ OneDrive
+Xbox: 📟 Xbox
+GitHub: 🌠 节点选择
+Microsoft: 💾 Microsoft
+YouTube: 🛁 YouTube
+Google: 💻 Google
+PayPal: 💸 PayPal
+Adobe: ⛺ Adobe
+Xiaohongshu: DIRECT
+Weibo: DIRECT
+NetEaseCloudMusic: DIRECT
+Alibaba: DIRECT
+Baidu: DIRECT
+JD: DIRECT
+Hongkong: 🌈 香港高速
+Japan: 🍙 日本高速
+Taiwan: 🐸 台湾分流
+Singapore: 🦁 新加坡分流
+America: 🗽 美国分流
+CloudGlobal: ☁️ 国际Cloud
+Media: 🌍 国外流媒体
+Proxy: 🌠 节点选择
+China: DIRECT
+
+GEOIP,FACEBOOK: Ⓜ️ Meta,no-resolve
+GEOIP,NETFLIX: 📽️ Netflix,no-resolve
+GEOIP,TWITTER: 🕊️ X,no-resolve
+GEOIP,GOOGLE: 💻 Google,no-resolve
+GEOIP,CLOUDFLARE: 🌠 节点选择,no-resolve
+GEOIP,TELEGRAM: 🌠 节点选择,no-resolve
+GEOIP,HK: 🌈 香港高速,no-resolve
+GEOIP,US: 🗽 美国分流,no-resolve
+GEOIP,CN: DIRECT
+MATCH: 🐳 漏网の鱼

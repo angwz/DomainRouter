@@ -32,8 +32,17 @@ data_dict = {}
 pattern = re.compile(r'\[([^\]]+)\]([^\[]*)')
 matches = pattern.findall(content)
 
+skip_rules = False
+
 for match in matches:
     key = match[0].strip()
+    if "rules" in key.lower():
+        skip_rules = True
+        continue  # 跳过包含"rules"的部分
+    if skip_rules:
+        skip_rules = False
+        continue
+
     value = match[1].strip().split('\n')
     value = [v.strip() for v in value if v.strip()]  # 清理空白行
     final_value = []
