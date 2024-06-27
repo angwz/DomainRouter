@@ -14,12 +14,12 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2
       with:
         ref: main
 
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v2
       with:
         python-version: '3.x'
 
@@ -61,11 +61,11 @@ jobs:
 
     - name: Generate tag name
       id: generate_tag
-      run: echo "tag=release-$(date +%Y%m%d-%H%M%S)" >> $GITHUB_OUTPUT
+      run: echo ::set-output name=tag::release-$(date +%Y%m%d-%H%M%S)
 
     - name: Create Release
       id: create_release
-      uses: actions/create-release@v3
+      uses: actions/create-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
       with:
@@ -75,11 +75,6 @@ jobs:
           This is an automated release to update the clash-domain files.
         draft: false
         prerelease: false
-
-    - name: Install GitHub CLI
-      run: |
-        sudo apt-get update
-        sudo apt-get install gh
 
     - name: Upload Release Assets
       run: |
