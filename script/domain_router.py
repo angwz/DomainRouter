@@ -3,8 +3,9 @@ import requests
 import re
 import os
 import ipaddress
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import logging
+import dns.resolver
 
 # 设置日志记录，确保日志文件使用 utf-8 编码
 log_file = 'py_log.txt'
@@ -76,6 +77,20 @@ def filter_and_trim_values(values):
         # 过滤掉以#或payload开头的行
         if item.startswith('#') or item.startswith('payload'):
             continue
+        # 判断是否为域名，如果是，则不修剪，直接在前面加上"+."
+        try:
+            dns.resolver.resolve(item, 'A')
+            filtered_values.append(f"+.{item}")
+            continue
+        except dns.resolver.NXDOMAIN:
+            pass
+        except dns.resolver.NoAnswer:
+            pass
+        except dns.resolver.Timeout:
+            pass
+        except dns.resolver.NoNameservers:
+            pass
+
         # 修剪内容，去掉多余的空格、-和单引号
         item = item.strip().strip('-').strip().strip("'")
         # 仅保留特定模式的内容
@@ -98,7 +113,17 @@ def classify_values(values):
     ipcidr_list = []
     classical_list = []
     for item in values:
-        # 尝试直接判断是否为IP段
+        # 尝试直接判断是否为单个IP地址或IP段
+        try:
+            ip_addr = ipaddress.ip_address(item.strip())
+            if ip_addr.version == 4:
+                ipcidr_list.append(f"{item.strip()}/32")
+            else:
+                ipcidr_list.append(f"{item.strip()}/128")
+            continue
+        except ValueError:
+            pass
+
         try:
             ip_net = ipaddress.ip_network(item.strip(), strict=False)
             ipcidr_list.append(item.strip())
@@ -332,11 +357,12 @@ for key, content in filtered_dict.items():
 
     if domain_list:
         with open(f'domain/{key}.yaml', 'w', encoding='utf-8') as file:
-            current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            current_time = datetime.now(timezone.utc) + timedelta(hours=8)
+            current_time_str = current_time.strftime('%Y-%m-%d %H:%M:%S')
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
-            file.write(f"# UPDATED: {current_time}\n")
+            file.write(f"# UPDATED: {current_time_str} (UTC+8)\n")
             file.write(f"# TYPE: domain\n")
             file.write(f"# TOTAL: {domain_total}\n")
             file.write("payload:\n")
@@ -345,11 +371,12 @@ for key, content in filtered_dict.items():
 
     if ipcidr_list:
         with open(f'ipcidr/{key}-ipcidr.yaml', 'w', encoding='utf-8') as file:
-            current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            current_time = datetime.now(timezone.utc) + timedelta(hours=8)
+            current_time_str = current_time.strftime('%Y-%m-%d %H:%M:%S')
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
-            file.write(f"# UPDATED: {current_time}\n")
+            file.write(f"# UPDATED: {current_time_str} (UTC+8)\n")
             file.write(f"# TYPE: ipcidr\n")
             file.write(f"# TOTAL: {ipcidr_total}\n")
             if ipv4_count > 0:
@@ -362,11 +389,12 @@ for key, content in filtered_dict.items():
 
     if classical_list:
         with open(f'classic/{key}-classic.yaml', 'w', encoding='utf-8') as file:
-            current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            current_time = datetime.now(timezone.utc) + timedelta(hours=8)
+            current_time_str = current_time.strftime('%Y-%m-%d %H:%M:%S')
             file.write(f"# NAME: {key}\n")
             file.write("# AUTHOR: angwz\n")
             file.write("# REPO: https://github.com/angwz/DomainRouter\n")
-            file.write(f"# UPDATED: {current_time}\n")
+            file.write(f"# UPDATED: {current_time_str} (UTC+8)\n")
             file.write(f"# TYPE: classic\n")
             file.write(f"# TOTAL: {classic_total}\n")
             for k, v in classic_counts.items():

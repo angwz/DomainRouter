@@ -25,7 +25,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests ipaddress
+        pip install requests ipaddress dnspython
 
     - name: Run script
       run: |
