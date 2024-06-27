@@ -237,9 +237,10 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/China-ipcidr.yaml,no-resolve"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/China-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
+no-resolve = true
 
 [[rulesets]]
 group = "Ⓜ️ Meta"
