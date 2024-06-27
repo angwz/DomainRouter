@@ -1,13 +1,11 @@
 # NAME: China
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-28 03:49:01 (UTC+8)
+# UPDATED: 2024-06-28 04:14:12 (UTC+8)
 # TYPE: classic
-# TOTAL: 30
+# TOTAL: 28
 # DOMAIN-KEYWORD TOTAL: 13
 # IP-ASN TOTAL: 1
-# DST-PORT TOTAL: 1
-# SRC-PORT TOTAL: 1
 # PROCESS-NAME TOTAL: 14
 payload:
   - DOMAIN-KEYWORD,bilibili
@@ -24,8 +22,6 @@ payload:
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
   - IP-ASN,132203,no-resolve
-  - DST-PORT,9993
-  - SRC-PORT,9993
   - PROCESS-NAME,com.bilibili.app.blue
   - PROCESS-NAME,com.bilibili.app.in
   - PROCESS-NAME,com.bilibili.comic
