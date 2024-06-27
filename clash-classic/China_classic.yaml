@@ -1,0 +1,42 @@
+# NAME: China
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-27 10:43:10
+# TYPE: classic
+# TOTAL: 30
+# DOMAIN-KEYWORD TOTAL: 13
+# IP-ASN TOTAL: 1
+# DST-PORT TOTAL: 1
+# SRC-PORT TOTAL: 1
+# PROCESS-NAME TOTAL: 14
+payload:
+  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,qiyi
+  - DOMAIN-KEYWORD,.tmall.com
+  - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,alipay
+  - DOMAIN-KEYWORD,aliyun
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,beplay
+  - DOMAIN-KEYWORD,officecdn
+  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,hnagroup
+  - DOMAIN-KEYWORD,stripe
+  - DOMAIN-KEYWORD,weibo
+  - IP-ASN,132203,no-resolve
+  - DST-PORT,9993
+  - SRC-PORT,9993
+  - PROCESS-NAME,com.bilibili.app.blue
+  - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,com.bilibili.comic
+  - PROCESS-NAME,com.bilibili.comic.intl
+  - PROCESS-NAME,tv.danmaku.bili
+  - PROCESS-NAME,tv.danmaku.bilibilihd
+  - PROCESS-NAME,com.taobao.taobao
+  - PROCESS-NAME,com.zhiliaoapp.musically
+  - PROCESS-NAME,com.jjwxc.reader
+  - PROCESS-NAME,com.xiaomi.mibrain.speech
+  - PROCESS-NAME,小米云服务.exe
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,com.qiyi.video
