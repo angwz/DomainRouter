@@ -29,7 +29,7 @@ jobs:
 
     - name: Run script
       run: |
-        python script/generate_rulesets.py
+        python generate_rulesets.py
 
     - name: Checkout or create release branch
       run: |
@@ -39,10 +39,6 @@ jobs:
         else
           git checkout -b release
         fi
-
-    - name: Copy latest generated file
-      run: |
-        cp rulesets.toml .
 
     - name: Commit and push changes
       run: |
