@@ -16,14 +16,18 @@ logging.basicConfig(
     encoding='utf-8'
 )
 
+logging.info("开始运行脚本...")
+
 # 请求URL内容
 url = 'https://raw.githubusercontent.com/angwz/DomainRouter/main/my.wei'
 try:
+    logging.info(f"正在请求URL内容: {url}")
     response = requests.get(url)
     response.raise_for_status()
     content = response.text
+    logging.info("成功获取URL内容")
 except requests.exceptions.RequestException as e:
-    logging.error(f"Error fetching the main content: {e}")
+    logging.error(f"获取URL内容时出错: {e}")
     content = ""
 
 # 初始化字典
@@ -32,6 +36,7 @@ data_dict = {}
 # 使用正则表达式解析内容
 pattern = re.compile(r'\[([^\]]+)\]([^\[]*)')
 matches = pattern.findall(content)
+logging.info(f"找到 {len(matches)} 个匹配项")
 
 skip_rules = False
 
@@ -39,6 +44,7 @@ for match in matches:
     key = match[0].strip()
     if "rules" in key.lower():
         skip_rules = True
+        logging.info(f"跳过包含'rules'的部分: {key}")
         continue  # 跳过包含"rules"的部分
     if skip_rules:
         skip_rules = False
@@ -52,15 +58,17 @@ for match in matches:
         if item.startswith('http'):
             while True:
                 try:
+                    logging.info(f"请求子内容: {item}")
                     sub_response = requests.get(item)
                     time.sleep(0.5)
                     sub_response.raise_for_status()
                     sub_content = sub_response.text
                     sub_lines = sub_content.split('\n')
                     final_value.extend([line.strip() for line in sub_lines if line.strip()])  # 清理空白行
+                    logging.info(f"成功获取子内容: {item}")
                     break
                 except requests.exceptions.RequestException as e:
-                    logging.warning(f"Retrying {item} in 5 seconds due to error: {e}")
+                    logging.warning(f"重试 {item} 由于错误: {e}")
                     time.sleep(5)
         else:
             final_value.append(item)
@@ -69,24 +77,27 @@ for match in matches:
         "values": final_value,
         "errors": []
     }
+    logging.info(f"处理完键: {key}")
 
 # 定义过滤和修剪函数
 def filter_and_trim_values(values):
     filtered_values = []
     for item in values:
-        # 过滤掉以#或payload开头的行
-        if item.startswith('#') or item.startswith('payload'):
-            continue
-
         # 去掉字符串两边和中间的所有空格
         item = ''.join(item.split())
 
-        # 判断字符串两端是否有非字母中文数字
-        if re.match(r'^[a-zA-Z0-9\u4e00-\u9fa5].*[a-zA-Z0-9\u4e00-\u9fa5]$', item):
+        # 过滤掉以#或payload开头的行
+        if item.startswith('#') or item.startswith('payload'):
+            logging.info(f"跳过行: {item}")
+            continue
+
+        # 判断字符串所有字符是否有非.字母中文数字的字符
+        if re.match(r'^[a-zA-Z0-9\u4e00-\u9fa5.]+$', item):
             # 判断是否为域名
             try:
                 dns.resolver.resolve(item, 'A')
                 filtered_values.append(f"+.{item}")
+                logging.info(f"添加域名: +.{item}")
                 continue
             except (dns.resolver.NXDOMAIN, dns.resolver.NoAnswer, dns.resolver.Timeout, dns.resolver.NoNameservers):
                 pass
@@ -94,17 +105,20 @@ def filter_and_trim_values(values):
         # 修剪内容，去掉两端所有非字母中文数字:+*.
         item_trimmed = re.sub(r'^[^\w\u4e00-\u9fa5:+*.]+|[^\w\u4e00-\u9fa5:+*.]+$', '', item)
 
-        # 判断字符串中包含的非字母中文数字()$/\^-,:+*.字符的数量是否大于3
+        # 判断字符串所有字符中包含的非字母中文数字()$正斜杠反斜杠^-,:+*.字符的数量是否大于3个
         special_characters_count = len(re.findall(r'[^a-zA-Z0-9\u4e00-\u9fa5()$/\\^,:+*.]', item_trimmed))
         if special_characters_count > 3:
+            logging.info(f"剔除非法内容: {item_trimmed}")
             continue  # 剔除非法内容
 
         filtered_values.append(item_trimmed)
+        logging.info(f"添加修剪后的内容: {item_trimmed}")
     return filtered_values
 
 # 处理字典中的每一组数据
 filtered_dict = {}
 for key, content in data_dict.items():
+    logging.info(f"过滤和修剪值: {key}")
     filtered_values = filter_and_trim_values(content["values"])
     filtered_dict[key] = {
         "values": filtered_values,
@@ -201,8 +215,7 @@ def sort_classic_items(items):
         "AND": 24,
         "OR": 25,
         "NOT": 26,
-        "SUB-RULE": 27,
-        "MATCH": 28
+        "SUB-RULE": 27
     }
 
     item_counts = {key: 0 for key in order.keys()}
