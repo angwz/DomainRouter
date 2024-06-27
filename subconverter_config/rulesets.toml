@@ -235,11 +235,13 @@ ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-cl
 type = "clash-classic"
 interval = 21600
 
-[[rulesets]]
-group = "DIRECT"
-ruleset = "[]RULE-SET,https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/China-ipcidr.yaml,no-resolve"
-type = "clash-ipcidr"
-interval = 21600
+# [[rulesets]]
+# group = "DIRECT"
+# ruleset = "[]https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/China-ipcidr.yaml,no-resolve"
+# type = "clash-ipcidr"
+# interval = 21600
+
+rulesets=DIRECT,clash-classic:https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/China.yaml,21600
 
 
 [[rulesets]]
