@@ -77,25 +77,29 @@ def filter_and_trim_values(values):
         # 过滤掉以#或payload开头的行
         if item.startswith('#') or item.startswith('payload'):
             continue
-        # 判断是否为域名，如果是，则不修剪，直接在前面加上"+."
-        try:
-            dns.resolver.resolve(item, 'A')
-            filtered_values.append(f"+.{item}")
-            continue
-        except dns.resolver.NXDOMAIN:
-            pass
-        except dns.resolver.NoAnswer:
-            pass
-        except dns.resolver.Timeout:
-            pass
-        except dns.resolver.NoNameservers:
-            pass
 
-        # 修剪内容，去掉多余的空格、-和单引号
-        item = item.strip().strip('-').strip().strip("'")
-        # 仅保留特定模式的内容
-        if re.match(r'^[a-zA-Z0-9\+\*\.].*[a-zA-Z0-9\+\*\.]$', item):
-            filtered_values.append(item)
+        # 去掉字符串两边和中间的所有空格
+        item = ''.join(item.split())
+
+        # 判断字符串两端是否有非字母中文数字
+        if re.match(r'^[a-zA-Z0-9\u4e00-\u9fa5].*[a-zA-Z0-9\u4e00-\u9fa5]$', item):
+            # 判断是否为域名
+            try:
+                dns.resolver.resolve(item, 'A')
+                filtered_values.append(f"+.{item}")
+                continue
+            except (dns.resolver.NXDOMAIN, dns.resolver.NoAnswer, dns.resolver.Timeout, dns.resolver.NoNameservers):
+                pass
+
+        # 修剪内容，去掉两端所有非字母中文数字:+*.
+        item_trimmed = re.sub(r'^[^\w\u4e00-\u9fa5:+*.]+|[^\w\u4e00-\u9fa5:+*.]+$', '', item)
+
+        # 判断字符串中包含的非字母中文数字()$/\^-,:+*.字符的数量是否大于3
+        special_characters_count = len(re.findall(r'[^a-zA-Z0-9\u4e00-\u9fa5()$/\\^,:+*.]', item_trimmed))
+        if special_characters_count > 3:
+            continue  # 剔除非法内容
+
+        filtered_values.append(item_trimmed)
     return filtered_values
 
 # 处理字典中的每一组数据
@@ -249,6 +253,15 @@ def format_item(item, item_type):
         return f"  - '{item}'"
     else:
         parts = item.split(',')
+        valid_prefixes = [
+            "DOMAIN-KEYWORD", "DOMAIN-REGEX", "GEOSITE", "IP-SUFFIX", "IP-ASN", "GEOIP", "SRC-GEOIP", "SCR-IP-ASN",
+            "SRC-IP-CIDR", "SRC-IP-SUFFIX", "DST-PORT", "SRC-PORT", "IN-PORT", "IN-TYPE", "IN-USER", "IN-NAME",
+            "PROCESS-PATH", "PROCESS-PATH-REGEX", "PROCESS-NAME", "PROCESS-NAME-REGEX", "UID", "NETWORK", "DSCP",
+            "RULE-SET", "AND", "OR", "NOT", "SUB-RULE"
+        ]
+        if parts[0].upper() not in valid_prefixes:
+            return None  # 剔除不符合的内容
+
         if 'ip' in parts[0].lower():
             if not item.endswith(',no-resolve'):
                 item += ',no-resolve'
@@ -259,7 +272,7 @@ def deduplicate(items):
     seen = set()
     deduped_items = []
     for item in items:
-        if item not in seen:
+        if item and item not in seen:
             deduped_items.append(item)
             seen.add(item)
     return deduped_items
@@ -340,9 +353,9 @@ for key, content in filtered_dict.items():
     # 排序 格式化后的 domain 列表
     sorted_formatted_domain_list = sort_formatted_domain_items(formatted_domain_list)
     # 再次格式化 排序后的 domain 列表
-    deduped_domain_list = deduplicate([format_item(item, "domain") for item in sorted_formatted_domain_list])
-    deduped_ipcidr_list = deduplicate([format_item(item, "ipcidr") for item in ipcidr_list])
-    deduped_classical_list = deduplicate([format_item(item, "classic") for item in classical_list])
+    deduped_domain_list = deduplicate([format_item(item, "domain") for item in sorted_formatted_domain_list if item])
+    deduped_ipcidr_list = deduplicate([format_item(item, "ipcidr") for item in ipcidr_list if item])
+    deduped_classical_list = deduplicate([format_item(item, "classic") for item in classical_list if item])
 
     # 统计数量
     domain_total = len(deduped_domain_list)
