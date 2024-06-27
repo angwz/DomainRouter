@@ -243,6 +243,10 @@ interval = 21600
 
 
 [[rulesets]]
+group = "DIRECT"
+ruleset = "[]RULE-SET,China-ipcidr,no-resolve"
+
+[[rulesets]]
 group = "Ⓜ️ Meta"
 ruleset = "[]GEOIP,FACEBOOK,no-resolve"
 
