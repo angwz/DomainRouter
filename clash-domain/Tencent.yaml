@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-27 17:30:08
+# UPDATED: 2024-06-28 03:17:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 615
+# TOTAL: 614
 payload:
   - '+.1700.cn'
   - '+.17roco.com'
@@ -517,7 +517,6 @@ payload:
   - '+.wxutil.com'
   - '+.xdxiaoshuo.com'
   - '+.xn--owtw8cc49ajfl.cn'
-  - '+.xn--r70as2s.xn--fiqs8s'
   - '+.xqymuy.com'
   - '+.xs.cn'
   - '+.xs8.cn'

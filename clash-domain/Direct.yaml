@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-27 17:30:07
+# UPDATED: 2024-06-28 03:17:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 386
+# TOTAL: 387
 payload:
   - '+.596743944.top'
   - '+.acl4.ssr'
@@ -16,7 +16,6 @@ payload:
   - '+.getxlx.com'
   - '+.hiwifi.com'
   - '+.home.arpa'
-  - '+.infini-cloud.net'
   - '+.leike.cc'
   - '+.msftconnecttest.com'
   - '+.msftncsi.com'
@@ -42,6 +41,7 @@ payload:
   - '+.wifi.cmcc'
   - '+.wmsjsteam.com'
   - '+.zte.home'
+  - '+.小米.中国'
   - '+.0.in-addr.arpa'
   - '+.10.in-addr.arpa'
   - '+.127.in-addr.arpa'
@@ -161,6 +161,7 @@ payload:
   - '+.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
   - '+.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
   - 'asusrouter.com'
+  - 'infini-cloud.net'
   - 'wmsjsteam.com'
   - 'a1.mzstatic.com'
   - 'a2.mzstatic.com'

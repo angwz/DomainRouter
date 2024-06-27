@@ -1,9 +1,9 @@
 # NAME: Apple
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-27 17:30:08
+# UPDATED: 2024-06-28 03:17:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 3306
+# TOTAL: 3292
 payload:
   - '+.apple'
   - '+.100beatscheap.com'
@@ -1149,7 +1149,6 @@ payload:
   - '+.mmonsterheadphones.net'
   - '+.mobileme.dk'
   - '+.monbeats2013.com'
-  - '+.monster-beats-by-dr-dre.com'
   - '+.monster-beats-headphones.com'
   - '+.monsterbeats-cheap.com'
   - '+.monsterbeats-headphone.com'
@@ -1380,14 +1379,8 @@ payload:
   - '+.wwwmacbookair.com'
   - '+.xn--czrs0t4phtr3a.cn'
   - '+.xn--fiqs8sxootzz.cn'
-  - '+.xn--fiqs8sxootzz.xn--hxt814e'
-  - '+.xn--gtvq61aiijy0b.xn--hxt814e'
   - '+.xn--gtvz22d.wang'
-  - '+.xn--gtvz22d.xn--hxt814e'
-  - '+.xn--hxtr4rozx.xn--czr694b'
-  - '+.xn--kput3imi374g.xn--hxt814e'
   - '+.xn--ohq11k7pl25iyo8a.cn'
-  - '+.xn--ruq8a011kt6y.xn--hxt814e'
   - '+.yourmonsterbeats.com'
   - '+.12diasderegalosdeitunes.co.cr'
   - '+.12diasderegalosdeitunes.co.ni'
@@ -1536,7 +1529,11 @@ payload:
   - '+.researchkit.com.cn'
   - '+.swiftui.com.cn'
   - '+.webobjects.co.uk'
+  - '+.appleworldwidedeveloper.sc.omtrdc.net'
+  - '+.beatselectronicsllc.tt.omtrdc.net'
+  - '+.e16991.b.akamaiedge.net'
   - '+.itunes-apple.com.akadns.net'
+  - '+.appldnld.apple.com.edgesuite.net'
   - '.100beatscheap.com'
   - '.12diasdepresentesdeitunes.com'
   - '.12diasderegalosdeitunes.cl'
@@ -2689,7 +2686,6 @@ payload:
   - '.mmonsterheadphones.net'
   - '.mobileme.dk'
   - '.monbeats2013.com'
-  - '.monster-beats-by-dr-dre.com'
   - '.monster-beats-headphones.com'
   - '.monsterbeats-cheap.com'
   - '.monsterbeats-headphone.com'
@@ -2923,14 +2919,8 @@ payload:
   - '.wwwmacbookair.com'
   - '.xn--czrs0t4phtr3a.cn'
   - '.xn--fiqs8sxootzz.cn'
-  - '.xn--fiqs8sxootzz.xn--hxt814e'
-  - '.xn--gtvq61aiijy0b.xn--hxt814e'
   - '.xn--gtvz22d.wang'
-  - '.xn--gtvz22d.xn--hxt814e'
-  - '.xn--hxtr4rozx.xn--czr694b'
-  - '.xn--kput3imi374g.xn--hxt814e'
   - '.xn--ohq11k7pl25iyo8a.cn'
-  - '.xn--ruq8a011kt6y.xn--hxt814e'
   - '.yourmonsterbeats.com'
   - '.12diasderegalosdeitunes.co.cr'
   - '.12diasderegalosdeitunes.co.ni'
@@ -3210,7 +3200,6 @@ payload:
   - 'courier-push-apple.com.akadns.net'
   - 'download.developer.apple.com'
   - 'downloaddispatch.itunes.apple.com'
-  - 'e16991.b.akamaiedge.net'
   - 'gsp10-ssl-cn.ls.apple.com'
   - 'gsp12-cn.ls.apple.com'
   - 'gsp13-cn.ls.apple.com'
@@ -3263,9 +3252,6 @@ payload:
   - 'sync.itunes.apple.com'
   - 'upp.itunes.apple.com'
   - 'adcdownload.apple.com.akadns.net'
-  - 'amp-api-edge-lb-cn.itunes-apple.com.akadns.net'
-  - 'amp-api-edge-lb.itunes-apple.com.akadns.net'
-  - 'appldnld.apple.com.edgesuite.net'
   - 'cds.apple.com.akadns.net'
   - 'certs-lb.apple.com.akadns.net'
   - 'cl1-cdn.origin-apple.com.akadns.net'

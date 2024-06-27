@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-27 17:30:08
+# UPDATED: 2024-06-28 03:17:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 8537
+# TOTAL: 8528
 payload:
   - '+.adult'
   - '+.bbc'
@@ -7929,7 +7929,6 @@ payload:
   - '+.9now.com.au'
   - '+.acasadasbrasileirinhas.com.br'
   - '+.adelaidenow.com.au'
-  - '+.adult-doujin-free-information-bureau.officialblog.jp'
   - '+.adult.toonsearch.net'
   - '+.adult789.futoka.jp'
   - '+.adultartlinks.supertop-100.com'
@@ -8466,8 +8465,6 @@ payload:
   - '+.climateone.blogspot.co.id'
   - '+.dc1-lm-live2dazn.secure.footprint.net'
   - '+.dc2-vodhls-perform.secure.footprint.net'
-  - '+.dca-ll-livedazn-dznlivejp.s.llnwi.net'
-  - '+.dca-ll-voddazn-dznvodjp.s.llnwi.net'
   - '+.disney.my.sentry.io'
   - '+.edge.api.brightcove.com'
   - '+.espn.hb.omtrdc.net'
@@ -8485,7 +8482,6 @@ payload:
   - '+.wide-youtube.l.google.com'
   - '+.youtube-ui.l.google.com'
   - '+.cbsi.live.ott.irdeto.com'
-  - '+.cf-images.ap-southeast-1.prod.boltdns.net'
   - '+.disneyplus.com.ssl.sc.omtrdc.net'
   - 'anime-rule34-world.b-cdn.net'
   - 'aod-pod-uk-live.akamaized.net'
@@ -8512,17 +8508,12 @@ payload:
   - 'rpg.pic-imges.com'
   - 'rthklive2-lh.akamaihd.net'
   - 've-dash-uk-live.akamaized.net'
-  - 've-uhd-push-uk-live.akamaized.net'
   - 'vod-dash-uk-live.akamaized.net'
   - 'vod-dash-ww-live.akamaized.net'
   - 'vod-hls-uk-live.akamaized.net'
   - 'vod-sub-uk-live.akamaized.net'
   - 'vod-thumb-uk-live.akamaized.net'
   - 'vod-thumb-ww-live.akamaized.net'
-  - 'vs-cmaf-push-uk-live.akamaized.net'
-  - 'vs-cmaf-pushb-ww-live.akamaized.net'
-  - 'vs-hls-push-uk-live.akamaized.net'
-  - 'vs-hls-pushb-uk-live.akamaized.net'
   - 'widgets.stripst.com'
   - 'asahishimbun.sc.omtrdc.net'
   - 'cache.video.iqiyi.com'

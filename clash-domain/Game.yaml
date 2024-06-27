@@ -1,9 +1,9 @@
 # NAME: Game
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-27 17:30:08
+# UPDATED: 2024-06-28 03:17:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 766
+# TOTAL: 764
 payload:
   - '+.playstation'
   - '+.xbox'
@@ -704,7 +704,6 @@ payload:
   - '+.ubisoft-uplay-savegames.s3.amazonaws.com'
   - '+.wow.nosdn.127.net'
   - '+.edge.steam-dns.top.comcast.net'
-  - '+.majsoul-hk-client.cn-hongkong.log.aliyuncs.com'
   - '+.steam.cdn.orcon.net.nz'
   - '+.steam.cdn.slingshot.co.nz'
   - 'a.ppy.sh'
@@ -728,7 +727,6 @@ payload:
   - 'gog.qtlglb.com'
   - 'gog.salesmanago.com'
   - 'gogalaxy.gog-statics.com'
-  - 'img-prod-cms-rt-microsoft-com.akamaized.net'
   - 'lazer.ppy.sh'
   - 'login.live.com'
   - 'logincdn.msauth.net'

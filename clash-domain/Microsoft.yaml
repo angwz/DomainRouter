@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-27 17:30:08
+# UPDATED: 2024-06-28 03:17:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 768
+# TOTAL: 757
 payload:
   - '+.azure'
   - '+.bing'
@@ -662,8 +662,6 @@ payload:
   - '+.ditu.live.com'
   - '+.download.windowsupdate.com'
   - '+.g.akamaiedge.net'
-  - '+.img-prod-cms-rt-microsoft-com.akamaized.net'
-  - '+.img-s-msn-com.akamaized.net'
   - '+.joinms.com.cn'
   - '+.live.com.au'
   - '+.microsoft-online.com.cn'
@@ -684,15 +682,10 @@ payload:
   - '+.onecollector.cloudapp.aria'
   - '+.onedrive.co.uk'
   - '+.ovi.com.cn'
-  - '+.prod-video-cms-rt-microsoft-com.akamaized.net'
   - '+.reactorms.com.cn'
   - '+.skype-edf.akadns.net'
   - '+.skypedata.akadns.net'
   - '+.spoprod-a.akamaihd.net'
-  - '+.statics-marketingsites-eas-ms-com.akamaized.net'
-  - '+.statics-marketingsites-eus-ms-com.akamaized.net'
-  - '+.statics-marketingsites-neu-ms-com.akamaized.net'
-  - '+.statics-marketingsites-wcus-ms-com.akamaized.net'
   - '+.visualstudio.co.uk'
   - '+.a1158.g.akamai.net'
   - '+.a122.dscg3.akamai.net'
@@ -720,7 +713,6 @@ payload:
   - 'dtlgalleryint.cloudapp.net'
   - 'emoi-cncdn.bing.com'
   - 'fs.microsoft.com'
-  - 'img-prod-cms-rt-microsoft-com.akamaized.net'
   - 'img-s-msn-com.akamaized.net'
   - 'learn.microsoft.com'
   - 'location.microsoft.com'
@@ -735,9 +727,6 @@ payload:
   - 'psg-int-eastus.cloudapp.net'
   - 'rink.hockeyapp.net'
   - 'sdx.microsoft.com'
-  - 'statics-marketingsites-eas-ms-com.akamaized.net'
-  - 'statics-marketingsites-eus-ms-com.akamaized.net'
-  - 'statics-marketingsites-wcus-ms-com.akamaized.net'
   - 'vscode-sync-insiders.trafficmanager.net'
   - 'vscode-sync.trafficmanager.net'
   - 'vsmarketplacebadge.apphb.com'
