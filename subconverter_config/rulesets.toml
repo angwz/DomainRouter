@@ -241,7 +241,7 @@ interval = 21600
 # type = "clash-ipcidr"
 # interval = 21600
 
-rulesets=DIRECT,clash-classic:https://raw.githubusercontent.com/angwz/Clash_Angrules/main/Rules/China.yaml,21600
+
 
 
 [[rulesets]]
