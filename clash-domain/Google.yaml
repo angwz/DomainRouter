@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-28 03:31:25 (UTC+8)
+# UPDATED: 2024-06-28 03:49:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 1213
+# TOTAL: 1214
 payload:
   - '+.and'
   - '+.chrome'
@@ -597,6 +597,7 @@ payload:
   - '+.xn--gogl-0nd52e.com'
   - '+.xn--gogl-1nd42e.com'
   - '+.xn--ngstr-lra8j.com'
+  - '+.xn--p8j9a0d9c9a.xn--q9jyb4c'
   - '+.xplr.co'
   - '+.youtu.be'
   - '+.youtube-nocookie.com'

@@ -1,9 +1,9 @@
 # NAME: Xbox
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-28 03:31:25 (UTC+8)
+# UPDATED: 2024-06-28 03:49:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 44
+# TOTAL: 45
 payload:
   - '+.xbox'
   - '+.beth.games'
@@ -46,6 +46,7 @@ payload:
   - '+.xboxservices.com'
   - '+.xboxstudios.com'
   - '+.xbx.lv'
+  - 'img-prod-cms-rt-microsoft-com.akamaized.net'
   - 'login.live.com'
   - 'logincdn.msauth.net'
   - 'store-images.s-microsoft.com'

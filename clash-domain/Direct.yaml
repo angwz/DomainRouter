@@ -1,14 +1,13 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-28 03:31:23 (UTC+8)
+# UPDATED: 2024-06-28 03:48:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 387
+# TOTAL: 386
 payload:
   - '+.596743944.top'
   - '+.acl4.ssr'
   - '+.angwz.com'
-  - '+.angwz.top'
   - '+.axe.is'
   - '+.desperadoj.com'
   - '+.donghui.tech'
@@ -38,11 +37,9 @@ payload:
   - '+.tplinkwifi.net'
   - '+.tplogin.cn'
   - '+.ts.net'
-  - '+.weesire.com'
   - '+.wifi.cmcc'
   - '+.wmsjsteam.com'
   - '+.zte.home'
-  - '+.小米.中国'
   - '+.0.in-addr.arpa'
   - '+.10.in-addr.arpa'
   - '+.127.in-addr.arpa'
@@ -161,7 +158,9 @@ payload:
   - '+.8.b.d.0.1.0.0.2.ip6.arpa'
   - '+.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
   - '+.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
+  - 'angwz.top'
   - 'asusrouter.com'
+  - 'weesire.com'
   - 'wmsjsteam.com'
   - 'a1.mzstatic.com'
   - 'a2.mzstatic.com'

@@ -1,9 +1,9 @@
 # NAME: GitHub
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-28 03:31:25 (UTC+8)
+# UPDATED: 2024-06-28 03:49:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 29
+# TOTAL: 31
 payload:
   - '+.atom.io'
   - '+.dependabot.com'
@@ -32,5 +32,7 @@ payload:
   - '+.repo.new'
   - '+.thegithubshop.com'
   - '+.blob.core.windows.net'
+  - '+.github-atom-io-herokuapp-com.freetls.fastly.net'
+  - '+.github-avatars.oss-cn-hongkong.aliyuncs.com'
   - '+.github-cloud.s3.amazonaws.com'
   - 'github-cloud.s3.amazonaws.com'

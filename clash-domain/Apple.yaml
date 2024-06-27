@@ -1,9 +1,9 @@
 # NAME: Apple
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-28 03:31:25 (UTC+8)
+# UPDATED: 2024-06-28 03:49:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 3294
+# TOTAL: 3310
 payload:
   - '+.apple'
   - '+.100beatscheap.com'
@@ -1149,6 +1149,7 @@ payload:
   - '+.mmonsterheadphones.net'
   - '+.mobileme.dk'
   - '+.monbeats2013.com'
+  - '+.monster-beats-by-dr-dre.com'
   - '+.monster-beats-headphones.com'
   - '+.monsterbeats-cheap.com'
   - '+.monsterbeats-headphone.com'
@@ -1379,8 +1380,14 @@ payload:
   - '+.wwwmacbookair.com'
   - '+.xn--czrs0t4phtr3a.cn'
   - '+.xn--fiqs8sxootzz.cn'
+  - '+.xn--fiqs8sxootzz.xn--hxt814e'
+  - '+.xn--gtvq61aiijy0b.xn--hxt814e'
   - '+.xn--gtvz22d.wang'
+  - '+.xn--gtvz22d.xn--hxt814e'
+  - '+.xn--hxtr4rozx.xn--czr694b'
+  - '+.xn--kput3imi374g.xn--hxt814e'
   - '+.xn--ohq11k7pl25iyo8a.cn'
+  - '+.xn--ruq8a011kt6y.xn--hxt814e'
   - '+.yourmonsterbeats.com'
   - '+.12diasderegalosdeitunes.co.cr'
   - '+.12diasderegalosdeitunes.co.ni'
@@ -2691,6 +2698,7 @@ payload:
   - '.mmonsterheadphones.net'
   - '.mobileme.dk'
   - '.monbeats2013.com'
+  - '.monster-beats-by-dr-dre.com'
   - '.monster-beats-headphones.com'
   - '.monsterbeats-cheap.com'
   - '.monsterbeats-headphone.com'
@@ -2924,8 +2932,14 @@ payload:
   - '.wwwmacbookair.com'
   - '.xn--czrs0t4phtr3a.cn'
   - '.xn--fiqs8sxootzz.cn'
+  - '.xn--fiqs8sxootzz.xn--hxt814e'
+  - '.xn--gtvq61aiijy0b.xn--hxt814e'
   - '.xn--gtvz22d.wang'
+  - '.xn--gtvz22d.xn--hxt814e'
+  - '.xn--hxtr4rozx.xn--czr694b'
+  - '.xn--kput3imi374g.xn--hxt814e'
   - '.xn--ohq11k7pl25iyo8a.cn'
+  - '.xn--ruq8a011kt6y.xn--hxt814e'
   - '.yourmonsterbeats.com'
   - '.12diasderegalosdeitunes.co.cr'
   - '.12diasderegalosdeitunes.co.ni'
@@ -3255,6 +3269,8 @@ payload:
   - 'sync.itunes.apple.com'
   - 'upp.itunes.apple.com'
   - 'adcdownload.apple.com.akadns.net'
+  - 'amp-api-edge-lb-cn.itunes-apple.com.akadns.net'
+  - 'amp-api-edge-lb.itunes-apple.com.akadns.net'
   - 'cds.apple.com.akadns.net'
   - 'certs-lb.apple.com.akadns.net'
   - 'cl1-cdn.origin-apple.com.akadns.net'
