@@ -241,9 +241,6 @@ ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ip
 type = "clash-ipcidr"
 interval = 21600
 
-[[rulesets]]
-group = "DIRECT"
-ruleset = "[]rulesets,China-ipcidr,no-resolve"
 
 [[rulesets]]
 group = "Ⓜ️ Meta"
