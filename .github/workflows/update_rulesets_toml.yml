@@ -58,6 +58,7 @@ jobs:
         else
           echo "Changes detected"
           echo "no_changes=false" >> $GITHUB_ENV
+        fi
 
     - name: Commit and push changes
       if: env.no_changes == 'false'
