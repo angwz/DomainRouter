@@ -491,12 +491,12 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🌈 香港高速"
-ruleset = "[]GEOIP,HK,no-resolve"
-
-[[rulesets]]
 group = "🗽 美国分流"
 ruleset = "[]GEOIP,US,no-resolve"
+
+[[rulesets]]
+group = "🌈 香港高速"
+ruleset = "[]GEOIP,HK,no-resolve"
 
 [[rulesets]]
 group = "DIRECT"
