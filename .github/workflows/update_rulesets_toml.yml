@@ -33,6 +33,7 @@ jobs:
 
     - name: Stash changes if any
       run: |
+        git add rulesets.toml
         git stash --include-untracked
 
     - name: Checkout or create release branch
@@ -47,6 +48,7 @@ jobs:
 
     - name: Apply stashed changes
       run: |
+        rm -f rulesets.toml
         git stash pop || echo "No changes to apply"
 
     - name: Check for changes
