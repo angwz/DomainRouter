@@ -18,7 +18,7 @@ jobs:
           workflow: update_domain_rules.yml
           token: ${{ secrets.FULL_ACCESS_TOKEN }}
 
-  wait:
+  wait_and_trigger_update_rulesets:
     runs-on: ubuntu-latest
     needs: update_domain_rules
 
@@ -26,11 +26,6 @@ jobs:
       - name: Wait for 30 seconds
         run: sleep 30
 
-  update_rulesets_toml:
-    runs-on: ubuntu-latest
-    needs: wait
-
-    steps:
       - name: Trigger update_rulesets_toml workflow
         uses: benc-uk/workflow-dispatch@v1
         with:
