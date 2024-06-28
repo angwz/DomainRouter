@@ -76,7 +76,7 @@ ruleset = "{url}"
 type = "{url_type}"
 interval = {interval}
 """)
-                time.sleep(0.5)  # 每次请求间隔0.5秒
+                time.sleep(0.2)  # 每次请求间隔0.5秒
         else:
             # 处理包含逗号的规则
             value_parts = value.split(',', 1)
