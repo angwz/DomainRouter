@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout main repository
       uses: actions/checkout@v2
       with:
         ref: main
@@ -27,37 +27,26 @@ jobs:
       run: |
         pip install requests toml
 
-    - name: Backup script
-      run: |
-        cp script/generate_rulesets.py /tmp/generate_rulesets.py
-
-    - name: Checkout or create release branch
-      run: |
-        git fetch origin
-        if git ls-remote --heads origin release; then
-          git checkout release
-        else
-          git checkout -b release
-        fi
-
-    - name: Restore script
-      run: |
-        cp /tmp/generate_rulesets.py script/generate_rulesets.py
-
     - name: Run script
       run: |
-        mkdir -p toml
+        mkdir -p /tmp/toml
         python script/generate_rulesets.py
+        cp toml/rulesets.toml /tmp/toml/rulesets.toml
 
-    - name: Copy latest generated file
+    - name: Checkout release branch
       run: |
-        cp toml/rulesets.toml .
+        git fetch origin
+        git checkout release
+
+    - name: Copy generated file to release branch
+      run: |
+        cp /tmp/toml/rulesets.toml toml/rulesets.toml
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add rulesets.toml
+        git add toml/rulesets.toml
         git commit -m 'Update rulesets.toml'
         git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release
 
@@ -84,6 +73,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: rulesets.toml
+        asset_path: toml/rulesets.toml
         asset_name: rulesets.toml
         asset_content_type: text/plain
