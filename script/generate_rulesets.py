@@ -1,6 +1,7 @@
 import requests
 import time
 import toml
+import os
 
 def fetch_rules(url):
     # 获取远程文件内容
@@ -113,7 +114,11 @@ def main():
     content = fetch_rules(url)
     rules, matches = parse_rules(content)
     rulesets = generate_rulesets(rules, matches)
-    output_file = "rulesets.toml"
+    output_dir = "toml"
+    output_file = os.path.join(output_dir, "rulesets.toml")
+
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
     toml_data = {"rulesets": rulesets}
     

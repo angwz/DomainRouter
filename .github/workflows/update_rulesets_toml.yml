@@ -2,7 +2,7 @@ name: Update Rulesets TOML
 
 on:
   schedule:
-    - cron: '0 18 * * 0' # 北京时间周一02点00分（UTC时间周日18点00分）
+    - cron: '0 16 * * 0' # 北京时间周一00点00分（UTC时间周日16点00分）
   workflow_dispatch: # 手动触发
 
 permissions:
@@ -27,8 +27,9 @@ jobs:
       run: |
         pip install requests toml
 
-    - name: Run script
+    - name: Run generate_rulesets script
       run: |
+        mkdir -p toml
         python script/generate_rulesets.py
 
     - name: Checkout or create release branch
@@ -42,7 +43,7 @@ jobs:
 
     - name: Copy generated rulesets file
       run: |
-        cp rulesets.toml .
+        cp toml/rulesets.toml .
 
     - name: Commit and push changes
       run: |
