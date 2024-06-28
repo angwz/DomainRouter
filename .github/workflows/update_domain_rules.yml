@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 16 * * *' # 每天北京时间12点（UTC时间04:00）
   workflow_dispatch: # 手动触发
+  push:
+    branches:
+      - main
+    paths:
+      - my.wei
 
 permissions:
   contents: write
@@ -55,7 +60,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add clash-domain/ clash-ipcidr/ clash-classic/
+        git add clash-domain/ clash-ipcidr clash-classic/
         git commit -m 'Update clash-domain, clash-ipcidr, and clash-classic files'
         git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release
 
@@ -81,5 +86,19 @@ jobs:
         for file in clash-domain/*.yaml; do
           gh release upload ${{ steps.generate_tag.outputs.tag }} "$file" --clobber
         done
+      env:
+        GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
+
+    - name: Trigger update_rulesets_toml workflow
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const response = await github.rest.actions.createWorkflowDispatch({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            workflow_id: 'update_rulesets_toml.yml',
+            ref: 'main'
+          });
+          return response.data;
       env:
         GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
