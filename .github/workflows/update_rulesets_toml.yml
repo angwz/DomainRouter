@@ -1,4 +1,4 @@
-name: Generate Rulesets
+name: Update Rulesets TOML
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  generate_rulesets:
+  update_rulesets_toml:
     runs-on: ubuntu-latest
 
     steps:
