@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update_cn_conf:
+  update_rulesets_toml:
     runs-on: ubuntu-latest
 
     steps:
@@ -37,7 +37,7 @@ jobs:
         git fetch origin
         if git ls-remote --heads origin release; then
           git checkout release
-        else
+        else:
           git checkout -b release
         fi
 
@@ -66,7 +66,7 @@ jobs:
         tag_name: ${{ steps.generate_tag.outputs.tag }}
         release_name: Release ${{ steps.generate_tag.outputs.tag }}
         body: |
-          This is an automated release to update the rulesets.
+          This is an automated release to update the rulesets configuration.
         draft: false
         prerelease: false
 
