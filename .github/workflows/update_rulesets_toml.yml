@@ -1,8 +1,8 @@
-name: Update Rulesets TOML
+name: Generate Rulesets
 
 on:
   schedule:
-    - cron: '0 17 * * *' # 北京时间每天01点00分（UTC时间每天17点00分）
+    - cron: '0 18 * * 0' # 北京时间周一02点00分（UTC时间周日18点00分）
   workflow_dispatch: # 手动触发
 
 permissions:
@@ -31,11 +31,6 @@ jobs:
       run: |
         python script/generate_rulesets.py
 
-    - name: Stash changes if any
-      run: |
-        git add rulesets.toml
-        git stash --include-untracked
-
     - name: Checkout or create release branch
       run: |
         git fetch origin
@@ -43,31 +38,43 @@ jobs:
           git checkout release
         else
           git checkout -b release
-          git push --set-upstream origin release
         fi
 
-    - name: Apply stashed changes and resolve conflicts
+    - name: Copy generated rulesets file
       run: |
-        git stash pop || echo "No changes to apply"
-        git checkout --theirs rulesets.toml
-        git add rulesets.toml
-
-    - name: Check for changes
-      id: check_changes
-      run: |
-        if git diff --quiet; then
-          echo "No changes detected"
-          echo "no_changes=true" >> $GITHUB_ENV
-        else
-          echo "Changes detected"
-          echo "no_changes=false" >> $GITHUB_ENV
-        fi
+        cp rulesets.toml .
 
     - name: Commit and push changes
-      if: env.no_changes == 'false'
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add rulesets.toml
         git commit -m 'Update rulesets.toml'
         git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release
+
+    - name: Generate tag name
+      id: generate_tag
+      run: echo ::set-output name=tag::release-$(date +%Y%m%d-%H%M%S)
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
+      with:
+        tag_name: ${{ steps.generate_tag.outputs.tag }}
+        release_name: Release ${{ steps.generate_tag.outputs.tag }}
+        body: |
+          This is an automated release to update the rulesets.
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: rulesets.toml
+        asset_name: rulesets.toml
+        asset_content_type: text/plain
