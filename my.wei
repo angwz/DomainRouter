@@ -296,7 +296,7 @@ Proxy: 🌠 节点选择
 GEOIP,TELEGRAM: 🌠 节点选择,no-resolve
 China: DIRECT
 
-GEOIP,HK: 🌈 香港高速,no-resolve
 GEOIP,US: 🗽 美国分流,no-resolve
+GEOIP,HK: 🌈 香港高速,no-resolve
 GEOIP,CN: DIRECT
 MATCH: 🐳 漏网の鱼
