@@ -1,0 +1,39 @@
+[[rulesets]]
+group = "Ⓜ️ Meta"
+ruleset = "[]GEOIP,FACEBOOK,no-resolve"
+
+[[rulesets]]
+group = "📽️ Netflix"
+ruleset = "[]GEOIP,NETFLIX,no-resolve"
+
+[[rulesets]]
+group = "🕊️ X"
+ruleset = "[]GEOIP,TWITTER,no-resolve"
+
+[[rulesets]]
+group = "💻 Google"
+ruleset = "[]GEOIP,GOOGLE,no-resolve"
+
+[[rulesets]]
+group = "🌠 节点选择"
+ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
+
+[[rulesets]]
+group = "🌠 节点选择"
+ruleset = "[]GEOIP,TELEGRAM,no-resolve"
+
+[[rulesets]]
+group = "🌈 香港高速"
+ruleset = "[]GEOIP,HK,no-resolve"
+
+[[rulesets]]
+group = "🗽 美国分流"
+ruleset = "[]GEOIP,US,no-resolve"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "[]GEOIP,CN"
+
+[[rulesets]]
+group = "🐳 漏网の鱼"
+ruleset = "[]MATCH"
