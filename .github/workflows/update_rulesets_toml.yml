@@ -32,7 +32,7 @@ jobs:
         git fetch origin
         if git ls-remote --heads origin release; then
           git checkout release
-        else:
+        else
           git checkout -b release
         fi
 
