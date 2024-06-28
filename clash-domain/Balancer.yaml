@@ -1,0 +1,8 @@
+# NAME: Balancer
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-28 16:03:41 (UTC+8)
+# TYPE: domain
+# TOTAL: 1
+payload:
+  - '+.zhipin.com'

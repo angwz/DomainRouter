@@ -1,0 +1,11 @@
+# NAME: Direct
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-28 16:03:40 (UTC+8)
+# TYPE: classic
+# TOTAL: 2
+# DST-PORT TOTAL: 1
+# SRC-PORT TOTAL: 1
+payload:
+  - DST-PORT,9993
+  - SRC-PORT,9993
