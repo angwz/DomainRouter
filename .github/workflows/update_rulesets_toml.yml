@@ -49,7 +49,18 @@ jobs:
       run: |
         git stash pop || echo "No changes to apply"
 
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if git diff --quiet; then
+          echo "No changes detected"
+          echo "no_changes=true" >> $GITHUB_ENV
+        else
+          echo "Changes detected"
+          echo "no_changes=false" >> $GITHUB_ENV
+
     - name: Commit and push changes
+      if: env.no_changes == 'false'
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
