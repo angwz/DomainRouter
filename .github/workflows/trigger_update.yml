@@ -13,17 +13,24 @@ jobs:
 
     steps:
       - name: Trigger update_domain_rules workflow
+        id: trigger_domain_rules
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: update_domain_rules.yml
           token: ${{ secrets.FULL_ACCESS_TOKEN }}
 
-  wait_and_trigger_update_rulesets:
-    runs-on: ubuntu-latest
-    needs: update_domain_rules
+      - name: Wait for update_domain_rules to complete
+        run: |
+          sleep 30
+          CHECK_INTERVAL=10
+          while [ "$(gh run list --workflow=update_domain_rules.yml --branch=main --status=in_progress --json conclusion --jq '.[0].conclusion')" == "null" ]; do
+            echo "Waiting for update_domain_rules workflow to complete..."
+            sleep $CHECK_INTERVAL
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
 
-    steps:
-      - name: Wait for 30 seconds
+      - name: Wait additional 30 seconds
         run: sleep 30
 
       - name: Trigger update_rulesets_toml workflow
