@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update_rulesets_toml:
+  update_cn_conf:
     runs-on: ubuntu-latest
 
     steps:
@@ -27,7 +27,7 @@ jobs:
       run: |
         pip install requests toml
 
-    - name: Run generate_rulesets script
+    - name: Run script
       run: |
         mkdir -p toml
         python script/generate_rulesets.py
@@ -41,7 +41,7 @@ jobs:
           git checkout -b release
         fi
 
-    - name: Copy generated rulesets file
+    - name: Copy latest generated file
       run: |
         cp toml/rulesets.toml .
 
@@ -49,8 +49,8 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add -A
-        git commit -m 'Update rulesets.toml' || echo "No changes to commit"
+        git add rulesets.toml
+        git commit -m 'Update rulesets.toml'
         git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release
 
     - name: Generate tag name
