@@ -114,11 +114,10 @@ def main():
     content = fetch_rules(url)
     rules, matches = parse_rules(content)
     rulesets = generate_rulesets(rules, matches)
-    output_dir = "toml"
-    output_file = os.path.join(output_dir, "rulesets.toml")
+    output_file = "toml/rulesets.toml"  # 修改文件路径
 
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    # 确保 toml 目录存在
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
     toml_data = {"rulesets": rulesets}
     
