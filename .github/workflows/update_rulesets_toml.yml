@@ -27,11 +27,6 @@ jobs:
       run: |
         pip install requests toml
 
-    - name: Run script
-      run: |
-        mkdir -p toml
-        python script/generate_rulesets.py
-
     - name: Checkout or create release branch
       run: |
         git fetch origin
@@ -40,6 +35,11 @@ jobs:
         else:
           git checkout -b release
         fi
+
+    - name: Run script
+      run: |
+        mkdir -p toml
+        python script/generate_rulesets.py
 
     - name: Copy latest generated file
       run: |
