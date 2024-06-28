@@ -1,0 +1,20 @@
+# NAME: Google
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-28 15:25:39 (UTC+8)
+# TYPE: classic
+# TOTAL: 11
+# DOMAIN-KEYWORD TOTAL: 5
+# PROCESS-NAME TOTAL: 6
+payload:
+  - DOMAIN-KEYWORD,appspot
+  - DOMAIN-KEYWORD,blogspot
+  - DOMAIN-KEYWORD,gmail
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,recaptcha
+  - PROCESS-NAME,GoogleDriveFS.exe
+  - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.google.android.gms
+  - PROCESS-NAME,com.google.android.gsf
+  - PROCESS-NAME,com.google.android.play.games
+  - PROCESS-NAME,BackupandSync

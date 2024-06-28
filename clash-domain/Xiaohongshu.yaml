@@ -1,0 +1,11 @@
+# NAME: Xiaohongshu
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-28 15:25:39 (UTC+8)
+# TYPE: domain
+# TOTAL: 4
+payload:
+  - '+.fengkongcloud.com'
+  - '+.xhscdn.com'
+  - '+.xhscdn.net'
+  - '+.xiaohongshu.com'
