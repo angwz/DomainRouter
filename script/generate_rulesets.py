@@ -1,5 +1,6 @@
 import requests
 import time
+import toml
 
 def fetch_rules(url):
     # 获取远程文件内容
@@ -70,13 +71,13 @@ def generate_rulesets(rules, matches):
             ]
             for url, url_type in urls:
                 if is_url_valid(url):
-                    rulesets.append(f"""[[rulesets]]
-group = "{value}"
-ruleset = "{url}"
-type = "{url_type}"
-interval = {interval}
-""")
-                time.sleep(0.2)  # 每次请求间隔0.5秒
+                    rulesets.append({
+                        "group": value,
+                        "ruleset": url,
+                        "type": url_type,
+                        "interval": interval
+                    })
+                time.sleep(0.2)  # 每次请求间隔0.2秒
         else:
             # 处理包含逗号的规则
             value_parts = value.split(',', 1)
@@ -86,26 +87,23 @@ interval = {interval}
             ruleset = f"[]{key}{no_resolve}"
             if ruleset.startswith('https'):
                 if is_url_valid(ruleset):
-                    rulesets.append(f"""[[rulesets]]
-group = "{group}"
-ruleset = "{ruleset}"
-""")
+                    rulesets.append({
+                        "group": group,
+                        "ruleset": ruleset
+                    })
                 time.sleep(0.2)
             else:
-                rulesets.append(f"""[[rulesets]]
-group = "{group}"
-ruleset = "{ruleset}"
-""")
+                rulesets.append({
+                    "group": group,
+                    "ruleset": ruleset
+                })
 
     for match_key, match_value in matches:
         # 处理MATCH行
-        rulesets.append(f"""[[rulesets]]
-group = "{match_value}"
-ruleset = "[]MATCH"
-""")
-
-    # 移除列表中前后的空白元素，确保第一行和最后一行都是有效内容
-    rulesets = [ruleset for ruleset in rulesets if ruleset.strip()]
+        rulesets.append({
+            "group": match_value,
+            "ruleset": "[]MATCH"
+        })
 
     return rulesets
 
@@ -117,9 +115,14 @@ def main():
     rulesets = generate_rulesets(rules, matches)
     output_file = "rulesets.toml"
 
+    toml_data = {"rulesets": rulesets}
+    
     with open(output_file, 'w', encoding='utf-8') as f:
         # 写入规则集，不添加额外空行
-        f.write('\n'.join(rulesets))
+        toml_content = toml.dumps(toml_data)
+        # 确保首尾行是内容
+        toml_lines = toml_content.strip().split('\n')
+        f.write('\n'.join(toml_lines))
 
     print(f"规则集已生成并保存到 {output_file}")
 
