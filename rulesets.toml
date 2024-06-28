@@ -17,6 +17,27 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+<<<<<<< Updated upstream
+=======
+group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Direct.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Direct-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Direct-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+>>>>>>> Stashed changes
 group = "📱 TikTok"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/TikTok.yaml"
 type = "clash-domain"
@@ -480,4 +501,8 @@ ruleset = "[]GEOIP,CN"
 
 [[rulesets]]
 group = "🐳 漏网の鱼"
+<<<<<<< Updated upstream
 ruleset = "[]MATCH"
+=======
+ruleset = "[]MATCH"
+>>>>>>> Stashed changes
