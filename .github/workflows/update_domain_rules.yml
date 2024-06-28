@@ -90,15 +90,9 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
 
     - name: Trigger update_rulesets_toml workflow
-      uses: actions/github-script@v6
-      with:
-        script: |
-          const response = await github.rest.actions.createWorkflowDispatch({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            workflow_id: 'update_rulesets_toml.yml',
-            ref: 'main'
-          });
-          return response.data;
-      env:
-        GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
+      run: |
+        curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.FULL_ACCESS_TOKEN }}" \
+          https://api.github.com/repos/angwz/DomainRouter/actions/workflows/update_rulesets_toml.yml/dispatches \
+          -d '{"ref":"main"}'
