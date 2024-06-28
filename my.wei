@@ -257,13 +257,15 @@ AI: 🗨️ ChatGPT
 Direct: DIRECT
 TikTok: 📱 TikTok
 Balancer: 🍇 数据采集
-Tencent: DIRECT
 Bilibili: 📺 哔哩哔哩
 Douyin: 📱 抖音集团
-Game: DIRECT
+Tencent: DIRECT
 Meta: Ⓜ️ Meta
+GEOIP,FACEBOOK: Ⓜ️ Meta,no-resolve
 Netflix: 📽️ Netflix
+GEOIP,NETFLIX: 📽️ Netflix,no-resolve
 X: 🕊️ X
+GEOIP,TWITTER: 🕊️ X,no-resolve
 Apple: 🍎 Apple
 Steam: 🎮 Steam
 OneDrive: ⛅ OneDrive
@@ -272,6 +274,11 @@ GitHub: 🌠 节点选择
 Microsoft: 💾 Microsoft
 YouTube: 🛁 YouTube
 Google: 💻 Google
+GEOIP,GOOGLE: 💻 Google,no-resolve
+Hongkong: 🌈 香港高速
+Japan: 🍙 日本高速
+America: 🗽 美国分流
+Game: DIRECT
 PayPal: 💸 PayPal
 Adobe: ⛺ Adobe
 Xiaohongshu: DIRECT
@@ -280,22 +287,16 @@ NetEaseCloudMusic: DIRECT
 Alibaba: DIRECT
 Baidu: DIRECT
 JD: DIRECT
-Hongkong: 🌈 香港高速
-Japan: 🍙 日本高速
 Taiwan: 🐸 台湾分流
 Singapore: 🦁 新加坡分流
-America: 🗽 美国分流
-CloudGlobal: ☁️ 国际Cloud
+GEOIP,CLOUDFLARE: 🌠 节点选择,no-resolve
 Media: 🌍 国外流媒体
+CloudGlobal: ☁️ 国际Cloud
 Proxy: 🌠 节点选择
+GEOIP,TELEGRAM: 🌠 节点选择,no-resolve
 China: DIRECT
 
-GEOIP,FACEBOOK: Ⓜ️ Meta,no-resolve
-GEOIP,NETFLIX: 📽️ Netflix,no-resolve
-GEOIP,TWITTER: 🕊️ X,no-resolve
-GEOIP,GOOGLE: 💻 Google,no-resolve
-GEOIP,CLOUDFLARE: 🌠 节点选择,no-resolve
-GEOIP,TELEGRAM: 🌠 节点选择,no-resolve
+
 GEOIP,HK: 🌈 香港高速,no-resolve
 GEOIP,US: 🗽 美国分流,no-resolve
 GEOIP,CN: DIRECT
