@@ -6,24 +6,44 @@ on:
       - main
     paths:
       - my.wei
+  workflow_dispatch: # 支持手动触发
 
 jobs:
   update_domain_rules:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gh
+
       - name: Trigger update_domain_rules workflow
         id: trigger_domain_rules
-        uses: benc-uk/workflow-dispatch@v1
+        uses: actions/github-script@v6
         with:
-          workflow: update_domain_rules.yml
-          token: ${{ secrets.FULL_ACCESS_TOKEN }}
+          script: |
+            const response = await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'update_domain_rules.yml',
+              ref: 'main'
+            });
+            return response.data;
 
       - name: Wait for update_domain_rules to complete
         run: |
-          sleep 30
-          CHECK_INTERVAL=10
-          while [ "$(gh run list --workflow=update_domain_rules.yml --branch=main --status=in_progress --json conclusion --jq '.[0].conclusion')" == "null" ]; do
+          CHECK_INTERVAL=30
+          while true; do
+            STATUS=$(gh run list --workflow=update_domain_rules.yml --branch=main --limit 1 --json status --jq '.[0].status')
+            echo "Current status: $STATUS"
+            if [ "$STATUS" == "completed" ]; then
+              echo "update_domain_rules workflow has completed."
+              break
+            fi
             echo "Waiting for update_domain_rules workflow to complete..."
             sleep $CHECK_INTERVAL
           done
@@ -34,7 +54,15 @@ jobs:
         run: sleep 30
 
       - name: Trigger update_rulesets_toml workflow
-        uses: benc-uk/workflow-dispatch@v1
+        uses: actions/github-script@v6
         with:
-          workflow: update_rulesets_toml.yml
-          token: ${{ secrets.FULL_ACCESS_TOKEN }}
+          script: |
+            const response = await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'update_rulesets_toml.yml',
+              ref: 'main'
+            });
+            return response.data;
+        env:
+          GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
