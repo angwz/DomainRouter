@@ -46,10 +46,16 @@ jobs:
           git push --set-upstream origin release
         fi
 
-    - name: Apply stashed changes
+    - name: Apply stashed changes and resolve conflicts
       run: |
-        rm -f rulesets.toml
         git stash pop || echo "No changes to apply"
+        if grep -q '<<<<<<<' rulesets.toml; then
+          echo "Merge conflicts detected, resolving with new file..."
+          git checkout --ours rulesets.toml
+          git add rulesets.toml
+        else
+          echo "No merge conflicts detected"
+        fi
 
     - name: Check for changes
       id: check_changes
