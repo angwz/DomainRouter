@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-29 20:28:53 (UTC+8)
+# UPDATED: 2024-06-29 22:28:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 26484
+# TOTAL: 26493
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5668,6 +5668,7 @@ payload:
   - '+.dealtree.org'
   - '+.deasians.com'
   - '+.debank.com'
+  - '+.debian.com'
   - '+.debian.org'
   - '+.debug.com'
   - '+.debugproject.com'
@@ -12839,6 +12840,7 @@ payload:
   - '+.macintoshsoftware.com'
   - '+.macmini.com'
   - '+.macosforge.org'
+  - '+.macosicons.com'
   - '+.macossierra.com'
   - '+.macosx.info'
   - '+.macosxlion.com'
@@ -16708,6 +16710,7 @@ payload:
   - '+.postimg.cc'
   - '+.postimg.org'
   - '+.postini.com'
+  - '+.postman-echo.com'
   - '+.posty.kr'
   - '+.postyourgirls.ws'
   - '+.potato.im'
@@ -24848,6 +24851,7 @@ payload:
   - '+.oursteps.com.au'
   - '+.oversea.istarshine.com'
   - '+.ox.ac.uk'
+  - '+.p-events-delivery.akamaized.net'
   - '+.panamapapers.sueddeutsche.de'
   - '+.paypal.com.hk'
   - '+.paypal.com.sg'
@@ -25713,6 +25717,9 @@ payload:
   - '+.zhao.jinhai.de'
   - '+.zoho.com.au'
   - '+.1989report.hkja.org.hk'
+  - '+.apple.com.akadns.net'
+  - '+.appleworldwidedeveloper.hb-api.omtrdc.net'
+  - '+.appleworldwidedeveloper.sc.omtrdc.net'
   - '+.bbs.kimy.com.tw'
   - '+.bisyoujyogyaruge.topaz.ne.jp'
   - '+.bitc.bme.emory.edu'
@@ -25727,6 +25734,7 @@ payload:
   - '+.ccdc.cam.ac.uk'
   - '+.cdn.assets.lfpcontent.com'
   - '+.cdn1.lp.saboom.com'
+  - '+.courier-push-apple.com.akadns.net'
   - '+.disney.my.sentry.io'
   - '+.download-cdn.jetbrains.com.cn'
   - '+.ebook.hyread.com.tw'
@@ -25750,6 +25758,7 @@ payload:
   - '+.news.msn.com.tw'
   - '+.news.sina.com.hk'
   - '+.news.sina.com.tw'
+  - '+.push-apple.com.akadns.net'
   - '+.research.jmsc.hku.hk'
   - '+.sgp.file.myqcloud.com'
   - '+.share.youthwant.com.tw'
