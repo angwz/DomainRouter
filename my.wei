@@ -17,7 +17,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cate
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare-cn.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonCN/AmazonCN.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-game-accelerator-cn.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudCN/CloudCN.list
 
 
 47.103.212.143
@@ -58,7 +57,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/amaz
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Amazon/Amazon.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gog.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gog/Gog.list
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/azure.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.list
@@ -165,6 +163,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/biliintl.yaml
 
 [Douyin]
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DouYin/DouYin.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bytedance.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ByteDance/ByteDance.list
 
@@ -172,6 +171,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/facebook.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Facebook/Facebook.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/facebook.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meta.yaml
 
 [Netflix]
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.yaml
@@ -235,6 +235,10 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cate
 
 [CloudGlobal]
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudGlobal/CloudGlobal.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/azure.yaml
+
+[CloudCN]
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudCN/CloudCN.list
 
 
 
@@ -258,11 +262,18 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/jd.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/JingDong/JingDong.list
 
+[Meituan]
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meituan.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/MeiTuan/MeiTuan.list
+
 [NetEaseCloudMusic]
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NetEaseMusic/NetEaseMusic.list
 
 [WeChat]
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeChat/WeChat.list
+
+
+
 
 
 [Rules]
@@ -285,7 +296,6 @@ Steam: 🎮 Steam
 OneDrive: ⛅ OneDrive
 Xbox: 📟 Xbox
 GitHub: 🌠 节点选择
-Microsoft: 💾 Microsoft
 YouTube: 🛁 YouTube
 Google: 💻 Google
 GEOIP,GOOGLE: 💻 Google,no-resolve
@@ -302,10 +312,13 @@ NetEaseCloudMusic: DIRECT
 Alibaba: DIRECT
 Baidu: DIRECT
 JD: DIRECT
+Meituan: DIRECT
+CloudCN: DIRECT
 Taiwan: 🐸 台湾分流
 Singapore: 🦁 新加坡分流
 Media: 🌍 国外流媒体
 CloudGlobal: ☁️ 国际Cloud
+Microsoft: 💾 Microsoft
 Proxy: 🌠 节点选择
 GEOIP,TELEGRAM: 🌠 节点选择,no-resolve
 China: DIRECT
