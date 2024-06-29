@@ -1,9 +1,9 @@
 # NAME: Meta
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-29 22:42:07 (UTC+8)
+# UPDATED: 2024-06-29 23:04:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 548
+# TOTAL: 555
 payload:
   - '+.aboutfacebook.com'
   - '+.accessfacebookfromschool.com'
@@ -472,6 +472,7 @@ payload:
   - '+.mcrouter.org'
   - '+.messenger.com'
   - '+.messengerdevelopers.com'
+  - '+.meta.ai'
   - '+.meta.com'
   - '+.midentsolutions.com'
   - '+.mobilefacebook.com'
@@ -523,6 +524,7 @@ payload:
   - '+.thefacebook.net'
   - '+.thefind.com'
   - '+.theinstagramhack.com'
+  - '+.threads.net'
   - '+.toplayerserver.com'
   - '+.viewpointsfromfacebook.com'
   - '+.wa.me'
@@ -551,5 +553,10 @@ payload:
   - '+.zuckerberg.com'
   - '+.zuckerberg.net'
   - '+.fbcdn-a.akamaihd.net'
+  - '+.graph-fallback.instagram.com'
+  - '+.graph.instagram.com'
+  - '+.graph.whatsapp.com'
+  - '+.graph.whatsapp.net'
   - '+.ip6.static.sl-reverse.com'
+  - 'developers.facebook.com'
   - 'fbcdn-a.akamaihd.net'

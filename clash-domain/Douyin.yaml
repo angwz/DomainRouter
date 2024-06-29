@@ -1,9 +1,9 @@
 # NAME: Douyin
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-29 22:42:07 (UTC+8)
+# UPDATED: 2024-06-29 23:04:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 783
+# TOTAL: 785
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -769,6 +769,7 @@ payload:
   - '+.larksuite.com.ttdns2.com'
   - 'ads3-normal-hl.zijieapi.com'
   - 'ads5-normal-hl.zijieapi.com'
+  - 'lf3-static.bytednsdoc.com'
   - 'log3-applog-hl.fqnovel.com'
   - 'log5-applog-hl.fqnovel.com'
   - 'p1-juejin.byteimg.com'
@@ -788,3 +789,4 @@ payload:
   - 'p9-juejin.byteimg.com'
   - 'rtlog3-applog-hl.fqnovel.com'
   - 'rtlog5-applog-hl.fqnovel.com'
+  - 'v5-dy-o-abtest.zjcdn.com'

@@ -1,0 +1,14 @@
+# NAME: Meituan
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-29 23:04:13 (UTC+8)
+# TYPE: domain
+# TOTAL: 7
+payload:
+  - '+.dianping.com'
+  - '+.maoyan.com'
+  - '+.meituan.com'
+  - '+.meituan.net'
+  - '+.mtyun.com'
+  - '+.neixin.cn'
+  - '+.sankuai.com'
