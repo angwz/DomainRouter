@@ -1,0 +1,37 @@
+# NAME: WeChat
+# AUTHOR: angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-06-29 20:28:55 (UTC+8)
+# TYPE: domain
+# TOTAL: 30
+payload:
+  - '+.iot-tencent.com'
+  - '+.qlogo.cn'
+  - '+.qpic.cn'
+  - '+.servicewechat.com'
+  - '+.tenpay.com'
+  - '+.wechat.com'
+  - '+.wechatlegal.net'
+  - '+.wechatos.net'
+  - '+.wechatpay.com'
+  - '+.weixin.com'
+  - '+.weixinbridge.com'
+  - '+.weixinsxy.com'
+  - '+.lbs.gtimg.com'
+  - '+.map.qq.com'
+  - '+.weixin.qq.com'
+  - '+.wx.gtimg.com'
+  - '+.wx.qq.com'
+  - '+.wxs.qq.com'
+  - '+.up-hl.3g.qq.com'
+  - '+.vweixinthumb.tc.qq.com'
+  - '+.wxapp.tc.qq.com'
+  - '+.yun-hl.3g.qq.com'
+  - 'btrace.qq.com'
+  - 'dldir1.qq.com'
+  - 'slife.xy-asia.com'
+  - 'weixin110.qq.com'
+  - 'apd-pcdnwxlogin.teg.tencent-cloud.net'
+  - 'soup.v.qq.com'
+  - 'vweixinf.tc.qq.com'
+  - 'wup.imtt.qq.com'

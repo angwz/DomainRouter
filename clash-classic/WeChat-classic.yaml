@@ -1,9 +1,9 @@
-# NAME: Douyin
+# NAME: WeChat
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
 # UPDATED: 2024-06-29 20:28:55 (UTC+8)
-# TYPE: ipcidr
+# TYPE: classic
 # TOTAL: 1
-# IP-CIDR TOTAL: 1
+# IP-ASN TOTAL: 1
 payload:
-  - '114.246.10.65/32'
+  - IP-ASN,132203,no-resolve
