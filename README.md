@@ -1,116 +1,56 @@
-# Clash_Rules
+# Clash规则集和策略组生成工具
+<p style="font-family: 'Ubuntu', sans-serif; font-size: 18px; line-height: 28.8px; color: #24292E;">
+本项目主要用于生成适用于Clash流量处理的规则集和策略组，以及一些相关工具配置文件。
+</p>
+## 项目结构
 
-### 来源
- - 从 [LM-Firefly / Rules](https://github.com/LM-Firefly/Rules) 维护，规则数量最多，维护得最频繁，列表为不带短横线的list列表，需转换
- - 从 [Semporia / ClashX-Pro](https://github.com/Semporia/ClashX-Pro) 引用规则，规则数量类别多，规则数量一般
- - 从 [Loyalsoldier / clash-rules](https://github.com/Loyalsoldier/clash-rules) 引用规则，规则数量多
+<pre>
+domainrouter
+├── main分支
+│   ├── .github/              # 存放GitHub工作流的文件目录
+│   ├── dnsmasq/              # 存放dnsmasq.conf所需的文本文件
+│   ├── script/               # Python脚本
+│   ├── subconverter_config/  # 与subconverter有关的配置和资源文件
+│   ├── .gitattributes        # 用于定义特定路径或文件的属性
+│   ├── my.wei                # 核心配置文件
+│   └── README.md             # 描述整个项目的核心说明文件
+│
+└── release分支
+    ├── class-domain/         # 由action工作流生成的规则集文件
+    ├── class-ipcidr/         # 由action工作流生成的规则集文件
+    ├── class-classic/        # 由action工作流生成的规则集文件
+    ├── **-domains.conf       # 由action工作流生成的适用于dnsmasq的白名单文件
+    └── rulesets.toml         # 由action工作流生成的适用于subconverter的资源文件
+</pre>
+## 项目简介
 
-### [官方规则格式](https://lancellc.gitbook.io/clash/clash-config-file/rule-provider#example-of-a-rule-provider-file)
-**If arule-provider file named as testproviderand behavior is domain:**
-```
-payload:
-  - '.blogger.com'
-  - '*.*.microsoft.com'
-  - 'books.itunes.apple.com'
-```
-**If arule-provider file named as testprovider2and behavior is ipcidr:**
-```
-payload:
-  - '192.168.1.0/24'
-  - '10.0.0.0.1/32'
-```
-**If arule-provider file named as testprovider3and behavior is classical:**
-```
-payload:
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-KEYWORD,google
-  - DOMAIN,ad.com
-  - SRC-IP-CIDR,192.168.1.201/32
-  - IP-CIDR,127.0.0.0/8
-  - GEOIP,CN
-  - DST-PORT,80
-  - SRC-PORT,7777
-```
+在2024年，本项目旨在为Clash代理工具提供更高级、更便捷的使用方法。项目的主要目标是生成适用于Clash的规则集和策略组，以实现更精准的流量分流。
 
-### 自定义规则
-**An Example of Rules:**
-```
-rules:
-  - DOMAIN-SUFFIX,google.com,auto
-  - DOMAIN-KEYWORD,google,auto
-  - DOMAIN,ad.com,REJECT
-  - SRC-IP-CIDR,192.168.1.201/32,DIRECT
-  - IP-CIDR,127.0.0.0/8,DIRECT
-  - IP-CIDR6,2620:0:2d0:200::7/32,auto
-  - GEOIP,CN,DIRECT
-  - DST-PORT,80,DIRECT
-  - SRC-PORT,7777,DIRECT
-  - MATCH,auto
-```
-```
-rules:
-  - RULE-SET,Apple,DIRECT
-  - RULE-SET,Facebook,🇺🇲 美国节点
-  - RULE-SET,Game,DIRECT
-  - RULE-SET,Google,🔰 节点选择
-  - RULE-SET,Netflix,🎥 奈飞节点
-  - RULE-SET,OneDrive,🇺🇲 美国节点
-  - RULE-SET,TikTok,🇯🇵 日本节点
-  - RULE-SET,WeChat,DIRECT
-  - RULE-SET,YouTube,🔰 节点选择
+## 背景
 
-  - RULE-SET,Adobe,DIRECT
-  - RULE-SET,Amazon,🔰 节点选择
-  - RULE-SET,GitHub,🔰 节点选择
-  - RULE-SET,Microsoft,DIRECT
-  - RULE-SET,Netease Music,DIRECT
-  - RULE-SET,PayPal,🔰 节点选择
-  - RULE-SET,Steam,DIRECT
-  - RULE-SET,Telegram,🔰 节点选择
-  - RULE-SET,Tencent,DIRECT
-  - RULE-SET,Twitter,🔰 节点选择
-  - RULE-SET,China,DIRECT
+在访问全球互联网受限的地区，用户可能需要使用各种代理工具来突破限制。随着时间推移，用户可能会接触到更高级的代理方式，如VPS和机场服务。Clash作为一种强大的代理工具，能够支持多种代理协议，并提供复杂和定制化的代理需求。
 
+## Clash简介
 
-  - RULE-SET,google,🔰 节点选择
-  - RULE-SET,icloud,DIRECT
-  - RULE-SET,apple,DIRECT
-  - RULE-SET,telegramcidr,🔰 节点选择
-  - RULE-SET,direct,DIRECT
-  - RULE-SET,cncidr,DIRECT,no-resolve
-  - RULE-SET,lancidr,DIRECT,no-resolve
-  - RULE-SET,applications,DIRECT
-  - RULE-SET,tld-not-cn,🔰 节点选择
-  - RULE-SET,greatfire,🔰 节点选择
-  - RULE-SET,gfw,🔰 节点选择
-  - RULE-SET,proxy,🔰 节点选择
-  - MATCH,🔰 节点选择
-```
-```
-  - RULE-SET,Meta,🇺🇲 美国节点
-  - RULE-SET,Tiktok,🇯🇵 日本节点
-  - RULE-SET,Chat,DIRECT
-  - RULE-SET,iCloud,DIRECT
-  - RULE-SET,Apple,DIRECT
-  - RULE-SET,Netflix,🇺🇲 美国节点
-  - RULE-SET,American,🇺🇲 美国节点
-  - RULE-SET,Proxy,🔰 节点选择
-  - RULE-SET,Google,🔰 节点选择
-  - RULE-SET,Direct,DIRECT
-  - RULE-SET,CNcidr,DIRECT
-  - RULE-SET,Goo.gl,🔰 节点选择
-  - RULE-SET,Proxy2,🔰 节点选择
-  - RULE-SET,GFW,🔰 节点选择
-  - RULE-SET,Telegramcidr,🔰 节点选择
-  - RULE-SET,Direct2,DIRECT
-  - GEOIP,CN,DIRECT
-  - MATCH,🔰 节点选择
-```
-**[GeoIP数据库](https://github.com/Hackl0us/GeoIP2-CN/tree/master)**
-```
-# ... 省略其他规则 ...
-  - GEOIP, CN, DIRECT # 👀 建议在这里使用规则
-  - FINAL, PROXY # ⬇️ 最终规则
-```
+Clash是一种代理工具，支持多种代理协议。它是运行在客户端的软件代理方式，能够根据预设的策略和域名规则集对流量进行精准分流。目前，Clash Meta内核仍在维护中，能够满足大部分复杂和定制化的代理需求。
 
-> 手动维护...
+## 项目目标
+
+本项目旨在提供自动化运行流程和生成一劳永逸的规则文件。对于想要配置个性化分流规则的用户，本项目也能提供一些引导。
+
+## 使用指南
+
+（后续补充）
+
+## 注意事项
+
+- 本项目的99%以上内容由AI构建，如有不合理、不科学或不适当的内容，请指正。
+- 项目的最终目的是让更多人了解基本运行原理和流程，能够独立配置并使用Clash代理工具。
+
+## 贡献
+
+欢迎对本项目提出建议或做出贡献。如发现任何错误或有改进意见，请提交issue或pull request。
+
+## 免责声明
+
+本项目仅供学习和研究使用，请遵守当地法律法规，不要将其用于非法用途。
