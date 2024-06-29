@@ -90,6 +90,18 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/WeChat.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/WeChat-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Tencent.yaml"
 type = "clash-domain"
 interval = 21600
