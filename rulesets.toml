@@ -185,6 +185,18 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
+group = "🍎 Apple"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Apple-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "🍎 Apple"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Apple-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "🎮 Steam"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Steam.yaml"
 type = "clash-domain"
@@ -285,12 +297,6 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌈 香港高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Hongkong-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
 group = "🍙 日本高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Japan.yaml"
 type = "clash-domain"
@@ -301,6 +307,10 @@ group = "🍙 日本高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Japan-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
+
+[[rulesets]]
+group = "🌠 节点选择"
+ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
 group = "🗽 美国分流"
@@ -427,10 +437,6 @@ group = "🦁 新加坡分流"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
 type = "clash-domain"
 interval = 21600
-
-[[rulesets]]
-group = "🌠 节点选择"
-ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
 group = "🌍 国外流媒体"
