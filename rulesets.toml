@@ -440,6 +440,24 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/ChinaMedia.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/ChinaMedia-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/ChinaMedia-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/CloudCN-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
