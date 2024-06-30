@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-06-30 00:09:09 (UTC+8)
+# UPDATED: 2024-06-30 12:29:11 (UTC+8)
 # TYPE: domain
-# TOTAL: 26437
+# TOTAL: 26435
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25831,7 +25831,6 @@ payload:
   - 'bnetshopus.akamaized.net'
   - 'brightcove.imgix.net'
   - 'bt.ktrackers.com'
-  - 'bt.okmp3.ru'
   - 'bt.ptlsp.com'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
@@ -25992,7 +25991,6 @@ payload:
   - 'psg-int-eastus.cloudapp.net'
   - 'public.publictracker.xyz'
   - 'publicca.googleapis.com'
-  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker01-msk-virt.corbina.net'
@@ -26064,9 +26062,11 @@ payload:
   - 'tesla-cdn.thron.com'
   - 'testflight.apple.com'
   - 'tk.greedland.net'
+  - 'tk1.trackerservers.com'
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -26082,7 +26082,6 @@ payload:
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -26148,7 +26147,6 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.yemekyedim.com'
