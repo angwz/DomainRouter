@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-01 02:04:01 (UTC+8)
+# UPDATED: 2024-07-02 00:09:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 26435
+# TOTAL: 26437
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5041,7 +5041,6 @@ payload:
   - '+.cmule.org'
   - '+.cmx.im'
   - '+.cn-proxy.com'
-  - '+.cn.com'
   - '+.cn6.eu'
   - '+.cnabc.com'
   - '+.cnbc.com'
@@ -12591,6 +12590,7 @@ payload:
   - '+.llwht88.xyz'
   - '+.lmm167.shop'
   - '+.lmmbtc.com'
+  - '+.lmsys.org'
   - '+.lncn.org'
   - '+.lnkd.in'
   - '+.lnstagram-help.com'
@@ -25831,6 +25831,7 @@ payload:
   - 'bnetshopus.akamaized.net'
   - 'brightcove.imgix.net'
   - 'bt.ktrackers.com'
+  - 'bt.okmp3.ru'
   - 'bt.ptlsp.com'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
@@ -25951,7 +25952,6 @@ payload:
   - 'oneocsp.microsoft.com'
   - 'ood.opsource.net'
   - 'open-tracker.demonoid.ch'
-  - 'open-v6.demonoid.ch'
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
@@ -25991,6 +25991,7 @@ payload:
   - 'psg-int-eastus.cloudapp.net'
   - 'public.publictracker.xyz'
   - 'publicca.googleapis.com'
+  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker01-msk-virt.corbina.net'
@@ -26082,6 +26083,7 @@ payload:
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -26112,12 +26114,10 @@ payload:
   - 'tracker.internetwarriors.net'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
-  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
   - 'tracker.ktxp.com'
-  - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
   - 'tracker.lilithraws.org'
   - 'tracker.loligirl.cn'
@@ -26147,6 +26147,7 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
+  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.yemekyedim.com'
@@ -26437,6 +26438,7 @@ payload:
   - 'openaicomproductionae4b.blob.core.windows.net'
   - 'self.events.data.microsoft.com'
   - 'teamviewer.com.cdn.cloudflare.net'
+  - 'tracker1.bt.moack.co.kr'
   - 'vscode.blob.core.windows.net'
   - 'www-cdn.icloud.com.akadns.net'
   - 'chat.openai.com.cdn.cloudflare.net'

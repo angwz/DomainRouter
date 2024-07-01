@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-01 02:04:02 (UTC+8)
+# UPDATED: 2024-07-02 00:09:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 81113
+# TOTAL: 81114
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -28626,6 +28626,7 @@ payload:
   - '+.gifcool.com'
   - '+.giffox.com'
   - '+.gifhome.com'
+  - '+.gifshow.com'
   - '+.giftres.com'
   - '+.giftsbeijing.com'
   - '+.gifu-pr.com'
