@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-02 00:09:16 (UTC+8)
+# UPDATED: 2024-07-03 00:10:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 26437
+# TOTAL: 26435
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25831,7 +25831,6 @@ payload:
   - 'bnetshopus.akamaized.net'
   - 'brightcove.imgix.net'
   - 'bt.ktrackers.com'
-  - 'bt.okmp3.ru'
   - 'bt.ptlsp.com'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
@@ -25952,6 +25951,7 @@ payload:
   - 'oneocsp.microsoft.com'
   - 'ood.opsource.net'
   - 'open-tracker.demonoid.ch'
+  - 'open-v6.demonoid.ch'
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
@@ -26062,12 +26062,10 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tesla-cdn.thron.com'
   - 'testflight.apple.com'
-  - 'tk.greedland.net'
   - 'tk1.trackerservers.com'
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -26083,7 +26081,6 @@ payload:
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -26118,6 +26115,7 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
   - 'tracker.ktxp.com'
+  - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
   - 'tracker.lilithraws.org'
   - 'tracker.loligirl.cn'
@@ -26150,6 +26148,7 @@ payload:
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
+  - 'tracker.vds.nz'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
   - 'tracker.zond.org'
@@ -26438,7 +26437,6 @@ payload:
   - 'openaicomproductionae4b.blob.core.windows.net'
   - 'self.events.data.microsoft.com'
   - 'teamviewer.com.cdn.cloudflare.net'
-  - 'tracker1.bt.moack.co.kr'
   - 'vscode.blob.core.windows.net'
   - 'www-cdn.icloud.com.akadns.net'
   - 'chat.openai.com.cdn.cloudflare.net'
