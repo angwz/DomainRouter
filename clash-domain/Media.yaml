@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-03 00:10:43 (UTC+8)
+# UPDATED: 2024-07-04 00:10:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 8537
+# TOTAL: 8536
 payload:
   - '+.adult'
   - '+.bbc'
@@ -8525,7 +8525,6 @@ payload:
   - 'vs-hls-pushb-uk-live.akamaized.net'
   - 'widgets.stripst.com'
   - 'asahishimbun.sc.omtrdc.net'
-  - 'cache.video.iqiyi.com'
   - 'cbsplaylistserver.aws.syncbak.com'
   - 'cbsservice.aws.syncbak.com'
   - 'cs428.wpc.edgecastcdn.net'

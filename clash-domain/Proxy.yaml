@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-03 00:10:41 (UTC+8)
+# UPDATED: 2024-07-04 00:10:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 26435
+# TOTAL: 26436
 payload:
   - '+.adult'
   - '+.amazon'
@@ -23704,6 +23704,7 @@ payload:
   - '+.cgkate.jinvod.com'
   - '+.ch.shvoong.com'
   - '+.chat.lmsys.org'
+  - '+.chat.openai.com'
   - '+.china-mmm.jp.net'
   - '+.china-mmm.sa.com'
   - '+.china-review.com.ua'
@@ -25831,6 +25832,7 @@ payload:
   - 'bnetshopus.akamaized.net'
   - 'brightcove.imgix.net'
   - 'bt.ktrackers.com'
+  - 'bt.okmp3.ru'
   - 'bt.ptlsp.com'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
@@ -25991,7 +25993,6 @@ payload:
   - 'psg-int-eastus.cloudapp.net'
   - 'public.publictracker.xyz'
   - 'publicca.googleapis.com'
-  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker01-msk-virt.corbina.net'
@@ -26062,6 +26063,7 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tesla-cdn.thron.com'
   - 'testflight.apple.com'
+  - 'tk.greedland.net'
   - 'tk1.trackerservers.com'
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
@@ -26081,6 +26083,7 @@ payload:
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -26145,7 +26148,6 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.vds.nz'
@@ -26164,6 +26166,7 @@ payload:
   - 'tracker4.itzmx.com'
   - 'trackers.mlsub.net'
   - 'trackers.ptlsp.com'
+  - 'translomatic.foxfortmobile.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'ubistatic3-a.akamaihd.net'
@@ -26290,7 +26293,6 @@ payload:
   - 'wwis-dubc1-vip97.adobe.com'
   - 'wwis-dubc1-vip98.adobe.com'
   - 'wwis-dubc1-vip99.adobe.com'
-  - 'www.all4nothin.net'
   - 'www.peckservers.com'
   - 'www.wareztorrent.com'
   - 'www4-static.gog-statics.com'
@@ -26439,4 +26441,3 @@ payload:
   - 'teamviewer.com.cdn.cloudflare.net'
   - 'vscode.blob.core.windows.net'
   - 'www-cdn.icloud.com.akadns.net'
-  - 'chat.openai.com.cdn.cloudflare.net'

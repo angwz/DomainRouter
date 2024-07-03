@@ -1,10 +1,10 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-03 00:10:41 (UTC+8)
+# UPDATED: 2024-07-04 00:10:29 (UTC+8)
 # TYPE: classic
-# TOTAL: 49
-# DOMAIN-KEYWORD TOTAL: 38
+# TOTAL: 48
+# DOMAIN-KEYWORD TOTAL: 37
 # IP-ASN TOTAL: 5
 # PROCESS-NAME TOTAL: 6
 payload:
@@ -21,7 +21,6 @@ payload:
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
-  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,instagram
