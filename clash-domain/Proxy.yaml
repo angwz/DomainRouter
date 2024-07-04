@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-04 00:10:29 (UTC+8)
+# UPDATED: 2024-07-05 00:09:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 26436
+# TOTAL: 26438
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25993,6 +25993,7 @@ payload:
   - 'psg-int-eastus.cloudapp.net'
   - 'public.publictracker.xyz'
   - 'publicca.googleapis.com'
+  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker01-msk-virt.corbina.net'
@@ -26068,6 +26069,7 @@ payload:
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -26083,7 +26085,6 @@ payload:
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -26150,7 +26151,6 @@ payload:
   - 'tracker.token.ro'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
-  - 'tracker.vds.nz'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
   - 'tracker.zond.org'
@@ -26293,6 +26293,7 @@ payload:
   - 'wwis-dubc1-vip97.adobe.com'
   - 'wwis-dubc1-vip98.adobe.com'
   - 'wwis-dubc1-vip99.adobe.com'
+  - 'www.all4nothin.net'
   - 'www.peckservers.com'
   - 'www.wareztorrent.com'
   - 'www4-static.gog-statics.com'
@@ -26313,6 +26314,7 @@ payload:
   - 'az764295.vo.msecnd.net'
   - 'beatselectronicsllc.tt.omtrdc.net'
   - 'blizzard.nefficient.co.kr'
+  - 'btt.service.gongt.me'
   - 'cbsplaylistserver.aws.syncbak.com'
   - 'cbsservice.aws.syncbak.com'
   - 'cloudsync-prod.s3.amazonaws.com'
