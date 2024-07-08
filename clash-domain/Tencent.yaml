@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-08 00:08:24 (UTC+8)
+# UPDATED: 2024-07-08 08:19:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 615
+# TOTAL: 620
 payload:
   - '+.1700.cn'
   - '+.17roco.com'
@@ -395,6 +395,7 @@ payload:
   - '+.tefscloud.net'
   - '+.tenant-zone-dev.com'
   - '+.tencdns.net'
+  - '+.tencent-cloud.cn'
   - '+.tencent-cloud.com'
   - '+.tencent-cloud.net'
   - '+.tencent-gcloud.com'
@@ -409,6 +410,7 @@ payload:
   - '+.tencentcdb.com'
   - '+.tencentclb.com'
   - '+.tencentcloud-aiot.com'
+  - '+.tencentcloud.com'
   - '+.tencentcloudapi.com'
   - '+.tencentcloudclub.com'
   - '+.tencentcloudcr.com'
@@ -456,6 +458,7 @@ payload:
   - '+.tisi.org'
   - '+.tjstats.com'
   - '+.tlivecdn.com'
+  - '+.tlivepush.com'
   - '+.tos.cn'
   - '+.tourismshow.cn'
   - '+.tourismuser.cn'
@@ -468,6 +471,7 @@ payload:
   - '+.txbanche.com'
   - '+.txbyod.com'
   - '+.txidc.wang'
+  - '+.txlivecdn.com'
   - '+.txtyxg.com'
   - '+.txyscdn.com'
   - '+.txyscdn.net'
@@ -514,6 +518,7 @@ payload:
   - '+.wting.info'
   - '+.wxgamemini.com'
   - '+.wxlagame.com'
+  - '+.wxlivecdn.com'
   - '+.wxutil.com'
   - '+.xdxiaoshuo.com'
   - '+.xn--owtw8cc49ajfl.cn'

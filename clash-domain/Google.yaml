@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-08 00:08:24 (UTC+8)
+# UPDATED: 2024-07-08 08:19:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 1214
+# TOTAL: 1218
 payload:
   - '+.and'
   - '+.chrome'
@@ -185,6 +185,7 @@ payload:
   - '+.digisfera.com'
   - '+.digitalassetlinks.org'
   - '+.digitalattackmap.com'
+  - '+.docs.new'
   - '+.doubleclick-cn.net'
   - '+.doubleclick.cn'
   - '+.doubleclick.com'
@@ -534,6 +535,8 @@ payload:
   - '+.screenwisetrends.com'
   - '+.screenwisetrendspanel.com'
   - '+.shattered.io'
+  - '+.sheets.new'
+  - '+.slides.new'
   - '+.snapseed.com'
   - '+.solveforx.com'
   - '+.stadia.dev'
@@ -581,6 +584,7 @@ payload:
   - '+.webrtc.org'
   - '+.weltweitwachsen.de'
   - '+.whatbrowser.org'
+  - '+.whats.new'
   - '+.widevine.com'
   - '+.withgoogle.com'
   - '+.withyoutube.com'

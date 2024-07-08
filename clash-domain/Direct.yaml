@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-08 00:08:22 (UTC+8)
+# UPDATED: 2024-07-08 08:19:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 792
+# TOTAL: 791
 payload:
   - '+.icbc'
   - '+.16q.cn'
@@ -343,7 +343,6 @@ payload:
   - '+.z-bank.com'
   - '+.z.cn'
   - '+.zaifan.com'
-  - '+.zerotier.com'
   - '+.zgcbank.com'
   - '+.zhihang100.com'
   - '+.zte.home'
