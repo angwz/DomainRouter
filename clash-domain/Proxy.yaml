@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-09 00:09:28 (UTC+8)
+# UPDATED: 2024-07-10 00:09:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 26493
+# TOTAL: 26507
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5244,6 +5244,11 @@ payload:
   - '+.cordcloud.org'
   - '+.coreduo.com'
   - '+.coreextreme.com'
+  - '+.corel.com'
+  - '+.corel.net'
+  - '+.coreldraw.app'
+  - '+.coreldraw.com'
+  - '+.corelstore.com'
   - '+.coreml.net'
   - '+.coreoptics.net'
   - '+.corepublishingsolutions.com'
@@ -10036,6 +10041,7 @@ payload:
   - '+.homesexmade.com'
   - '+.homestylerapp.com'
   - '+.homestylernews.com'
+  - '+.hominis.media'
   - '+.homo.xxx'
   - '+.honawalaan.com'
   - '+.honestpornreviews.com'
@@ -11897,6 +11903,8 @@ payload:
   - '+.jqueryui.com'
   - '+.jr24h.com'
   - '+.js.org'
+  - '+.jsati.com'
+  - '+.jsatmobile.com'
   - '+.jsbridgestone.com'
   - '+.jsdelivr.com'
   - '+.jsdelivr.net'
@@ -18420,6 +18428,7 @@ payload:
   - '+.skype.net'
   - '+.skypeassets.com'
   - '+.skypeassets.net'
+  - '+.skyperfectjsat.space'
   - '+.skyporn.online'
   - '+.skysports.com'
   - '+.skysports.fr'
@@ -18715,6 +18724,7 @@ payload:
   - '+.spankwire.com'
   - '+.sparknotes.com'
   - '+.spb.com'
+  - '+.spcc-sp.com'
   - '+.speakerdeck.com'
   - '+.spearhead.kr'
   - '+.specialtyheadphones.com'
@@ -18781,6 +18791,7 @@ payload:
   - '+.sprite.org'
   - '+.sproutcore.com'
   - '+.sproxy.info'
+  - '+.sptvbroadcast.com'
   - '+.spyjinx.com'
   - '+.sqlite.org'
   - '+.sqlserveronlinux.com'
@@ -25039,6 +25050,7 @@ payload:
   - '+.siteks.uk.to'
   - '+.sjtu.edu.cn'
   - '+.skyking.com.tw'
+  - '+.skyperfectv.co.jp'
   - '+.slime.com.tw'
   - '+.smartline.com.au'
   - '+.smartonesolutions.com.hk'
@@ -25994,6 +26006,7 @@ payload:
   - 'media-rockstargames-com.akamaized.net'
   - 'medone-education.thieme.com'
   - 'menu-static.gog-statics.com'
+  - 'mikrotik2.draatman.net'
   - 'movies.zsw.ca'
   - 'mscrl.microsoft.com'
   - 'mtalk.google.com'
@@ -26123,6 +26136,7 @@ payload:
   - 'tk.greedland.net'
   - 'tk1.trackerservers.com'
   - 'tk2.trackerservers.com'
+  - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -26206,6 +26220,7 @@ payload:
   - 'tracker.token.ro'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
+  - 'tracker.vds.nz'
   - 'tracker.xor.st'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
@@ -26220,7 +26235,6 @@ payload:
   - 'tracker3.itzmx.com'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
-  - 'trackers.mlsub.net'
   - 'trackers.ptlsp.com'
   - 'translomatic.foxfortmobile.com'
   - 'ttk2.nbaonlineservice.com'

@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-09 00:09:27 (UTC+8)
+# UPDATED: 2024-07-10 00:09:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 791
+# TOTAL: 795
 payload:
   - '+.icbc'
   - '+.16q.cn'
@@ -389,12 +389,14 @@ payload:
   - '+.cmbi.com.hk'
   - '+.cnki.com.cn'
   - '+.connectivitycheck.gstatic.com'
+  - '+.cp.cloudflare.com'
   - '+.csdl.ac.cn'
   - '+.csdn.net.cn'
   - '+.csgo.wmsj.cn'
   - '+.cup.com.cn'
   - '+.data.pharmacodia.com'
   - '+.dccnet.com.cn'
+  - '+.detectportal.firefox.com'
   - '+.dota2.wmsj.cn'
   - '+.drcnet.com.cn'
   - '+.dyn.riotcdn.net'
@@ -431,6 +433,7 @@ payload:
   - '+.njcb.com.cn'
   - '+.nwcdcloud.com.cn'
   - '+.onebank.com.cn'
+  - '+.ping.archlinux.org'
   - '+.pishu.com.cn'
   - '+.primeday.com.cn'
   - '+.programmer.com.cn'
@@ -535,6 +538,7 @@ payload:
   - '+.localhost.ptlogin2.qq.com'
   - '+.localhost.sec.qq.com'
   - '+.location.services.mozilla.com'
+  - '+.push.services.mozilla.com'
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'
   - '+.st.dl.pinyuncloud.com'
@@ -594,12 +598,10 @@ payload:
   - 'clientflow.apple.com'
   - 'cn-smp-paymentservices.apple.com'
   - 'configuration.apple.com'
-  - 'cp.cloudflare.com'
   - 'csgo.wmsj.cn'
   - 'cstat.apple.com'
   - 'cstat.cdn-apple.com'
   - 'dejavu.apple.com'
-  - 'detectportal.firefox.com'
   - 'dota2.wmsj.cn'
   - 'download.epicgames.com'
   - 'download2.epicgames.com'
@@ -636,6 +638,7 @@ payload:
   - 'mesu.apple.com'
   - 'ml.cdn-apple.com'
   - 'music.apple.com'
+  - 'oasisauth.h3c.com'
   - 'ocsp.apple.com'
   - 'ocsp2.apple.com'
   - 'origin-a.akamaihd.net'
@@ -700,6 +703,7 @@ payload:
   - 'cdn-ws.content.steamchina.com'
   - 'cds-cdn.v.aaplimg.com'
   - 'client.hikarifield.co.jp'
+  - 'connect.rom.miui.com'
   - 'content.cdp.bethesda.net'
   - 'dl.steam.clngaa.com'
   - 'dl.steam.ksyna.com'

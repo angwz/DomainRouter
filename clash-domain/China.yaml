@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-09 00:09:30 (UTC+8)
+# UPDATED: 2024-07-10 00:09:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 83271
+# TOTAL: 83280
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -23714,8 +23714,10 @@ payload:
   - '+.duwenz.com'
   - '+.duwenzhang.com'
   - '+.duxiaomai.net'
+  - '+.duxiaoman-int.com'
   - '+.duxiaoman.com'
   - '+.duxiaomanfintech.com'
+  - '+.duxiaomantech.com'
   - '+.duxiaoshuo.com'
   - '+.duxiu.com'
   - '+.duxuetang.com'
@@ -23797,10 +23799,15 @@ payload:
   - '+.dxjh.net'
   - '+.dxjs.com'
   - '+.dxlfile.com'
+  - '+.dxm-cdn.com'
+  - '+.dxm-int.com'
   - '+.dxm-yibai.com'
   - '+.dxmjinr.com'
+  - '+.dxmlcf.com'
+  - '+.dxmlcfintech.com'
   - '+.dxmpay.com'
   - '+.dxmstatic.com'
+  - '+.dxmyqh.com'
   - '+.dxnky.com'
   - '+.dxqyy.com'
   - '+.dxrc.com'
@@ -41024,6 +41031,7 @@ payload:
   - '+.juejinqifu.com'
   - '+.juemei.com'
   - '+.juemuren4449.com'
+  - '+.juequling.com'
   - '+.juesheng.com'
   - '+.juewei.com'
   - '+.juexiang.com'
@@ -83136,6 +83144,7 @@ payload:
   - 'stream2.cprnetwork.org'
   - 'streamipcf.akamaized.net'
   - 'support.1ucrs.com'
+  - 'time.xtracloud.net'
   - 'tl.gscm.tv'
   - 'trtcanlitv-lh.akamaihd.net'
   - 'tv-hls.juyun.tv'
