@@ -1,9 +1,9 @@
 # NAME: Game
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-10 00:09:55 (UTC+8)
+# UPDATED: 2024-07-11 00:09:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 767
+# TOTAL: 770
 payload:
   - '+.playstation'
   - '+.xbox'
@@ -137,6 +137,7 @@ payload:
   - '+.epicgames.com'
   - '+.epicgames.dev'
   - '+.excitebots.com'
+  - '+.fabricmc.net'
   - '+.fanatical.com'
   - '+.ffbuddy.com'
   - '+.fifastreet.com'
@@ -408,6 +409,7 @@ payload:
   - '+.pokemonvgc.com'
   - '+.pokemonwifi.net'
   - '+.popcap.com'
+  - '+.prismlauncher.org'
   - '+.projectapex.com'
   - '+.protondb.com'
   - '+.proximabeta.com'
@@ -419,6 +421,7 @@ payload:
   - '+.pvzgw2.com'
   - '+.pvzheroes.com'
   - '+.qqgameapp.com'
+  - '+.quiltmc.org'
   - '+.realcybertron.com'
   - '+.renovacionxboxlive.com'
   - '+.rgpub.io'
