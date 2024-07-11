@@ -1,17 +1,35 @@
 [[rulesets]]
 group = "🗨️ ChatGPT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/AI.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OpenAI.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
 group = "🗨️ ChatGPT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/AI-ipcidr.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/OpenAI-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
 group = "🗨️ ChatGPT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OpenAI-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+group = "🗽 美国分流"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/AI.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🗽 美国分流"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/AI-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "🗽 美国分流"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/AI-classic.yaml"
 type = "clash-classic"
 interval = 21600
