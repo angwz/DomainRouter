@@ -190,13 +190,12 @@ lazy = false
 
 [[custom_groups]]
 name = "🍙 日本高速"
-type = "url-test"
-rule = ["!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)"]
+type = "fallback"
+rule = ["!!GROUPID=1!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan)).*[^1]$)", 
+        "!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)"]
 url = "https://www.gstatic.com/generate_204"
-interval = 50
+interval = 57
 lazy = false
-timeout = 5
-tolerance = 299
 
 [[custom_groups]]
 name = "🍂 负载均衡"
