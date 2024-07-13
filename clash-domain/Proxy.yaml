@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-13 00:10:02 (UTC+8)
+# UPDATED: 2024-07-14 00:08:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 26510
+# TOTAL: 26511
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25888,7 +25888,6 @@ payload:
   - 'avatargarenanow-a.akamaihd.net'
   - 'azure.microsoft.com'
   - 'azuremarketplace.microsoft.com'
-  - 'bandito.byterunner.io'
   - 'bcovlive-a.akamaihd.net'
   - 'bcsecure01-a.akamaihd.net'
   - 'beck-online.beck.de'
@@ -26231,10 +26230,12 @@ payload:
   - 'tracker1.ctix.cn'
   - 'tracker1.itzmx.com'
   - 'tracker1.myporn.club'
+  - 'tracker1.t-1.org'
   - 'tracker2.dler.org'
   - 'tracker2.itzmx.com'
   - 'tracker2.torrentino.com'
   - 'tracker3.itzmx.com'
+  - 'tracker3.t-1.org'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
   - 'trackers.mlsub.net'
