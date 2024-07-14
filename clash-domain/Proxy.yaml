@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-14 00:08:42 (UTC+8)
+# UPDATED: 2024-07-15 00:04:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 26511
+# TOTAL: 26521
 payload:
   - '+.adult'
   - '+.amazon'
@@ -979,7 +979,11 @@ payload:
   - '+.aga-expo.com'
   - '+.agag.tw'
   - '+.age.tv'
+  - '+.agedm.app'
   - '+.agedm.org'
+  - '+.agedm.tv'
+  - '+.agefans.com'
+  - '+.agemys.org'
   - '+.agendaweek.com'
   - '+.agnesb.fr'
   - '+.agoogleaday.com'
@@ -2067,6 +2071,8 @@ payload:
   - '+.asto.re'
   - '+.astrill.com'
   - '+.asus.com'
+  - '+.asuscloud.com'
+  - '+.asuswebstorage.com'
   - '+.async.be'
   - '+.atandt.com'
   - '+.atasale.com'
@@ -9025,8 +9031,10 @@ payload:
   - '+.gogo-load.com'
   - '+.gogoanime.vc'
   - '+.gogoanime.wiki'
+  - '+.gogoanime3.co'
   - '+.gogocdn.net'
   - '+.gogole.com'
+  - '+.gogotaku.info'
   - '+.gogotunnel.com'
   - '+.gohentai.net'
   - '+.gokbayrak.com'
@@ -26026,7 +26034,6 @@ payload:
   - 'oneocsp.microsoft.com'
   - 'ood.opsource.net'
   - 'open-tracker.demonoid.ch'
-  - 'open-v6.demonoid.ch'
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
@@ -26141,9 +26148,11 @@ payload:
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
+  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -26210,6 +26219,7 @@ payload:
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
+  - 'tracker.t-1.org'
   - 'tracker.t-rb.org'
   - 'tracker.tamersunion.org'
   - 'tracker.tfile.me'
