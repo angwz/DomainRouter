@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-16 00:10:03 (UTC+8)
+# UPDATED: 2024-07-17 00:09:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 26520
+# TOTAL: 26517
 payload:
   - '+.adult'
   - '+.amazon'
@@ -26073,6 +26073,7 @@ payload:
   - 'psg-int-eastus.cloudapp.net'
   - 'public.publictracker.xyz'
   - 'publicca.googleapis.com'
+  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker01-msk-virt.corbina.net'
@@ -26137,7 +26138,6 @@ payload:
   - 't.acg.rip'
   - 't.nyaatracker.com'
   - 't.overflow.biz'
-  - 't.peer-exchange.download'
   - 't1.aag.moe'
   - 't1.hloli.org'
   - 'tamas3.ynh.fr'
@@ -26145,13 +26145,11 @@ payload:
   - 'testflight.apple.com'
   - 'tk.greedland.net'
   - 'tk2.trackerservers.com'
-  - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
-  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -26173,7 +26171,6 @@ payload:
   - 'tracker.deadorbit.nl'
   - 'tracker.dler.com'
   - 'tracker.dler.org'
-  - 'tracker.draatman.uk'
   - 'tracker.dump.cl'
   - 'tracker.edkj.club'
   - 'tracker.electro-torrent.pl'
@@ -26379,7 +26376,6 @@ payload:
   - 'wwis-dubc1-vip99.adobe.com'
   - 'www.all4nothin.net'
   - 'www.peckservers.com'
-  - 'www.wareztorrent.com'
   - 'www4-static.gog-statics.com'
   - 'yolo.liberbear.com'
   - 'z.mercax.com'
@@ -26523,5 +26519,6 @@ payload:
   - 'openaicomproductionae4b.blob.core.windows.net'
   - 'self.events.data.microsoft.com'
   - 'teamviewer.com.cdn.cloudflare.net'
+  - 'tracker1.bt.moack.co.kr'
   - 'vscode.blob.core.windows.net'
   - 'www-cdn.icloud.com.akadns.net'
