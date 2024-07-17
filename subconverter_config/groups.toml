@@ -200,8 +200,7 @@ lazy = false
 [[custom_groups]]
 name = "🍂 负载均衡"
 type = "load-balance"
-rule = ["!!GROUPID=0-1!!(^(?!.*(org|续费|备用|解锁|转用|更新|专用)).*)", 
-        "!!GROUPID=2!!(^(?i)(?:(?!小兔|cf).)*$)",
+rule = ["^(?!.*小兔).*$",
         "[]DIRECT"]
 url = "https://www.gstatic.com/generate_204"
 interval = 66
