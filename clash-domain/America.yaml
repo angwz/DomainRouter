@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-18 01:13:59 (UTC+8)
+# UPDATED: 2024-07-18 03:25:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 288
+# TOTAL: 287
 payload:
   - '+.us'
   - '+.anthemgame.com'
@@ -223,7 +223,6 @@ payload:
   - '+.titanfall.com'
   - '+.tnt-ea.com'
   - '+.trycloudflare.com'
-  - '+.tunnelbroker.net'
   - '+.ubi.com'
   - '+.ubisoft.com'
   - '+.ubisoftconnect.com'
