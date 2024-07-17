@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cate
 
 47.103.212.143
 107.182.31.148
-128.204.223.100/31
+128.204.223.96/27
 
 DST-PORT,9993
 SRC-PORT,9993
