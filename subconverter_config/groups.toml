@@ -133,7 +133,7 @@ tolerance = 80
 [[custom_groups]]
 name = "🎉 高速切换"
 type = "select"
-rule = ["[]🍙 日本高速", "[]🌈 香港高速", "[]🐸 台湾分流", "[]🦁 新加坡分流", "[]🗽 美国分流"]
+rule = ["[]🍙 日本高速", "[]🌈 香港高速", "[]🗽 美国分流", "[]🐸 台湾分流", "[]🦁 新加坡分流"]
 
 [[custom_groups]]
 name = "🐸 台湾分流"
@@ -158,7 +158,7 @@ tolerance = 347
 [[custom_groups]]
 name = "🗽 美国分流"
 type = "fallback"
-rule = ["[]🦚 私有固定IP", 
+rule = ["!!GROUPID=2!!(^(?=.*Reality)(?=.*洛杉矶).*)", 
         "!!GROUPID=1!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 300
@@ -174,7 +174,7 @@ name = "♾️ 无限流量"
 type = "fallback"
 rule = ["!!GROUPID=1!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*GRPC)(?!.*hy2).*[^1]$)", 
         "!!GROUPID=1!!(.*)", 
-        "[]🦚 私有固定IP"]
+        "!!GROUPID=2!!(^(?i)(?:(?!小兔|cf).)*$)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 567
 lazy = false
@@ -200,7 +200,9 @@ lazy = false
 [[custom_groups]]
 name = "🍂 负载均衡"
 type = "load-balance"
-rule = ["!!GROUPID=0-1!!(^(?!.*(org|续费|备用|解锁|转用|更新|专用)).*)", "[]DIRECT"]
+rule = ["!!GROUPID=0-1!!(^(?!.*(org|续费|备用|解锁|转用|更新|专用)).*)", 
+        "!!GROUPID=2!!(^(?i)(?:(?!小兔|cf).)*$)",
+        "[]DIRECT"]
 url = "https://www.gstatic.com/generate_204"
 interval = 66
 lazy = true
