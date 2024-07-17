@@ -30,7 +30,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cate
 DST-PORT,9993
 SRC-PORT,9993
 
-5.5.5.5
 
 27.126.206.62/32
 205.189.160.94/32
@@ -52,6 +51,8 @@ DOMAIN-SUFFIX,p2tib8n.com
 DOMAIN-SUFFIX,desperadoj.com
 
 [Proxy]
+5.5.5.5
+
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-scholar-!cn.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-dev.yaml
