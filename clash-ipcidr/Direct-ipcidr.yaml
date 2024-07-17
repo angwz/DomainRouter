@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-18 06:59:57 (UTC+8)
+# UPDATED: 2024-07-18 07:54:27 (UTC+8)
 # TYPE: ipcidr
 # TOTAL: 31
 # IP-CIDR TOTAL: 27
@@ -12,7 +12,7 @@ payload:
   - '100.64.0.0/10'
   - '107.182.31.148/32'
   - '127.0.0.0/8'
-  - '128.204.223.100/31'
+  - '128.204.223.96/27'
   - '154.92.9.1/32'
   - '154.92.9.14/32'
   - '154.92.9.147/32'
