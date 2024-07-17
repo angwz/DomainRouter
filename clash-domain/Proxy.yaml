@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-18 06:30:31 (UTC+8)
+# UPDATED: 2024-07-18 06:59:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 26517
+# TOTAL: 26514
 payload:
   - '+.adult'
   - '+.amazon'
@@ -26039,7 +26039,6 @@ payload:
   - 'open.demonoid.ch'
   - 'open.dstud.io'
   - 'open.free-tracker.ga'
-  - 'open.publictracker.xyz'
   - 'open.stealth.si'
   - 'open.tracker.cl'
   - 'open.tracker.ink'
@@ -26072,7 +26071,6 @@ payload:
   - 'psg-int-eastus.cloudapp.net'
   - 'public.publictracker.xyz'
   - 'publicca.googleapis.com'
-  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker01-msk-virt.corbina.net'
@@ -26161,6 +26159,7 @@ payload:
   - 'tracker.bittor.pw'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -26377,7 +26376,6 @@ payload:
   - 'www.peckservers.com'
   - 'www.wareztorrent.com'
   - 'www4-static.gog-statics.com'
-  - 'yahor.of.by'
   - 'yolo.liberbear.com'
   - 'z.mercax.com'
   - 'activate.wip1.adobe.com'
@@ -26501,7 +26499,6 @@ payload:
   - 'tracker.torrent.eu.org'
   - 'tvcastlive-hamivideo.cdn.hinet.net'
   - 'u4.trakx.crim.ist'
-  - 'u6.trakx.crim.ist'
   - 'ubisoft-orbit-savegames.s3.amazonaws.com'
   - 'ubisoft-uplay-savegames.s3.amazonaws.com'
   - 'venmo.s3.amazonaws.com'
