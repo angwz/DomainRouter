@@ -167,7 +167,7 @@ lazy = false
 [[custom_groups]]
 name = "🦚 私有固定IP"
 type = "select"
-rule = ["!!GROUPID=2!!(^(?!.*小兔)(?！.*cf).*)"]
+rule = ["!!GROUPID=2!!(^(?!.*小兔)(?!.*cf).*)"]
 
 [[custom_groups]]
 name = "♾️ 无限流量"
