@@ -315,12 +315,6 @@ group = "💻 Google"
 ruleset = "[]GEOIP,GOOGLE,no-resolve"
 
 [[rulesets]]
-group = "🌈 香港高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Hongkong.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
 group = "🍙 日本高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Japan.yaml"
 type = "clash-domain"
@@ -481,18 +475,6 @@ type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🐸 台湾分流"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Taiwan.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🦁 新加坡分流"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
 group = "🌍 国外流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Media.yaml"
 type = "clash-domain"
@@ -532,6 +514,24 @@ interval = 21600
 group = "💾 Microsoft"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Microsoft-classic.yaml"
 type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+group = "🌈 香港高速"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Hongkong.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🐸 台湾分流"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Taiwan.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🦁 新加坡分流"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
