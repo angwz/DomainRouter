@@ -6,19 +6,12 @@ rule = ["[]🛫 高速节点", "[]🗽 美国分流", "[]🥓 纯净IP", "[]✈�
 [[custom_groups]]
 name = "✈️ 手动切换"
 type = "select"
-rule = ["[]🗽 美国分流", "!!GROUPID=1-3!!(^(?!.*洛杉矶).*$)"]
+rule = ["[]🗽 美国分流", "!!GROUPID=1-2!!(^(?!.*洛杉矶).*$)"]
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
 type = "select"
-rule = [
-    "[]🗽 美国分流",
-    "[]🥓 纯净IP",
-    "GPT",
-    "[]🐸 台湾分流",
-    "[]🍙 日本高速",
-    "[]🌠 节点选择"
-]
+rule = ["[]🥓 纯净IP", "[]🗽 美国分流", "GPT", "[]🐸 台湾分流", "[]🍙 日本高速", "[]🌠 节点选择"]
 
 [[custom_groups]]
 name = "🍎 Apple"
@@ -38,12 +31,28 @@ rule = ["[]DIRECT", "[]🗽 美国分流", "[]🍙 日本高速", "[]🐸 台湾
 [[custom_groups]]
 name = "📱 抖音集团"
 type = "select"
-rule = ["[]DIRECT", "[]🗽 美国分流", "[]🍙 日本高速", "[]🌈 香港高速", "[]🥓 纯净IP", "[]🦁 新加坡分流", "[]✈️ 手动切换"]
+rule = [
+        "[]DIRECT",
+        "[]🗽 美国分流",
+        "[]🍙 日本高速",
+        "[]🌈 香港高速",
+        "[]🥓 纯净IP",
+        "[]🦁 新加坡分流",
+        "[]✈️ 手动切换",
+]
 
 [[custom_groups]]
 name = "📱 TikTok"
 type = "select"
-rule = ["[]🍙 日本高速", "[]🗽 美国分流", "[]🌠 节点选择", "[]🌈 香港高速", "[]🥓 纯净IP", "[]🦁 新加坡分流", "[]✈️ 手动切换"]
+rule = [
+        "[]🍙 日本高速",
+        "[]🗽 美国分流",
+        "[]🌠 节点选择",
+        "[]🌈 香港高速",
+        "[]🥓 纯净IP",
+        "[]🦁 新加坡分流",
+        "[]✈️ 手动切换",
+]
 
 [[custom_groups]]
 name = "🛁 YouTube"
@@ -78,12 +87,12 @@ rule = ["[]📟 Xbox", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT
 [[custom_groups]]
 name = "🍇 数据采集"
 type = "select"
-rule = ["[]DIRECT", "[]🍂 负载均衡", "!!GROUPID=0-3!!(^(?!.*小兔).*$)"]
+rule = ["[]DIRECT", "[]🍂 负载均衡", "!!GROUPID=0-2!!(^(?!.*小兔).*$)"]
 
 [[custom_groups]]
 name = "📽️ Netflix"
 type = "select"
-rule = ["[]🗽 美国分流", "!!GROUPID=1-3!!(^(?!.*洛杉矶).*$)"]
+rule = ["[]🥓 纯净IP", "!!GROUPID=1!!(.*)"]
 
 [[custom_groups]]
 name = "⛺ Adobe"
@@ -108,7 +117,7 @@ rule = ["[]🗽 美国分流", "[]🌠 节点选择", "[]✈️ 手动切换", "
 [[custom_groups]]
 name = "🌍 国外流媒体"
 type = "select"
-rule = ["[]🗽 美国分流", "[]🌠 节点选择", "[]🥓 纯净IP", "[]🍙 日本高速", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]🥓 纯净IP", "[]🍙 日本高速", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "🐳 漏网の鱼"
@@ -134,7 +143,7 @@ rule = ["[]🍙 日本高速", "[]🌈 香港高速", "[]🗽 美国分流", "[]
 [[custom_groups]]
 name = "🐸 台湾分流"
 type = "url-test"
-rule = ["!!GROUPID=1-3!!(台|新北|彰化|TW|tw|Taiwan)"]
+rule = ["!!GROUPID=1!!(台|新北|彰化|TW|tw|Taiwan)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 83
 lazy = true
@@ -144,7 +153,7 @@ tolerance = 349
 [[custom_groups]]
 name = "🦁 新加坡分流"
 type = "url-test"
-rule = ["!!GROUPID=1-3!!(新加坡|新|坡|狮城|SG|sg|Singapore)"]
+rule = ["!!GROUPID=1!!(新加坡|新|坡|狮城|SG|sg|Singapore)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 300
 lazy = true
@@ -154,8 +163,10 @@ tolerance = 347
 [[custom_groups]]
 name = "🗽 美国分流"
 type = "fallback"
-rule = ["!!GROUPID=2!!(^(?=.*Reality)(?=.*洛杉矶).*)",
-        "!!GROUPID=1!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)"]
+rule = [
+        "!!GROUPID=2!!(^(?=.*Reality)(?=.*洛杉矶).*)",
+        "!!GROUPID=1!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
+]
 url = "https://www.gstatic.com/generate_204"
 interval = 300
 lazy = false
@@ -168,10 +179,11 @@ rule = ["!!GROUPID=2!!(^(?!.*小兔).*$)"]
 [[custom_groups]]
 name = "♾️ 无限流量"
 type = "fallback"
-rule = ["!!GROUPID=1!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*GRPC)(?!.*hy2).*[^1]$)",
+rule = [
+        "!!GROUPID=1!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*GRPC)(?!.*hy2).*[^1]$)",
         "!!GROUPID=1!!(.*)",
         "!!GROUPID=2!!(^(?!.*洛杉矶).*$)",
-        "!!GROUPID=3!!(.*)",]
+]
 url = "https://www.gstatic.com/generate_204"
 interval = 567
 lazy = true
@@ -179,8 +191,10 @@ lazy = true
 [[custom_groups]]
 name = "🌈 香港高速"
 type = "fallback"
-rule = ["!!GROUPID=1!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*GRPC)(?!.*hy2).*[^1]$)",
-        "!!GROUPID=1!!(港|HK|hk|Hong Kong|HongKong|hongkong)"]
+rule = [
+        "!!GROUPID=1!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*GRPC)(?!.*hy2).*[^1]$)",
+        "!!GROUPID=1!!(港|HK|hk|Hong Kong|HongKong|hongkong)",
+]
 url = "https://www.gstatic.com/generate_204"
 interval = 50
 lazy = false
@@ -188,8 +202,10 @@ lazy = false
 [[custom_groups]]
 name = "🍙 日本高速"
 type = "fallback"
-rule = ["!!GROUPID=1!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan)).*[^1]$)",
-        "!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)"]
+rule = [
+        "!!GROUPID=1!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan)).*[^1]$)",
+        "!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)",
+]
 url = "https://www.gstatic.com/generate_204"
 interval = 57
 lazy = false
@@ -197,11 +213,8 @@ lazy = false
 [[custom_groups]]
 name = "🍂 负载均衡"
 type = "load-balance"
-rule = ["^(?!.*小兔).*$",
-        "[]DIRECT"]
+rule = ["!!GROUPID=0-2!!(^(?!.*小兔).*$)", "[]DIRECT"]
 url = "https://www.gstatic.com/generate_204"
-interval = 660
+interval = 66
 lazy = true
 strategy = "round-robin"
-
-

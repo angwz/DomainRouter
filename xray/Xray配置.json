@@ -24,18 +24,6 @@
             "settings": {}
         },
         {
-            "tag": "warp_proxy",
-            "protocol": "socks",
-            "settings": {
-                "servers": [
-                    {
-                        "address": "127.0.0.1",
-                        "port": 40000
-                    }
-                ]
-            }
-        },
-        {
             "protocol": "blackhole",
             "settings": {},
             "tag": "blocked"
@@ -60,25 +48,6 @@
     },
     "routing": {
         "rules": [
-            {
-                "type": "field",
-                "outboundTag": "warp_proxy",
-                "domain": [
-                    "geosite:netflix",
-                    "geosite:disney",
-                    "geosite:openai",
-					"geosite:spotify",
-					"geosite:bbc",
-					"geosite:tiktok",
-					"geosite:niconico",
-					"geosite:paypal",
-					"geosite:facebook",
-					"geosite:meta",
-					"geosite:hulu",
-                    "geosite:blizzard",
-                    "geosite:apple"
-                ]
-            },
             {
                 "inboundTag": [
                     "api"
