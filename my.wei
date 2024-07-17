@@ -317,7 +317,6 @@ GitHub: 🌠 节点选择
 YouTube: 🛁 YouTube
 Google: 💻 Google
 GEOIP,GOOGLE: 💻 Google,no-resolve
-Hongkong: 🌈 香港高速
 Japan: 🍙 日本高速
 GEOIP,CLOUDFLARE: 🌠 节点选择,no-resolve
 America: 🗽 美国分流
@@ -333,11 +332,12 @@ JD: DIRECT
 Meituan: DIRECT
 ChinaMedia: DIRECT
 CloudCN: DIRECT
-Taiwan: 🐸 台湾分流
-Singapore: 🦁 新加坡分流
 Media: 🌍 国外流媒体
 CloudGlobal: ☁️ 国际Cloud
 Microsoft: 💾 Microsoft
+Hongkong: 🌈 香港高速
+Taiwan: 🐸 台湾分流
+Singapore: 🦁 新加坡分流
 Proxy: 🌠 节点选择
 GEOIP,TELEGRAM: 🌠 节点选择,no-resolve
 China: DIRECT
