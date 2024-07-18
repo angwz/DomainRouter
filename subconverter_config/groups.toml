@@ -64,6 +64,7 @@ lazy = false
 name = "🥓 纯净IP"
 type = "load-balance"
 rule = ["!!GROUPID=2!!(^(?!.*洛杉矶).*$)"]
+url = "https://www.gstatic.com/generate_204"
 interval = 670
 lazy = true
 
