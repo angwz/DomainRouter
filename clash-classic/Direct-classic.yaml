@@ -1,10 +1,10 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 00:09:27 (UTC+8)
+# UPDATED: 2024-07-19 01:09:55 (UTC+8)
 # TYPE: classic
-# TOTAL: 32
-# DOMAIN-KEYWORD TOTAL: 8
+# TOTAL: 31
+# DOMAIN-KEYWORD TOTAL: 7
 # DST-PORT TOTAL: 1
 # SRC-PORT TOTAL: 1
 # PROCESS-NAME TOTAL: 22
@@ -16,7 +16,6 @@ payload:
   - DOMAIN-KEYWORD,smp-device
   - DOMAIN-KEYWORD,testflight
   - DOMAIN-KEYWORD,icloud.com.akadns.net
-  - DOMAIN-KEYWORD,serv00
   - DST-PORT,9993
   - SRC-PORT,9993
   - PROCESS-NAME,CrashReport.exe

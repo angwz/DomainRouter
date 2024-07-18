@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 00:09:28 (UTC+8)
+# UPDATED: 2024-07-19 01:09:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 26507
+# TOTAL: 26509
 payload:
   - '+.adult'
   - '+.amazon'
@@ -26072,6 +26072,8 @@ payload:
   - 'rink.hockeyapp.net'
   - 'rtm.tnt-ea.com'
   - 'run.publictracker.xyz'
+  - 's6.serv00.com'
+  - 's7.serv00.com'
   - 'scholar.google.ae'
   - 'scholar.google.at'
   - 'scholar.google.be'
