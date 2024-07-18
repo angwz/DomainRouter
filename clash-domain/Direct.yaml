@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 07:39:38 (UTC+8)
+# UPDATED: 2024-07-19 07:53:51 (UTC+8)
 # TYPE: domain
 # TOTAL: 2410
 payload:
@@ -1170,6 +1170,7 @@ payload:
   - '+.ioffergift.com'
   - '+.ios-icloud.com'
   - '+.iosinthecar.com'
+  - '+.ip.sb'
   - '+.ipa-iphone.net'
   - '+.ipad.de'
   - '+.ipad.host'
@@ -2077,7 +2078,6 @@ payload:
   - '+.97.100.in-addr.arpa'
   - '+.98.100.in-addr.arpa'
   - '+.99.100.in-addr.arpa'
-  - '+.anycast.argun.rr.nu'
   - '+.apple.com.cdn20.com'
   - '+.apple.com.mwcloudcdn.com'
   - '+.apple.com.mwcname.com'
