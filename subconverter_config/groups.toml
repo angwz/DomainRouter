@@ -92,7 +92,7 @@ rule = ["[]DIRECT", "[]🍂 负载均衡", "!!GROUPID=0-2!!(^(?!.*小兔).*$)"]
 [[custom_groups]]
 name = "📽️ Netflix"
 type = "select"
-rule = ["[]🥓 纯净IP", "!!GROUPID=1!!(.*)"]
+rule = ["!!GROUPID=2!!(^(?!.*洛杉矶).*$)", "!!GROUPID=1!!(.*)"]
 
 [[custom_groups]]
 name = "⛺ Adobe"
