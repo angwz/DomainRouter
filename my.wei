@@ -48,14 +48,17 @@ SRC-PORT,9993
 199.15.76.35/32
 
 
-DOMAIN-SUFFIX,596743944.top
-DOMAIN-SUFFIX,tidc.asia
-DOMAIN-SUFFIX,donghui.tech
-DOMAIN-SUFFIX,axe.is
-DOMAIN-SUFFIX,speed-mitce.top
-DOMAIN-SUFFIX,getxlx.com
-DOMAIN-SUFFIX,p2tib8n.com
-DOMAIN-SUFFIX,desperadoj.com
+# Proxy Domain
+596743944.top
+tidc.asia
+donghui.tech
+axe.is
+speed-mitce.top
+getxlx.com
+p2tib8n.com
+desperadoj.com
+visa.cn
+anycast.argun.rr.nu
 
 [Proxy]
 "s6.serv00.com"
@@ -195,7 +198,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tencent.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent.list
 
-[Bilibili&Douyin]
+[Bilibili]
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bilibili.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/biliintl.yaml
@@ -325,7 +328,7 @@ OpenAI: 🗨️ ChatGPT
 AI: 🗽 美国分流
 Direct: DIRECT
 TikTok: 📱 TikTok
-Bilibili&Douyin: 📺 哔哩哔哩
+Bilibili: 📺 哔哩哔哩
 Tencent: DIRECT
 Netflix: 🥓 纯净IP
 OneDrive: ♾️ 无限流量
