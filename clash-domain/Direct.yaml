@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 01:09:55 (UTC+8)
+# UPDATED: 2024-07-19 07:39:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 2408
+# TOTAL: 2410
 payload:
   - '+.apple'
   - '+.icbc'
@@ -1678,6 +1678,7 @@ payload:
   - '+.vipexam.org'
   - '+.vipheadphones.com'
   - '+.vipshoes2.com'
+  - '+.visa.cn'
   - '+.wasdj.com'
   - '+.webank.com'
   - '+.webankcdn.net'
@@ -2076,6 +2077,7 @@ payload:
   - '+.97.100.in-addr.arpa'
   - '+.98.100.in-addr.arpa'
   - '+.99.100.in-addr.arpa'
+  - '+.anycast.argun.rr.nu'
   - '+.apple.com.cdn20.com'
   - '+.apple.com.mwcloudcdn.com'
   - '+.apple.com.mwcname.com'

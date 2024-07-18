@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 01:09:56 (UTC+8)
+# UPDATED: 2024-07-19 07:39:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 26509
+# TOTAL: 26511
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25825,6 +25825,7 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
+  - 'freedomalternative.com'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -25999,7 +26000,6 @@ payload:
   - 'imperial.insendi.com'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
-  - 'ipv6.fuuuuuck.com'
   - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
   - 'lazer.ppy.sh'
@@ -26066,6 +26066,7 @@ payload:
   - 'psg-int-eastus.cloudapp.net'
   - 'public.publictracker.xyz'
   - 'publicca.googleapis.com'
+  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker01-msk-virt.corbina.net'
@@ -26141,6 +26142,7 @@ payload:
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -26210,7 +26212,6 @@ payload:
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
-  - 'tracker.t-1.org'
   - 'tracker.t-rb.org'
   - 'tracker.tamersunion.org'
   - 'tracker.tfile.me'
@@ -26494,6 +26495,7 @@ payload:
   - 'tracker.torrent.eu.org'
   - 'tvcastlive-hamivideo.cdn.hinet.net'
   - 'u4.trakx.crim.ist'
+  - 'u6.trakx.crim.ist'
   - 'ubisoft-orbit-savegames.s3.amazonaws.com'
   - 'ubisoft-uplay-savegames.s3.amazonaws.com'
   - 'venmo.s3.amazonaws.com'
