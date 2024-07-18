@@ -51,6 +51,7 @@ rule = ["!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 360
 lazy = true
+strategy = "consistent-hashing"
 
 [[custom_groups]]
 name = "🗽 美国分流"
@@ -67,6 +68,7 @@ rule = ["!!GROUPID=2!!(^(?!.*洛杉矶).*$)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 670
 lazy = true
+strategy = "consistent-hashing"
 
 [[custom_groups]]
 name = "♾️ 无限流量"
@@ -75,3 +77,4 @@ rule = ["!!GROUPID=1-2!!(^(?!.*洛杉矶).*$)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 567
 lazy = true
+strategy = "consistent-hashing"
