@@ -65,6 +65,24 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+group = "📺 哔哩哔哩"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Bilibili&Douyin.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "📺 哔哩哔哩"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Bilibili&Douyin-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "📺 哔哩哔哩"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Bilibili&Douyin-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Tencent.yaml"
 type = "clash-domain"
