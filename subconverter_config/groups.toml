@@ -58,7 +58,7 @@ name = "🗽 美国分流"
 type = "fallback"
 rule = ["!!GROUPID=2!!(^(?=.*Reality)(?=.*洛杉矶).*)", "[]♾️ 无限流量"]
 url = "https://www.gstatic.com/generate_204"
-interval = 300
+interval = 66
 lazy = false
 
 [[custom_groups]]
@@ -67,7 +67,7 @@ type = "load-balance"
 rule = ["!!GROUPID=2!!(^(?!.*洛杉矶).*$)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 670
-lazy = true
+lazy = false
 strategy = "consistent-hashing"
 
 [[custom_groups]]
