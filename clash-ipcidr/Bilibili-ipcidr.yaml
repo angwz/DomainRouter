@@ -1,13 +1,14 @@
 # NAME: Bilibili
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-18 07:54:30 (UTC+8)
+# UPDATED: 2024-07-18 23:38:39 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 8
-# IP-CIDR TOTAL: 8
+# TOTAL: 9
+# IP-CIDR TOTAL: 9
 payload:
   - '106.75.74.76/32'
   - '111.206.25.147/32'
+  - '114.246.10.65/32'
   - '119.3.238.64/32'
   - '120.92.108.182/32'
   - '120.92.113.99/32'

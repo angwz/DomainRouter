@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-18 07:54:28 (UTC+8)
+# UPDATED: 2024-07-18 23:38:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 26514
+# TOTAL: 26507
 payload:
   - '+.adult'
   - '+.amazon'
@@ -24163,7 +24163,6 @@ payload:
   - '+.goagent.codeplex.com'
   - '+.godsdirectcontact.co.uk'
   - '+.godsdirectcontact.org.tw'
-  - '+.gog.qtlglb.com'
   - '+.gohappy.com.tw'
   - '+.goldcoastbulletin.com.au'
   - '+.goo.ne.jp'
@@ -25985,8 +25984,6 @@ payload:
   - 'gamedownloads-rockstargames-com.akamaized.net'
   - 'gigabyte2.azureedge.net'
   - 'gog.qtlglb.com'
-  - 'gog.salesmanago.com'
-  - 'gogalaxy.gog-statics.com'
   - 'hamivideo.hinet.net'
   - 'heads-ak-spotify-com.akamaized.net'
   - 'heads4-ak-spotify-com.akamaized.net'
@@ -26017,7 +26014,6 @@ payload:
   - 'mdn.mozillademos.org'
   - 'media-rockstargames-com.akamaized.net'
   - 'medone-education.thieme.com'
-  - 'menu-static.gog-statics.com'
   - 'movies.zsw.ca'
   - 'mscrl.microsoft.com'
   - 'mtalk.google.com'
@@ -26065,7 +26061,6 @@ payload:
   - 'practivate.adobe.ntp'
   - 'prd-priconne-redive.akamaized.net'
   - 'preprod-publicca.googleapis.com'
-  - 'productcard.gog-statics.com'
   - 'production-openaicom-storage.azureedge.net'
   - 'psg-int-centralus.cloudapp.net'
   - 'psg-int-eastus.cloudapp.net'
@@ -26116,7 +26111,6 @@ payload:
   - 'sentry.ppy.sh'
   - 'share.dmhy.org'
   - 'spectator.ppy.sh'
-  - 'static-login.gog-statics.com'
   - 'statics-marketingsites-eas-ms-com.akamaized.net'
   - 'statics-marketingsites-eus-ms-com.akamaized.net'
   - 'statics-marketingsites-wcus-ms-com.akamaized.net'
@@ -26375,7 +26369,6 @@ payload:
   - 'www.all4nothin.net'
   - 'www.peckservers.com'
   - 'www.wareztorrent.com'
-  - 'www4-static.gog-statics.com'
   - 'yolo.liberbear.com'
   - 'z.mercax.com'
   - 'activate.wip1.adobe.com'
