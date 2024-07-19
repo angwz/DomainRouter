@@ -6,7 +6,7 @@ import ipaddress
 from datetime import datetime, timedelta, timezone
 import logging
 
-# 设置日志记录，确保日志文件使用 utf-8 编码
+# 配置日志记录，确保日志文件使用 utf-8 编码
 log_file = 'py_log.txt'
 logging.basicConfig(
     filename=log_file,
@@ -17,13 +17,68 @@ logging.basicConfig(
 
 logging.info("开始运行脚本...")
 
-def domain_covers(pattern, domain):
-    """
-    检查域名是否符合特定模式
-    :param pattern: 域名模式，可以是'*', '*.', '+.'等
-    :param domain: 需要检查的域名
-    :return: 如果域名符合模式，返回True，否则返回False
-    """
+# 请求URL内容
+url = 'https://raw.githubusercontent.com/angwz/DomainRouter/main/my.wei'
+try:
+    logging.info(f"正在请求URL内容: {url}")
+    response = requests.get(url)
+    response.raise_for_status()
+    content = response.text
+    logging.info("成功获取URL内容")
+except requests.exceptions.RequestException as e:
+    logging.error(f"获取URL内容时出错: {e}")
+    content = ""
+
+# 初始化字典
+data_dict = {}
+
+# 使用正则表达式解析内容
+pattern = re.compile(r'\[([^\]]+)\]([^\[]*)')
+matches = pattern.findall(content)
+logging.info(f"找到 {len(matches)} 个匹配项")
+
+skip_rules = False
+
+for match in matches:
+    key = match[0].strip()
+    if "rules" in key.lower():
+        skip_rules = True
+        logging.info(f"跳过包含'rules'的部分: {key}")
+        continue  # 跳过包含"rules"的部分
+    if skip_rules:
+        skip_rules = False
+        continue
+
+    value = match[1].strip().split('\n')
+    value = [v.strip() for v in value if v.strip()]  # 清理空白行
+    final_value = []
+
+    for item in value:
+        if item.startswith('http'):
+            while True:
+                try:
+                    logging.info(f"请求子内容: {item}")
+                    sub_response = requests.get(item)
+                    time.sleep(0.5)
+                    sub_response.raise_for_status()
+                    sub_content = sub_response.text
+                    sub_lines = sub_content.split('\n')
+                    final_value.extend([line.strip() for line in sub_lines if line.strip()])  # 清理空白行
+                    logging.info(f"成功获取子内容: {item}")
+                    break
+                except requests.exceptions.RequestException as e:
+                    logging.warning(f"重试 {item} 由于错误: {e}")
+                    time.sleep(5)
+        else:
+            final_value.append(item)
+
+    data_dict[key] = {
+        "values": final_value,
+        "errors": []
+    }
+    logging.info(f"处理完键: {key}")
+
+def covers(pattern, domain):
     if pattern == domain:
         return True
     elif pattern == '*':
@@ -36,29 +91,20 @@ def domain_covers(pattern, domain):
         return domain.endswith(pattern) and domain != pattern[1:]
     return False
 
-def cidr_covers(cidr1, cidr2):
-    """
-    检查cidr1是否完全覆盖cidr2
-    :param cidr1: CIDR 范围1
-    :param cidr2: CIDR 范围2
-    :return: 如果cidr1完全覆盖cidr2，返回True，否则返回False
-    """
+def covers_cidr(cidr1, cidr2):
+    """ 检查 cidr1 是否完全覆盖 cidr2 """
     network1 = ipaddress.ip_network(cidr1, strict=False)
     network2 = ipaddress.ip_network(cidr2, strict=False)
     return network1.supernet_of(network2)
 
-def optimize_domain_list(domains):
-    """
-    优化域名列表，移除重复和被覆盖的域名
-    :param domains: 域名列表
-    :return: 优化后的域名列表
-    """
+def optimize_domains(domains):
+    """ 优化域名列表 """
     domains = list(set(domains))
     
     # 移除非法的 + 和 . 独立字符
     domains = [d for d in domains if d != '+' and d != '.']
     
-    # 按通配符优先级排序
+    # 保持通配符的优先级
     plus_domains = [d for d in domains if d.startswith('+')]
     star_domains = [d for d in domains if d.startswith('*')]
     other_domains = [d for d in domains if not d.startswith('+') and not d.startswith('*')]
@@ -69,12 +115,12 @@ def optimize_domain_list(domains):
     while i < n:
         j = 0
         while j < n:
-            if i != j and domain_covers(domains[i], domains[j]):
+            if i != j and covers(domains[i], domains[j]):
                 del domains[j]
                 n -= 1
                 if j < i:
                     i -= 1
-            elif i != j and domain_covers(domains[j], domains[i]):
+            elif i != j and covers(domains[j], domains[i]):
                 del domains[i]
                 n -= 1
                 i -= 1
@@ -85,12 +131,8 @@ def optimize_domain_list(domains):
 
     return domains
 
-def optimize_cidr_list(cidrs):
-    """
-    优化CIDR列表，移除重复和被覆盖的CIDR
-    :param cidrs: CIDR列表
-    :return: 优化后的CIDR列表
-    """
+def optimize_cidrs(cidrs):
+    """ 优化 CIDR 列表 """
     ipv4_cidrs = [cidr for cidr in cidrs if ipaddress.ip_network(cidr).version == 4]
     ipv6_cidrs = [cidr for cidr in cidrs if ipaddress.ip_network(cidr).version == 6]
     
@@ -100,11 +142,7 @@ def optimize_cidr_list(cidrs):
     return optimized_ipv4 + optimized_ipv6
 
 def optimize_single_cidr_list(cidrs):
-    """
-    优化单一CIDR列表（IPv4或IPv6）
-    :param cidrs: 单一类型的CIDR列表
-    :return: 优化后的CIDR列表
-    """
+    """ 优化单一类型的 CIDR 列表（IPv4 或 IPv6） """
     cidrs = list(set(cidrs))
     n = len(cidrs)
     
@@ -112,12 +150,12 @@ def optimize_single_cidr_list(cidrs):
     while i < n:
         j = 0
         while j < n:
-            if i != j and cidr_covers(cidrs[i], cidrs[j]):
+            if i != j and covers_cidr(cidrs[i], cidrs[j]):
                 del cidrs[j]
                 n -= 1
                 if j < i:
                     i -= 1
-            elif i != j and cidr_covers(cidrs[j], cidrs[i]):
+            elif i != j and covers_cidr(cidrs[j], cidrs[i]):
                 del cidrs[i]
                 n -= 1
                 i -= 1
@@ -129,81 +167,49 @@ def optimize_single_cidr_list(cidrs):
     return cidrs
 
 def optimize_list(input_list):
-    """
-    优化输入列表，判断是CIDR列表还是域名列表
-    :param input_list: 输入的列表，可能是域名或CIDR
-    :return: 优化后的列表
-    """
+    """ 优化输入列表，判断是 CIDR 列表还是域名列表 """
     try:
-        # 试图将第一个元素解析为IP网络
         ipaddress.ip_network(input_list[0], strict=False)
-        # 如果成功，认为整个列表是CIDR列表
-        return optimize_cidr_list(input_list)
+        return optimize_cidrs(input_list)
     except ValueError:
-        # 如果失败，认为整个列表是域名列表
-        return optimize_domain_list(input_list)
+        return optimize_domains(input_list)
 
 def filter_and_trim_values(values):
-    """
-    过滤并修剪值列表
-    :param values: 待处理的值列表
-    :return: 过滤并修剪后的值列表
-    """
+    """ 过滤和修剪值 """
     filtered_values = []
     domain_pattern = re.compile(
         r'^(?=.{1,253}$)(?!-)[A-Za-z0-9-]{1,63}(?<!-)(\.[A-Za-z]{2,6})+$'
     )
 
     for item in values:
-        # 去掉字符串两边和中间的所有空格
         item = ''.join(item.split())
 
-        # 过滤掉以#或payload开头的行
         if item.startswith('#') or item.startswith('payload'):
             logging.info(f"跳过行: {item}")
             continue
 
-        # 使用正则表达式判断是否为域名
         if domain_pattern.match(item):
             filtered_values.append(f"+.{item}")
             logging.info(f"添加域名: +.{item}")
             continue
 
-        # 修剪内容，去掉两端所有非字母中文数字:+*.
         item_trimmed = re.sub(r'^[^\w\u4e00-\u9fa5:+*.]+|[^\w\u4e00-\u9fa5:+*.]+$', '', item)
-
-        # 判断字符串所有字符中包含的非字母中文数字()$正斜杠反斜杠^,:+*.-字符的数量是否大于3个
         special_characters_count = len(re.findall(r'[^a-zA-Z0-9\u4e00-\u9fa5()$/\\^,:+*.-]', item_trimmed))
         if special_characters_count > 3:
             logging.info(f"剔除非法内容: {item_trimmed}")
-            continue  # 剔除非法内容
+            continue
 
         filtered_values.append(item_trimmed)
         logging.info(f"添加修剪后的内容: {item_trimmed}")
     return filtered_values
 
-# 处理字典中的每一组数据
-filtered_dict = {}
-for key, content in filtered_dict.items():
-    logging.info(f"过滤和修剪值: {key}")
-    filtered_values = filter_and_trim_values(content["values"])
-    filtered_dict[key] = {
-        "values": filtered_values,
-        "errors": content["errors"]
-    }
-
 def classify_values(values):
-    """
-    将值分类为域名、IPCIDR和经典规则
-    :param values: 待分类的值列表
-    :return: 域名列表，IPCIDR列表，经典规则列表
-    """
+    """ 分类值为域名、IP/CIDR 和经典规则 """
     domain_list = []
     ipcidr_list = []
-    classic_list = []
+    classical_list = []
     for item in values:
         try:
-            # 尝试直接判断是否为单个IP地址或IP段
             ip_addr = ipaddress.ip_address(item.strip())
             if ip_addr.version == 4:
                 ipcidr_list.append(f"{item.strip()}/32")
@@ -214,14 +220,12 @@ def classify_values(values):
             pass
 
         try:
-            # 尝试解析为IP网络
             ip_net = ipaddress.ip_network(item.strip(), strict=False)
             ipcidr_list.append(item.strip())
             continue
         except ValueError:
             pass
 
-        # 检查是否为域名规则
         if re.match(r'(\+\..*|\*.*|DOMAIN-SUFFIX,.*|DOMAIN,.*|^[a-zA-Z0-9\-.]+$)', item, re.IGNORECASE):
             domain_list.append(item)
         else:
@@ -231,18 +235,14 @@ def classify_values(values):
                     ip_net = ipaddress.ip_network(parts[1].strip(), strict=False)
                     ipcidr_list.append(parts[1].strip())
                 except ValueError:
-                    classic_list.append(item)
+                    classical_list.append(item)
             else:
-                classic_list.append(item)
+                classical_list.append(item)
 
-    return domain_list, ipcidr_list, classic_list
+    return domain_list, ipcidr_list, classical_list
 
 def sort_ipcidr_items(items):
-    """
-    排序IPCIDR项目
-    :param items: IPCIDR项目列表
-    :return: 排序后的IPCIDR项目列表
-    """
+    """ 排序 IP/CIDR 项目 """
     if items:
         items = optimize_list(items)
     ipv4_items = []
@@ -264,11 +264,7 @@ def sort_ipcidr_items(items):
     return ipv4_items + ipv6_items
 
 def sort_classic_items(items):
-    """
-    排序经典项目
-    :param items: 经典项目列表
-    :return: 排序后的经典项目列表及其计数
-    """
+    """ 排序经典规则项目 """
     order = {
         "DOMAIN-KEYWORD": 0,
         "DOMAIN-REGEX": 1,
@@ -310,93 +306,18 @@ def sort_classic_items(items):
         return len(order)
 
     sorted_items = sorted(items, key=get_order)
-
-    # 只保留有数据的项
     item_counts = {k: v for k, v in item_counts.items() if v > 0}
 
     return sorted_items, item_counts
 
-# 创建domain, classic, 和 ipcidr 文件夹
-os.makedirs('domain', exist_ok=True)
-os.makedirs('classic', exist_ok=True)
-os.makedirs('ipcidr', exist_ok=True)
-
-# 清空domain, classic 和 ipcidr 文件夹中的所有文件
-for folder in ['domain', 'classic', 'ipcidr']:
-    for filename in os.listdir(folder):
-        file_path = os.path.join(folder, filename)
-        try:
-            if os.path.isfile(file_path) or os.path.islink(file_path):
-                os.unlink(file_path)
-            elif os.path.isdir(file_path):
-                os.rmdir(file_path)
-        except Exception as e:
-            logging.error(f'Failed to delete {file_path}. Reason: {e}')
-
-def format_item(item, item_type):
-    """
-    格式化项目
-    :param item: 待格式化的项目
-    :param item_type: 项目的类型，可以是'domain', 'ipcidr', 'classic'
-    :return: 格式化后的项目字符串
-    """
-    if item_type == "domain":
-        if item.lower().startswith('domain,'):
-            item = item[len('domain,'):]
-            return f"  - '{item}'"
-        elif item.lower().startswith('domain-suffix,'):
-            item = item[len('domain-suffix,'):]
-            return f"  - '+.{item}'"
-        else:
-            return f"  - '{item}'"
-    elif item_type == "ipcidr":
-        return f"  - '{item}'"
-    else:
-        parts = item.split(',')
-        valid_prefixes = [
-            "DOMAIN-KEYWORD", "DOMAIN-REGEX", "GEOSITE", "IP-SUFFIX", "IP-ASN", "GEOIP", "SRC-GEOIP", "SCR-IP-ASN",
-            "SRC-IP-CIDR", "SRC-IP-SUFFIX", "DST-PORT", "SRC-PORT", "IN-PORT", "IN-TYPE", "IN-USER", "IN-NAME",
-            "PROCESS-PATH", "PROCESS-PATH-REGEX", "PROCESS-NAME", "PROCESS-NAME-REGEX", "UID", "NETWORK", "DSCP",
-            "RULE-SET", "AND", "OR", "NOT", "SUB-RULE"
-        ]
-        if parts[0].upper() not in valid_prefixes:
-            return None  # 剔除不符合的内容
-
-        if 'ip' in parts[0].lower():
-            if not item.endswith(',no-resolve'):
-                item += ',no-resolve'
-        return f"  - {item}"
-
-def deduplicate(items):
-    """
-    去重项目
-    :param items: 待去重的项目列表
-    :return: 去重后的项目列表
-    """
-    seen = set()
-    deduped_items = []
-    for item in items:
-        if item and item not in seen:
-            deduped_items.append(item)
-            seen.add(item)
-    return deduped_items
-
 def preprocess_for_sorting(item):
-    """
-    预处理域名项目以进行排序
-    :param item: 待预处理的域名项目
-    :return: 预处理后的项目
-    """
+    """ 预处理域名项目以便排序 """
     if item.startswith("  - '") and item.endswith("'"):
         item = item[5:-1]
     return item
 
 def sort_formatted_domain_items(items):
-    """
-    排序格式化后的域名项目
-    :param items: 格式化后的域名项目列表
-    :return: 排序后的域名项目列表
-    """
+    """ 排序格式化后的域名项目 """
     tmp_items = []
     for item in items:
         tmp_items.append(preprocess_for_sorting(item))
@@ -427,15 +348,49 @@ def sort_formatted_domain_items(items):
 
     return plus_items + star_items + dot_items + plain_items
 
+def format_item(item, item_type):
+    """ 格式化项目 """
+    if item_type == "domain":
+        if item.lower().startswith('domain,'):
+            item = item[len('domain,'):]
+            return f"  - '{item}'"
+        elif item.lower().startswith('domain-suffix,'):
+            item = item[len('domain-suffix,'):]
+            return f"  - '+.{item}'"
+        else:
+            return f"  - '{item}'"
+    elif item_type == "ipcidr":
+        return f"  - '{item}'"
+    else:
+        parts = item.split(',')
+        valid_prefixes = [
+            "DOMAIN-KEYWORD", "DOMAIN-REGEX", "GEOSITE", "IP-SUFFIX", "IP-ASN", "GEOIP", "SRC-GEOIP", "SCR-IP-ASN",
+            "SRC-IP-CIDR", "SRC-IP-SUFFIX", "DST-PORT", "SRC-PORT", "IN-PORT", "IN-TYPE", "IN-USER", "IN-NAME",
+            "PROCESS-PATH", "PROCESS-PATH-REGEX", "PROCESS-NAME", "PROCESS-NAME-REGEX", "UID", "NETWORK", "DSCP",
+            "RULE-SET", "AND", "OR", "NOT", "SUB-RULE"
+        ]
+        if parts[0].upper() not in valid_prefixes:
+            return None
+
+        if 'ip' in parts[0].lower():
+            if not item.endswith(',no-resolve'):
+                item += ',no-resolve'
+        return f"  - {item}"
+
+def deduplicate(items):
+    """ 去重项目列表 """
+    seen = set()
+    deduped_items = []
+    for item in items:
+        if item and item not in seen:
+            deduped_items.append(item)
+            seen.add(item)
+    return deduped_items
+
 def count_classic_items(items):
-    """
-    统计经典项目数量
-    :param items: 经典项目列表
-    :return: 每种类型的项目数量字典
-    """
+    """ 统计经典规则项目数量 """
     counts = {}
     for item in items:
-        # 移除前缀和空白
         item = item.lstrip("  - ").strip()
         parts = item.split(',')
         type_key = parts[0].strip()
@@ -446,15 +401,10 @@ def count_classic_items(items):
     return counts
 
 def count_ipcidr_items(items):
-    """
-    统计IPCIDR项目数量
-    :param items: IPCIDR项目列表
-    :return: IPv4和IPv6项目的数量
-    """
+    """ 统计 IP/CIDR 项目数量 """
     ipv4_count = 0
     ipv6_count = 0
     for item in items:
-        # 去除前缀和单引号
         item_cleaned = item[5:-1]
         ip_net = ipaddress.ip_network(item_cleaned, strict=False)
         if ip_net.version == 4:
@@ -463,14 +413,41 @@ def count_ipcidr_items(items):
             ipv6_count += 1
     return ipv4_count, ipv6_count
 
+# 创建domain, classic, 和 ipcidr 文件夹
+os.makedirs('domain', exist_ok=True)
+os.makedirs('classic', exist_ok=True)
+os.makedirs('ipcidr', exist_ok=True)
+
+# 清空domain, classic 和 ipcidr 文件夹中的所有文件
+for folder in ['domain', 'classic', 'ipcidr']:
+    for filename in os.listdir(folder):
+        file_path = os.path.join(folder, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                os.rmdir(file_path)
+        except Exception as e:
+            logging.error(f'Failed to delete {file_path}. Reason: {e}')
+
+# 处理字典中的每一组数据
+filtered_dict = {}
+for key, content in data_dict.items():
+    logging.info(f"过滤和修剪值: {key}")
+    filtered_values = filter_and_trim_values(content["values"])
+    filtered_dict[key] = {
+        "values": filtered_values,
+        "errors": content["errors"]
+    }
+
 # 处理并生成文件
 for key, content in filtered_dict.items():
     values = content["values"]
-    domain_list, ipcidr_list, classic_list = classify_values(values)
+    domain_list, ipcidr_list, classical_list = classify_values(values)
 
     # 排序 ipcidr 和 classic 列表
     ipcidr_list = sort_ipcidr_items(ipcidr_list)
-    classical_list, _ = sort_classic_items(classic_list)
+    classical_list, _ = sort_classic_items(classical_list)
 
     # 格式化 domain 列表
     formatted_domain_list = [format_item(item, "domain") for item in domain_list]
@@ -504,8 +481,11 @@ for key, content in filtered_dict.items():
             file.write(f"# TYPE: domain\n")
             file.write(f"# TOTAL: {domain_total}\n")
             file.write("payload:\n")
-            for idx, item in enumerate(deduped_domain_list):
-                file.write(f"{item}\n" if idx != len(deduped_domain_list) - 1 else f"{item}")
+            for i, item in enumerate(deduped_domain_list):
+                if i < domain_total - 1:
+                    file.write(f"{item}\n")
+                else:
+                    file.write(f"{item}")
 
     # 生成 ipcidr 文件
     if ipcidr_total > 0:
@@ -523,8 +503,11 @@ for key, content in filtered_dict.items():
             if ipv6_count > 0:
                 file.write(f"# IP-CIDR6 TOTAL: {ipv6_count}\n")
             file.write("payload:\n")
-            for idx, item in enumerate(deduped_ipcidr_list):
-                file.write(f"{item}\n" if idx != len(deduped_ipcidr_list) - 1 else f"{item}")
+            for i, item in enumerate(deduped_ipcidr_list):
+                if i < ipcidr_total - 1:
+                    file.write(f"{item}\n")
+                else:
+                    file.write(f"{item}")
 
     # 生成 classic 文件
     if classic_total > 0:
@@ -541,13 +524,16 @@ for key, content in filtered_dict.items():
                 if v > 0:
                     file.write(f"# {k} TOTAL: {v}\n")
             file.write("payload:\n")
-            previous_type = None
-            for idx, item in enumerate(deduped_classical_list):
-                current_type = item.split(',')[0]
-                if previous_type and current_type != previous_type:
+            previous_prefix = None
+            for i, item in enumerate(deduped_classical_list):
+                current_prefix = item.split(',')[0].upper()
+                if previous_prefix and previous_prefix != current_prefix:
                     file.write("\n")
-                file.write(f"{item}\n" if idx != len(deduped_classical_list) - 1 else f"{item}")
-                previous_type = current_type
+                if i < classic_total - 1:
+                    file.write(f"{item}\n")
+                else:
+                    file.write(f"{item}")
+                previous_prefix = current_prefix
 
-
+print("处理完成，生成的文件在'domain', 'ipcidr'和'classic'文件夹中。")
 logging.info("处理完成，生成的文件在'domain', 'ipcidr'和'classic'文件夹中。")
