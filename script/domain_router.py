@@ -184,7 +184,7 @@ def filter_and_trim_values(values):
 
 # 处理字典中的每一组数据
 filtered_dict = {}
-for key, content in data_dict.items():
+for key, content in filtered_dict.items():
     logging.info(f"过滤和修剪值: {key}")
     filtered_values = filter_and_trim_values(content["values"])
     filtered_dict[key] = {
