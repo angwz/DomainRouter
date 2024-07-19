@@ -66,9 +66,9 @@ name = "🥓 纯净IP"
 type = "load-balance"
 rule = ["!!GROUPID=2!!(^(?!.*洛杉矶).*$)"]
 url = "https://www.gstatic.com/generate_204"
-interval = 28
+interval = 12
 lazy = false
-strategy = "consistent-hashing"
+strategy = "round-robin"
 
 [[custom_groups]]
 name = "♾️ 无限流量"
