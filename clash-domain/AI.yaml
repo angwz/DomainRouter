@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 07:53:52 (UTC+8)
+# UPDATED: 2024-07-19 23:49:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 94
+# TOTAL: 84
 payload:
   - '+.bing'
   - '+.algolia.net'
@@ -60,10 +60,7 @@ payload:
   - '+.challenges.cloudflare.com'
   - '+.chatgpt.livekit.cloud'
   - '+.client-api.arkoselabs.com'
-  - '+.cn.bing.com'
-  - '+.cn.bing.net'
   - '+.ditu.live.com'
-  - '+.edgeservices.bing.com'
   - '+.events.statsigapi.net'
   - '+.gemini.google.com'
   - '+.host.livekit.cloud'
@@ -71,7 +68,6 @@ payload:
   - '+.openaicom.imgix.net'
   - '+.proactivebackend-pa.googleapis.com'
   - '+.turn.livekit.cloud'
-  - '+.cn.mm.bing.net'
   - 'browser-intake-datadoghq.com'
   - 'ai.google.dev'
   - 'api.msn.com'
@@ -79,20 +75,14 @@ payload:
   - 'assets.msn.com'
   - 'cdn.usefathom.com'
   - 'copilot.microsoft.com'
-  - 'emoi-cncdn.bing.com'
   - 'in.appcenter.ms'
   - 'location.microsoft.com'
   - 'makersuite.google.com'
   - 'openai-api.arkoselabs.com'
   - 'production-openaicom-storage.azureedge.net'
-  - 'r.bing.com'
   - 'servd-anthropic-website.b-cdn.net'
-  - 'services.bingapis.com'
   - 'static.cloudflareinsights.com'
-  - 'sydney.bing.com'
-  - 'www.bing.com'
   - 'alkalimakersuite-pa.clients6.google.com'
-  - 'bj1.api.bing.com'
   - 'gateway.bingviz.microsoft.net'
   - 'gateway.bingviz.microsoftapp.net'
   - 'odc.officeapps.live.com'

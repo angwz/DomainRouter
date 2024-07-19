@@ -1,14 +1,13 @@
 # NAME: WeChat
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 07:53:55 (UTC+8)
+# UPDATED: 2024-07-20 02:11:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 30
+# TOTAL: 29
 payload:
   - '+.iot-tencent.com'
   - '+.qlogo.cn'
   - '+.qpic.cn'
-  - '+.servicewechat.com'
   - '+.tenpay.com'
   - '+.wechat.com'
   - '+.wechatlegal.net'

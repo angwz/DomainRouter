@@ -1,11 +1,11 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 07:53:52 (UTC+8)
+# UPDATED: 2024-07-19 23:49:35 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 119
+# TOTAL: 117
 # IP-CIDR TOTAL: 113
-# IP-CIDR6 TOTAL: 6
+# IP-CIDR6 TOTAL: 4
 payload:
   - '1.201.0.0/24'
   - '101.32.118.0/23'
@@ -122,7 +122,5 @@ payload:
   - '91.108.0.0/16'
   - '2001:67c:4e8::/48'
   - '2001:b28:f23c::/47'
-  - '2001:b28:f23d::/48'
   - '2001:b28:f23f::/48'
   - '2a0a:f280::/29'
-  - '2a0a:f280::/32'

@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 07:53:54 (UTC+8)
+# UPDATED: 2024-07-20 02:07:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 40
+# TOTAL: 22
 payload:
   - '+.jp'
   - '+.nico'
@@ -13,35 +13,17 @@ payload:
   - '+.alicesoft.com'
   - '+.bluekai.com'
   - '+.cosmiccute.com'
-  - '+.ddo.jp'
-  - '+.dmc.nico'
   - '+.dmm-extension.com'
   - '+.dmm.com'
   - '+.dmm.hk'
   - '+.dmmapis.com'
   - '+.dmmrex.com'
-  - '+.fout.jp'
-  - '+.gmossp-sp.jp'
   - '+.hibiki-site.com'
   - '+.im-apps.net'
-  - '+.impact-ad.jp'
   - '+.ladsp.com'
-  - '+.microad.jp'
   - '+.minori.ph'
   - '+.navismithapis-cdn.com'
-  - '+.nicodic.jp'
-  - '+.nicomanga.jp'
   - '+.niconico.com'
-  - '+.nicoseiga.jp'
-  - '+.nicovideo.jp'
-  - '+.nimg.jp'
-  - '+.simg.jp'
   - '+.socdm.com'
   - '+.tenco.cc'
   - '+.wheel-soft.com'
-  - '+.api-p.videomarket.jp'
-  - '+.dmm.co.jp'
-  - '+.i-mobile.co.jp'
-  - '+.microad.co.jp'
-  - '+.ad.games.dmm.com'
-  - 'api-p.videomarket.jp'

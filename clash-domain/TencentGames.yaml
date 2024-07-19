@@ -1,9 +1,9 @@
 # NAME: TencentGames
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 07:53:55 (UTC+8)
+# UPDATED: 2024-07-20 02:11:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 86
+# TOTAL: 84
 payload:
   - '+.17roco.com'
   - '+.anticheatexpert.com'
@@ -29,7 +29,6 @@ payload:
   - '+.happyhlddz.com'
   - '+.haydaypop.cn'
   - '+.hdyxgame.com'
-  - '+.hkgcloudcs.com'
   - '+.ihappystudio.cn'
   - '+.ihappystudio.com'
   - '+.in.th'
@@ -45,7 +44,6 @@ payload:
   - '+.mszdld.cn'
   - '+.mszdld.com'
   - '+.mszdld.net'
-  - '+.nagcloudcs.com'
   - '+.nextstudios.com'
   - '+.nextworkshop.net'
   - '+.proximabeta.com'
