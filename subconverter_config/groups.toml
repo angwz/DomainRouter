@@ -68,7 +68,7 @@ rule = ["!!GROUPID=2!!(^(?!.*洛杉矶).*$)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 19
 lazy = false
-strategy = "round-robin"
+strategy = "consistent-hashing"
 
 [[custom_groups]]
 name = "♾️ 无限流量"
