@@ -6,7 +6,7 @@ rule = ["[]🗽 美国分流", "[]🥓 纯净IP", "[]✈️ 手动切换", "[]DI
 [[custom_groups]]
 name = "✈️ 手动切换"
 type = "select"
-rule = ["!!GROUPID=1-2!!(^(?!.*小兔).*$)", "!!GROUPID=0!!(.*)"]
+rule = ["!!GROUPID=0-1!!(^(?!.*小兔).*$)", "!!GROUPID=2!!(.*)"]
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
@@ -47,7 +47,7 @@ rule = ["[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 [[custom_groups]]
 name = "🍙 日本高速"
 type = "load-balance"
-rule = ["!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)"]
+rule = ["!!GROUPID=0!!(日|东京|大阪|埼玉|JP|jp|Japan)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 360
 lazy = true
@@ -56,7 +56,7 @@ strategy = "consistent-hashing"
 [[custom_groups]]
 name = "🗽 美国分流"
 type = "fallback"
-rule = ["!!GROUPID=2!!(^(?=.*Reality)(?=.*洛杉矶).*)", "[]♾️ 无限流量"]
+rule = ["!!GROUPID=1!!(^(?=.*Reality)(?=.*洛杉矶).*)", "[]♾️ 无限流量"]
 url = "https://www.gstatic.com/generate_204"
 interval = 66
 lazy = false
@@ -64,7 +64,7 @@ lazy = false
 [[custom_groups]]
 name = "🥓 纯净IP"
 type = "load-balance"
-rule = ["!!GROUPID=2!!(^(?!.*洛杉矶).*$)"]
+rule = ["!!GROUPID=1!!(^(?!.*洛杉矶).*$)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 12
 lazy = false
@@ -73,7 +73,7 @@ strategy = "round-robin"
 [[custom_groups]]
 name = "♾️ 无限流量"
 type = "load-balance"
-rule = ["!!GROUPID=1-2!!(^(?!.*洛杉矶).*$)"]
+rule = ["!!GROUPID=0-1!!(^(?!.*洛杉矶).*$)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 567
 lazy = true
