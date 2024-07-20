@@ -55,7 +55,9 @@ for match in matches:
 
     for item in value:
         if item.startswith("http"):
-            while True:
+            retry_count = 0
+            max_retries = 3
+            while retry_count < max_retries:
                 try:
                     logging.info(f"请求子内容: {item}")
                     sub_response = requests.get(item)
@@ -69,13 +71,30 @@ for match in matches:
                     logging.info(f"成功获取子内容: {item}")
                     break
                 except requests.exceptions.RequestException as e:
-                    logging.warning(f"重试 {item} 由于错误: {e}")
+                    retry_count += 1
+                    logging.warning(
+                        f"重试 {item} 由于错误: {e} (尝试次数: {retry_count})")
                     time.sleep(5)
+                    if retry_count == max_retries:
+                        logging.error(f"资源 {item} 不存在，已重试 {max_retries} 次")
+                        break
         else:
             final_value.append(item)
 
     data_dict[key] = {"values": final_value, "errors": []}
     logging.info(f"处理完键: {key}")
+
+
+def write_to_delete_file(items):
+    """
+    将列表中的值写入 delete_data.txt 文件。
+
+    参数：
+        items (list): 要写入文件的列表
+    """
+    with open('delete_data.txt', 'a') as file:  # 使用追加模式打开文件
+        for item in items:
+            file.write(f"{item}\n")
 
 
 def covers_cidr(cidr1, cidr2):
@@ -112,6 +131,56 @@ def filter_invalid_domains(domain_list):
     return filtered_list
 
 
+def match_domains(domains, dot_count):
+    """
+    匹配以“+.”开头并包含指定数量“.”的域名。
+
+    参数：
+            domains (list): 域名列表
+            dot_count (int): 点号数量
+
+    返回：
+            set: 处理后的域名集合，移除了开头的“+”
+    """
+    # 使用字符串操作匹配以“+.”开头并包含指定数量“.”的元素
+    matched_domains = [
+        domain
+        for domain in domains
+        if domain.startswith("+.") and domain.count(".") == dot_count
+    ]
+
+    # 移除第一个字符“+”
+    processed_domains = {domain[1:] for domain in matched_domains}
+
+    return processed_domains
+
+
+def remove_matching_suffix(domains, processed_domains):
+    """
+    从原始域名列表中删除匹配指定后缀的域名。
+
+    参数：
+            domains (list): 原始域名列表
+            processed_domains (set): 处理后的域名集合
+
+    返回：
+            list: 删除匹配后缀后的域名列表
+    """
+    result_domains = []
+    # 将处理后的域名集合中的每个元素前面加上“+”
+    processed_suffixes = {"+" + suffix for suffix in processed_domains}
+
+    for domain in domains:
+        # 如果域名完全匹配处理后的后缀，则保留
+        if domain in processed_suffixes:
+            result_domains.append(domain)
+        # 如果域名不以任何处理后的后缀结尾，则保留
+        elif not any(domain.endswith(suffix) for suffix in processed_domains):
+            result_domains.append(domain)
+
+    return result_domains
+
+
 def domain_to_dict(domain):
     """将域名以 '.' 分割并存储在字典中"""
     parts = domain.split(".")[::-1]
@@ -133,56 +202,76 @@ def compare_dicts(dict1, dict2):
 def optimize_domains(domain_list):
     """处理域名列表，按要求过滤、分类和比较域名"""
     # 第一步：过滤无效域名
+    if not domain_list:
+        return []
+
     filtered_domains = filter_invalid_domains(domain_list)
-    print("过滤后的域名:", filtered_domains)
+    logging.info("过滤后的域名:", filtered_domains)
 
-    # 提取以 + 开头的域名，存储在 plus_domains 列表中
-    plus_domains = [domain for domain in filtered_domains if domain.startswith("+")]
-    print("以 + 开头的域名列表:", plus_domains)
+    # # 提取以 + 开头的域名，存储在 plus_domains 列表中
+    # plus_domains = [domain for domain in filtered_domains if domain.startswith("+")]
+    # logging.info("以 + 开头的域名列表:", plus_domains)
 
-    for plus_domain in plus_domains:
-        # 切片，去掉 '+.' 后的部分
-        sliced_part = plus_domain[2:]  # 去掉 '+.' 后的部分
-        print("切片部分:", sliced_part)
+    # for plus_domain in plus_domains:
+    #     # 切片，去掉 '+.' 后的部分
+    #     sliced_part = plus_domain[2:]  # 去掉 '+.' 后的部分
+    #     logging.info("切片部分:", sliced_part)
 
-        domains_to_remove = []
+    #     domains_to_remove = []
 
-        for domain in filtered_domains:
-            print("检查域名:", domain)
-            # 保留 + 开头的域名
-            if domain == plus_domain:
-                continue
-            # 如果域名从右向左完全包含切片部分，从原始列表中删除该域名
-            if domain.endswith(sliced_part):
-                domains_to_remove.append(domain)
-                print(f"域名 {domain} 以 {sliced_part} 结尾，将被删除。")
+    #     for domain in filtered_domains:
+    #         logging.info("检查域名:", domain)
+    #         # 保留 + 开头的域名
+    #         if domain == plus_domain:
+    #             continue
+    #         # 如果域名从右向左完全包含切片部分，从原始列表中删除该域名
+    #         if domain.endswith(sliced_part):
+    #             domains_to_remove.append(domain)
+    #             logging.info(f"域名 {domain} 以 {sliced_part} 结尾，将被删除。")
 
-        # 从原始列表中删除符合条件的域名
-        filtered_domains = [
-            domain for domain in filtered_domains if domain not in domains_to_remove
-        ]
+    #     # 从原始列表中删除符合条件的域名
+    #     filtered_domains = [
+    #         domain for domain in filtered_domains if domain not in domains_to_remove
+    #     ]
 
-    remaining_domains = filtered_domains  # 剩下的列表
-    print("剩余域名:", remaining_domains)
+    # 初始原始域名列表
+    dot_count = 1
+    original_domains = filtered_domains  # 赋予上一步得到的列表
+
+    while True:
+        # 筛选包含指定数量“.”的元素
+        processed_domains = match_domains(original_domains, dot_count)
+        if not processed_domains:
+            break
+
+        # 从原始域名列表中删除匹配后缀的域名
+        original_domains = remove_matching_suffix(
+            original_domains, processed_domains)
+        dot_count += 1
+
+    remaining_domains = original_domains  # 剩下的列表
+    logging.info("剩余域名:", remaining_domains)
 
     # 提取以 . 开头的域名，存储在 dot_domains 列表中
-    dot_domains = [domain for domain in remaining_domains if domain.startswith(".")]
-    print("以 . 开头的域名列表:", dot_domains)
+    dot_domains = [
+        domain for domain in remaining_domains if domain.startswith(".")]
+    logging.info("以 . 开头的域名列表:", dot_domains)
 
-    for dot_domain in dot_domains:
-        domains_to_remove = []
+    domains_to_remove = []
+    if dot_domains:
+        for dot_domain in dot_domains:
 
-        for domain in remaining_domains:
-            # 如果域名相等，继续比较下一个元素
-            if domain == dot_domain:
-                continue
-            # 如果 '*' + dot_domain 等于 domain，继续比较下一个元素
-            if "*" + dot_domain == domain:
-                continue
-            # 如果域名从右向左完全包含 dot_domain，从原始列表中删除该域名
-            if domain.endswith(dot_domain):
-                domains_to_remove.append(domain)
-                print(f"域名 {domain} 以 {dot_domain} 结尾，将被删除。")
+            for domain in remaining_domains:
+                # 如果域名相等，继续比较下一个元素
+                if domain == dot_domain:
+                    continue
+                # 如果 '*' + dot_domain 等于 domain，继续比较下一个元素
+                if "*" + dot_domain == domain:
+                    continue
+                # 如果域名从右向左完全包含 dot_domain，从原始列表中删除该域名
+                if domain.endswith(dot_domain):
+                    domains_to_remove.append(domain)
+                    logging.info(f"域名 {domain} 以 {dot_domain} 结尾，将被删除。")
 
         # 从 remaining_domains 列表中删除符合条件的域名
         remaining_domains = [
@@ -201,47 +290,60 @@ def optimize_domains(domain_list):
         if not (domain.startswith("+") or domain.startswith("."))
     ]
 
-    print("特殊域名列表:", special_domains)
-    print("普通域名列表:", regular_domains)
+    logging.info("特殊域名列表:", special_domains)
+    logging.info("普通域名列表:", regular_domains)
 
     # 提取带有 * 的域名，存储在 wildcard_domains 列表中
-    wildcard_domains = [domain for domain in regular_domains if "*" in domain]
+    domains_to_remove = []
+    if regular_domains:
+        wildcard_domains = [
+            domain for domain in regular_domains if "*" in domain]
 
-    print("带有 * 的域名列表:", wildcard_domains)
+        logging.info("带有 * 的域名列表:", wildcard_domains)
 
-    for star_domain in wildcard_domains:
-        domains_to_remove = []
+        for star_domain in wildcard_domains:
 
-        for domain in regular_domains:
-            # 如果域名相等，继续比较下一个元素
-            if domain == star_domain:
-                continue
+            for domain in regular_domains:
+                # 如果域名相等，继续比较下一个元素
+                if domain == star_domain:
+                    continue
 
-            star_dict = domain_to_dict(star_domain)
-            domain_dict = domain_to_dict(domain)
+                star_dict = domain_to_dict(star_domain)
+                domain_dict = domain_to_dict(domain)
 
-            # 比较两个字典
-            if compare_dicts(star_dict, domain_dict):
-                domains_to_remove.append(domain)
-                print(f"域名 {domain} 与 {star_domain} 匹配，将被删除。")
+                # 比较两个字典
+                if compare_dicts(star_dict, domain_dict):
+                    domains_to_remove.append(domain)
+                    logging.info(f"域名 {domain} 与 {star_domain} 匹配，将被删除。")
 
         # 从 regular_domains 列表中删除符合条件的域名
-        regular_domains = [
-            domain for domain in regular_domains if domain not in domains_to_remove
-        ]
+        if domains_to_remove:
+            regular_domains = [
+                domain for domain in regular_domains if domain not in domains_to_remove
+            ]
 
     # 第五步：将 special_domains 和 regular_domains 合并，得到最终的列表
     final_domains = special_domains + regular_domains
+
     return final_domains
 
 
 def optimize_cidrs(cidrs):
     """优化 CIDR 列表"""
-    ipv4_cidrs = [cidr for cidr in cidrs if ipaddress.ip_network(cidr).version == 4]
-    ipv6_cidrs = [cidr for cidr in cidrs if ipaddress.ip_network(cidr).version == 6]
+    if not cidrs:
+        return []
 
-    optimized_ipv4 = optimize_single_cidr_list(ipv4_cidrs)
-    optimized_ipv6 = optimize_single_cidr_list(ipv6_cidrs)
+    ipv4_cidrs = [
+        cidr for cidr in cidrs if ipaddress.ip_network(cidr).version == 4]
+    ipv6_cidrs = [
+        cidr for cidr in cidrs if ipaddress.ip_network(cidr).version == 6]
+
+    optimized_ipv4 = []
+    optimized_ipv6 = []
+    if ipv4_cidrs:
+        optimized_ipv4 = optimize_single_cidr_list(ipv4_cidrs)
+    if ipv6_cidrs:
+        optimized_ipv6 = optimize_single_cidr_list(ipv6_cidrs)
 
     return optimized_ipv4 + optimized_ipv6
 
@@ -348,7 +450,8 @@ def classify_values(values):
             parts = item.split(",")
             if len(parts) > 1:
                 try:
-                    ip_net = ipaddress.ip_network(parts[1].strip(), strict=False)
+                    ip_net = ipaddress.ip_network(
+                        parts[1].strip(), strict=False)
                     ipcidr_list.append(parts[1].strip())
                 except ValueError:
                     classical_list.append(item)
@@ -438,25 +541,29 @@ def preprocess_for_sorting(item):
 
 def sort_formatted_domain_items(items):
     """排序格式化后的域名项目"""
-    tmp_items = []
+    pruned_list = []
     for item in items:
-        tmp_items.append(preprocess_for_sorting(item))
-    tmp_items = optimize_list(tmp_items)
+        pruned_list.append(preprocess_for_sorting(item))
+
+    # 备份原始域名数据
+    original_list = pruned_list
+
+    pruned_list = optimize_list(pruned_list)
 
     plus_items = []
     star_items = []
     dot_items = []
     plain_items = []
 
-    for tmp_item in tmp_items:
-        if tmp_item.startswith("+."):
-            plus_items.append(tmp_item)
-        elif tmp_item.startswith("*."):
-            star_items.append(tmp_item)
-        elif tmp_item.startswith("."):
-            dot_items.append(tmp_item)
+    for item in pruned_list:
+        if item.startswith("+."):
+            plus_items.append(item)
+        elif item.startswith("*."):
+            star_items.append(item)
+        elif item.startswith("."):
+            dot_items.append(item)
         else:
-            plain_items.append(tmp_item)
+            plain_items.append(item)
 
     def sort_by_parts(items):
         return sorted(items, key=lambda x: (x.count("."), x))
@@ -466,17 +573,27 @@ def sort_formatted_domain_items(items):
     dot_items = sort_by_parts(dot_items)
     plain_items = sort_by_parts(plain_items)
 
-    return plus_items + star_items + dot_items + plain_items
+    domains_list = plus_items + star_items + dot_items + plain_items
+    # 记录数据被删掉的项
+    final_list = domains_list
+
+    result = list(set(original_list) - set(final_list))
+
+    # 把被删除项写入文件记录
+    if result:
+        write_to_delete_file(result)
+
+    return domains_list
 
 
 def format_item(item, item_type):
     """格式化项目"""
     if item_type == "domain":
         if item.lower().startswith("domain,"):
-            item = item[len("domain,") :]
+            item = item[len("domain,"):]
             return f"  - '{item}'"
         elif item.lower().startswith("domain-suffix,"):
-            item = item[len("domain-suffix,") :]
+            item = item[len("domain-suffix,"):]
             return f"  - '+.{item}'"
         else:
             return f"  - '{item}'"
@@ -584,31 +701,62 @@ filtered_dict = {}
 for key, content in data_dict.items():
     logging.info(f"过滤和修剪值: {key}")
     filtered_values = filter_and_trim_values(content["values"])
-    filtered_dict[key] = {"values": filtered_values, "errors": content["errors"]}
+    filtered_dict[key] = {"values": filtered_values,
+                          "errors": content["errors"]}
 
 # 处理并生成文件
 for key, content in filtered_dict.items():
     values = content["values"]
+
     domain_list, ipcidr_list, classical_list = classify_values(values)
 
+    # 备份 ipcidr 列表
+    original_list = ipcidr_list
+
     # 排序 ipcidr 和 classic 列表
-    ipcidr_list = sort_ipcidr_items(ipcidr_list)
+    if ipcidr_list:
+        ipcidr_list = sort_ipcidr_items(ipcidr_list)
+
     classical_list, _ = sort_classic_items(classical_list)
 
     # 格式化 domain 列表
-    formatted_domain_list = [format_item(item, "domain") for item in domain_list]
-    # 排序 格式化后的 domain 列表
-    sorted_formatted_domain_list = sort_formatted_domain_items(formatted_domain_list)
+    sorted_formatted_domain_list = []
+    if domain_list:
+        formatted_domain_list = [format_item(
+            item, "domain") for item in domain_list]
+        # 排序 格式化后的 domain 列表
+        sorted_formatted_domain_list = sort_formatted_domain_items(
+            formatted_domain_list)
+
+    # 记录数据被删掉的项
+    final_list = ipcidr_list
+
+    result = list(set(original_list) - set(final_list))
+
+    # 把被删除项写入文件记录
+    if result:
+        write_to_delete_file(result)
+
     # 再次格式化 排序后的 domain 列表
-    deduped_domain_list = deduplicate(
-        [format_item(item, "domain") for item in sorted_formatted_domain_list if item]
-    )
-    deduped_ipcidr_list = deduplicate(
-        [format_item(item, "ipcidr") for item in ipcidr_list if item]
-    )
-    deduped_classical_list = deduplicate(
-        [format_item(item, "classic") for item in classical_list if item]
-    )
+    deduped_domain_list = []
+    deduped_ipcidr_list = []
+    deduped_classical_list = []
+    if sorted_formatted_domain_list:
+        deduped_domain_list = deduplicate(
+            [format_item(item, "domain")
+             for item in sorted_formatted_domain_list if item]
+        )
+    if ipcidr_list:
+        deduped_ipcidr_list = deduplicate(
+            [format_item(item, "ipcidr") for item in ipcidr_list if item]
+        )
+    if classical_list:
+        deduped_classical_list = deduplicate(
+            [format_item(item, "classic") for item in classical_list if item]
+        )
+
+    if not deduped_domain_list and not deduped_ipcidr_list and not deduped_classical_list:
+        continue
 
     # 统计数量
     domain_total = len(deduped_domain_list)
