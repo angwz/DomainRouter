@@ -1,9 +1,9 @@
 # NAME: Baidu
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-20 02:11:03 (UTC+8)
+# UPDATED: 2024-07-20 19:30:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 262
+# TOTAL: 269
 payload:
   - '+.baidu'
   - '+.17swan.com'
@@ -36,6 +36,7 @@ payload:
   - '+.baidu.hk'
   - '+.baidu.mobi'
   - '+.baiduads.com'
+  - '+.baiduapp.com'
   - '+.baidubce.cn'
   - '+.baidubce.com'
   - '+.baidubcr.com'
@@ -68,6 +69,7 @@ payload:
   - '+.baihangdai.com'
   - '+.baijincdn.cn'
   - '+.baijincdn.com'
+  - '+.bakshifen.com'
   - '+.bce-cdn.cn'
   - '+.bce-cdn.com'
   - '+.bce-cdn.net'
@@ -94,6 +96,7 @@ payload:
   - '+.bdstatic.cn'
   - '+.bdstatic.com'
   - '+.bdtjrcv.com'
+  - '+.bduapp.com'
   - '+.bdurl.net'
   - '+.bdycdn.cn'
   - '+.bdycdn.com'
@@ -127,6 +130,7 @@ payload:
   - '+.dusdn.cn'
   - '+.dusdn.com'
   - '+.dusdn.net'
+  - '+.dushifen.com'
   - '+.duurl.cn'
   - '+.duxiaomai.net'
   - '+.duxiaoman-int.com'
@@ -144,6 +148,7 @@ payload:
   - '+.dxmstatic.com'
   - '+.dxmyqh.com'
   - '+.estrongs.com'
+  - '+.eyoubaidu.com'
   - '+.fhldns.cn'
   - '+.fhldns.com'
   - '+.fhldns.net'
@@ -169,6 +174,7 @@ payload:
   - '+.jomodns.net'
   - '+.jpaas.cn'
   - '+.lasmasas.com'
+  - '+.micro-game-client.com'
   - '+.mipcdn.com'
   - '+.mipengine.com'
   - '+.mipengine.org'
@@ -210,6 +216,7 @@ payload:
   - '+.vplay8.com'
   - '+.webgamehome.com'
   - '+.wenku.in'
+  - '+.wshifen.com'
   - '+.wssanguo.com'
   - '+.xianfae.com'
   - '+.xiaodutv.cn'

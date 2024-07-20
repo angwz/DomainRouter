@@ -1,9 +1,9 @@
 # NAME: OpenAI
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-19 23:49:35 (UTC+8)
+# UPDATED: 2024-07-20 18:52:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 35
+# TOTAL: 42
 payload:
   - '+.ai.com'
   - '+.algolia.net'
@@ -18,6 +18,7 @@ payload:
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.observeit.net'
+  - '+.openai.com'
   - '+.poe.com'
   - '+.segment.io'
   - '+.sentry.io'
@@ -34,9 +35,15 @@ payload:
   - '+.openai.com.cdn.cloudflare.net'
   - 'browser-intake-datadoghq.com'
   - 'api.revenuecat.com'
+  - 'api.statsig.com'
   - 'gemini.google.com'
   - 'oaic.report-uri.com'
   - 'openai-api.arkoselabs.com'
+  - 'openaiapi-site.azureedge.net'
+  - 'openaicom.imgix.net'
   - 'production-openaicom-storage.azureedge.net'
+  - 'static.cloudflareinsights.com'
+  - 'o33249.ingest.sentry.io'
   - 'openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
   - 'openaicomproductionae4b.blob.core.windows.net'
+  - 'chat.openai.com.cdn.cloudflare.net'

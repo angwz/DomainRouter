@@ -1,9 +1,9 @@
 # NAME: Alibaba
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-20 02:11:03 (UTC+8)
+# UPDATED: 2024-07-20 19:30:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 1253
+# TOTAL: 1267
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -71,6 +71,7 @@ payload:
   - '+.alicloudwaf.com'
   - '+.alicontainer.com'
   - '+.alictf.com'
+  - '+.alidayu.com'
   - '+.alidns.cn'
   - '+.alidns.com'
   - '+.alidns.net'
@@ -96,6 +97,7 @@ payload:
   - '+.alimaomall.com'
   - '+.alime.ai'
   - '+.alimebot.com'
+  - '+.alimei.com'
   - '+.alimmdn.com'
   - '+.alios.cn'
   - '+.alipan.com'
@@ -175,6 +177,9 @@ payload:
   - '+.aliyunddos1030.com'
   - '+.aliyundrive.com'
   - '+.aliyundrive.net'
+  - '+.aliyunduncc.com'
+  - '+.aliyundunddos.com'
+  - '+.aliyundunwaf.com'
   - '+.aliyunedu.net'
   - '+.aliyunga.com'
   - '+.aliyunga0004.com'
@@ -240,6 +245,7 @@ payload:
   - '+.allinbots.com'
   - '+.alyms.cn'
   - '+.alyns.cn'
+  - '+.alysm.cn'
   - '+.amap.com'
   - '+.amapauto.com'
   - '+.amhimalayanet.com'
@@ -801,6 +807,7 @@ payload:
   - '+.http.cn'
   - '+.htyssdf.com'
   - '+.hzyzhp.com'
+  - '+.ialicdn.com'
   - '+.ica-alliance.org'
   - '+.iconfont.cn'
   - '+.ics.design'
@@ -906,7 +913,11 @@ payload:
   - '+.mt3.com'
   - '+.mtmyg.com'
   - '+.mvtianshanlr.com'
+  - '+.mxhichina.com'
   - '+.my3w.com'
+  - '+.myalicdn.com'
+  - '+.myalirtc.com'
+  - '+.myhichina.cn'
   - '+.mynet.cn'
   - '+.mznznj.com'
   - '+.natgmj.com'
@@ -928,6 +939,7 @@ payload:
   - '+.oyxdwx.com'
   - '+.pahhhf.com'
   - '+.pailitao.com'
+  - '+.pepsitmall.com'
   - '+.pftianshanno.com'
   - '+.philanthropy.xin'
   - '+.phpwind.com'
@@ -947,7 +959,9 @@ payload:
   - '+.qqwewew.com'
   - '+.quark.cn'
   - '+.qutao.com'
+  - '+.qutianshanav.com'
   - '+.qwqfzl.com'
+  - '+.rdcnzz.com'
   - '+.rergdfh.com'
   - '+.rexpos.cn'
   - '+.rocketmq.cloud'

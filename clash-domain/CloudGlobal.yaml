@@ -1,9 +1,9 @@
 # NAME: CloudGlobal
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-20 02:10:58 (UTC+8)
+# UPDATED: 2024-07-20 19:30:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 120
+# TOTAL: 129
 payload:
   - '+.azure'
   - '+.21vbc.com'
@@ -43,6 +43,8 @@ payload:
   - '+.azurecontainer.io'
   - '+.azurecosmos.net'
   - '+.azurecosmosdb.com'
+  - '+.azurecosmosdb.info'
+  - '+.azurecosmosdb.net'
   - '+.azurecr-test.cn'
   - '+.azurecr.cn'
   - '+.azuredatabricks.net'
@@ -86,8 +88,13 @@ payload:
   - '+.gotcosmos.com'
   - '+.gounlimited.to'
   - '+.hdinsightservices.cn'
+  - '+.management-azure-devices-int.net'
+  - '+.management-azure-devices-provisioning.cn'
+  - '+.management-azure-devices.cn'
+  - '+.management-azure-devices.net'
   - '+.mcchcdn.com'
   - '+.megapornfreehd.com'
+  - '+.mgmt-azure-api.cn'
   - '+.microsoftazuresponsorships.com'
   - '+.microsoftazurestatus.cn'
   - '+.microsofteca.com'
@@ -115,6 +122,8 @@ payload:
   - '+.unity3dcloud.cn'
   - '+.vidcpm.com'
   - '+.vkcache.com'
+  - '+.windowsazure.cn'
+  - '+.windowsazure.com'
   - '+.windowsazurestatus.cn'
   - '+.1fhjlv1.oloadcdn.net'
   - '+.a.o333o.com'
