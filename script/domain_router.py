@@ -6,7 +6,7 @@ import ipaddress
 from datetime import datetime, timedelta, timezone
 import logging
 
-# 配置日志记录，确保日志文件使用 utf-8 编码
+# 配置日志记录，确保日志文件使用 UTF-8 编码
 log_file = "py_log.txt"
 logging.basicConfig(
     filename=log_file,
@@ -15,18 +15,18 @@ logging.basicConfig(
     encoding="utf-8",
 )
 
-logging.info("开始运行脚本...")
+logging.info("脚本开始运行...")
 
-# 请求URL内容
+# 请求 URL 内容
 url = "https://raw.githubusercontent.com/angwz/DomainRouter/main/my.wei"
 try:
-    logging.info(f"正在请求URL内容: {url}")
+    logging.info(f"请求 URL 内容: {url}")
     response = requests.get(url)
     response.raise_for_status()
     content = response.text
-    logging.info("成功获取URL内容")
+    logging.info("成功获取 URL 内容")
 except requests.exceptions.RequestException as e:
-    logging.error(f"获取URL内容时出错: {e}")
+    logging.error(f"获取 URL 内容时出错: {e}")
     content = ""
 
 # 初始化字典
@@ -44,7 +44,7 @@ for match in matches:
     if "rules" in key.lower():
         skip_rules = True
         logging.info(f"跳过包含'rules'的部分: {key}")
-        continue  # 跳过包含"rules"的部分
+        continue
     if skip_rules:
         skip_rules = False
         continue
@@ -66,8 +66,7 @@ for match in matches:
                     sub_content = sub_response.text
                     sub_lines = sub_content.split("\n")
                     final_value.extend(
-                        [line.strip() for line in sub_lines if line.strip()]
-                    )  # 清理空白行
+                        [line.strip() for line in sub_lines if line.strip()])  # 清理空白行
                     logging.info(f"成功获取子内容: {item}")
                     break
                 except requests.exceptions.RequestException as e:
@@ -83,6 +82,8 @@ for match in matches:
 
     data_dict[key] = {"values": final_value, "errors": []}
     logging.info(f"处理完键: {key}")
+
+# 定义函数
 
 
 def write_to_delete_file(items):
@@ -118,11 +119,7 @@ def filter_invalid_domains(domain_list):
             continue
 
         # 剔除以 + 或 * 开头但第二个字符不是 . 的字符串
-        if (
-            (domain.startswith("+") or domain.startswith("*"))
-            and len(domain) > 1
-            and domain[1] != "."
-        ):
+        if (domain.startswith("+") or domain.startswith("*")) and len(domain) > 1 and domain[1] != ".":
             continue
 
         # 保留符合要求的域名
@@ -136,18 +133,15 @@ def match_domains(domains, dot_count):
     匹配以“+.”开头并包含指定数量“.”的域名。
 
     参数：
-            domains (list): 域名列表
-            dot_count (int): 点号数量
+        domains (list): 域名列表
+        dot_count (int): 点号数量
 
     返回：
-            set: 处理后的域名集合，移除了开头的“+”
+        set: 处理后的域名集合，移除了开头的“+”
     """
     # 使用字符串操作匹配以“+.”开头并包含指定数量“.”的元素
-    matched_domains = [
-        domain
-        for domain in domains
-        if domain.startswith("+.") and domain.count(".") == dot_count
-    ]
+    matched_domains = [domain for domain in domains if domain.startswith(
+        "+.") and domain.count(".") == dot_count]
 
     # 移除第一个字符“+”
     processed_domains = {domain[1:] for domain in matched_domains}
@@ -160,11 +154,11 @@ def remove_matching_suffix(domains, processed_domains):
     从原始域名列表中删除匹配指定后缀的域名。
 
     参数：
-            domains (list): 原始域名列表
-            processed_domains (set): 处理后的域名集合
+        domains (list): 原始域名列表
+        processed_domains (set): 处理后的域名集合
 
     返回：
-            list: 删除匹配后缀后的域名列表
+        list: 删除匹配后缀后的域名列表
     """
     result_domains = []
     # 将处理后的域名集合中的每个元素前面加上“+”
@@ -191,10 +185,7 @@ def compare_dicts(dict1, dict2):
     """比较两个字典，如果所有键对应的值都相等或有一个为 '*'，则返回 True"""
     keys = set(dict1.keys()).union(set(dict2.keys()))
     for key in keys:
-        if dict1.get(key) != dict2.get(key) and "*" not in (
-            dict1.get(key),
-            dict2.get(key),
-        ):
+        if dict1.get(key) != dict2.get(key) and "*" not in (dict1.get(key), dict2.get(key)):
             return False
     return True
 
@@ -206,7 +197,7 @@ def optimize_domains(domain_list):
         return []
 
     filtered_domains = filter_invalid_domains(domain_list)
-    logging.info("过滤后的域名:", filtered_domains)
+    logging.info(f"过滤后的域名: {filtered_domains}")
 
     # # 提取以 + 开头的域名，存储在 plus_domains 列表中
     # plus_domains = [domain for domain in filtered_domains if domain.startswith("+")]
@@ -250,48 +241,37 @@ def optimize_domains(domain_list):
         dot_count += 1
 
     remaining_domains = original_domains  # 剩下的列表
-    logging.info("剩余域名:", remaining_domains)
+    logging.info(f"剩余域名: {remaining_domains}")
 
     # 提取以 . 开头的域名，存储在 dot_domains 列表中
     dot_domains = [
         domain for domain in remaining_domains if domain.startswith(".")]
-    logging.info("以 . 开头的域名列表:", dot_domains)
+    logging.info(f"以 . 开头的域名列表: {dot_domains}")
 
     domains_to_remove = []
     if dot_domains:
         for dot_domain in dot_domains:
-
             for domain in remaining_domains:
-                # 如果域名相等，继续比较下一个元素
                 if domain == dot_domain:
                     continue
-                # 如果 '*' + dot_domain 等于 domain，继续比较下一个元素
                 if "*" + dot_domain == domain:
                     continue
-                # 如果域名从右向左完全包含 dot_domain，从原始列表中删除该域名
                 if domain.endswith(dot_domain):
                     domains_to_remove.append(domain)
                     logging.info(f"域名 {domain} 以 {dot_domain} 结尾，将被删除。")
 
         # 从 remaining_domains 列表中删除符合条件的域名
         remaining_domains = [
-            domain for domain in remaining_domains if domain not in domains_to_remove
-        ]
+            domain for domain in remaining_domains if domain not in domains_to_remove]
 
-    # 第四步：将剩下的列表分成两个列表
-    special_domains = [
-        domain
-        for domain in remaining_domains
-        if domain.startswith("+") or domain.startswith(".")
-    ]
-    regular_domains = [
-        domain
-        for domain in remaining_domains
-        if not (domain.startswith("+") or domain.startswith("."))
-    ]
+    # 将 special_domains 和 regular_domains 合并，得到最终的列表
+    special_domains = [domain for domain in remaining_domains if domain.startswith(
+        "+") or domain.startswith(".")]
+    regular_domains = [domain for domain in remaining_domains if not (
+        domain.startswith("+") or domain.startswith("."))]
 
-    logging.info("特殊域名列表:", special_domains)
-    logging.info("普通域名列表:", regular_domains)
+    logging.info(f"特殊域名列表: {special_domains}")
+    logging.info(f"普通域名列表: {regular_domains}")
 
     # 提取带有 * 的域名，存储在 wildcard_domains 列表中
     domains_to_remove = []
@@ -299,12 +279,10 @@ def optimize_domains(domain_list):
         wildcard_domains = [
             domain for domain in regular_domains if "*" in domain]
 
-        logging.info("带有 * 的域名列表:", wildcard_domains)
+        logging.info(f"带有 * 的域名列表: {wildcard_domains}")
 
         for star_domain in wildcard_domains:
-
             for domain in regular_domains:
-                # 如果域名相等，继续比较下一个元素
                 if domain == star_domain:
                     continue
 
@@ -319,10 +297,8 @@ def optimize_domains(domain_list):
         # 从 regular_domains 列表中删除符合条件的域名
         if domains_to_remove:
             regular_domains = [
-                domain for domain in regular_domains if domain not in domains_to_remove
-            ]
+                domain for domain in regular_domains if domain not in domains_to_remove]
 
-    # 第五步：将 special_domains 和 regular_domains 合并，得到最终的列表
     final_domains = special_domains + regular_domains
 
     return final_domains
@@ -338,12 +314,10 @@ def optimize_cidrs(cidrs):
     ipv6_cidrs = [
         cidr for cidr in cidrs if ipaddress.ip_network(cidr).version == 6]
 
-    optimized_ipv4 = []
-    optimized_ipv6 = []
-    if ipv4_cidrs:
-        optimized_ipv4 = optimize_single_cidr_list(ipv4_cidrs)
-    if ipv6_cidrs:
-        optimized_ipv6 = optimize_single_cidr_list(ipv6_cidrs)
+    optimized_ipv4 = optimize_single_cidr_list(
+        ipv4_cidrs) if ipv4_cidrs else []
+    optimized_ipv6 = optimize_single_cidr_list(
+        ipv6_cidrs) if ipv6_cidrs else []
 
     return optimized_ipv4 + optimized_ipv6
 
@@ -387,8 +361,7 @@ def filter_and_trim_values(values):
     """过滤和修剪值"""
     filtered_values = []
     domain_pattern = re.compile(
-        r"^(?=.{1,253}$)(?!-)[A-Za-z0-9-]{1,63}(?<!-)(\.[A-Za-z]{2,6})+$"
-    )
+        r"^(?=.{1,253}$)(?!-)[A-Za-z0-9-]{1,63}(?<!-)(\.[A-Za-z]{2,6})+$")
 
     for item in values:
         item = "".join(item.split())
@@ -403,11 +376,9 @@ def filter_and_trim_values(values):
             continue
 
         item_trimmed = re.sub(
-            r"^[^\w\u4e00-\u9fa5:+*.]+|[^\w\u4e00-\u9fa5:+*.]+$", "", item
-        )
-        special_characters_count = len(
-            re.findall(r"[^a-zA-Z0-9\u4e00-\u9fa5()$/\\^,:+*.-]", item_trimmed)
-        )
+            r"^[^\w\u4e00-\u9fa5:+*.]+|[^\w\u4e00-\u9fa5:+*.]+$", "", item)
+        special_characters_count = len(re.findall(
+            r"[^a-zA-Z0-9\u4e00-\u9fa5()$/\\^,:+*.-]", item_trimmed))
         if special_characters_count > 3:
             logging.info(f"剔除非法内容: {item_trimmed}")
             continue
@@ -440,11 +411,7 @@ def classify_values(values):
         except ValueError:
             pass
 
-        if re.match(
-            r"(\+\..*|\*.*|DOMAIN-SUFFIX,.*|DOMAIN,.*|^[a-zA-Z0-9\-.]+$)",
-            item,
-            re.IGNORECASE,
-        ):
+        if re.match(r"(\+\..*|\*.*|DOMAIN-SUFFIX,.*|DOMAIN,.*|^[a-zA-Z0-9\-.]+$)", item, re.IGNORECASE):
             domain_list.append(item)
         else:
             parts = item.split(",")
@@ -545,8 +512,7 @@ def sort_formatted_domain_items(items):
     for item in items:
         pruned_list.append(preprocess_for_sorting(item))
 
-    # 备份原始域名数据
-    original_list = pruned_list
+    original_list = pruned_list  # 备份原始域名数据
 
     pruned_list = optimize_list(pruned_list)
 
@@ -574,10 +540,8 @@ def sort_formatted_domain_items(items):
     plain_items = sort_by_parts(plain_items)
 
     domains_list = plus_items + star_items + dot_items + plain_items
-    # 记录数据被删掉的项
-    final_list = domains_list
 
-    result = list(set(original_list) - set(final_list))
+    result = list(set(original_list) - set(domains_list))
 
     # 把被删除项写入文件记录
     if result:
@@ -679,12 +643,12 @@ def count_ipcidr_items(items):
     return ipv4_count, ipv6_count
 
 
-# 创建domain, classic, 和 ipcidr 文件夹
+# 创建 domain, classic, 和 ipcidr 文件夹
 os.makedirs("domain", exist_ok=True)
 os.makedirs("classic", exist_ok=True)
 os.makedirs("ipcidr", exist_ok=True)
 
-# 清空domain, classic 和 ipcidr 文件夹中的所有文件
+# 清空 domain, classic 和 ipcidr 文件夹中的所有文件
 for folder in ["domain", "classic", "ipcidr"]:
     for filename in os.listdir(folder):
         file_path = os.path.join(folder, filename)
@@ -694,7 +658,7 @@ for folder in ["domain", "classic", "ipcidr"]:
             elif os.path.isdir(file_path):
                 os.rmdir(file_path)
         except Exception as e:
-            logging.error(f"Failed to delete {file_path}. Reason: {e}")
+            logging.error(f"删除 {file_path} 失败。原因: {e}")
 
 # 处理字典中的每一组数据
 filtered_dict = {}
@@ -710,8 +674,7 @@ for key, content in filtered_dict.items():
 
     domain_list, ipcidr_list, classical_list = classify_values(values)
 
-    # 备份 ipcidr 列表
-    original_list = ipcidr_list
+    original_list = ipcidr_list  # 备份 ipcidr 列表
 
     # 排序 ipcidr 和 classic 列表
     if ipcidr_list:
@@ -724,36 +687,22 @@ for key, content in filtered_dict.items():
     if domain_list:
         formatted_domain_list = [format_item(
             item, "domain") for item in domain_list]
-        # 排序 格式化后的 domain 列表
         sorted_formatted_domain_list = sort_formatted_domain_items(
             formatted_domain_list)
 
-    # 记录数据被删掉的项
-    final_list = ipcidr_list
-
-    result = list(set(original_list) - set(final_list))
+    result = list(set(original_list) - set(ipcidr_list))
 
     # 把被删除项写入文件记录
     if result:
         write_to_delete_file(result)
 
-    # 再次格式化 排序后的 domain 列表
-    deduped_domain_list = []
-    deduped_ipcidr_list = []
-    deduped_classical_list = []
-    if sorted_formatted_domain_list:
-        deduped_domain_list = deduplicate(
-            [format_item(item, "domain")
-             for item in sorted_formatted_domain_list if item]
-        )
-    if ipcidr_list:
-        deduped_ipcidr_list = deduplicate(
-            [format_item(item, "ipcidr") for item in ipcidr_list if item]
-        )
-    if classical_list:
-        deduped_classical_list = deduplicate(
-            [format_item(item, "classic") for item in classical_list if item]
-        )
+    # 去重 排序后的 domain 列表
+    deduped_domain_list = deduplicate(
+        [format_item(item, "domain") for item in sorted_formatted_domain_list if item])
+    deduped_ipcidr_list = deduplicate(
+        [format_item(item, "ipcidr") for item in ipcidr_list if item])
+    deduped_classical_list = deduplicate(
+        [format_item(item, "classic") for item in classical_list if item])
 
     if not deduped_domain_list and not deduped_ipcidr_list and not deduped_classical_list:
         continue
@@ -767,11 +716,9 @@ for key, content in filtered_dict.items():
 
     logging.info(f"{key} - domain_list count: {domain_total}")
     logging.info(
-        f"{key} - ipcidr_list count: {ipcidr_total}, ipv4_total: {ipv4_count}, ipv6_total: {ipv6_count}"
-    )
+        f"{key} - ipcidr_list count: {ipcidr_total}, ipv4_total: {ipv4_count}, ipv6_total: {ipv6_count}")
     logging.info(
-        f"{key} - classical_list count: {classic_total}, classic_counts: {classic_counts}"
-    )
+        f"{key} - classical_list count: {classic_total}, classic_counts: {classic_counts}")
 
     # 生成 domain 文件
     if domain_total > 0:
@@ -786,10 +733,7 @@ for key, content in filtered_dict.items():
             file.write(f"# TOTAL: {domain_total}\n")
             file.write("payload:\n")
             for i, item in enumerate(deduped_domain_list):
-                if i < domain_total - 1:
-                    file.write(f"{item}\n")
-                else:
-                    file.write(f"{item}")
+                file.write(f"{item}\n" if i < domain_total - 1 else f"{item}")
 
     # 生成 ipcidr 文件
     if ipcidr_total > 0:
@@ -808,10 +752,7 @@ for key, content in filtered_dict.items():
                 file.write(f"# IP-CIDR6 TOTAL: {ipv6_count}\n")
             file.write("payload:\n")
             for i, item in enumerate(deduped_ipcidr_list):
-                if i < ipcidr_total - 1:
-                    file.write(f"{item}\n")
-                else:
-                    file.write(f"{item}")
+                file.write(f"{item}\n" if i < ipcidr_total - 1 else f"{item}")
 
     # 生成 classic 文件
     if classic_total > 0:
@@ -833,10 +774,7 @@ for key, content in filtered_dict.items():
                 current_prefix = item.split(",")[0].upper()
                 if previous_prefix and previous_prefix != current_prefix:
                     file.write("\n")
-                if i < classic_total - 1:
-                    file.write(f"{item}\n")
-                else:
-                    file.write(f"{item}")
+                file.write(f"{item}\n" if i < classic_total - 1 else f"{item}")
                 previous_prefix = current_prefix
 
 print("处理完成，生成的文件在'domain', 'ipcidr'和'classic'文件夹中。")

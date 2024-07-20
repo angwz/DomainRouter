@@ -4,11 +4,6 @@ on:
   schedule:
     - cron: '0 16 * * *' # 每天北京时间12点（UTC时间04:00）
   workflow_dispatch: # 手动触发
-  push:
-    branches:
-      - main
-    paths:
-      - my.wei
 
 permissions:
   contents: write
