@@ -106,7 +106,15 @@ def covers_cidr(cidr1, cidr2):
 
 
 def filter_invalid_domains(domain_list):
-    """过滤掉只包含 ., *, + 的字符串和不带 . 的无效域名"""
+    """过滤掉无效域名，包括：
+
+    - 只包含 ., *, + 的字符串
+    - 不带 . 的字符串
+    - 以 + 或 * 开头但第二个字符不是 . 的字符串
+    - 包含连续 **、..、++ 的字符串
+    - 任意部分的 * 或 + 数量大于 2 的域名
+    - 分割后列表第二个元素开始存在空字符串的域名
+    """
     filtered_list = []
 
     for domain in domain_list:
@@ -120,6 +128,26 @@ def filter_invalid_domains(domain_list):
 
         # 剔除以 + 或 * 开头但第二个字符不是 . 的字符串
         if (domain.startswith("+") or domain.startswith("*")) and len(domain) > 1 and domain[1] != ".":
+            continue
+
+        # 剔除包含连续 **、..、++ 的字符串
+        if "**" in domain or ".." in domain or "++" in domain:
+            continue
+
+        # 按照 "." 分割域名，检查每部分的 * 和 + 数量
+        parts = domain.split(".")
+
+        # 检查是否存在空字符串
+        if any(part == "" for part in parts[1:]):  # 从第二个元素开始检查
+            continue
+
+        # 检查每部分的 * 和 + 数量
+        invalid = False
+        for part in parts:
+            if part.count("*") > 2 or part.count("+") > 2:
+                invalid = True
+                break
+        if invalid:
             continue
 
         # 保留符合要求的域名
@@ -227,17 +255,20 @@ def optimize_domains(domain_list):
 
     # 初始原始域名列表
     dot_count = 1
-    original_domains = filtered_domains  # 赋予上一步得到的列表
+    original_domains = domain_list
 
-    while True:
+    # 计算以“+.”开头的域名中“.”的最大数量
+    max_dots = max((domain.count(".")
+                   for domain in original_domains if domain.startswith("+.")), default=0)
+
+    # 循环处理从1到max_dots数量的“.”的域名
+    while dot_count <= max_dots:
         # 筛选包含指定数量“.”的元素
         processed_domains = match_domains(original_domains, dot_count)
-        if not processed_domains:
-            break
-
-        # 从原始域名列表中删除匹配后缀的域名
-        original_domains = remove_matching_suffix(
-            original_domains, processed_domains)
+        if processed_domains:
+            # 从原始域名列表中删除匹配后缀的域名
+            original_domains = remove_matching_suffix(
+                original_domains, processed_domains)
         dot_count += 1
 
     remaining_domains = original_domains  # 剩下的列表
