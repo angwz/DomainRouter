@@ -1,9 +1,9 @@
 # NAME: JD
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-21 02:38:23 (UTC+8)
+# UPDATED: 2024-07-21 13:56:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 259
+# TOTAL: 253
 payload:
   - '+.1huizhan.com'
   - '+.3.cn'
@@ -251,16 +251,10 @@ payload:
   - '+.yiyaojd.com'
   - '+.yizhitou.com'
   - '+.360buy.com.cn'
-  - '+.c-nfa.jd.com'
   - '+.chinabank.com.cn'
-  - '+.cps.360buy.com'
   - '+.duiou.com.cn'
-  - '+.img-x.jd.com'
   - '+.jd-ex.com.cn'
   - '+.jd.co.th'
   - '+.jd.com.cn'
   - '+.jdl.com.cn'
-  - '+.jzt.jd.com'
   - '+.prestodb.net.cn'
-  - '+.ads.union.jd.com'
-  - '+.stat.m.jd.com'
