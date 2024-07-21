@@ -61,8 +61,7 @@ visa.cn
 ip.sb
 
 [Proxy]
-"s6.serv00.com"
-"s7.serv00.com"
+*.serv00.com
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-scholar-!cn.yaml
@@ -93,14 +92,6 @@ DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,openaicom.imgix.net
-##- DOMAIN-SUFFIX,hcaptcha.com
-##- DOMAIN-SUFFIX,statsigapi.com
-##- DOMAIN-SUFFIX,lencr.org
-##- DOMAIN-SUFFIX,wp.com
-##- DOMAIN-SUFFIX,gravatar.com
-##- DOMAIN-SUFFIX,vimeo.com
-##- DOMAIN-SUFFIX,vimeocdn.com
-##- DOMAIN,30vod-adaptive.akamaized.net
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -109,9 +100,16 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+##- DOMAIN-SUFFIX,hcaptcha.com
+##- DOMAIN-SUFFIX,statsigapi.com
+##- DOMAIN-SUFFIX,lencr.org
+##- DOMAIN-SUFFIX,wp.com
+##- DOMAIN-SUFFIX,gravatar.com
+##- DOMAIN-SUFFIX,vimeo.com
+##- DOMAIN-SUFFIX,vimeocdn.com
+##- DOMAIN,30vod-adaptive.akamaized.net
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list
 
