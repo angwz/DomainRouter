@@ -63,6 +63,9 @@ ip.sb
 [Proxy]
 *.serv00.com
 
+# Hongkong
+'+.hk'
+
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-scholar-!cn.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-dev.yaml
@@ -156,8 +159,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meta
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
 
-[Balancer]
-zhipin.com
 
 [China]
 '+.cn'
@@ -169,8 +170,7 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.lis
 
 
 
-[Hongkong]
-'+.hk'
+
 
 [Japan]
 '+.jp'
@@ -213,22 +213,13 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netf
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.list
 
-# YouTube
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
+
 
 # GOG
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gog.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gog/Gog.list
 
-[X]
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/x.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/twitter.list
 
-# GitHub
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
 
 
 
@@ -250,6 +241,19 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.list
+
+# YouTube
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
+
+# X
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/x.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/twitter.list
+
+# GitHub
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
 
 
 
@@ -330,7 +334,6 @@ Bilibili: 📺 哔哩哔哩
 Tencent: DIRECT
 Netflix: 🥓 纯净IP
 OneDrive: ♾️ 无限流量
-X: 🌠 节点选择
 Google: 💻 Google
 Japan: 🍙 日本高速
 GEOIP,CLOUDFLARE: DIRECT,no-resolve
