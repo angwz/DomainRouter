@@ -1,7 +1,7 @@
 [[custom_groups]]
 name = "🌠 节点选择"
 type = "select"
-rule = ["[]🌈 香港高速", "[]🗽 美国分流", "[]🥓 纯净IP", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🗽 美国分流", "[]🥓 纯净IP", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "✈️ 手动切换"
@@ -43,15 +43,6 @@ name = "🐳 漏网の鱼"
 type = "select"
 rule = ["[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 
-
-[[custom_groups]]
-name = "🌈 香港高速"
-type = "load-balance"
-rule = ["!!GROUPID=0!!(港|HK|hk|Hong Kong|HongKong|hongkong)"]
-url = "https://www.gstatic.com/generate_204"
-interval = 233
-lazy = false
-strategy = "consistent-hashing"
 
 [[custom_groups]]
 name = "🍙 日本高速"
