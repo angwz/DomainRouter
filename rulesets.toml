@@ -125,24 +125,6 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🌠 节点选择"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/X.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🌠 节点选择"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/X-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "🌠 节点选择"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/X-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
 group = "💻 Google"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Google.yaml"
 type = "clash-domain"
