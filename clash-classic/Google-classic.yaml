@@ -1,10 +1,10 @@
 # NAME: Google
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-22 00:47:50 (UTC+8)
+# UPDATED: 2024-07-22 22:39:32 (UTC+8)
 # TYPE: classic
-# TOTAL: 11
-# DOMAIN-KEYWORD TOTAL: 5
+# TOTAL: 14
+# DOMAIN-KEYWORD TOTAL: 8
 # PROCESS-NAME TOTAL: 6
 payload:
   - DOMAIN-KEYWORD,appspot
@@ -12,6 +12,9 @@ payload:
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,recaptcha
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,twitter
+  - DOMAIN-KEYWORD,github
 
   - PROCESS-NAME,GoogleDriveFS.exe
   - PROCESS-NAME,com.android.vending
