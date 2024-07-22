@@ -35,8 +35,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 DST-PORT,9993
 SRC-PORT,9993
 
-5.5.5.5
-
 27.126.206.62/32
 205.189.160.94/32
 154.92.9.1/32
@@ -47,6 +45,7 @@ SRC-PORT,9993
 154.92.9.216/32
 199.15.76.35/32
 
+*.serv00.com
 
 # Proxy Domain
 596743944.top
@@ -61,10 +60,7 @@ visa.cn
 ip.sb
 
 [Proxy]
-*.serv00.com
-
-# Hongkong
-'+.hk'
+5.5.5.5
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-scholar-!cn.yaml
@@ -115,6 +111,9 @@ DOMAIN-SUFFIX,stripe.com
 ##- DOMAIN,30vod-adaptive.akamaized.net
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list
+
+[Hongkong]
+'+.hk'
 
 [AI]
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/anthropic.yaml
