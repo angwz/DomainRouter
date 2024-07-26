@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-27 00:51:23 (UTC+8)
+# UPDATED: 2024-07-27 03:47:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 8521
+# TOTAL: 8524
 payload:
   - '+.adult'
   - '+.bbc'
@@ -4859,6 +4859,7 @@ payload:
   - '+.nudistsexvideos.com'
   - '+.nudistvoyeurbeach.com'
   - '+.nudity911.com'
+  - '+.nudogram.com'
   - '+.nudography.com'
   - '+.nudostar.tv'
   - '+.nuespournous.com'
@@ -6815,7 +6816,9 @@ payload:
   - '+.twcomix.com'
   - '+.twgreatnews.com'
   - '+.twhentai.com'
+  - '+.twi-videos.net'
   - '+.twidouga.net'
+  - '+.twidouga.tv'
   - '+.twifuli.com'
   - '+.twinkboyfriends.tv'
   - '+.twinkspornos.com'

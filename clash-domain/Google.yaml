@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-27 00:51:02 (UTC+8)
+# UPDATED: 2024-07-27 03:47:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 1021
+# TOTAL: 1020
 payload:
   - '+.and'
   - '+.chrome'
@@ -202,6 +202,7 @@ payload:
   - '+.firebase.io'
   - '+.firebaseapp.com'
   - '+.firebaseio.com'
+  - '+.fitbit.com'
   - '+.flutter.dev'
   - '+.flutterapp.com'
   - '+.foofle.com'
@@ -988,8 +989,6 @@ payload:
   - 'googletraveladservices.com'
   - 'googlevads-cn.com'
   - 'gstatic-cn.com'
-  - 'gvt1-cn.com'
-  - 'gvt2-cn.com'
   - 'qiao-cn.com'
   - 'recaptcha-cn.net'
   - 'recaptcha.net'
