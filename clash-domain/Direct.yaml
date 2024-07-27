@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-27 03:07:20 (UTC+8)
+# UPDATED: 2024-07-27 15:12:51 (UTC+8)
 # TYPE: domain
-# TOTAL: 2221
+# TOTAL: 2218
 payload:
   - '+.apple'
   - '+.icbc'
@@ -68,7 +68,6 @@ payload:
   - '+.akadns.net'
   - '+.albeats.com'
   - '+.alchemysynth.com'
-  - '+.alejandracaiccedo.com'
   - '+.alexafund.cn'
   - '+.amazon.cn'
   - '+.amazonaws.cn'
@@ -1186,7 +1185,6 @@ payload:
   - '+.ioffergift.com'
   - '+.ios-icloud.com'
   - '+.iosinthecar.com'
-  - '+.ip.sb'
   - '+.ipa-iphone.net'
   - '+.ipad.de'
   - '+.ipad.host'
@@ -1706,7 +1704,6 @@ payload:
   - '+.vipexam.org'
   - '+.vipheadphones.com'
   - '+.vipshoes2.com'
-  - '+.visa.cn'
   - '+.wasdj.com'
   - '+.webank.com'
   - '+.webankcdn.net'

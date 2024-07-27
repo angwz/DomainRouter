@@ -1,18 +1,21 @@
 # NAME: OneDrive
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-27 03:47:28 (UTC+8)
+# UPDATED: 2024-07-27 15:52:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 15
+# TOTAL: 20
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
   - '+.1drv.com'
+  - '+.gog-statics.com'
+  - '+.gog.com'
   - '+.livefilestore.com'
   - '+.onedrive.com'
   - '+.sharepoint.cn'
   - '+.sharepoint.com'
   - '+.sharepointonline.com'
+  - '+.gog.qtlglb.com'
   - '+.oneclient.sfx.ms'
   - '+.onedrive.live.com'
   - '+.photos.live.com'
@@ -20,3 +23,5 @@ payload:
   - '+.storage.live.com'
   - '+.storage.msn.com'
   - '+.skydrive.wns.windows.com'
+  - 'gog.qtlglb.com'
+  - 'gog.salesmanago.com'
