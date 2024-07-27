@@ -1,17 +1,17 @@
 [[custom_groups]]
 name = "🌠 节点选择"
 type = "select"
-rule = ["[]🗽 美国分流", "[]🥓 纯净IP", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🗽 美国分流", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "✈️ 手动切换"
 type = "select"
-rule = ["!!GROUPID=0-1!!(^(?!.*小兔).*$)", "!!GROUPID=2!!(.*)"]
+rule = ["!!GROUPID=1!!(^(?!.*小兔).*$)", "!!GROUPID=0-2!!(.*)"]
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
 type = "select"
-rule = ["[]🥓 纯净IP", "[]🗽 美国分流", "GPT", "[]🌠 节点选择"]
+rule = ["[]🗽 美国分流", "GPT", "[]✈️ 手动切换", "[]🌠 节点选择"]
 
 [[custom_groups]]
 name = "📺 哔哩哔哩"
@@ -21,12 +21,17 @@ rule = ["[]DIRECT", "[]✈️ 手动切换"]
 [[custom_groups]]
 name = "📱 TikTok"
 type = "select"
-rule = ["[]🍙 日本高速", "[]✈️ 手动切换", "[]🌠 节点选择", "[]🥓 纯净IP"]
+rule = ["[]🍙 日本高速", "[]✈️ 手动切换", "[]🌠 节点选择"]
 
 [[custom_groups]]
 name = "💻 Google"
 type = "select"
 rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换"]
+
+[[custom_groups]]
+name = "📽️ Netflix"
+type = "select"
+rule = ["!!GROUPID=1!!(^(?!.*小兔).*$)", "!!GROUPID=2!!(.*)"]
 
 [[custom_groups]]
 name = "💾 Microsoft"
@@ -36,7 +41,7 @@ rule = ["[]DIRECT", "[]🌠 节点选择", "[]✈️ 手动切换"]
 [[custom_groups]]
 name = "🌍 国外流媒体"
 type = "select"
-rule = ["[]🗽 美国分流", "[]🥓 纯净IP", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🗽 美国分流", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "🐳 漏网の鱼"
@@ -58,22 +63,13 @@ name = "🗽 美国分流"
 type = "fallback"
 rule = ["!!GROUPID=1!!(^(?=.*Reality)(?=.*洛杉矶).*)", "[]♾️ 无限流量"]
 url = "https://www.gstatic.com/generate_204"
-interval = 66
-lazy = false
-
-[[custom_groups]]
-name = "🥓 纯净IP"
-type = "load-balance"
-rule = ["!!GROUPID=1!!(^(?!.*洛杉矶).*$)"]
-url = "https://www.gstatic.com/generate_204"
-interval = 12
-lazy = false
-strategy = "round-robin"
+interval = 660
+lazy = true
 
 [[custom_groups]]
 name = "♾️ 无限流量"
 type = "load-balance"
-rule = ["!!GROUPID=0-1!!(^(?!.*洛杉矶).*$)"]
+rule = ["!!GROUPID=0!!(.*)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 567
 lazy = true
