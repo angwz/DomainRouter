@@ -95,19 +95,19 @@ type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🥓 纯净IP"
+group = "📽️ Netflix"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Netflix.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🥓 纯净IP"
+group = "📽️ Netflix"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Netflix-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🥓 纯净IP"
+group = "📽️ Netflix"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Netflix-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -210,18 +210,6 @@ interval = 21600
 group = "🌍 国外流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Media-classic.yaml"
 type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🗽 美国分流"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/CloudGlobal.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🗽 美国分流"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/CloudGlobal-ipcidr.yaml"
-type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
