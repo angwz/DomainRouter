@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-28 00:49:35 (UTC+8)
+# UPDATED: 2024-07-29 00:49:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 90784
+# TOTAL: 90787
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -32603,6 +32603,7 @@ payload:
   - '+.gvlocalization.com'
   - '+.gvmocpc.com'
   - '+.gvoiceplat.com'
+  - '+.gvt2-cn.com'
   - '+.gvwyuik.com'
   - '+.gvzen.com'
   - '+.gw-ec.com'
@@ -48197,6 +48198,7 @@ payload:
   - '+.lao.si'
   - '+.laobaicai.net'
   - '+.laobaigan-hs.com'
+  - '+.laoban100.com'
   - '+.laobandq.com'
   - '+.laobanfa.com'
   - '+.laobangban.com'
@@ -65649,8 +65651,10 @@ payload:
   - '+.shengyan985.com'
   - '+.shengyasd.com'
   - '+.shengyeji.com'
+  - '+.shengyi.ai'
   - '+.shengyi.biz'
   - '+.shengyidi.com'
+  - '+.shengyizhuanjia.com'
   - '+.shengyuancc.com'
   - '+.shengzehr.com'
   - '+.shengzhaoli.com'
@@ -85273,6 +85277,7 @@ payload:
   - '+.yuanbaohui.com'
   - '+.yuanbaokc.com'
   - '+.yuanbaotaoche.com'
+  - '+.yuanbei.biz'
   - '+.yuanbin.me'
   - '+.yuancangipr.com'
   - '+.yuancdn.com'
@@ -90370,8 +90375,6 @@ payload:
   - 'gonglchuangl.net'
   - 'gongyichuangyi.net'
   - 'gstatic-cn.com'
-  - 'gvt1-cn.com'
-  - 'gvt2-cn.com'
   - 'nettvpro.live'
   - 'qiao-cn.com'
   - 'recaptcha-cn.net'

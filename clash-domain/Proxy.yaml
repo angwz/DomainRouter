@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-28 00:10:17 (UTC+8)
+# UPDATED: 2024-07-29 00:11:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 25756
+# TOTAL: 25755
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25579,7 +25579,6 @@ payload:
   - 'i.jeded.com'
   - 'imperial.insendi.com'
   - 'ipv4.rer.lol'
-  - 'ipv4announce.sktorrent.eu'
   - 'ipv6.fuuuuuck.com'
   - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
@@ -25635,7 +25634,6 @@ payload:
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
-  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -25647,6 +25645,7 @@ payload:
   - 'tracker.bittor.pw'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -25700,7 +25699,6 @@ payload:
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
-  - 'tracker.t-1.org'
   - 'tracker.t-rb.org'
   - 'tracker.tamersunion.org'
   - 'tracker.tfile.me'
@@ -25744,6 +25742,7 @@ payload:
   - 'yolo.liberbear.com'
   - 'z.mercax.com'
   - 'blizzard.nefficient.co.kr'
+  - 'btt.service.gongt.me'
   - 'cbsplaylistserver.aws.syncbak.com'
   - 'cbsservice.aws.syncbak.com'
   - 'd40969.acod.regrucolo.ru'
