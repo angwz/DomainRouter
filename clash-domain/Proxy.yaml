@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-30 00:10:31 (UTC+8)
+# UPDATED: 2024-07-31 00:11:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 25753
+# TOTAL: 25756
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2459,6 +2459,7 @@ payload:
   - '+.azerbaycan.tv'
   - '+.azerimix.com'
   - '+.aziani.com'
+  - '+.azirevpn.com'
   - '+.aznude.com'
   - '+.azubu.tv'
   - '+.azure-devices-int.net'
@@ -5047,6 +5048,7 @@ payload:
   - '+.cmail19.com'
   - '+.cmbwinglungbank.com'
   - '+.cmcn.org'
+  - '+.cmegroup.com'
   - '+.cmhalq.com'
   - '+.cmoinc.org'
   - '+.cmpaas.com'
@@ -25514,6 +25516,7 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
+  - 'freedomalternative.com'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -25549,7 +25552,6 @@ payload:
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
   - 'bt.ktrackers.com'
-  - 'bt.okmp3.ru'
   - 'bt.ptlsp.com'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
@@ -25579,6 +25581,7 @@ payload:
   - 'i.jeded.com'
   - 'imperial.insendi.com'
   - 'ipv4.rer.lol'
+  - 'ipv4announce.sktorrent.eu'
   - 'ipv6.fuuuuuck.com'
   - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
@@ -25614,7 +25617,6 @@ payload:
   - 'practivate.adobe.ntp'
   - 'public.publictracker.xyz'
   - 'pybittrack.retiolus.net'
-  - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker01-msk-virt.corbina.net'
   - 'run.publictracker.xyz'
@@ -25689,6 +25691,7 @@ payload:
   - 'tracker.netmap.top'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
+  - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.pmman.tech'
@@ -25754,7 +25757,7 @@ payload:
   - 'public-us-pingsx.api.clonoth.com'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'wrds-www.wharton.upenn.edu'
   - 'cbsi.live.ott.irdeto.com'
+  - 'tracker1.bt.moack.co.kr'
