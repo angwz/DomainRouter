@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-07-31 00:11:35 (UTC+8)
+# UPDATED: 2024-08-01 00:10:26 (UTC+8)
 # TYPE: domain
 # TOTAL: 25756
 payload:
@@ -25516,7 +25516,6 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'freedomalternative.com'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -25552,6 +25551,7 @@ payload:
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
   - 'bt.ktrackers.com'
+  - 'bt.okmp3.ru'
   - 'bt.ptlsp.com'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
@@ -25617,6 +25617,7 @@ payload:
   - 'practivate.adobe.ntp'
   - 'public.publictracker.xyz'
   - 'pybittrack.retiolus.net'
+  - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker01-msk-virt.corbina.net'
   - 'run.publictracker.xyz'
@@ -25633,14 +25634,12 @@ payload:
   - 'tk.greedland.net'
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
-  - 'tracker.amelia.fun'
   - 'tracker.anima.nz'
   - 'tracker.auctor.tv'
   - 'tracker.birkenwald.de'
@@ -25757,6 +25756,7 @@ payload:
   - 'public-us-pingsx.api.clonoth.com'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
+  - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'wrds-www.wharton.upenn.edu'
   - 'cbsi.live.ott.irdeto.com'
