@@ -155,6 +155,12 @@ type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
+group = "🍙 日本高速"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Japan-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "DIRECT"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
