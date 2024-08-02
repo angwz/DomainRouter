@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-02 00:49:09 (UTC+8)
+# UPDATED: 2024-08-03 00:50:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 384
+# TOTAL: 386
 payload:
   - '+.jp'
   - '+.nico'
@@ -254,9 +254,9 @@ payload:
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
   - 'public.publictracker.xyz'
-  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
+  - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
@@ -264,17 +264,16 @@ payload:
   - 't.acg.rip'
   - 't.nyaatracker.com'
   - 't.overflow.biz'
+  - 't.peer-exchange.download'
   - 't1.aag.moe'
   - 't1.hloli.org'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'tk2.trackerservers.com'
-  - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
-  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -331,6 +330,7 @@ payload:
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
+  - 'tracker.phoenix.lol'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.pmman.tech'
@@ -351,8 +351,10 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
+  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
+  - 'tracker.vds.nz'
   - 'tracker.xor.st'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
