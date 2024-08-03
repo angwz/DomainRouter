@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-03 00:50:01 (UTC+8)
+# UPDATED: 2024-08-04 00:47:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 386
+# TOTAL: 385
 payload:
   - '+.jp'
   - '+.nico'
@@ -227,8 +227,6 @@ payload:
   - 'free.publictracker.xyz'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
-  - 'ipv4announce.sktorrent.eu'
-  - 'ipv6.fuuuuuck.com'
   - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
@@ -254,10 +252,12 @@ payload:
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
   - 'public.publictracker.xyz'
+  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'retracker2.x2k.ru'
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
   - 't-115.rhcloud.com'
@@ -270,6 +270,7 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'tk2.trackerservers.com'
+  - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
@@ -286,7 +287,6 @@ payload:
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -330,7 +330,6 @@ payload:
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
-  - 'tracker.phoenix.lol'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.pmman.tech'
@@ -341,7 +340,6 @@ payload:
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
-  - 'tracker.t-1.org'
   - 'tracker.t-rb.org'
   - 'tracker.tamersunion.org'
   - 'tracker.tfile.me'
@@ -384,6 +382,7 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
+  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
