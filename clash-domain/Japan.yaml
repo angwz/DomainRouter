@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-04 00:47:36 (UTC+8)
+# UPDATED: 2024-08-05 00:48:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 385
+# TOTAL: 384
 payload:
   - '+.jp'
   - '+.nico'
@@ -272,6 +272,7 @@ payload:
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -287,6 +288,7 @@ payload:
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -360,7 +362,6 @@ payload:
   - 'tracker1.ctix.cn'
   - 'tracker1.itzmx.com'
   - 'tracker1.myporn.club'
-  - 'tracker1.t-1.org'
   - 'tracker2.dler.org'
   - 'tracker2.itzmx.com'
   - 'tracker2.torrentino.com'
@@ -368,7 +369,6 @@ payload:
   - 'tracker3.t-1.org'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
-  - 'trackers.mlsub.net'
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
@@ -382,7 +382,6 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
-  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
