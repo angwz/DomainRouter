@@ -31,7 +31,7 @@ rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换"]
 [[custom_groups]]
 name = "📽️ Netflix"
 type = "select"
-rule = ["[]🍙 日本高速", "!!GROUPID=1!!(^(?!.*小兔).*$)", "!!GROUPID=3!!(.*)", "!!GROUPID=0!!(.*)", "!!GROUPID=2!!(.*)"]
+rule = ["[]🍙 日本高速", "!!GROUPID=1!!(^(?!.*小兔).*$)", "!!GROUPID=2!!(.*)", "!!GROUPID=0!!(.*)", "!!GROUPID=3!!(.*)"]
 
 [[custom_groups]]
 name = "💾 Microsoft"
