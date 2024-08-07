@@ -1,10 +1,10 @@
 # NAME: Netflix
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-07 00:49:56 (UTC+8)
+# UPDATED: 2024-08-08 00:50:44 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 1121
-# IP-CIDR TOTAL: 1116
+# TOTAL: 1120
+# IP-CIDR TOTAL: 1115
 # IP-CIDR6 TOTAL: 5
 payload:
   - '103.87.204.0/22'
@@ -21,7 +21,6 @@ payload:
   - '108.137.25.0/24'
   - '108.137.26.0/24'
   - '108.175.32.0/20'
-  - '115.89.214.0/29'
   - '13.112.191.184/29'
   - '13.113.196.64/26'
   - '13.113.203.0/24'
