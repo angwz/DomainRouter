@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-08 00:10:27 (UTC+8)
+# UPDATED: 2024-08-09 00:09:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 2218
+# TOTAL: 2220
 payload:
   - '+.apple'
   - '+.icbc'
@@ -1927,6 +1927,8 @@ payload:
   - '+.hikunpeng.com.cn'
   - '+.hisilicon.com.cn'
   - '+.hsbc.com.cn'
+  - '+.hsbcinsurance.com.cn'
+  - '+.hsbcqh.com.cn'
   - '+.hxb.com.cn'
   - '+.ibook.co.nz'
   - '+.icbc.co.id'

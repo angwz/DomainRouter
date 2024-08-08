@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-08 00:50:17 (UTC+8)
+# UPDATED: 2024-08-09 00:50:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 382
+# TOTAL: 381
 payload:
   - '+.jp'
   - '+.nico'
@@ -182,7 +182,6 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'freedomalternative.com'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -252,7 +251,6 @@ payload:
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
-  - 'public.publictracker.xyz'
   - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
@@ -265,7 +263,6 @@ payload:
   - 't.acg.rip'
   - 't.nyaatracker.com'
   - 't.overflow.biz'
-  - 't.peer-exchange.download'
   - 't1.aag.moe'
   - 't1.hloli.org'
   - 'tamas3.ynh.fr'
@@ -273,6 +270,7 @@ payload:
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -364,7 +362,6 @@ payload:
   - 'tracker2.itzmx.com'
   - 'tracker2.torrentino.com'
   - 'tracker3.itzmx.com'
-  - 'tracker3.t-1.org'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
   - 'trackers.mlsub.net'
@@ -372,10 +369,12 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'wg.mortis.me'
+  - 'www.all4nothin.net'
   - 'www.peckservers.com'
   - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
   - 'z.mercax.com'
+  - 'bittorrent.service.gongt.me'
   - 'd40969.acod.regrucolo.ru'
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
