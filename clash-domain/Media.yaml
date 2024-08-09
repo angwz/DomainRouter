@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-09 00:54:20 (UTC+8)
+# UPDATED: 2024-08-10 02:09:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 8650
+# TOTAL: 8647
 payload:
   - '+.adult'
   - '+.azure'
@@ -1515,7 +1515,6 @@ payload:
   - '+.claravenger.com'
   - '+.clasporno.org'
   - '+.classymomsex.com'
-  - '+.clincha.cn'
   - '+.clinical-videos.com'
   - '+.clip16.com'
   - '+.clipcake.com'
@@ -3493,7 +3492,6 @@ payload:
   - '+.illusion111.com'
   - '+.illusionas.com'
   - '+.illusionchn.com'
-  - '+.illusionfb.cn'
   - '+.illusiongw.com'
   - '+.illusionh.com'
   - '+.illusionl.com'
@@ -7776,7 +7774,6 @@ payload:
   - '+.yinshuiger.info'
   - '+.yinya.shop'
   - '+.yiqiedoushiganggangkaishi.org'
-  - '+.yiqilai99.cn'
   - '+.yjcontentdelivery.com'
   - '+.ymhsf.top'
   - '+.ymhsf1.top'
