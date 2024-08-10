@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-10 02:05:55 (UTC+8)
+# UPDATED: 2024-08-11 02:07:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 380
+# TOTAL: 381
 payload:
   - '+.jp'
   - '+.nico'
@@ -270,11 +270,9 @@ payload:
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
-  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -339,6 +337,7 @@ payload:
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
   - 'tracker.sktorrent.net'
+  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
   - 'tracker.t-rb.org'
@@ -350,6 +349,7 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
+  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.xor.st'
@@ -385,3 +385,4 @@ payload:
   - 'u4.trakx.crim.ist'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
+  - 'tracker1.bt.moack.co.kr'
