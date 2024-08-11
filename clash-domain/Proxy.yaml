@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-11 00:10:19 (UTC+8)
+# UPDATED: 2024-08-12 00:09:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 25438
+# TOTAL: 25456
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9474,6 +9474,8 @@ payload:
   - '+.haori888.com'
   - '+.haplorrhini.com'
   - '+.happy-vpn.com'
+  - '+.happymeal.com'
+  - '+.happymealdigital.com'
   - '+.happyon.jp'
   - '+.haproxy.org'
   - '+.hardanalfucking.com'
@@ -13140,13 +13142,17 @@ payload:
   - '+.mcadforums.com'
   - '+.mcaf.ee'
   - '+.mcd.com'
+  - '+.mcdindia.com'
   - '+.mcdindonesia.com'
+  - '+.mcdonalds-online.com'
+  - '+.mcdonalds.be'
   - '+.mcdonalds.ca'
   - '+.mcdonalds.com'
   - '+.mcdonalds.hk'
   - '+.mcdonalds.it'
   - '+.mcdonalds.no'
   - '+.mcdonalds.se'
+  - '+.mcdonaldsapps.com'
   - '+.mcdonaldsarabia.com'
   - '+.mcfog.com'
   - '+.mcisco.com'
@@ -24367,14 +24373,26 @@ payload:
   - '+.mastercard.com.tw'
   - '+.mastercard.com.ve'
   - '+.mastercard.com.vn'
+  - '+.mcd-holdings.co.jp'
   - '+.mcdelivery.co.id'
+  - '+.mcdelivery.co.in'
   - '+.mcdelivery.co.kr'
   - '+.mcdelivery.com.au'
   - '+.mcdelivery.com.my'
+  - '+.mcdelivery.com.ph'
   - '+.mcdelivery.com.sg'
   - '+.mcdelivery.com.tw'
+  - '+.mcdonalds.co.id'
+  - '+.mcdonalds.co.jp'
+  - '+.mcdonalds.co.kr'
+  - '+.mcdonalds.co.nz'
   - '+.mcdonalds.co.uk'
+  - '+.mcdonalds.com.au'
   - '+.mcdonalds.com.hk'
+  - '+.mcdonalds.com.lb'
+  - '+.mcdonalds.com.my'
+  - '+.mcdonalds.com.ph'
+  - '+.mcdonalds.com.tw'
   - '+.mcdonaldsparties.co.nz'
   - '+.mcdonaldsparties.com.au'
   - '+.mdn.allizom.net'
