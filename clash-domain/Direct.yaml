@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-15 00:12:14 (UTC+8)
+# UPDATED: 2024-08-16 00:09:46 (UTC+8)
 # TYPE: domain
-# TOTAL: 2220
+# TOTAL: 2221
 payload:
   - '+.apple'
   - '+.icbc'
@@ -642,6 +642,7 @@ payload:
   - '+.beatswirelesscuffie.com'
   - '+.beddit.tv'
   - '+.begin-trade.com'
+  - '+.beibei1.top'
   - '+.bestbeats4u.com'
   - '+.bestiphonestuff.com'
   - '+.bestshoesale2014.net'

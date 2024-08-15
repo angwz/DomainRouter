@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-15 02:04:35 (UTC+8)
+# UPDATED: 2024-08-16 02:01:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 384
+# TOTAL: 383
 payload:
   - '+.jp'
   - '+.nico'
@@ -382,7 +382,6 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'

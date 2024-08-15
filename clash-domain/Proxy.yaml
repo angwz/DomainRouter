@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-15 00:12:48 (UTC+8)
+# UPDATED: 2024-08-16 00:10:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 25456
+# TOTAL: 25464
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1508,8 +1508,10 @@ payload:
   - '+.andfaraway.net'
   - '+.android-x86.org'
   - '+.android.com'
+  - '+.androidauthority.com'
   - '+.androidify.com'
   - '+.androidplus.co'
+  - '+.androidpolice.com'
   - '+.androidtv.com'
   - '+.andygod.com'
   - '+.andysparis.com'
@@ -18951,6 +18953,7 @@ payload:
   - '+.storesense.com'
   - '+.storiesonline.net'
   - '+.storify.com'
+  - '+.storj.io'
   - '+.storm.mg'
   - '+.stormmediagroup.com'
   - '+.storyful.com'
@@ -19341,6 +19344,7 @@ payload:
   - '+.technics.com'
   - '+.technologyandsociety.org'
   - '+.technorati.com'
+  - '+.techradar.com'
   - '+.techsmith.com'
   - '+.techspot.com'
   - '+.techstreet.com'
@@ -19860,6 +19864,7 @@ payload:
   - '+.tomatespodres.com'
   - '+.tomonews.net'
   - '+.tomovie.net'
+  - '+.tomsguide.com'
   - '+.tomshardware.com'
   - '+.tonec.com'
   - '+.tonicmovies.com'
@@ -20538,6 +20543,7 @@ payload:
   - '+.usatoday.com'
   - '+.usatodaynetworkservice.com'
   - '+.usc.edu'
+  - '+.uscardforum.com'
   - '+.uscnpm.org'
   - '+.uselessjunk.com'
   - '+.usembassy.gov'
@@ -23013,6 +23019,7 @@ payload:
   - '+.zbporn.com'
   - '+.zctb.buzz'
   - '+.zdassets.com'
+  - '+.zdnet.com'
   - '+.zdusercontent.com'
   - '+.zee.com'
   - '+.zee5.com'
@@ -25355,6 +25362,7 @@ payload:
   - '+.zakzak.co.jp'
   - '+.zaobao.com.sg'
   - '+.zdnet.com.tw'
+  - '+.zdnet.redvideo.io'
   - '+.zeetv.co.uk'
   - '+.zeit-world.co.uk'
   - '+.zoho.com.au'
