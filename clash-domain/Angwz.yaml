@@ -1,8 +1,8 @@
-# NAME: Taiwan
+# NAME: Angwz
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-18 05:02:51 (UTC+8)
+# UPDATED: 2024-08-18 05:06:58 (UTC+8)
 # TYPE: domain
 # TOTAL: 1
 payload:
-  - '+.tw'
+  - '+.zhipin.com'
