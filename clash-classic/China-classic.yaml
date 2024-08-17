@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-17 02:02:22 (UTC+8)
+# UPDATED: 2024-08-18 02:03:02 (UTC+8)
 # TYPE: classic
 # TOTAL: 28
 # DOMAIN-KEYWORD TOTAL: 13
@@ -17,10 +17,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
-  - DOMAIN-KEYWORD,qiyi
 
   - IP-ASN,132203,no-resolve
 
