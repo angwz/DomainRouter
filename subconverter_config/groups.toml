@@ -1,7 +1,7 @@
 [[custom_groups]]
 name = "🌠 节点选择"
 type = "select"
-rule = ["[]🗽 美国分流", "[]🍙 日本高速", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🗽 美国分流", "[]🍙 日本高速", "[]♾️ 无限流量", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "✈️ 手动切换"
@@ -24,6 +24,11 @@ type = "select"
 rule = ["[]🍙 日本高速", "[]✈️ 手动切换", "[]🌠 节点选择"]
 
 [[custom_groups]]
+name = "🍰 Dynamic"
+type = "select"
+rule = ["[]DIRECT", "[]✈️ 手动切换", "[]♾️ 无限流量", "[]🌠 节点选择"]
+
+[[custom_groups]]
 name = "💻 Google"
 type = "select"
 rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换"]
@@ -31,7 +36,13 @@ rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换"]
 [[custom_groups]]
 name = "📽️ Netflix"
 type = "select"
-rule = ["[]🍙 日本高速", "!!GROUPID=1!!(^(?!.*小兔).*$)", "!!GROUPID=2!!(.*)", "!!GROUPID=0!!(.*)", "!!GROUPID=3!!(.*)"]
+rule = [
+    "[]🍙 日本高速",
+    "!!GROUPID=1!!(^(?!.*小兔).*$)",
+    "!!GROUPID=2!!(.*)",
+    "!!GROUPID=0!!(.*)",
+    "!!GROUPID=3!!(.*)",
+]
 
 [[custom_groups]]
 name = "💾 Microsoft"
