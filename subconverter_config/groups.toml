@@ -26,7 +26,7 @@ rule = ["[]🍙 日本高速", "[]✈️ 手动切换", "[]🌠 节点选择"]
 [[custom_groups]]
 name = "🍰 Dynamic"
 type = "select"
-rule = ["[]DIRECT", "[]✈️ 手动切换", "[]♾️ 无限流量", "[]🌠 节点选择"]
+rule = ["[]DIRECT", "[]🦄 随机路由", "[]✈️ 手动切换", "[]🌠 节点选择"]
 
 [[custom_groups]]
 name = "💻 Google"
@@ -85,3 +85,12 @@ url = "https://www.gstatic.com/generate_204"
 interval = 567
 lazy = true
 strategy = "consistent-hashing"
+
+[[custom_groups]]
+name = "🦄 随机路由"
+type = "load-balance"
+rule = ["!!GROUPID=0!!(.*)", "!!GROUPID=2-3!!(.*)"]
+url = "https://www.gstatic.com/generate_204"
+interval = 233
+lazy = true
+strategy = "round-robin"
