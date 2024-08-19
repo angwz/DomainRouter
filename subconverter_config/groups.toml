@@ -26,7 +26,7 @@ rule = ["[]🍙 日本高速", "[]✈️ 手动切换", "[]🌠 节点选择"]
 [[custom_groups]]
 name = "🍰 Dynamic"
 type = "select"
-rule = ["[]DIRECT", "[]🦄 随机路由", "[]✈️ 手动切换", "[]🌠 节点选择"]
+rule = ["[]DIRECT", "[]🦄 随机路由", "[]✈️ 手动切换", "[]♾️ 无限流量"]
 
 [[custom_groups]]
 name = "💻 Google"
