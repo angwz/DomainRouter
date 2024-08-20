@@ -89,7 +89,7 @@ strategy = "consistent-hashing"
 [[custom_groups]]
 name = "🦄 随机路由"
 type = "load-balance"
-rule = ["!!GROUPID=0!!(.*)", "!!GROUPID=2-3!!(.*)"]
+rule = ["(港|HK|hk|Hong Kong|HongKong|hongkong|日|东京|大阪|埼玉|JP|jp|Japan|台|新北|彰化|TW|tw|Taiwan|新加坡|新|坡|狮城|SG|sg|Singapore)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 233
 lazy = true
