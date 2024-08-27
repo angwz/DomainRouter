@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-27 02:02:40 (UTC+8)
+# UPDATED: 2024-08-28 02:03:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 388
+# TOTAL: 384
 payload:
   - '+.jp'
   - '+.nico'
@@ -194,7 +194,6 @@ payload:
   - 'retracker.local'
   - 'ryjer.com'
   - 'seedpeer.net'
-  - 'smurfsoft.com'
   - 'su-data.com'
   - 'torrentsmd.com'
   - 'trackarr.org'
@@ -268,7 +267,6 @@ payload:
   - 't1.aag.moe'
   - 't1.hloli.org'
   - 'tamas3.ynh.fr'
-  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
@@ -277,7 +275,6 @@ payload:
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
-  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -354,7 +351,6 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.xor.st'
