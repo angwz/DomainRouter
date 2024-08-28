@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-28 00:10:45 (UTC+8)
+# UPDATED: 2024-08-29 00:10:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 25464
+# TOTAL: 25465
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6107,6 +6107,7 @@ payload:
   - '+.doceapower.com'
   - '+.docker.com'
   - '+.docker.io'
+  - '+.dockerhub.com'
   - '+.dockerizer.com'
   - '+.docleradn.com'
   - '+.doclercdn.com'
