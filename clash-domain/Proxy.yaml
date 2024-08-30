@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-08-30 00:10:38 (UTC+8)
+# UPDATED: 2024-08-31 00:10:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 25465
+# TOTAL: 25466
 payload:
   - '+.adult'
   - '+.amazon'
@@ -21972,6 +21972,7 @@ payload:
   - '+.x-caprice.com'
   - '+.x-fetish.org'
   - '+.x-wall.org'
+  - '+.x.ai'
   - '+.x.co'
   - '+.x.com'
   - '+.x.company'
@@ -25455,6 +25456,7 @@ payload:
   - 'practivate.adobe.newoa'
   - 'practivate.adobe.ntp'
   - 'scholar.google.cn'
+  - 'servd-anthropic-website.b-cdn.net'
   - 'tesla-cdn.thron.com'
   - 'translomatic.foxfortmobile.com'
   - 'vsmarketplacebadge.apphb.com'
@@ -25466,7 +25468,6 @@ payload:
   - 'deribit.cdn.prismic.io'
   - 'elib.maruzen.co.jp'
   - 'licdn.cn.cdn20.com'
-  - 'o33249.ingest.sentry.io'
   - 'public-us-pingsx.api.clonoth.com'
   - 'wrds-www.wharton.upenn.edu'
   - 'cbsi.live.ott.irdeto.com'
