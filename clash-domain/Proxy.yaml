@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-01 00:09:26 (UTC+8)
+# UPDATED: 2024-09-02 00:09:51 (UTC+8)
 # TYPE: domain
-# TOTAL: 25466
+# TOTAL: 25467
 payload:
   - '+.adult'
   - '+.amazon'
@@ -15408,6 +15408,7 @@ payload:
   - '+.openamt.com'
   - '+.openapiplatform.com'
   - '+.openapiservice.com'
+  - '+.openart.ai'
   - '+.opencollective.com'
   - '+.opencreate.org'
   - '+.opendemocracy.net'
