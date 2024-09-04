@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-04 02:05:47 (UTC+8)
+# UPDATED: 2024-09-05 02:04:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 92569
+# TOTAL: 92573
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -41052,6 +41052,7 @@ payload:
   - '+.ibmhz.com'
   - '+.ibmwclub.com'
   - '+.ibodao.com'
+  - '+.iboohee.com'
   - '+.ibook8.com'
   - '+.ibooker.cc'
   - '+.ibookstar.com'
@@ -43268,6 +43269,7 @@ payload:
   - '+.ivywing.me'
   - '+.iwala.net'
   - '+.iwan4399.com'
+  - '+.iwan78.com'
   - '+.iwanbei.com'
   - '+.iwanboy.com'
   - '+.iwangding.com'
@@ -52135,6 +52137,7 @@ payload:
   - '+.luoqiu.com'
   - '+.luoqiuzw.com'
   - '+.luoshendao.com'
+  - '+.luoshu.com'
   - '+.luoshuanchangjia.com'
   - '+.luosi.com'
   - '+.luosifen888.com'
@@ -86741,6 +86744,7 @@ payload:
   - '+.yqwyx.xyz'
   - '+.yqxiuyoung.com'
   - '+.yqxs.cc'
+  - '+.yqxsg.cc'
   - '+.yqxsge.cc'
   - '+.yqxxjy.com'
   - '+.yqy021.com'
