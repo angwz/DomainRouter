@@ -1,7 +1,7 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-05 02:04:25 (UTC+8)
+# UPDATED: 2024-09-06 02:04:20 (UTC+8)
 # TYPE: domain
 # TOTAL: 388
 payload:
@@ -183,6 +183,7 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'jutone.com'
+  - 'jvavav.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
   - 'moonburrow.club'
@@ -273,11 +274,9 @@ payload:
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
-  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -358,6 +357,7 @@ payload:
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
+  - 'tracker.vds.nz'
   - 'tracker.xor.st'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
