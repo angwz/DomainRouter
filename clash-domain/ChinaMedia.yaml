@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-06 02:08:25 (UTC+8)
+# UPDATED: 2024-09-07 02:07:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 1202
+# TOTAL: 1207
 payload:
   - '+.playstation'
   - '+.xbox'
@@ -211,6 +211,8 @@ payload:
   - '+.drmario-world.com'
   - '+.dungeonkeeper.cn'
   - '+.dungeonkeeper.com'
+  - '+.duowan.com'
+  - '+.dwstatic.com'
   - '+.dyhgames.com'
   - '+.ea-anz-press.com'
   - '+.ea.com'
@@ -456,6 +458,7 @@ payload:
   - '+.mincdn.com'
   - '+.minecraft.net'
   - '+.minecraft.wiki'
+  - '+.minecraftservices.com'
   - '+.minecraftshop.com'
   - '+.mirrorsedge.com'
   - '+.mirrorsedge.jp'
@@ -884,6 +887,8 @@ payload:
   - '+.yxdmgame.com'
   - '+.yximg.cn'
   - '+.yxwsgame.com'
+  - '+.yy.com'
+  - '+.yystatic.com'
   - '+.yzyxgame.com'
   - '+.zamplus.com'
   - '+.zcjbgame.com'

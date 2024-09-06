@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-06 00:10:17 (UTC+8)
+# UPDATED: 2024-09-07 00:09:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 2222
+# TOTAL: 2225
 payload:
   - '+.apple'
   - '+.icbc'
@@ -90,6 +90,8 @@ payload:
   - '+.apabi.com'
   - '+.apifox.cn'
   - '+.apifox.com'
+  - '+.apipost.cn'
+  - '+.apipost.net'
   - '+.aple.com'
   - '+.aplestore.com'
   - '+.aplleipods.com'
@@ -803,6 +805,7 @@ payload:
   - '+.chinaunionpay.com'
   - '+.chinaunionpay.net'
   - '+.chinauos.com'
+  - '+.chndoi.org'
   - '+.chomp.com'
   - '+.ciattackers.com'
   - '+.cignacmb-ipmi.com'

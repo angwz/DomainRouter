@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-06 02:04:20 (UTC+8)
+# UPDATED: 2024-09-07 02:02:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 388
+# TOTAL: 389
 payload:
   - '+.jp'
   - '+.nico'
@@ -183,7 +183,6 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
   - 'moonburrow.club'
@@ -216,6 +215,7 @@ payload:
   - 'bt.ktrackers.com'
   - 'bt.okmp3.ru'
   - 'bt.ptlsp.com'
+  - 'bt.rer.lol'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
   - 'bt1.archive.org'
@@ -274,6 +274,7 @@ payload:
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'

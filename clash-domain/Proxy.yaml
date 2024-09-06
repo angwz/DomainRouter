@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-06 00:10:49 (UTC+8)
+# UPDATED: 2024-09-07 00:10:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 25474
+# TOTAL: 25471
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3179,8 +3179,6 @@ payload:
   - '+.bili2.cc'
   - '+.bili888.com'
   - '+.bili999.com'
-  - '+.bilibili.tv'
-  - '+.biliintl.com'
   - '+.biliplus.com'
   - '+.biliworld.com'
   - '+.bill-safe.com'
@@ -6250,7 +6248,6 @@ payload:
   - '+.drdreprobeatssale.com'
   - '+.dreamamateurs.com'
   - '+.dreambmw.ca'
-  - '+.dreamcast.hk'
   - '+.dreamforce.com'
   - '+.dreammovies.com'
   - '+.dreamteamfc.com'
@@ -11350,7 +11347,6 @@ payload:
   - '+.ipstatp.com'
   - '+.iptvbin.com'
   - '+.ipvanish.com'
-  - '+.iq.com'
   - '+.iqiyiavlive.buzz'
   - '+.iqq2.cc'
   - '+.iqq3.cc'
@@ -13488,6 +13484,7 @@ payload:
   - '+.mindrolling.org'
   - '+.minecraft.net'
   - '+.minecraft.wiki'
+  - '+.minecraftservices.com'
   - '+.minecraftshop.com'
   - '+.mingdemedia.org'
   - '+.minghui-a.org'
