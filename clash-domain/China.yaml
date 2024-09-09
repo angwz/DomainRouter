@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-09 02:04:22 (UTC+8)
+# UPDATED: 2024-09-10 02:05:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 92944
+# TOTAL: 92947
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -64699,6 +64699,7 @@ payload:
   - '+.rnhy.net'
   - '+.rnmtb.com'
   - '+.rnpagoc.site'
+  - '+.ro.com'
   - '+.ro50.com'
   - '+.ro8qwpaikd4kx.com'
   - '+.road-group.com'
@@ -72158,12 +72159,14 @@ payload:
   - '+.tapdata.net'
   - '+.tapenjoy.com'
   - '+.tapimg.com'
+  - '+.tapimg.net'
   - '+.tapotiexie.com'
   - '+.tappile.com'
   - '+.tapque.com'
   - '+.tapsvc.com'
   - '+.taptap-api.com'
   - '+.taptap.com'
+  - '+.taptap.io'
   - '+.taptapcode.com'
   - '+.taptapdada.com'
   - '+.taraniss.com'
