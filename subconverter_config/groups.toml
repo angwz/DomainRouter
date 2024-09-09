@@ -30,8 +30,10 @@ rule = [
     "[]DIRECT",
     "[]🦄 随机路由",
     "[]♾️ 无限流量",
+    "!!GROUPID=0!!(.*)",
     "!!GROUPID=2!!(.*)",
     "!!GROUPID=3!!(.*)",
+    "!!GROUPID=1!!(^(?!.*小兔).*$)",
 ]
 
 [[custom_groups]]
