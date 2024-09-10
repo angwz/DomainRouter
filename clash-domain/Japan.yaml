@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-10 02:05:40 (UTC+8)
+# UPDATED: 2024-09-11 02:02:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 393
+# TOTAL: 392
 payload:
   - '+.jp'
   - '+.nico'
@@ -280,7 +280,6 @@ payload:
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
-  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -293,7 +292,6 @@ payload:
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -398,3 +396,4 @@ payload:
   - 'u6.trakx.crim.ist'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
+  - 'tracker1.bt.moack.co.kr'
