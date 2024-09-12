@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-12 02:04:43 (UTC+8)
+# UPDATED: 2024-09-13 02:02:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 390
+# TOTAL: 392
 payload:
   - '+.jp'
   - '+.nico'
@@ -182,6 +182,7 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
+  - 'freedomalternative.com'
   - 'jutone.com'
   - 'jvavav.com'
   - 'leet-tracker.moe'
@@ -254,6 +255,7 @@ payload:
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
+  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.x2k.ru'
@@ -391,7 +393,7 @@ payload:
   - 'tracker-us.silksa.co.za'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
+  - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
-  - 'tracker1.bt.moack.co.kr'

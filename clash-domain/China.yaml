@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-12 02:04:42 (UTC+8)
+# UPDATED: 2024-09-13 02:02:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 92947
+# TOTAL: 92944
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -23333,7 +23333,6 @@ payload:
   - '+.dfpost.com'
   - '+.dfpz.net'
   - '+.dfqcmy.com'
-  - '+.dfqzah.xyz'
   - '+.dfrcb.com'
   - '+.dfrlyy.com'
   - '+.dfs168.com'
@@ -49213,7 +49212,6 @@ payload:
   - '+.ladyol.com'
   - '+.ladystr.com'
   - '+.laf.run'
-  - '+.lafacw.xyz'
   - '+.lafaso.com'
   - '+.lafayettewines.com'
   - '+.lafy.org'
@@ -83187,7 +83185,6 @@ payload:
   - '+.xn--lt0at3k.com'
   - '+.xn--mnqs00c24c2pw0ii.com'
   - '+.xn--mts196b.net'
-  - '+.xn--mts60is5y5uk.com'
   - '+.xn--n5q75cia631gba51vx4ag2a008o08l1t0adzay2skp4b.com'
   - '+.xn--ntsp37j.net'
   - '+.xn--nyqx17d.com'
