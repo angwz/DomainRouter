@@ -1,9 +1,9 @@
 # NAME: Baidu
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-15 01:57:49 (UTC+8)
+# UPDATED: 2024-09-15 09:50:11 (UTC+8)
 # TYPE: domain
-# TOTAL: 269
+# TOTAL: 270
 payload:
   - '+.baidu'
   - '+.17swan.com'
@@ -14,6 +14,7 @@ payload:
   - '+.aipage.com'
   - '+.aiqicha.cn'
   - '+.aiqicha.com'
+  - '+.antpcdn.com'
   - '+.apollo-platform.com'
   - '+.apollo-share.com'
   - '+.apollo.auto'
