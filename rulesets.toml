@@ -126,6 +126,12 @@ interval = 21600
 
 [[rulesets]]
 group = "♾️ 无限流量"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/OneDrive-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "♾️ 无限流量"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OneDrive-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -158,12 +164,6 @@ interval = 21600
 group = "🍙 日本高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Japan-ipcidr.yaml"
 type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "🍙 日本高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Japan-classic.yaml"
-type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
