@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-16 00:09:33 (UTC+8)
+# UPDATED: 2024-09-17 00:10:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 2225
+# TOTAL: 2215
 payload:
   - '+.apple'
   - '+.icbc'
@@ -1463,8 +1463,6 @@ payload:
   - '+.moreheadphones.com'
   - '+.ms-bank.cn'
   - '+.ms4dre.com'
-  - '+.msftconnecttest.com'
-  - '+.msftncsi.com'
   - '+.mti100.com'
   - '+.musickit.net'
   - '+.my.router'
@@ -1914,15 +1912,12 @@ payload:
   - '+.cmbc.com.cn'
   - '+.cmbi.com.hk'
   - '+.cnki.com.cn'
-  - '+.connectivitycheck.gstatic.com'
-  - '+.cp.cloudflare.com'
   - '+.csdl.ac.cn'
   - '+.csdn.net.cn'
   - '+.csgo.wmsj.cn'
   - '+.cup.com.cn'
   - '+.data.pharmacodia.com'
   - '+.dccnet.com.cn'
-  - '+.detectportal.firefox.com'
   - '+.dota2.wmsj.cn'
   - '+.drcnet.com.cn'
   - '+.dyn.riotcdn.net'
@@ -2004,11 +1999,9 @@ payload:
   - '+.macbookpro.com.au'
   - '+.macos.com.au'
   - '+.mr-apple.com.tw'
-  - '+.networkcheck.kde.org'
   - '+.njcb.com.cn'
   - '+.nwcdcloud.com.cn'
   - '+.onebank.com.cn'
-  - '+.ping.archlinux.org'
   - '+.pishu.com.cn'
   - '+.primeday.com.cn'
   - '+.programmer.com.cn'
@@ -2121,8 +2114,6 @@ payload:
   - '+.itunes.com.edgekey.net'
   - '+.localhost.ptlogin2.qq.com'
   - '+.localhost.sec.qq.com'
-  - '+.location.services.mozilla.com'
-  - '+.push.services.mozilla.com'
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'
   - '+.st.dl.pinyuncloud.com'
@@ -2196,7 +2187,6 @@ payload:
   - 'appleworldwidedeveloper.sc.omtrdc.net'
   - 'beatselectronicsllc.tt.omtrdc.net'
   - 'client.hikarifield.co.jp'
-  - 'connect.rom.miui.com'
   - 'content.cdp.bethesda.net'
   - 'dl.steam.clngaa.com'
   - 'dl.steam.ksyna.com'
