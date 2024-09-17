@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-17 01:55:54 (UTC+8)
+# UPDATED: 2024-09-18 01:56:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 394
+# TOTAL: 395
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -178,11 +178,11 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
+  - 'freedomalternative.com'
   - 'jutone.com'
   - 'jvavav.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
-  - 'mathkangaroo.jp'
   - 'moonburrow.club'
   - 'new-line.net'
   - 'odd-hd.fr'
@@ -194,6 +194,7 @@ payload:
   - 'seedpeer.net'
   - 'su-data.com'
   - 'torrentsmd.com'
+  - 'trackarr.org'
   - 'trackers.run'
   - 'wepzone.net'
   - '10.rarbg.com'
@@ -221,7 +222,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'd13bttrck.duckdns.org'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -280,6 +280,7 @@ payload:
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
+  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -289,11 +290,9 @@ payload:
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.bjut.jp'
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.ccp.ovh'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.cubonegro.lol'
@@ -361,6 +360,7 @@ payload:
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
+  - 'tracker.waaa.moe'
   - 'tracker.xor.st'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
@@ -384,6 +384,7 @@ payload:
   - 'www.peckservers.com'
   - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
+  - 'z.mercax.com'
   - 'd40969.acod.regrucolo.ru'
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
