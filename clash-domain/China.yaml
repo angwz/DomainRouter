@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-18 01:56:03 (UTC+8)
+# UPDATED: 2024-09-19 01:58:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 92744
+# TOTAL: 92749
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -12006,6 +12006,7 @@ payload:
   - '+.baklib.com'
   - '+.bakmf.com'
   - '+.bakshifen.com'
+  - '+.bakstotre.com'
   - '+.bala.cc'
   - '+.baldc.com'
   - '+.baldor-tech.com'
@@ -49333,6 +49334,7 @@ payload:
   - '+.lanou3g.com'
   - '+.lanpanpan.com'
   - '+.lanpuele.com'
+  - '+.lanpv.com'
   - '+.lanpw.com'
   - '+.lanpye.com'
   - '+.lanqb.com'
@@ -49417,6 +49419,7 @@ payload:
   - '+.lanzouy.com'
   - '+.lanzov.com'
   - '+.lanzun.net'
+  - '+.lanzv.com'
   - '+.lao.si'
   - '+.laobaicai.net'
   - '+.laobaigan-hs.com'
@@ -75307,6 +75310,7 @@ payload:
   - '+.ukvisacenterd.com'
   - '+.ukworldsale.com'
   - '+.ulab360.com'
+  - '+.ulanzou.com'
   - '+.ulaojiu.com'
   - '+.ulapia.com'
   - '+.ule.com'
@@ -77697,6 +77701,7 @@ payload:
   - '+.webgame138.com'
   - '+.webgame163.com'
   - '+.webgamehome.com'
+  - '+.webgetstore.com'
   - '+.webgzs.com'
   - '+.webhek.com'
   - '+.webhivers.com'
