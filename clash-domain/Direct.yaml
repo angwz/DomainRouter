@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-19 00:11:49 (UTC+8)
+# UPDATED: 2024-09-19 18:16:02 (UTC+8)
 # TYPE: domain
 # TOTAL: 2215
 payload:
@@ -1395,6 +1395,7 @@ payload:
   - '+.medicexam.net'
   - '+.micstl.com'
   - '+.mindspore.cn'
+  - '+.mitce-fuck.work'
   - '+.mmonsterheadphones.net'
   - '+.mndqlib.net'
   - '+.mobileme.dk'
@@ -1612,7 +1613,6 @@ payload:
   - '+.solostudioksale.com'
   - '+.soso7778.com'
   - '+.specialtyheadphones.com'
-  - '+.speed-mitce.top'
   - '+.spektral.cc'
   - '+.spiritclubs.com'
   - '+.sslawy.com'

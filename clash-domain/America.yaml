@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-19 00:12:22 (UTC+8)
+# UPDATED: 2024-09-19 18:16:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 1274
+# TOTAL: 1285
 payload:
   - '+.us'
   - '+.10xfotolia.com'
@@ -108,6 +108,7 @@ payload:
   - '+.binoculus.com'
   - '+.bioware.com'
   - '+.biowarestore.com'
+  - '+.bizographics.com'
   - '+.blackboxgames.com'
   - '+.blizzard.cn'
   - '+.blizzard.com'
@@ -724,8 +725,14 @@ payload:
   - '+.kingstagram.com'
   - '+.klik.me'
   - '+.krakenjs.com'
+  - '+.licdn.cn'
+  - '+.licdn.com'
+  - '+.linkedin.at'
+  - '+.linkedin.cn'
+  - '+.linkedin.com'
   - '+.liverail.com'
   - '+.liverail.tv'
+  - '+.lnkd.in'
   - '+.lnstagram-help.com'
   - '+.loanbuilder.com'
   - '+.login-account.net'
@@ -1188,6 +1195,8 @@ payload:
   - '+.eaassets-a.akamaihd.net'
   - '+.eakorea.co.kr'
   - '+.fbcdn-a.akamaihd.net'
+  - '+.l-0005.dc-msedge.net'
+  - '+.l-0005.l-msedge.net'
   - '+.mageconf.com.ua'
   - '+.marketo.co.uk'
   - '+.one.one.one'
@@ -1275,7 +1284,9 @@ payload:
   - 'blizzard.nefficient.co.kr'
   - 'cc-ext-prod-pkgs.s3.amazonaws.com'
   - 'cloudsync-prod.s3.amazonaws.com'
+  - 'e122475.dscg.akamaiedge.net'
   - 'f3b7q2p3.ssl.hwcdn.net'
+  - 'licdn.cn.cdn20.com'
   - 'ubisoft-orbit-savegames.s3.amazonaws.com'
   - 'ubisoft-uplay-savegames.s3.amazonaws.com'
   - 'venmo.s3.amazonaws.com'

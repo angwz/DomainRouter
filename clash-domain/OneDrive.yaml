@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-19 01:58:47 (UTC+8)
+# UPDATED: 2024-09-19 20:01:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 395
+# TOTAL: 397
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -178,6 +178,7 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
+  - 'freedomalternative.com'
   - 'jutone.com'
   - 'jvavav.com'
   - 'leet-tracker.moe'
@@ -205,6 +206,7 @@ payload:
   - '9.rarbg.me'
   - '9.rarbg.to'
   - 'api.imem.app'
+  - 'api.ipv4online.uk'
   - 'api.swiftgram.app'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
@@ -221,7 +223,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'd13bttrck.duckdns.org'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -279,6 +280,7 @@ payload:
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
+  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -325,7 +327,8 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.k.vu'
   - 'tracker.kamigami.org'
-  - 'tracker.kmzs123.tk'
+  - 'tracker.kmzs123.com'
+  - 'tracker.kmzs123.top'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -380,6 +383,7 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'wg.mortis.me'
+  - 'www.2600.com'
   - 'www.all4nothin.net'
   - 'www.peckservers.com'
   - 'www.wareztorrent.com'
@@ -389,13 +393,11 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
-  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
   - 'tracker-us.silksa.co.za'
   - 'tracker.guguan.000.pe'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
-  - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
