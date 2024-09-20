@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-20 01:57:50 (UTC+8)
+# UPDATED: 2024-09-21 01:58:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 397
+# TOTAL: 394
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -178,7 +178,6 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'freedomalternative.com'
   - 'jutone.com'
   - 'jvavav.com'
   - 'leet-tracker.moe'
@@ -276,11 +275,9 @@ payload:
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
-  - 'tr.ready4.icu'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -363,7 +360,6 @@ payload:
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
-  - 'tracker.waaa.moe'
   - 'tracker.xor.st'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
@@ -398,6 +394,7 @@ payload:
   - 'tracker.guguan.000.pe'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
+  - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'

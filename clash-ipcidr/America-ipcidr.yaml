@@ -1,11 +1,11 @@
 # NAME: America
 # AUTHOR: angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-20 00:11:44 (UTC+8)
+# UPDATED: 2024-09-21 00:11:27 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 172
+# TOTAL: 171
 # IP-CIDR TOTAL: 126
-# IP-CIDR6 TOTAL: 46
+# IP-CIDR6 TOTAL: 45
 payload:
   - '102.132.112.0/24'
   - '102.132.114.0/23'
@@ -148,7 +148,6 @@ payload:
   - '2a03:2887:ff1c::/47'
   - '2a03:2887:ff1e::/48'
   - '2a03:2887:ff23::/48'
-  - '2a03:2887:ff27::/48'
   - '2a03:2887:ff28::/46'
   - '2a03:2887:ff2f::/48'
   - '2a03:2887:ff30::/48'
