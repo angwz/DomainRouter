@@ -1,193 +1,505 @@
-import os
 import re
-import time
-import logging
 import requests
+import time
 import ipaddress
-from datetime import datetime, timedelta, timezone
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
+from datetime import datetime, timedelta
 
-# 配置日志记录
-logging.basicConfig(
-    filename="py_log.txt",
-    level=logging.WARNING,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-    encoding="utf-8",
-)
 
-CONFIG_URL = "https://raw.githubusercontent.com/angwz/DomainRouter/main/config/my.shadowrocket"
-MAX_RETRIES = 3
-RETRY_WAIT_TIME = 5
+def fetch_url_content_with_retries(url, max_retries=3, delay_between_retries=5):
+    """
+    获取URL内容，失败时进行重试
 
-def fetch_config(url):
-    for attempt in range(1, MAX_RETRIES + 1):
+    参数:
+    url (str): 要获取内容的URL
+    max_retries (int): 最大重试次数
+    delay_between_retries (int): 重试之间的延迟时间（秒）
+
+    返回:
+    list: 处理后的非空行列表
+    """
+    for attempt in range(max_retries):
         try:
-            logging.info(f"请求核心配置文件: {url} (第 {attempt} 次尝试)")
             response = requests.get(url)
             response.raise_for_status()
-            logging.info("成功获取配置文件")
-            return response.text
-        except requests.exceptions.RequestException as e:
-            logging.error(f"获取配置文件时出错: {e}，将在 {RETRY_WAIT_TIME} 秒后重试 (已重试 {attempt} 次)")
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_WAIT_TIME)
-            else:
-                logging.error("多次尝试仍未能获取配置文件，程序将终止")
-                return ""
 
-def parse_config(content):
-    data_dict = {}
-    pattern = re.compile(r"\[([^\]]+)\]([^\[]*)")
-    matches = pattern.findall(content)
-    logging.info(f"找到 {len(matches)} 个匹配项")
+            # 处理获取到的响应内容，去掉空白行和以 # 开头的行
+            lines = response.text.splitlines()
+            non_empty_lines = [line.strip() for line in lines if line.strip() and not line.strip().startswith('#')]
+            return non_empty_lines
 
-    rules_dict = {}
-    for match in matches:
-        key = match[0].strip()
-        if key == "Rules":
-            rules = [rule.strip() for rule in match[1].strip().split("\n") if rule.strip()]
-            for rule in rules:
-                group, proxy = rule.split(":", 1)
-                rules_dict[group.strip()] = proxy.strip()
+        except requests.RequestException as error:
+            print(f"第 {attempt + 1} 次请求失败，URL: {url}, 错误信息: {error}")
+            if attempt < max_retries - 1:
+                print(f"{delay_between_retries} 秒后重试...")
+                time.sleep(delay_between_retries)
+
+    print(f"请求 URL 失败: {url}，重试了 {max_retries} 次。")
+    return []
+
+
+def clean_single_line(line):
+    """
+    对单行进行清理和格式化
+
+    参数:
+    line (str): 要清理的行
+
+    返回:
+    str: 清理后的行
+    """
+    cleaned_line = line.strip().strip('"').strip('-').strip()
+
+    # 处理行尾的 'no-resolve'
+    if 'no-resolve' in cleaned_line:
+        cleaned_line_before_no_resolve = cleaned_line[:cleaned_line.rfind('no-resolve')].rstrip()
+        if cleaned_line_before_no_resolve.endswith(','):
+            cleaned_line = cleaned_line_before_no_resolve[:-1].strip()
         else:
-            value = [v.strip() for v in match[1].strip().split("\n") if v.strip()]
-            urls = [item for item in value if item.startswith("http")]
-            data_dict[key] = {"values": value, "urls": urls, "errors": []}
+            cleaned_line = cleaned_line_before_no_resolve
 
-    return data_dict, rules_dict
+    # 只处理前后以单引号包裹的行
+    if cleaned_line.startswith("'") and cleaned_line.endswith("'"):
+        cleaned_line = cleaned_line[1:-1].strip()  # 去掉首尾的单引号
 
-def fetch_url_content(url):
-    for attempt in range(1, MAX_RETRIES + 1):
+        # 如果以 . 开头，删除整行
+        if cleaned_line.startswith('.'):
+            return ''
+
+        # 如果以 +. 开头，替换为 'DOMAIN-SUFFIX,'
+        if cleaned_line.startswith('+.'):
+            cleaned_line = 'DOMAIN-SUFFIX,' + cleaned_line[2:]
+
+        # 检查是否为 IP CIDR
         try:
-            logging.info(f"请求子内容: {url}")
-            response = requests.get(url)
-            response.raise_for_status()
-            logging.info(f"成功获取子内容: {url}")
-            return [line.strip() for line in response.text.split("\n") if line.strip()]
-        except requests.exceptions.RequestException as e:
-            logging.warning(f"重试 {url} 由于错误: {e} (尝试次数: {attempt})")
-            time.sleep(RETRY_WAIT_TIME)
-            if attempt == MAX_RETRIES:
-                logging.error(f"资源 {url} 不存在，已重试 {MAX_RETRIES} 次")
-                return []
+            if '/' in cleaned_line:
+                ip_network = ipaddress.ip_network(cleaned_line, strict=False)
+                if ip_network.version == 4:
+                    cleaned_line = f"IP-CIDR,{cleaned_line}"
+                elif ip_network.version == 6:
+                    cleaned_line = f"IP-CIDR6,{cleaned_line}"
+        except ValueError:
+            pass
 
-def fetch_all_urls(data_dict):
-    all_urls = set()
-    for key in data_dict:
-        all_urls.update(data_dict[key]['urls'])
+        # 如果包含 '*', 删除整行
+        if '*' in cleaned_line:
+            return ''
 
-    fetched_contents = {}
-    with ThreadPoolExecutor(max_workers=10) as executor:
-        future_to_url = {executor.submit(fetch_url_content, url): url for url in all_urls}
-        for future in as_completed(future_to_url):
-            url = future_to_url[future]
-            fetched_contents[url] = future.result()
+    return cleaned_line
 
-    return fetched_contents
 
-def merge_url_contents(data_dict, fetched_contents):
-    for key in data_dict:
-        values = data_dict[key]['values']
-        urls = data_dict[key]['urls']
-        for url in urls:
-            values.extend(fetched_contents.get(url, []))
-        data_dict[key]['values'] = values
-    return data_dict
-
-def filter_and_trim_values(values):
-    filtered_values = []
-    domain_pattern = re.compile(r"^(?=.{1,253}$)(?!-)[A-Za-z0-9-]{1,63}(?<!-)(\.[A-Za-z]{2,6})+$")
-
-    for item in values:
-        item = "".join(item.split())
-
-        if item.startswith("#") or item.startswith("payload"):
-            logging.info(f"跳过行: {item}")
-            continue
-
-        if domain_pattern.match(item):
-            filtered_values.append(f"+.{item}")
-            logging.info(f"添加域名: +.{item}")
-            continue
-
-        item_trimmed = re.sub(r"^[^\w\u4e00-\u9fa5:+*.]+|[^\w\u4e00-\u9fa5:+*.]+$", "", item)
-        special_characters_count = len(re.findall(r"[^a-zA-Z0-9\u4e00-\u9fa5()$/\\^,:+*.-]", item_trimmed))
-        if special_characters_count > 3:
-            logging.info(f"剔除非法内容: {item_trimmed}")
-            continue
-
-        filtered_values.append(item_trimmed)
-        logging.info(f"添加修剪后的内容: {item_trimmed}")
-    return filtered_values
-
-def classify_and_format_values(values, proxy):
+def preprocess_lines(lines):
     """
-    将所有值分类并格式化为 Shadowrocket 兼容的规则。
-    """
-    classified_rules = []
+    对列表中的每一行进行预处理
 
-    for item in values:
-        item = item.strip()
-        if item.startswith("+."):
-            classified_rules.append(f"DOMAIN-SUFFIX,{item[2:]},{proxy}")
-        elif item.startswith("DOMAIN,") or item.startswith("DOMAIN-SUFFIX,") or item.startswith("DOMAIN-KEYWORD,"):
-            parts = item.split(",")
-            if len(parts) == 2:
-                classified_rules.append(f"{item},{proxy}")
-            else:
-                classified_rules.append(item)
-        elif re.match(r"^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,6}$", item):
-            classified_rules.append(f"DOMAIN,{item},{proxy}")
+    参数:
+    lines (list): 要处理的行列表
+
+    返回:
+    list: 处理后的行列表
+    """
+    preprocessed_lines = []
+
+    for line in lines:
+        # 处理以 http:// 或 https:// 开头的行
+        if line.startswith('http://') or line.startswith('https://'):
+            preprocessed_lines.extend(fetch_url_content_with_retries(line))
         else:
-            # 处理其他规则类型
-            parts = item.split(",")
-            if len(parts) == 2:
-                classified_rules.append(f"{item},{proxy}")
+            preprocessed_lines.append(line)
+
+    # 清理所有行并过滤掉包含 'payload' 的行
+    final_processed_lines = [clean_single_line(l) for l in preprocessed_lines if 'payload' not in l]
+    # 移除空字符串
+    final_processed_lines = [l for l in final_processed_lines if l]
+    return final_processed_lines
+
+
+def is_valid_domain(domain):
+    """
+    检查是否为有效域名
+
+    参数:
+    domain (str): 要检查的域名
+
+    返回:
+    bool: 域名是否有效
+    """
+    if not (domain[0].isalnum() and domain[-1].isalnum()):
+        return False
+
+    if not re.match(r'^[a-zA-Z0-9\-.]+$', domain):
+        return False
+
+    if '..' in domain:
+        return False
+
+    return True
+
+
+def is_valid_wildcard_domain(line):
+    """
+    检查是否为有效的通配符域名
+
+    参数:
+    line (str): 要检查的行
+
+    返回:
+    bool: 是否为有效的通配符域名
+    """
+    return line.startswith('+.') and line[-1].isalnum()
+
+
+def process_ip_and_domains(lines):
+    """
+    处理IP地址、普通域名和通配符域名
+
+    参数:
+    lines (list): 要处理的行列表
+
+    返回:
+    list: 处理后的行列表
+    """
+    processed_lines = []
+
+    for line in lines:
+        try:
+            ip_address = ipaddress.ip_address(line)
+
+            if ip_address.version == 4:
+                processed_lines.append(f"IP-CIDR,{line}/32")
+            elif ip_address.version == 6:
+                processed_lines.append(f"IP-CIDR6,{line}/128")
+
+        except ValueError:
+            if is_valid_wildcard_domain(line):
+                processed_lines.append(f"DOMAIN-SUFFIX,{line[2:]}")
+            elif is_valid_domain(line):
+                processed_lines.append(f"DOMAIN-SUFFIX,{line}")
             else:
-                classified_rules.append(item)
+                processed_lines.append(line)
 
-    return classified_rules
+    return processed_lines
 
-def process_data(data_dict, rules_dict):
+
+def is_valid_prefix(element):
     """
-    处理数据并生成多个 Shadowrocket 模块文件。
+    检查元素是否以合法的前缀开始
+
+    参数:
+    element (str): 要检查的元素
+
+    返回:
+    bool: 元素是否有合法前缀
     """
-    for group, proxy in rules_dict.items():
-        if group not in data_dict:
-            logging.warning(f"组 {group} 在数据字典中不存在，跳过")
+    valid_prefixes = [
+        "DOMAIN", "DOMAIN-SUFFIX", "DOMAIN-KEYWORD", "DOMAIN-REGEX", "GEOSITE",
+        "IP-CIDR", "IP-CIDR6", "GEOIP",
+        "DST-PORT", "SRC-PORT",
+        "PROCESS-PATH", "PROCESS-PATH-REGEX",
+        "PROCESS-NAME", "PROCESS-NAME-REGEX"
+    ]
+
+    return any(element.startswith(prefix) for prefix in valid_prefixes)
+
+
+def filter_elements_by_valid_prefix(lines):
+    """
+    对列表进行合法性检查，保留以有效前缀开始的元素或以 [ ] 包裹的行
+
+    参数:
+    lines (list): 要过滤的行列表
+
+    返回:
+    list: 过滤后的行列表
+    """
+    valid_lines = []
+
+    for line in lines:
+        if line.startswith('[') and line.endswith(']'):
+            valid_lines.append(line)
+        elif is_valid_prefix(line):
+            valid_lines.append(line)
+
+    return valid_lines
+
+
+def is_suffix_covered(existing_value, new_value):
+    """
+    检查 existing_value 是否覆盖 new_value
+
+    参数:
+    existing_value (str): 现有的值
+    new_value (str): 新的值
+
+    返回:
+    bool: existing_value 是否覆盖 new_value
+    """
+    existing_value = existing_value.lower()
+    new_value = new_value.lower()
+    if new_value == existing_value:
+        return True
+    if new_value.endswith('.' + existing_value):
+        return True
+    return False
+
+
+def is_ip_subset(sub_cidr, parent_cidr):
+    """
+    检查 sub_cidr 是否是 parent_cidr 的子集
+
+    参数:
+    sub_cidr (str): 子网CIDR
+    parent_cidr (str): 父网CIDR
+
+    返回:
+    bool: sub_cidr 是否是 parent_cidr 的子集
+    """
+    try:
+        sub_network = ipaddress.ip_network(sub_cidr, strict=False)
+        parent_network = ipaddress.ip_network(parent_cidr, strict=False)
+        return sub_network.subnet_of(parent_network)
+    except ValueError:
+        return False
+
+
+def optimize_rules(lines):
+    """
+    优化规则列表：去重和覆盖范围优化
+
+    参数:
+    lines (list): 要优化的规则列表
+
+    返回:
+    list: 优化后的规则列表
+    """
+    # 去重，保留第一个出现的元素
+    seen = set()
+    deduped_lines = []
+    for line in lines:
+        if line not in seen:
+            deduped_lines.append(line)
+            seen.add(line)
+
+    # 按照原始顺序优化规则
+    optimized_lines = []
+    for idx, line in enumerate(deduped_lines):
+        # 忽略以 [ 开头和 ] 结尾的行
+        if line.startswith('[') and line.endswith(']'):
+            optimized_lines.append(line)
             continue
 
-        content = data_dict[group]
-        filtered_values = filter_and_trim_values(content["values"])
-        classified_rules = classify_and_format_values(filtered_values, proxy)
+        prefix = line.split(',', 1)[0]
+        value = line.split(',', 1)[1] if ',' in line else ''
 
-        # 获取当前时间
-        current_time = datetime.now(timezone.utc) + timedelta(hours=8)
-        current_time_str = current_time.strftime("%Y-%m-%d %H:%M:%S")
+        # 只对指定类型进行优化
+        if prefix not in ["DOMAIN-SUFFIX", "IP-CIDR", "IP-CIDR6"]:
+            optimized_lines.append(line)
+            continue
 
-        # 生成 .module 文件
-        with open(f"{group}.module", "w", encoding="utf-8") as file:
-            file.write(f"#!name={group}\n")
-            file.write("#!desc=Generated by Shadowrocket Multi-Module Generator\n")
-            file.write(f"#!date={current_time_str}\n\n")
-            file.write("[Rule]\n")
-            for rule in classified_rules:
-                file.write(f"{rule}\n")
+        to_remove = False
 
-        logging.info(f"已生成 {group}.module 文件")
+        # 与之前的规则比较
+        for prev_line in optimized_lines:
+            prev_prefix = prev_line.split(',', 1)[0]
+            prev_value = prev_line.split(',', 1)[1] if ',' in prev_line else ''
+
+            if prefix != prev_prefix:
+                continue
+
+            if prefix == "DOMAIN-SUFFIX":
+                if is_suffix_covered(prev_value, value):
+                    to_remove = True
+                    break
+            elif prefix in ["IP-CIDR", "IP-CIDR6"]:
+                if is_ip_subset(value, prev_value):
+                    to_remove = True
+                    break
+
+        if not to_remove:
+            optimized_lines.append(line)
+
+    return optimized_lines
+
+
+def count_rule_types(lines):
+    """
+    统计各类规则的数量
+
+    参数:
+    lines (list): 规则列表
+
+    返回:
+    dict: 各类规则的数量统计
+    """
+    rule_counts = {}
+    for line in lines:
+        if ',' in line:
+            rule_type = line.split(',')[0]
+            rule_counts[rule_type] = rule_counts.get(rule_type, 0) + 1
+    return rule_counts
+
+
+def sort_rules(lines):
+    """
+    对规则进行排序
+
+    参数:
+    lines (list): 要排序的规则列表
+
+    返回:
+    list: 排序后的规则列表
+    """
+    rule_order = [
+        "DOMAIN-SUFFIX", "DOMAIN-KEYWORD", "DOMAIN-REGEX", "DOMAIN",
+        "IP-CIDR", "IP-CIDR6", "GEOIP", "GEOSITE",
+        "DST-PORT", "SRC-PORT",
+        "PROCESS-PATH", "PROCESS-PATH-REGEX",
+        "PROCESS-NAME", "PROCESS-NAME-REGEX"
+    ]
+
+    def get_rule_type(line):
+        return line.split(',')[0] if ',' in line else ''
+
+    def get_domain_or_ip(line):
+        parts = line.split(',')
+        return parts[1] if len(parts) > 1 else ''
+
+    def domain_level(domain):
+        return len(domain.split('.'))
+
+    def ip_to_int(ip):
+        try:
+            return int(ipaddress.ip_address(ip.split('/')[0]))
+        except ValueError:
+            return 0  # 对于无效IP返回0
+
+    def sort_key(line):
+        rule_type = get_rule_type(line)
+        try:
+            rule_index = rule_order.index(rule_type)
+        except ValueError:
+            rule_index = len(rule_order)  # 将未知类型放到最后
+
+        domain_or_ip = get_domain_or_ip(line)
+
+        if rule_type in ["DOMAIN-SUFFIX", "DOMAIN", "DOMAIN-KEYWORD", "DOMAIN-REGEX"]:
+            return (rule_index, domain_level(domain_or_ip), domain_or_ip)
+        elif rule_type in ["IP-CIDR", "IP-CIDR6"]:
+            return (rule_index, ip_to_int(domain_or_ip))
+        else:
+            return (rule_index, domain_or_ip)
+
+    sorted_sections = []
+    current_section = []
+
+    for line in lines:
+        if line.startswith('[') and line.endswith(']'):
+            if current_section:
+                # 对当前部分进行排序并添加到结果中
+                sorted_sections.extend(sorted(current_section, key=sort_key))
+                sorted_sections.append(line)  # 添加分组标头
+                current_section = []
+            else:
+                sorted_sections.append(line)
+        else:
+            current_section.append(line)
+
+    # 处理最后一组
+    if current_section:
+        sorted_sections.extend(sorted(current_section, key=sort_key))
+
+    return sorted_sections
+
+
+def generate_module_file(lines):
+    """
+    生成 module 文件
+
+    参数:
+    lines (list): 规则列表
+    """
+    # 确保 module 目录存在
+    os.makedirs('module', exist_ok=True)
+
+    # 清空 module 目录
+    for file in os.listdir('module'):
+        os.remove(os.path.join('module', file))
+
+    # 统计规则数量
+    rule_counts = count_rule_types(lines)
+    rule_count_str = ' '.join([f"{k}:{v}" for k, v in rule_counts.items() if v > 0])
+
+    # 获取当前时间（UTC+8）
+    current_time = datetime.utcnow() + timedelta(hours=8)
+    time_str = current_time.strftime("%Y-%m-%d %H:%M:%S")
+
+    # 生成文件内容
+    content = [
+        '#!name=想你了',
+        f'#!desc=Updated:{time_str} (UTC +8) Rlues:{sum(rule_counts.values())} ({rule_count_str})',
+        '#!url=https://raw.githubusercontent.com/angwz/DomainRouter/refs/heads/release/beii.module',
+        '[Rule]'
+    ]
+
+    current_group = None
+    for line in lines:
+        if line.startswith('[') and line.endswith(']'):
+            current_group = line[1:-1]
+        elif ',' in line:
+            rule_type = line.split(',')[0]
+            if rule_type in ['IP-CIDR', 'IP-CIDR6', 'GEOIP']:
+                line = f'{line},{current_group},no-resolve'
+            else:
+                line = f'{line},{current_group}'
+            content.append(line)
+
+    # 写入文件
+    with open('module/beii.module', 'w', encoding='utf-8') as f:
+        f.write('\n'.join(content))
+
 
 def main():
-    content = fetch_config(CONFIG_URL)
-    if not content:
-        return
+    """
+    主函数：执行整个处理流程
+    """
+    # 从URL获取配置
+    url = 'https://raw.githubusercontent.com/angwz/DomainRouter/refs/heads/main/config/my.shadowrocket'
+    print("正在从URL获取配置...")
+    raw_lines = fetch_url_content_with_retries(url)
+    print(f"成功获取 {len(raw_lines)} 行配置。")
 
-    data_dict, rules_dict = parse_config(content)
-    fetched_contents = fetch_all_urls(data_dict)
-    data_dict = merge_url_contents(data_dict, fetched_contents)
-    process_data(data_dict, rules_dict)
+    # 对列表内容进行预处理
+    print("正在预处理配置内容...")
+    preprocessed_lines = preprocess_lines(raw_lines)
+    print(f"预处理后剩余 {len(preprocessed_lines)} 行。")
 
-    print("处理完成，生成的 .module 文件在当前目录中。")
-    logging.info("处理完成，生成的 .module 文件在当前目录中。")
+    # 对处理后的列表进行IP地址、域名和通配符域名判断和处理
+    print("正在处理IP地址和域名...")
+    processed_lines = process_ip_and_domains(preprocessed_lines)
+    print(f"处理后共有 {len(processed_lines)} 行。")
+
+    # 对列表进行合法性检查，保留有效元素
+    print("正在进行合法性检查...")
+    valid_filtered_lines = filter_elements_by_valid_prefix(processed_lines)
+    print(f"合法性检查后剩余 {len(valid_filtered_lines)} 行。")
+
+    # 进行优化：去重和覆盖范围优化，不改变规则顺序
+    print("正在优化规则...")
+    optimized_lines = optimize_rules(valid_filtered_lines)
+    print(f"优化后剩余 {len(optimized_lines)} 行。")
+
+    # 对规则进行排序
+    print("正在对规则进行排序...")
+    sorted_lines = sort_rules(optimized_lines)
+    print("排序完成。")
+
+    # 生成 module 文件
+    print("正在生成 module 文件...")
+    generate_module_file(sorted_lines)
+    print("module 文件生成完成。")
+
+    print("处理完成，module 文件已生成。")
+
 
 if __name__ == "__main__":
     main()
