@@ -17,7 +17,7 @@ logging.basicConfig(
 
 logging.info("脚本开始运行...")
 
-# 请求 URL 内容
+# 核心配置文件 URL
 url = "https://raw.githubusercontent.com/angwz/DomainRouter/main/my.wei"
 try:
     logging.info(f"请求 URL 内容: {url}")
@@ -43,7 +43,7 @@ for match in matches:
     key = match[0].strip()
     if "rules" in key.lower():
         skip_rules = True
-        logging.info(f"跳过包含'rules'的部分: {key}")
+        logging.info(f"跳过包含'rules'后的全部内容: {key}")
         continue
     if skip_rules:
         skip_rules = False
