@@ -6,6 +6,7 @@ infini-cloud.net
 teracloud.jp
 ai-yyds.com
 
+'+.cn'
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.list
@@ -29,8 +30,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-ai-cn.yaml
 
 
-
-'+.cn'
 
 47.103.212.143
 107.182.31.148
@@ -288,10 +287,3 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/azur
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xbox.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.list
 
-
-
-[Rules]
-Direct: DIRECT
-US: PROXY
-China: DIRECT
-Proxy: PROXY
