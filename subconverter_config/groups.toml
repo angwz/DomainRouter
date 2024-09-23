@@ -1,7 +1,7 @@
 [[custom_groups]]
 name = "🌠 节点选择"
 type = "select"
-rule = ["[]🗽 美国分流", "[]🍙 日本高速", "[]♾️ 无限流量", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🗽 美国分流", "[]🎉 高速切换", "[]♾️ 无限流量", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "✈️ 手动切换"
@@ -20,8 +20,11 @@ rule = ["[]DIRECT", "[]✈️ 手动切换"]
 
 [[custom_groups]]
 name = "📱 TikTok"
-type = "select"
-rule = ["[]🍙 日本高速", "[]✈️ 手动切换", "[]🌠 节点选择"]
+type = "fallback"
+rule = ["[]🍙 日本高速", "[]🌠 节点选择", "[]✈️ 手动切换"]
+url = "https://www.gstatic.com/generate_204"
+interval = 660
+lazy = true
 
 [[custom_groups]]
 name = "🍰 Dynamic"
@@ -39,13 +42,14 @@ rule = [
 [[custom_groups]]
 name = "💻 Google"
 type = "select"
-rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🎉 高速切换", "[]🗽 美国分流", "[]✈️ 手动切换"]
 
 [[custom_groups]]
 name = "📽️ Netflix"
 type = "select"
 rule = [
     "[]🍙 日本高速",
+    "[]🌈 香港高速",
     "!!GROUPID=1!!(^(?!.*小兔).*$)",
     "!!GROUPID=2!!(.*)",
     "!!GROUPID=0!!(.*)",
@@ -55,12 +59,12 @@ rule = [
 [[custom_groups]]
 name = "💾 Microsoft"
 type = "select"
-rule = ["[]DIRECT", "[]🌠 节点选择", "[]✈️ 手动切换"]
+rule = ["[]DIRECT", "[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换"]
 
 [[custom_groups]]
 name = "🌍 国外流媒体"
 type = "select"
-rule = ["[]🗽 美国分流", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "🐳 漏网の鱼"
@@ -69,12 +73,31 @@ rule = ["[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 
 
 [[custom_groups]]
+name = "🎉 高速切换"
+type = "url-test"
+rule = ["[]🌈 香港高速", "[]🍙 日本高速", "[]🗽 美国分流"]
+url = "https://www.gstatic.com/generate_204"
+interval = 233
+lazy = false
+timeout = 5
+tolerance = 157
+
+[[custom_groups]]
+name = "🌈 香港高速"
+type = "load-balance"
+rule = ["!!GROUPID=0!!(港|HK|hk|Hong Kong|HongKong|hongkong)"]
+url = "https://www.gstatic.com/generate_204"
+interval = 180
+lazy = false
+strategy = "consistent-hashing"
+
+[[custom_groups]]
 name = "🍙 日本高速"
 type = "load-balance"
 rule = ["!!GROUPID=0!!(日|东京|大阪|埼玉|JP|jp|Japan)"]
 url = "https://www.gstatic.com/generate_204"
 interval = 360
-lazy = true
+lazy = false
 strategy = "consistent-hashing"
 
 [[custom_groups]]
