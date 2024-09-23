@@ -436,7 +436,7 @@ def generate_module_file(lines):
     # 生成文件内容
     content = [
         '#!name=想你了',
-        f'#!desc=Updated:{time_str} (UTC +8) Rlues:{sum(rule_counts.values())} ({rule_count_str})',
+        f'#!desc=Updated:{time_str} (UTC+8) Rlues:{sum(rule_counts.values())} ({rule_count_str})',
         '#!url=https://raw.githubusercontent.com/angwz/DomainRouter/refs/heads/release/beii.module',
         '[Rule]'
     ]
@@ -492,10 +492,15 @@ def main():
     print("正在对规则进行排序...")
     sorted_lines = sort_rules(optimized_lines)
     print("排序完成。")
+    
+    # 排序后再次优化
+    print("再次优化一遍...")
+    optimized_lines = optimize_rules(sorted_lines)
+    print("最终优化完成.")
 
     # 生成 module 文件
     print("正在生成 module 文件...")
-    generate_module_file(sorted_lines)
+    generate_module_file(optimized_lines)
     print("module 文件生成完成。")
 
     print("处理完成，module 文件已生成。")
