@@ -1,14 +1,21 @@
 # NAME: ChinaMedia
-# AUTHOR: angwz
+# AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-23 02:01:07 (UTC+8)
+# UPDATED: 2024-09-24 00:26:54 (UTC+8)
 # TYPE: classic
-# TOTAL: 12
-# DOMAIN-KEYWORD TOTAL: 6
-# PROCESS-NAME TOTAL: 6
+# TOTAL: 32
+# DOMAIN-KEYWORD TOTAL: 13
+# PROCESS-NAME TOTAL: 19
 payload:
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,qiyi
+  - DOMAIN-KEYWORD,apple-support.akadns.net
+  - DOMAIN-KEYWORD,apple.com.akadns.net
+  - DOMAIN-KEYWORD,apple.com.edgekey.net
+  - DOMAIN-KEYWORD,buy.itunes.apple.com
+  - DOMAIN-KEYWORD,smp-device
+  - DOMAIN-KEYWORD,testflight
+  - DOMAIN-KEYWORD,icloud.com.akadns.net
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
@@ -20,3 +27,16 @@ payload:
   - PROCESS-NAME,com.bilibili.comic.intl
   - PROCESS-NAME,tv.danmaku.bili
   - PROCESS-NAME,tv.danmaku.bilibilihd
+  - PROCESS-NAME,CoreLocationAgent
+  - PROCESS-NAME,WeatherWidget
+  - PROCESS-NAME,apsd
+  - PROCESS-NAME,com.apple.Maps
+  - PROCESS-NAME,findmydevice-user-agent
+  - PROCESS-NAME,fmfd
+  - PROCESS-NAME,mapspushd
+  - PROCESS-NAME,netbiosd
+  - PROCESS-NAME,trustd
+  - PROCESS-NAME,com.apple.geod
+  - PROCESS-NAME,Music
+  - PROCESS-NAME,LookupViewService
+  - PROCESS-NAME,TV

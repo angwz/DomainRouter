@@ -1,12 +1,12 @@
 # NAME: China
-# AUTHOR: angwz
+# AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-23 01:56:57 (UTC+8)
+# UPDATED: 2024-09-24 00:26:44 (UTC+8)
 # TYPE: classic
-# TOTAL: 28
-# DOMAIN-KEYWORD TOTAL: 13
+# TOTAL: 99
+# DOMAIN-KEYWORD TOTAL: 49
 # IP-ASN TOTAL: 1
-# PROCESS-NAME TOTAL: 14
+# PROCESS-NAME TOTAL: 49
 payload:
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
@@ -21,6 +21,42 @@ payload:
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,anti-ad.net
+  - DOMAIN-KEYWORD,api-adservices.apple.com
+  - DOMAIN-KEYWORD,api.smoot.apple.cn
+  - DOMAIN-KEYWORD,api.smoot.apple.com
+  - DOMAIN-KEYWORD,aw-s.tripcdn.com
+  - DOMAIN-KEYWORD,ax1x.com
+  - DOMAIN-KEYWORD,bfzycdn.com
+  - DOMAIN-KEYWORD,buy.itunes.apple.com
+  - DOMAIN-KEYWORD,cnki.net
+  - DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
+  - DOMAIN-KEYWORD,deepdyve
+  - DOMAIN-KEYWORD,els-cdn
+  - DOMAIN-KEYWORD,elsevier
+  - DOMAIN-KEYWORD,ess.apple.com
+  - DOMAIN-KEYWORD,gsa.apple.com
+  - DOMAIN-KEYWORD,humb.apple.com
+  - DOMAIN-KEYWORD,icloud.com
+  - DOMAIN-KEYWORD,ls.apple.com
+  - DOMAIN-KEYWORD,o.lencr.org
+  - DOMAIN-KEYWORD,pkulaw
+  - DOMAIN-KEYWORD,push.apple.com
+  - DOMAIN-KEYWORD,readcube
+  - DOMAIN-KEYWORD,sciencedirect
+  - DOMAIN-KEYWORD,ssl.apple.com
+  - DOMAIN-KEYWORD,trip.com
+  - DOMAIN-KEYWORD,ttcdn-tos.kkimg.cc
+  - DOMAIN-KEYWORD,vip.ffzy-online
+  - DOMAIN-KEYWORD,vip.ffzy-play
+  - DOMAIN-KEYWORD,vip.kuaikan-cdn
+  - DOMAIN-KEYWORD,vip.lz-cdn
+  - DOMAIN-KEYWORD,wanfangdata
+  - DOMAIN-KEYWORD,wb_ad
+  - DOMAIN-KEYWORD,weather-adge.apple.com
+  - DOMAIN-KEYWORD,weather-edge.apple.com
+  - DOMAIN-KEYWORD,westlawchina
+  - DOMAIN-KEYWORD,microsoft
 
   - IP-ASN,132203,no-resolve
 
@@ -38,3 +74,38 @@ payload:
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,com.qiyi.video
+  - PROCESS-NAME,BaiduNetdisk_mac
+  - PROCESS-NAME,BitComet
+  - PROCESS-NAME,ClashX
+  - PROCESS-NAME,DownloadService
+  - PROCESS-NAME,Folx
+  - PROCESS-NAME,LogiOptions
+  - PROCESS-NAME,LogiOptionsDaemon
+  - PROCESS-NAME,Motrix.app
+  - PROCESS-NAME,NetTransport
+  - PROCESS-NAME,SunloginClient_Desktop
+  - PROCESS-NAME,SunloginClient_Helper
+  - PROCESS-NAME,ThunderVIP
+  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,UUBooster
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,WebTorrentHelper
+  - PROCESS-NAME,amuled
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,clash
+  - PROCESS-NAME,cloudflared
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,parsecd
+  - PROCESS-NAME,privoxy
+  - PROCESS-NAME,qBittorrent
+  - PROCESS-NAME,qbittorrent*
+  - PROCESS-NAME,qbittorrent-nox
+  - PROCESS-NAME,ss-local
+  - PROCESS-NAME,tailscaled
+  - PROCESS-NAME,transmission-daemon
+  - PROCESS-NAME,transmission-qt
+  - PROCESS-NAME,trojan
+  - PROCESS-NAME,trojan-go
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,v2ray
+  - PROCESS-NAME,xray
