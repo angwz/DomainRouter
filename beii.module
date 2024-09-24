@@ -1,6 +1,6 @@
 #!name=想你了
-#!desc=Updated:2024-09-24 12:59:09 (UTC+8) Rlues:40936 (DOMAIN-SUFFIX:34828 DOMAIN-KEYWORD:85 DOMAIN:1319 IP-CIDR:3789 IP-CIDR6:837 DST-PORT:1 SRC-PORT:1 PROCESS-NAME:76)
-#!url=https://cdn.jsdelivr.net/gh/angwz/DomainRouter@refs/heads/release/beii.module
+#!desc=Updated:2024-09-24 13:52:44 (UTC+8) Rlues:40936 (DOMAIN-SUFFIX:34828 DOMAIN-KEYWORD:85 DOMAIN:1319 IP-CIDR:3789 IP-CIDR6:837 DST-PORT:1 SRC-PORT:1 PROCESS-NAME:76)
+#!url=https://raw.angwz.com/DomainRouter/refs/heads/release/beii.module
 [Rule]
 DOMAIN-SUFFIX,cn,DIRECT
 DOMAIN-SUFFIX,icbc,DIRECT
