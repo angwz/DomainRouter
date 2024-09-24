@@ -307,6 +307,87 @@ def optimize_rules(lines):
     return optimized_lines
 
 
+class TrieNode:
+    """
+    前缀树节点类
+    """
+
+    def __init__(self):
+        self.children = {}
+        self.is_end = False
+
+
+def add_domain_to_trie(root, domain):
+    """
+    将域名添加到前缀树中
+
+    参数:
+    root (TrieNode): 前缀树的根节点
+    domain (str): 要添加的域名
+    """
+    node = root
+    for part in reversed(domain.split('.')):
+        if part not in node.children:
+            node.children[part] = TrieNode()
+        node = node.children[part]
+    node.is_end = True
+
+
+def is_domain_in_trie(root, domain):
+    """
+    检查域名是否在前缀树中被更广泛的规则覆盖
+
+    参数:
+    root (TrieNode): 前缀树的根节点
+    domain (str): 要检查的域名
+
+    返回:
+    bool: 如果域名被覆盖则返回 True，否则返回 False
+    """
+    node = root
+    for part in reversed(domain.split('.')):
+        if node.is_end:
+            return True
+        if part not in node.children:
+            return False
+        node = node.children[part]
+    return node.is_end
+
+
+def optimize_domain_rules(lines):
+    """
+    优化规则列表中的 DOMAIN 类型规则
+
+    参数:
+    lines (list): 要优化的规则列表
+
+    返回:
+    list: 优化后的规则列表
+    """
+    # 创建前缀树的根节点
+    trie_root = TrieNode()
+
+    # 第一次遍历：添加所有 DOMAIN-SUFFIX 规则到前缀树
+    for line in lines:
+        if line.startswith('DOMAIN-SUFFIX,'):
+            domain = line.split(',')[1]
+            add_domain_to_trie(trie_root, domain)
+
+    # 第二次遍历：处理 DOMAIN 规则
+    optimized_lines = []
+    for line in lines:
+        if line.startswith('DOMAIN,'):
+            domain = line.split(',')[1]
+            if not is_domain_in_trie(trie_root, domain):
+                # 如果域名没有被更广泛的规则覆盖，则保留这条规则
+                optimized_lines.append(line)
+        else:
+            # 非 DOMAIN 规则直接保留
+            optimized_lines.append(line)
+
+    return optimized_lines
+
+
 def is_suffix_covered(existing_value, new_value):
     """
     检查 existing_value 是否覆盖 new_value
@@ -533,9 +614,14 @@ def main():
     optimized_lines = optimize_rules(sorted_lines)
     print(f"优化后剩余 {len(optimized_lines)} 行。")
 
+    # 优化 DOMAIN 规则
+    print("正在优化 DOMAIN 规则...")
+    optimized_domain_lines = optimize_domain_rules(optimized_lines)
+    print(f"DOMAIN 规则优化后剩余 {len(optimized_domain_lines)} 行。")
+
     # 生成 module 文件（包含最终的合法性检查）
     print("正在生成 module 文件...")
-    generate_module_file(optimized_lines)
+    generate_module_file(optimized_domain_lines)
     print("module 文件生成完成。")
 
     print("处理完成，module 文件已生成。")
