@@ -437,7 +437,7 @@ def generate_module_file(lines):
     content = [
         '#!name=想你了',
         f'#!desc=Updated:{time_str} (UTC+8) Rlues:{sum(rule_counts.values())} ({rule_count_str})',
-        '#!url=https://cdn.jsdelivr.net/gh/angwz/DomainRouter@refs/heads/release/beii.module',
+        '#!url=https://raw.angwz.com/DomainRouter/refs/heads/release/beii.module',
         '[Rule]'
     ]
 
