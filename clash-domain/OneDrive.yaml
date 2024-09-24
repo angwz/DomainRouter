@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-24 00:26:44 (UTC+8)
+# UPDATED: 2024-09-25 00:26:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 396
+# TOTAL: 394
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -222,7 +222,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'd13bttrck.duckdns.org'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -261,6 +260,7 @@ payload:
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
   - 'retracker2.x2k.ru'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -327,7 +327,6 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.k.vu'
   - 'tracker.kamigami.org'
-  - 'tracker.kmzs123.cf'
   - 'tracker.kmzs123.tk'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
@@ -363,6 +362,7 @@ payload:
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.uraniumhexafluori.de'
+  - 'tracker.waaa.moe'
   - 'tracker.xor.st'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
@@ -382,7 +382,6 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'wg.mortis.me'
-  - 'www.2600.com'
   - 'www.all4nothin.net'
   - 'www.peckservers.com'
   - 'www.wareztorrent.com'
@@ -393,7 +392,6 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'tracker-us.silksa.co.za'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
