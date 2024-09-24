@@ -25,7 +25,8 @@ def fetch_url_content_with_retries(url, max_retries=3, delay_between_retries=5):
 
             # 处理获取到的响应内容，去掉空白行和以 # 开头的行
             lines = response.text.splitlines()
-            non_empty_lines = [line.strip() for line in lines if line.strip() and not line.strip().startswith('#')]
+            non_empty_lines = [line.strip() for line in lines if line.strip(
+            ) and not line.strip().startswith('#')]
             return non_empty_lines
 
         except requests.RequestException as error:
@@ -52,7 +53,8 @@ def clean_single_line(line):
 
     # 处理行尾的 'no-resolve'
     if 'no-resolve' in cleaned_line:
-        cleaned_line_before_no_resolve = cleaned_line[:cleaned_line.rfind('no-resolve')].rstrip()
+        cleaned_line_before_no_resolve = cleaned_line[:cleaned_line.rfind(
+            'no-resolve')].rstrip()
         if cleaned_line_before_no_resolve.endswith(','):
             cleaned_line = cleaned_line_before_no_resolve[:-1].strip()
         else:
@@ -108,7 +110,8 @@ def preprocess_lines(lines):
             preprocessed_lines.append(line)
 
     # 清理所有行并过滤掉包含 'payload' 的行
-    final_processed_lines = [clean_single_line(l) for l in preprocessed_lines if 'payload' not in l]
+    final_processed_lines = [clean_single_line(
+        l) for l in preprocessed_lines if 'payload' not in l]
     # 移除空字符串
     final_processed_lines = [l for l in final_processed_lines if l]
     return final_processed_lines
@@ -205,6 +208,7 @@ def is_valid_prefix(element):
 def filter_elements_by_valid_prefix(lines):
     """
     对列表进行合法性检查，保留以有效前缀开始的元素或以 [ ] 包裹的行
+    同时处理 current_group 和 no-resolve 的拼接
 
     参数:
     lines (list): 要过滤的行列表
@@ -213,14 +217,94 @@ def filter_elements_by_valid_prefix(lines):
     list: 过滤后的行列表
     """
     valid_lines = []
+    current_group = None
 
     for line in lines:
         if line.startswith('[') and line.endswith(']'):
+            current_group = line[1:-1]  # 更新当前组
             valid_lines.append(line)
         elif is_valid_prefix(line):
+            parts = line.split(',')
+            rule_type = parts[0]
+
+            # 处理 current_group 和 no-resolve 的拼接
+            if current_group:
+                if rule_type in ['IP-CIDR', 'IP-CIDR6', 'GEOIP']:
+                    line = f"{line},{current_group},no-resolve"
+                else:
+                    line = f"{line},{current_group}"
+
             valid_lines.append(line)
 
     return valid_lines
+
+
+def optimize_rules(lines):
+    """
+    优化规则列表：去重和覆盖范围优化
+
+    参数:
+    lines (list): 要优化的规则列表
+
+    返回:
+    list: 优化后的规则列表
+    """
+    # 去重，保留第一个出现的元素
+    seen = set()
+    deduped_lines = []
+    for line in lines:
+        if line not in seen:
+            deduped_lines.append(line)
+            seen.add(line)
+
+    # 按照原始顺序优化规则
+    optimized_lines = []
+    for idx, line in enumerate(deduped_lines):
+        # 忽略以 [ 开头和 ] 结尾的行
+        if line.startswith('[') and line.endswith(']'):
+            optimized_lines.append(line)
+            continue
+
+        parts = line.split(',')
+        if len(parts) < 2:
+            optimized_lines.append(line)
+            continue
+
+        prefix = parts[0]
+        value = parts[1]
+
+        # 只对指定类型进行优化
+        if prefix not in ["DOMAIN-SUFFIX", "IP-CIDR", "IP-CIDR6"]:
+            optimized_lines.append(line)
+            continue
+
+        to_remove = False
+
+        # 与之前的规则比较
+        for prev_line in optimized_lines:
+            prev_parts = prev_line.split(',')
+            if len(prev_parts) < 2:
+                continue
+
+            prev_prefix = prev_parts[0]
+            prev_value = prev_parts[1]
+
+            if prefix != prev_prefix:
+                continue
+
+            if prefix == "DOMAIN-SUFFIX":
+                if is_suffix_covered(prev_value, value):
+                    to_remove = True
+                    break
+            elif prefix in ["IP-CIDR", "IP-CIDR6"]:
+                if is_ip_subset(value, prev_value):
+                    to_remove = True
+                    break
+
+        if not to_remove:
+            optimized_lines.append(line)
+
+    return optimized_lines
 
 
 def is_suffix_covered(existing_value, new_value):
@@ -260,65 +344,6 @@ def is_ip_subset(sub_cidr, parent_cidr):
         return sub_network.subnet_of(parent_network)
     except ValueError:
         return False
-
-
-def optimize_rules(lines):
-    """
-    优化规则列表：去重和覆盖范围优化
-
-    参数:
-    lines (list): 要优化的规则列表
-
-    返回:
-    list: 优化后的规则列表
-    """
-    # 去重，保留第一个出现的元素
-    seen = set()
-    deduped_lines = []
-    for line in lines:
-        if line not in seen:
-            deduped_lines.append(line)
-            seen.add(line)
-
-    # 按照原始顺序优化规则
-    optimized_lines = []
-    for idx, line in enumerate(deduped_lines):
-        # 忽略以 [ 开头和 ] 结尾的行
-        if line.startswith('[') and line.endswith(']'):
-            optimized_lines.append(line)
-            continue
-
-        prefix = line.split(',', 1)[0]
-        value = line.split(',', 1)[1] if ',' in line else ''
-
-        # 只对指定类型进行优化
-        if prefix not in ["DOMAIN-SUFFIX", "IP-CIDR", "IP-CIDR6"]:
-            optimized_lines.append(line)
-            continue
-
-        to_remove = False
-
-        # 与之前的规则比较
-        for prev_line in optimized_lines:
-            prev_prefix = prev_line.split(',', 1)[0]
-            prev_value = prev_line.split(',', 1)[1] if ',' in prev_line else ''
-
-            if prefix != prev_prefix:
-                continue
-
-            if prefix == "DOMAIN-SUFFIX":
-                if is_suffix_covered(prev_value, value):
-                    to_remove = True
-                    break
-            elif prefix in ["IP-CIDR", "IP-CIDR6"]:
-                if is_ip_subset(value, prev_value):
-                    to_remove = True
-                    break
-
-        if not to_remove:
-            optimized_lines.append(line)
-
-    return optimized_lines
 
 
 def count_rule_types(lines):
@@ -413,7 +438,7 @@ def sort_rules(lines):
 
 def generate_module_file(lines):
     """
-    生成 module 文件
+    生成 module 文件，并在最终生成前进行合法性检查
 
     参数:
     lines (list): 规则列表
@@ -425,9 +450,31 @@ def generate_module_file(lines):
     for file in os.listdir('module'):
         os.remove(os.path.join('module', file))
 
-    # 统计规则数量
-    rule_counts = count_rule_types(lines)
-    rule_count_str = ' '.join([f"{k}:{v}" for k, v in rule_counts.items() if v > 0])
+    # 定义有效的规则类型
+    valid_rule_types = [
+        "DOMAIN-SUFFIX", "DOMAIN-KEYWORD", "DOMAIN-REGEX", "DOMAIN",
+        "IP-CIDR", "IP-CIDR6", "GEOIP", "GEOSITE",
+        "DST-PORT", "SRC-PORT",
+        "PROCESS-PATH", "PROCESS-PATH-REGEX",
+        "PROCESS-NAME", "PROCESS-NAME-REGEX"
+    ]
+
+    # 最终的合法性检查和过滤
+    valid_rules = []
+    for line in lines:
+        if line.startswith('[') or line.endswith(']'):
+            continue
+        else:
+            rule_type = line.split(',')[0]
+            if rule_type in valid_rule_types:
+                valid_rules.append(line)
+            else:
+                print(f"警告: 删除了无效的规则类型: {line}")
+
+    # 统计规则数量（仅计算有效规则）
+    rule_counts = count_rule_types(valid_rules)
+    rule_count_str = ' '.join(
+        [f"{k}:{v}" for k, v in rule_counts.items() if v > 0])
 
     # 获取当前时间（UTC+8）
     current_time = datetime.utcnow() + timedelta(hours=8)
@@ -436,26 +483,19 @@ def generate_module_file(lines):
     # 生成文件内容
     content = [
         '#!name=想你了',
-        f'#!desc=Updated:{time_str} (UTC+8) Rlues:{sum(rule_counts.values())} ({rule_count_str})',
+        f'#!desc=Updated:{time_str} (UTC+8) Rules:{sum(rule_counts.values())} ({rule_count_str})',
         '#!url=https://raw.angwz.com/beii.module',
         '[Rule]'
     ]
 
-    current_group = None
-    for line in lines:
-        if line.startswith('[') and line.endswith(']'):
-            current_group = line[1:-1]
-        elif ',' in line:
-            rule_type = line.split(',')[0]
-            if rule_type in ['IP-CIDR', 'IP-CIDR6', 'GEOIP']:
-                line = f'{line},{current_group},no-resolve'
-            else:
-                line = f'{line},{current_group}'
-            content.append(line)
+    content.extend(valid_rules)
 
     # 写入文件
     with open('module/beii.module', 'w', encoding='utf-8') as f:
         f.write('\n'.join(content))
+
+    print(f"生成的规则总数: {sum(rule_counts.values())}")
+    print(f"规则类型统计: {rule_count_str}")
 
 
 def main():
@@ -478,27 +518,22 @@ def main():
     processed_lines = process_ip_and_domains(preprocessed_lines)
     print(f"处理后共有 {len(processed_lines)} 行。")
 
-    # 对列表进行合法性检查，保留有效元素
-    print("正在进行合法性检查...")
+    # 对列表进行合法性检查，保留有效元素，并处理 current_group 和 no-resolve 的拼接
+    print("正在进行合法性检查和规则处理...")
     valid_filtered_lines = filter_elements_by_valid_prefix(processed_lines)
-    print(f"合法性检查后剩余 {len(valid_filtered_lines)} 行。")
-
-    # 进行优化：去重和覆盖范围优化，不改变规则顺序
-    print("正在优化规则...")
-    optimized_lines = optimize_rules(valid_filtered_lines)
-    print(f"优化后剩余 {len(optimized_lines)} 行。")
+    print(f"合法性检查和规则处理后剩余 {len(valid_filtered_lines)} 行。")
 
     # 对规则进行排序
     print("正在对规则进行排序...")
-    sorted_lines = sort_rules(optimized_lines)
+    sorted_lines = sort_rules(valid_filtered_lines)
     print("排序完成。")
-    
-    # 排序后再次优化
-    print("再次优化一遍...")
-    optimized_lines = optimize_rules(sorted_lines)
-    print("最终优化完成.")
 
-    # 生成 module 文件
+    # 进行优化：去重和覆盖范围优化
+    print("正在优化规则...")
+    optimized_lines = optimize_rules(sorted_lines)
+    print(f"优化后剩余 {len(optimized_lines)} 行。")
+
+    # 生成 module 文件（包含最终的合法性检查）
     print("正在生成 module 文件...")
     generate_module_file(optimized_lines)
     print("module 文件生成完成。")
