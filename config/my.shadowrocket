@@ -148,6 +148,8 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tenc
 
 
 [PROXY]
+DOMAIN-SUFFIX,tktn.be
+https://raw.githubusercontent.com/mottzz87/crules/main/rule/talkatone.list
 https://raw.githubusercontent.com/SIJULY/Rules/refs/heads/main/Surge/talkatone.list
 
 # TikTok
