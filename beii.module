@@ -1,5 +1,5 @@
 #!name=想你了
-#!desc=Updated:2024-09-27 00:36:09 (UTC+8) Rules:40519 (DOMAIN-SUFFIX:34920 DOMAIN-KEYWORD:88 DOMAIN:763 IP-CIDR:3831 IP-CIDR6:837 DST-PORT:1 SRC-PORT:1 PROCESS-NAME:78)
+#!desc=Updated:2024-09-27 12:30:26 (UTC+8) Rules:40530 (DOMAIN-SUFFIX:34927 DOMAIN-KEYWORD:88 DOMAIN:763 IP-CIDR:3835 IP-CIDR6:837 DST-PORT:1 SRC-PORT:1 PROCESS-NAME:78)
 #!url=https://raw.angwz.com/beii.module
 [Rule]
 DOMAIN-SUFFIX,cn,DIRECT
@@ -4330,6 +4330,7 @@ PROCESS-NAME,com.bilibili.comic.intl,DIRECT
 PROCESS-NAME,com.taobao.taobao,DIRECT
 PROCESS-NAME,tv.danmaku.bili,DIRECT
 PROCESS-NAME,tv.danmaku.bilibilihd,DIRECT
+DOMAIN-SUFFIX,agkn.com,PROXY
 DOMAIN-SUFFIX,anthemgame.com,PROXY
 DOMAIN-SUFFIX,anthemthegame.com,PROXY
 DOMAIN-SUFFIX,apexlegends.com,PROXY
@@ -4365,8 +4366,10 @@ DOMAIN-SUFFIX,capcut.com,PROXY
 DOMAIN-SUFFIX,capitalgames.com,PROXY
 DOMAIN-SUFFIX,chillingo.com,PROXY
 DOMAIN-SUFFIX,cncrivals.com,PROXY
+DOMAIN-SUFFIX,cohere.com,PROXY
 DOMAIN-SUFFIX,commandandconquer.com,PROXY
 DOMAIN-SUFFIX,conquerwithcharacter.com,PROXY
+DOMAIN-SUFFIX,crashlytics.com,PROXY
 DOMAIN-SUFFIX,crysis.jp,PROXY
 DOMAIN-SUFFIX,daoc.net,PROXY
 DOMAIN-SUFFIX,darkageofcamelot.com,PROXY
@@ -4422,8 +4425,11 @@ DOMAIN-SUFFIX,hutpromos.com,PROXY
 DOMAIN-SUFFIX,ibytedtos.com,PROXY
 DOMAIN-SUFFIX,ibyteimg.com,PROXY
 DOMAIN-SUFFIX,industrialtoys.com,PROXY
+DOMAIN-SUFFIX,inmobi.com,PROXY
+DOMAIN-SUFFIX,ip-api.com,PROXY
 DOMAIN-SUFFIX,ipstatp.com,PROXY
 DOMAIN-SUFFIX,isnssdk.com,PROXY
+DOMAIN-SUFFIX,kochava.com,PROXY
 DOMAIN-SUFFIX,lordofultima.com,PROXY
 DOMAIN-SUFFIX,maddenchampionship.com,PROXY
 DOMAIN-SUFFIX,maddenrewards.com,PROXY
@@ -4438,6 +4444,7 @@ DOMAIN-SUFFIX,mirrorsedge.jp,PROXY
 DOMAIN-SUFFIX,mirrorsedge.net,PROXY
 DOMAIN-SUFFIX,mirrorsedge2.com,PROXY
 DOMAIN-SUFFIX,mirrorsedge2d.com,PROXY
+DOMAIN-SUFFIX,mobilefuse.com,PROXY
 DOMAIN-SUFFIX,muscdn.com,PROXY
 DOMAIN-SUFFIX,musical.ly,PROXY
 DOMAIN-SUFFIX,mysims.com,PROXY
@@ -4506,6 +4513,7 @@ DOMAIN-SUFFIX,swjedifallenorder.com,PROXY
 DOMAIN-SUFFIX,swjfo.com,PROXY
 DOMAIN-SUFFIX,swtor.com,PROXY
 DOMAIN-SUFFIX,swtor.net,PROXY
+DOMAIN-SUFFIX,talkatone.com,PROXY
 DOMAIN-SUFFIX,teamneedforspeed.com,PROXY
 DOMAIN-SUFFIX,thedreadwolfrises.com,PROXY
 DOMAIN-SUFFIX,thesims.com,PROXY
@@ -4525,6 +4533,7 @@ DOMAIN-SUFFIX,tiktokv.com,PROXY
 DOMAIN-SUFFIX,tiktokv.us,PROXY
 DOMAIN-SUFFIX,tiktokw.us,PROXY
 DOMAIN-SUFFIX,titanfall.com,PROXY
+DOMAIN-SUFFIX,tktn.at,PROXY
 DOMAIN-SUFFIX,tnt-ea.com,PROXY
 DOMAIN-SUFFIX,ttwebview.com,PROXY
 DOMAIN-SUFFIX,ttwstatic.com,PROXY
@@ -4604,9 +4613,12 @@ DOMAIN,lf16-effectcdn.byteeffecttos-g.com,PROXY
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com,PROXY
 IP-CIDR,24.105.30.129/32,PROXY,no-resolve
 IP-CIDR,24.105.62.129/32,PROXY,no-resolve
+IP-CIDR,50.117.27.0/24,PROXY,no-resolve
 IP-CIDR,54.94.196.47/32,PROXY,no-resolve
 IP-CIDR,54.207.104.145/32,PROXY,no-resolve
 IP-CIDR,54.207.107.12/32,PROXY,no-resolve
+IP-CIDR,63.251.124.0/24,PROXY,no-resolve
+IP-CIDR,69.46.75.0/24,PROXY,no-resolve
 IP-CIDR,103.4.114.233/32,PROXY,no-resolve
 IP-CIDR,103.4.115.248/32,PROXY,no-resolve
 IP-CIDR,137.221.105.2/32,PROXY,no-resolve
@@ -4620,6 +4632,7 @@ IP-CIDR,202.9.67.59/32,PROXY,no-resolve
 IP-CIDR,202.9.67.254/32,PROXY,no-resolve
 IP-CIDR,203.66.81.98/32,PROXY,no-resolve
 IP-CIDR,203.69.111.4/32,PROXY,no-resolve
+IP-CIDR,205.164.56.0/24,PROXY,no-resolve
 IP-CIDR,210.71.148.11/32,PROXY,no-resolve
 IP-CIDR,210.242.235.6/32,PROXY,no-resolve
 IP-CIDR,211.115.104.1/32,PROXY,no-resolve
@@ -6779,7 +6792,6 @@ DOMAIN-SUFFIX,coolmonster.net,DIRECT
 DOMAIN-SUFFIX,coreml.net,DIRECT
 DOMAIN-SUFFIX,cozydrdrebeats.com,DIRECT
 DOMAIN-SUFFIX,cqcorea.com,DIRECT
-DOMAIN-SUFFIX,crashlytics.com,DIRECT
 DOMAIN-SUFFIX,cuffiesaldi.com,DIRECT
 DOMAIN-SUFFIX,cups.org,DIRECT
 DOMAIN-SUFFIX,custom-iphonecase.com,DIRECT
@@ -30586,7 +30598,6 @@ DOMAIN-SUFFIX,conservatoiresuk.ac.uk,PROXY
 DOMAIN-SUFFIX,consilience.ac.uk,PROXY
 DOMAIN-SUFFIX,consultants.ac.uk,PROXY
 DOMAIN-SUFFIX,contemp-hist-arch.ac.uk,PROXY
-DOMAIN-SUFFIX,control.kochava.com,PROXY
 DOMAIN-SUFFIX,coolloud.org.tw,PROXY
 DOMAIN-SUFFIX,copac.ac.uk,PROXY
 DOMAIN-SUFFIX,copim.ac.uk,PROXY
