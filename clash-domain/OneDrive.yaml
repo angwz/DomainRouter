@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-09-30 00:25:30 (UTC+8)
+# UPDATED: 2024-10-01 00:27:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 393
+# TOTAL: 386
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -178,12 +178,10 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'ismaarino.com'
   - 'jutone.com'
   - 'jvavav.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
-  - 'mathkangaroo.jp'
   - 'moonburrow.club'
   - 'new-line.net'
   - 'odd-hd.fr'
@@ -206,7 +204,6 @@ payload:
   - '9.rarbg.me'
   - '9.rarbg.to'
   - 'api.imem.app'
-  - 'api.ipv4online.uk'
   - 'api.swiftgram.app'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
@@ -234,8 +231,6 @@ payload:
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns1.monolithindustries.com'
-  - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -260,7 +255,6 @@ payload:
   - 'retracker.lanta.me'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
-  - 'retracker2.x2k.ru'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -272,7 +266,6 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
-  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'tk2.trackerservers.com'
   - 'tk2v6.trackerservers.com'
@@ -280,6 +273,7 @@ payload:
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
+  - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -289,7 +283,6 @@ payload:
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.bjut.jp'
   - 'tracker.breizh.pm'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -317,6 +310,7 @@ payload:
   - 'tracker.gbitt.info'
   - 'tracker.gcrenwp.top'
   - 'tracker.gcrreen.xyz'
+  - 'tracker.gigantino.net'
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.imgoingto.icu'
@@ -361,6 +355,7 @@ payload:
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
+  - 'tracker.vds.nz'
   - 'tracker.waaa.moe'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
@@ -389,11 +384,9 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
-  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
-  - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
