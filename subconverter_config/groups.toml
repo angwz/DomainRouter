@@ -51,6 +51,11 @@ type = "select"
 rule = ["[]🌠 节点选择", "[]🎉 高速切换", "[]🗽 美国分流", "[]✈️ 手动切换"]
 
 [[custom_groups]]
+name = "⛅ OneDrive"
+type = "select"
+rule = ["[]🎉 高速切换", "[]🌠 节点选择", "[]♾️ 无限流量", "[]DIRECT"]
+
+[[custom_groups]]
 name = "📽️ Netflix"
 type = "select"
 rule = [
