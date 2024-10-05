@@ -119,19 +119,19 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "♾️ 无限流量"
+group = "⛅ OneDrive"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OneDrive.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "♾️ 无限流量"
+group = "⛅ OneDrive"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/OneDrive-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "♾️ 无限流量"
+group = "⛅ OneDrive"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OneDrive-classic.yaml"
 type = "clash-classic"
 interval = 21600
