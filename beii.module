@@ -1,5 +1,5 @@
 #!name=想你了
-#!desc=Updated:2024-10-08 01:27:53 (UTC+8) Rules:40550 (DOMAIN-SUFFIX:34947 DOMAIN-KEYWORD:88 DOMAIN:763 IP-CIDR:3835 IP-CIDR6:837 DST-PORT:1 SRC-PORT:1 PROCESS-NAME:78)
+#!desc=Updated:2024-10-09 01:27:49 (UTC+8) Rules:40568 (DOMAIN-SUFFIX:34965 DOMAIN-KEYWORD:88 DOMAIN:763 IP-CIDR:3835 IP-CIDR6:837 DST-PORT:1 SRC-PORT:1 PROCESS-NAME:78)
 #!url=https://raw.angwz.com/beii.module
 [Rule]
 DOMAIN-SUFFIX,cn,DIRECT
@@ -1953,6 +1953,7 @@ DOMAIN-SUFFIX,bingworld.com,PROXY
 DOMAIN-SUFFIX,bluehatnights.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
+DOMAIN-SUFFIX,claudeusercontent.com,PROXY
 DOMAIN-SUFFIX,clipdrop.co,PROXY
 DOMAIN-SUFFIX,cloudflareinsights.com,PROXY
 DOMAIN-SUFFIX,deepmind.com,PROXY
@@ -5714,6 +5715,7 @@ DOMAIN-SUFFIX,yy.com,DIRECT
 DOMAIN-SUFFIX,yystatic.com,DIRECT
 DOMAIN-SUFFIX,zamplus.com,DIRECT
 DOMAIN-SUFFIX,zebracdn.com,DIRECT
+DOMAIN-SUFFIX,zenlesszonezero.com,DIRECT
 DOMAIN-SUFFIX,zhihu.com,DIRECT
 DOMAIN-SUFFIX,zhimg.com,DIRECT
 DOMAIN-SUFFIX,zijieapi.com,DIRECT
@@ -9032,6 +9034,7 @@ DOMAIN-SUFFIX,amodoll.com,PROXY
 DOMAIN-SUFFIX,amoiist.com,PROXY
 DOMAIN-SUFFIX,amourangels.com,PROXY
 DOMAIN-SUFFIX,amp.dev,PROXY
+DOMAIN-SUFFIX,amplifi.com,PROXY
 DOMAIN-SUFFIX,amplifyapp.com,PROXY
 DOMAIN-SUFFIX,amplifyframework.com,PROXY
 DOMAIN-SUFFIX,amplitude.com,PROXY
@@ -14023,6 +14026,7 @@ DOMAIN-SUFFIX,facebook.br,PROXY
 DOMAIN-SUFFIX,facebook.ca,PROXY
 DOMAIN-SUFFIX,facebook.cc,PROXY
 DOMAIN-SUFFIX,facebook.com,PROXY
+DOMAIN-SUFFIX,facebook.de,PROXY
 DOMAIN-SUFFIX,facebook.design,PROXY
 DOMAIN-SUFFIX,facebook.hu,PROXY
 DOMAIN-SUFFIX,facebook.in,PROXY
@@ -14353,8 +14357,10 @@ DOMAIN-SUFFIX,fastestvpn.com,PROXY
 DOMAIN-SUFFIX,fastindianporn.com,PROXY
 DOMAIN-SUFFIX,fastlane.ci,PROXY
 DOMAIN-SUFFIX,fastlane.tools,PROXY
+DOMAIN-SUFFIX,fastly-edge.com,PROXY
 DOMAIN-SUFFIX,fastly-terrarium.com,PROXY
 DOMAIN-SUFFIX,fastly.com,PROXY
+DOMAIN-SUFFIX,fastly.io,PROXY
 DOMAIN-SUFFIX,fastly.net,PROXY
 DOMAIN-SUFFIX,fastlylabs.com,PROXY
 DOMAIN-SUFFIX,fastlylb.net,PROXY
@@ -15094,6 +15100,7 @@ DOMAIN-SUFFIX,fromchinatousa.net,PROXY
 DOMAIN-SUFFIX,frommel.net,PROXY
 DOMAIN-SUFFIX,frontiersin.org,PROXY
 DOMAIN-SUFFIX,frontlinedefenders.org,PROXY
+DOMAIN-SUFFIX,frontrow.com,PROXY
 DOMAIN-SUFFIX,froogle.com,PROXY
 DOMAIN-SUFFIX,frootvpn.com,PROXY
 DOMAIN-SUFFIX,frprn.com,PROXY
@@ -15598,6 +15605,7 @@ DOMAIN-SUFFIX,github.dev,PROXY
 DOMAIN-SUFFIX,github.io,PROXY
 DOMAIN-SUFFIX,githubapp.com,PROXY
 DOMAIN-SUFFIX,githubassets.com,PROXY
+DOMAIN-SUFFIX,githubcopilot.com,PROXY
 DOMAIN-SUFFIX,githubhackathon.com,PROXY
 DOMAIN-SUFFIX,githubnext.com,PROXY
 DOMAIN-SUFFIX,githubpreview.dev,PROXY
@@ -16981,6 +16989,7 @@ DOMAIN-SUFFIX,https443.org,PROXY
 DOMAIN-SUFFIX,httpsfacebook.com,PROXY
 DOMAIN-SUFFIX,httpwwwfacebook.com,PROXY
 DOMAIN-SUFFIX,htvncdn.net,PROXY
+DOMAIN-SUFFIX,htx.com,PROXY
 DOMAIN-SUFFIX,htyj-bj.com,PROXY
 DOMAIN-SUFFIX,hu1u.com,PROXY
 DOMAIN-SUFFIX,hua-yue.net,PROXY
@@ -25959,6 +25968,7 @@ DOMAIN-SUFFIX,torrentproject.se,PROXY
 DOMAIN-SUFFIX,torrenty.org,PROXY
 DOMAIN-SUFFIX,torrentz.eu,PROXY
 DOMAIN-SUFFIX,torrindex.net,PROXY
+DOMAIN-SUFFIX,tortoisesvn.net,PROXY
 DOMAIN-SUFFIX,torvpn.com,PROXY
 DOMAIN-SUFFIX,tospo-keiba.jp,PROXY
 DOMAIN-SUFFIX,tospotify.com,PROXY
@@ -26391,6 +26401,7 @@ DOMAIN-SUFFIX,ubereats.com,PROXY
 DOMAIN-SUFFIX,uberproxy.net,PROXY
 DOMAIN-SUFFIX,ubertags.com,PROXY
 DOMAIN-SUFFIX,ublock.org,PROXY
+DOMAIN-SUFFIX,ubncloud.com,PROXY
 DOMAIN-SUFFIX,ubnt.com,PROXY
 DOMAIN-SUFFIX,ubuntu-touch.io,PROXY
 DOMAIN-SUFFIX,ubuntu.com,PROXY
@@ -26422,9 +26433,11 @@ DOMAIN-SUFFIX,uhdwallpapers.org,PROXY
 DOMAIN-SUFFIX,uhrp.org,PROXY
 DOMAIN-SUFFIX,uhtube.me,PROXY
 DOMAIN-SUFFIX,uhub.com,PROXY
+DOMAIN-SUFFIX,ui.com,PROXY
 DOMAIN-SUFFIX,uighur.nl,PROXY
 DOMAIN-SUFFIX,uighurbiz.net,PROXY
 DOMAIN-SUFFIX,uiporn.com,PROXY
+DOMAIN-SUFFIX,uisp.com,PROXY
 DOMAIN-SUFFIX,ujapanesesex.com,PROXY
 DOMAIN-SUFFIX,ujizzcn.com,PROXY
 DOMAIN-SUFFIX,uk-exhibitionist.com,PROXY
@@ -27049,6 +27062,7 @@ DOMAIN-SUFFIX,vk.com,PROXY
 DOMAIN-SUFFIX,vk.design,PROXY
 DOMAIN-SUFFIX,vk.link,PROXY
 DOMAIN-SUFFIX,vk.me,PROXY
+DOMAIN-SUFFIX,vk.ru,PROXY
 DOMAIN-SUFFIX,vkcache.com,PROXY
 DOMAIN-SUFFIX,vkgo.app,PROXY
 DOMAIN-SUFFIX,vklive.app,PROXY
@@ -27661,6 +27675,7 @@ DOMAIN-SUFFIX,wifesharingpics.com,PROXY
 DOMAIN-SUFFIX,wifevideos.net,PROXY
 DOMAIN-SUFFIX,wifewantstoplay.com,PROXY
 DOMAIN-SUFFIX,wifi-mx.com,PROXY
+DOMAIN-SUFFIX,wifiman.com,PROXY
 DOMAIN-SUFFIX,wikaba.com,PROXY
 DOMAIN-SUFFIX,wikawika.xyz,PROXY
 DOMAIN-SUFFIX,wikia.com,PROXY
@@ -29272,6 +29287,7 @@ DOMAIN-SUFFIX,aerogard.com.au,PROXY
 DOMAIN-SUFFIX,aerosol-cdt.ac.uk,PROXY
 DOMAIN-SUFFIX,aerospace-training-wales.ac.uk,PROXY
 DOMAIN-SUFFIX,aes.ac.uk,PROXY
+DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,afao.ac.uk,PROXY
 DOMAIN-SUFFIX,afi.ac.uk,PROXY
@@ -33451,6 +33467,7 @@ DOMAIN-SUFFIX,muslimcollege.ac.uk,PROXY
 DOMAIN-SUFFIX,muther.ac.uk,PROXY
 DOMAIN-SUFFIX,mwell.ac.uk,PROXY
 DOMAIN-SUFFIX,mwrc.ac.uk,PROXY
+DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,my-private-network.co.uk,PROXY
 DOMAIN-SUFFIX,myav.com.tw,PROXY
 DOMAIN-SUFFIX,mycalderdale.ac.uk,PROXY
@@ -34660,6 +34677,7 @@ DOMAIN-SUFFIX,rsms.ac.uk,PROXY
 DOMAIN-SUFFIX,rsp.ac.uk,PROXY
 DOMAIN-SUFFIX,rthk.org.hk,PROXY
 DOMAIN-SUFFIX,rti.org.tw,PROXY
+DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,rua-project.ac.uk,PROXY
 DOMAIN-SUFFIX,rugby-coll.ac.uk,PROXY
