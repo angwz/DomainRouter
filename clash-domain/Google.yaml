@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-08 00:27:00 (UTC+8)
+# UPDATED: 2024-10-09 00:26:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 1020
+# TOTAL: 1022
 payload:
   - '+.and'
   - '+.chrome'
@@ -238,6 +238,7 @@ payload:
   - '+.github.io'
   - '+.githubapp.com'
   - '+.githubassets.com'
+  - '+.githubcopilot.com'
   - '+.githubhackathon.com'
   - '+.githubnext.com'
   - '+.githubpreview.dev'
@@ -1003,6 +1004,7 @@ payload:
   - 'download.qatp1.net'
   - 'download.qcpp1.net'
   - 'download.qpdp1.net'
+  - 'google-ohttp-relay-safebrowsing.fastly-edge.com'
   - 'monitoring.qatp1.net'
   - 'monitoring.qcpp1.net'
   - 'monitoring.qpdp1.net'

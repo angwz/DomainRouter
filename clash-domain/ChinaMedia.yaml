@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-08 00:27:09 (UTC+8)
+# UPDATED: 2024-10-09 00:27:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 2767
+# TOTAL: 2768
 payload:
   - '+.apple'
   - '+.playstation'
@@ -2286,6 +2286,7 @@ payload:
   - '+.yzyxgame.com'
   - '+.zamplus.com'
   - '+.zcjbgame.com'
+  - '+.zenlesszonezero.com'
   - '+.zggbdszt.cn'
   - '+.zhihu.com'
   - '+.zhimg.com'
