@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-09 00:26:51 (UTC+8)
+# UPDATED: 2024-10-10 00:25:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 93066
+# TOTAL: 93074
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -8399,6 +8399,7 @@ payload:
   - '+.aabooo.com'
   - '+.aabux.com'
   - '+.aad5.com'
+  - '+.aadcloud.com'
   - '+.aadongman.com'
   - '+.aads-cng.net'
   - '+.aafxw.com'
@@ -39756,6 +39757,7 @@ payload:
   - '+.huaweicloud-dns.com'
   - '+.huaweicloud-dns.net'
   - '+.huaweicloud-dns.org'
+  - '+.huaweicloud-idme.com'
   - '+.huaweicloud-smn.com'
   - '+.huaweicloud-smn.net'
   - '+.huaweicloud.com'
@@ -40465,6 +40467,7 @@ payload:
   - '+.hwcrazy.com'
   - '+.hwehs.com'
   - '+.hweimall.com'
+  - '+.hweventgrid.com'
   - '+.hwfcw.com'
   - '+.hwgis.com'
   - '+.hwhidc.com'
@@ -41582,6 +41585,7 @@ payload:
   - '+.idongdong.com'
   - '+.idongmai.com'
   - '+.idongniu.com'
+  - '+.idonguapi.com'
   - '+.idooshu.com'
   - '+.idosend.com'
   - '+.idotools.com'
@@ -42388,6 +42392,7 @@ payload:
   - '+.in955.com'
   - '+.in9ni.com'
   - '+.inabr.com'
+  - '+.inanguapi.com'
   - '+.inanrenbang.com'
   - '+.inbeing.net'
   - '+.inbilin.com'
@@ -43476,6 +43481,7 @@ payload:
   - '+.ixiede.com'
   - '+.ixigua.com'
   - '+.ixiguan.com'
+  - '+.ixiguapi.com'
   - '+.ixiguavideo.com'
   - '+.iximo.com'
   - '+.ixingfei.com'
@@ -55266,6 +55272,7 @@ payload:
   - '+.modashi.net'
   - '+.modb.cc'
   - '+.modb.pro'
+  - '+.modelarts-infer.com'
   - '+.modelevel.com'
   - '+.modelwhale.com'
   - '+.modeng178.com'
@@ -56230,6 +56237,9 @@ payload:
   - '+.myhongzuan.com'
   - '+.myhostadmin.net'
   - '+.myhscodes.com'
+  - '+.myhuaweicloud-custom.com'
+  - '+.myhuaweicloud-koodrive.com'
+  - '+.myhuaweicloud-obs.com'
   - '+.myhuaweicloud.com'
   - '+.myhuilv.com'
   - '+.myhwcdn.com'
@@ -76021,6 +76031,7 @@ payload:
   - '+.uwan.com'
   - '+.uweitui.com'
   - '+.uwenku.com'
+  - '+.uwn.com'
   - '+.uworter.com'
   - '+.ux18.com'
   - '+.ux6.com'
@@ -92430,8 +92441,6 @@ payload:
   - '+.developer.vive.com'
   - '+.didimobility.co.jp'
   - '+.ditu.live.com'
-  - '+.dl-origin.ubnt.com'
-  - '+.dl.ubnt.com'
   - '+.dst.gov.mo'
   - '+.dvd2017.com.tw'
   - '+.egg.htcsense.com'
@@ -92513,7 +92522,6 @@ payload:
   - '+.ntp.felixc.at'
   - '+.ol.epicgames.com'
   - '+.one.edu.kg'
-  - '+.ping.ubnt.com'
   - '+.pingan.com.hk'
   - '+.play.craft.moe'
   - '+.qcc.qualcomm.com'
