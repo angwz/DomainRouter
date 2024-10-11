@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-11 00:25:44 (UTC+8)
+# UPDATED: 2024-10-12 00:25:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 391
+# TOTAL: 392
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -202,6 +202,7 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
+  - 'api.clasificadosrapidos.com'
   - 'api.imem.app'
   - 'api.swiftgram.app'
   - 'bandito.byterunner.io'
@@ -257,6 +258,7 @@ payload:
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
+  - 'sparkle.ghostchu-services.top'
   - 't-115.rhcloud.com'
   - 't.acg.rip'
   - 't.nyaatracker.com'
@@ -274,6 +276,7 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr1.aag.moe'
   - 'tr2.trkb.ru'
+  - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -321,6 +324,7 @@ payload:
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
+  - 'tracker.kmzs123.cf'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -385,10 +389,7 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
-  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
-  - 'torrent.tracker.durukanbal.com'
-  - 'torrenttracker.nwc.acsalaska.net'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
