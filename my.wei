@@ -1,7 +1,7 @@
 [Direct]
 angwz.com
-angwz.top
 weesire.com
+
 infini-cloud.net
 teracloud.jp
 ai-yyds.com
@@ -38,6 +38,7 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 
 47.103.212.143
 107.182.31.148
+35.212.174.9
 
 DST-PORT,9993
 SRC-PORT,9993
