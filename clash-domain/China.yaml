@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-15 00:25:46 (UTC+8)
+# UPDATED: 2024-10-16 00:26:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 93536
+# TOTAL: 93537
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -16965,6 +16965,7 @@ payload:
   - '+.centrostuditaliani.com'
   - '+.century21cn.com'
   - '+.centurycreation.com'
+  - '+.centuryenglish.com'
   - '+.centurytrip.com'
   - '+.cenvan.net'
   - '+.cenvandns.com'
