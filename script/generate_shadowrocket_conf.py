@@ -563,11 +563,11 @@ def generate_conf_file(lines):
 
     # 生成文件内容
     content = [
-         f'# Updated:{time_str}(UTC+8)',
-         f'# Rules:{sum(rule_counts.values())} ({rule_count_str})',
-         
-         '',
-         
+        f'# Updated:{time_str}(UTC+8)',
+        f'# Rules:{sum(rule_counts.values())} ({rule_count_str})',
+
+        '',
+
         '[General]',
         'bypass-system = true',
         'skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,localhost,*.local',
@@ -584,26 +584,26 @@ def generate_conf_file(lines):
         'dns-direct-fallback-proxy = true',
         '# 当UDP流量匹配到不支持UDP转发的策略时的回退行为。可选值：DIRECT，REJECT。',
         'udp-policy-not-supported-behaviour = REJECT',
-        
+
         '',  # 添加空行以提高可读性
-        
+
         '[Rule]'
     ]
 
     # 添加有效规则
     content.extend(valid_rules)
-    
+
     # 添加 [Host] 部分
     content.extend([
         'FINAL,DIRECT'
-        
+
         '',
-        
+
         '[Host]',
         'localhost = 127.0.0.1',
-        
+
         '',  # 添加空行以提高可读性
-        
+
         '[URL Rewrite]',
         '^https?://(www.)?g.cn https://www.google.com 302',
         '^https?://(www.)?google.cn https://www.google.com 302'
