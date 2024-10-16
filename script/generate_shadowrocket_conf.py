@@ -605,8 +605,8 @@ def generate_conf_file(lines):
     with open('conf/和好可以吗.conf', 'w', encoding='utf-8') as f:
         f.write('\n'.join(content))
 
-    print(f"生成的规则总数: {sum(rule_counts.values())}")
-    print(f"规则类型统计: {rule_count_str}")
+    # print(f"生成的规则总数: {sum(rule_counts.values())}")
+    # print(f"规则类型统计: {rule_count_str}")
 
 
 def main():
