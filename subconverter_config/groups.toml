@@ -86,9 +86,9 @@ rule = ["[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 [[custom_groups]]
 name = "🎉 高速切换"
 type = "url-test"
-rule = ["[]🌈 香港高速", "[]🍙 日本高速", "[]🗽 美国分流"]
+rule = ["[]🌈 香港高速", "[]🍙 日本高速", "[]♾️ 无限流量", "[]🗽 美国分流"]
 url = "https://www.gstatic.com/generate_204"
-interval = 233
+interval = 57
 lazy = false
 timeout = 5
 tolerance = 157
@@ -98,8 +98,8 @@ name = "🌈 香港高速"
 type = "load-balance"
 rule = ["!!GROUPID=0!!(港|HK|hk|Hong Kong|HongKong|hongkong)"]
 url = "https://www.gstatic.com/generate_204"
-interval = 180
-lazy = false
+interval = 67
+lazy = true
 strategy = "consistent-hashing"
 
 [[custom_groups]]
@@ -107,8 +107,8 @@ name = "🍙 日本高速"
 type = "load-balance"
 rule = ["!!GROUPID=0!!(日|东京|大阪|埼玉|JP|jp|Japan)"]
 url = "https://www.gstatic.com/generate_204"
-interval = 360
-lazy = false
+interval = 77
+lazy = true
 strategy = "consistent-hashing"
 
 [[custom_groups]]
@@ -124,7 +124,7 @@ name = "♾️ 无限流量"
 type = "load-balance"
 rule = ["!!GROUPID=0!!(.*)"]
 url = "https://www.gstatic.com/generate_204"
-interval = 567
+interval = 87
 lazy = true
 strategy = "consistent-hashing"
 
