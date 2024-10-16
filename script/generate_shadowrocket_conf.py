@@ -552,17 +552,22 @@ def generate_conf_file(lines):
             else:
                 print(f"警告: 删除了无效的规则类型: {line}")
 
-    # # 统计规则数量（仅计算有效规则）
-    # rule_counts = count_rule_types(valid_rules)
-    # rule_count_str = ' '.join(
-    #     [f"{k}:{v}" for k, v in rule_counts.items() if v > 0])
+    # 统计规则数量（仅计算有效规则）
+    rule_counts = count_rule_types(valid_rules)
+    rule_count_str = ' '.join(
+        [f"{k}:{v}" for k, v in rule_counts.items() if v > 0])
 
-    # # 获取当前时间（UTC+8）
-    # current_time = datetime.utcnow() + timedelta(hours=8)
-    # time_str = current_time.strftime("%Y-%m-%d %H:%M:%S")
+    # 获取当前时间（UTC+8）
+    current_time = datetime.utcnow() + timedelta(hours=8)
+    time_str = current_time.strftime("%Y-%m-%d %H:%M:%S")
 
     # 生成文件内容
     content = [
+         f'# Updated:{time_str}(UTC+8)',
+         f'# Rules:{sum(rule_counts.values())} ({rule_count_str})',
+         
+         '',
+         
         '[General]',
         'bypass-system = true',
         'skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,localhost,*.local',
@@ -606,8 +611,8 @@ def generate_conf_file(lines):
     with open('conf/和好可以吗.conf', 'w', encoding='utf-8') as f:
         f.write('\n'.join(content))
 
-    # print(f"生成的规则总数: {sum(rule_counts.values())}")
-    # print(f"规则类型统计: {rule_count_str}")
+    print(f"生成的规则总数: {sum(rule_counts.values())}")
+    print(f"规则类型统计: {rule_count_str}")
 
 
 def main():
