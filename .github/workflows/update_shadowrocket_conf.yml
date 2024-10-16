@@ -1,4 +1,4 @@
-name: Update Module File
+name: Update Shadowrocket Conf File
 
 on:
   workflow_dispatch: # 手动触发
@@ -29,9 +29,9 @@ jobs:
 
     - name: Run script
       run: |
-        python script/generate_module.py
-        cp module/beii.module /tmp/beii.module
-        rm module/beii.module
+        python script/generate_shadowrocket_conf.py
+        cp conf/和好可以吗.conf /tmp/和好可以吗.conf
+        rm conf/和好可以吗.conf
 
     - name: Checkout release branch
       run: |
@@ -40,15 +40,15 @@ jobs:
 
     - name: Restore generated file
       run: |
-        cp /tmp/beii.module beii.module
+        cp /tmp/和好可以吗.conf 和好可以吗.conf
 
     - name: Ensure changes are detected
       run: |
-        git add beii.module
+        git add 和好可以吗.conf
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git commit -m 'Update beii.module' || echo "No changes to commit"
+        git commit -m 'Update 和好可以吗.conf' || echo "No changes to commit"
         git push --force https://x-access-token:${{ secrets.FULL_ACCESS_TOKEN }}@github.com/angwz/DomainRouter.git release

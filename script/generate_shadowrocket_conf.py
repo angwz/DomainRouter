@@ -517,19 +517,19 @@ def sort_rules(lines):
     return sorted_sections
 
 
-def generate_module_file(lines):
+def generate_conf_file(lines):
     """
-    生成 module 文件，并在最终生成前进行合法性检查
+    生成 conf 文件，并在最终生成前进行合法性检查
 
     参数:
     lines (list): 规则列表
     """
-    # 确保 module 目录存在
-    os.makedirs('module', exist_ok=True)
+    # 确保 conf 目录存在
+    os.makedirs('conf', exist_ok=True)
 
-    # 清空 module 目录
-    for file in os.listdir('module'):
-        os.remove(os.path.join('module', file))
+    # 清空 conf 目录
+    for file in os.listdir('conf'):
+        os.remove(os.path.join('conf', file))
 
     # 定义有效的规则类型
     valid_rule_types = [
@@ -552,27 +552,57 @@ def generate_module_file(lines):
             else:
                 print(f"警告: 删除了无效的规则类型: {line}")
 
-    # 统计规则数量（仅计算有效规则）
-    rule_counts = count_rule_types(valid_rules)
-    rule_count_str = ' '.join(
-        [f"{k}:{v}" for k, v in rule_counts.items() if v > 0])
+    # # 统计规则数量（仅计算有效规则）
+    # rule_counts = count_rule_types(valid_rules)
+    # rule_count_str = ' '.join(
+    #     [f"{k}:{v}" for k, v in rule_counts.items() if v > 0])
 
-    # 获取当前时间（UTC+8）
-    current_time = datetime.utcnow() + timedelta(hours=8)
-    time_str = current_time.strftime("%Y-%m-%d %H:%M:%S")
+    # # 获取当前时间（UTC+8）
+    # current_time = datetime.utcnow() + timedelta(hours=8)
+    # time_str = current_time.strftime("%Y-%m-%d %H:%M:%S")
 
     # 生成文件内容
     content = [
-        '#!name=想你了',
-        f'#!desc=Updated:{time_str} (UTC+8) Rules:{sum(rule_counts.values())} ({rule_count_str})',
-        '#!url=https://raw.angwz.com/beii.module',
+        '[General]',
+        'bypass-system = true',
+        'skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,localhost,*.local',
+        'tun-excluded-routes = 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24, 192.168.0.0/16, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32, 239.255.255.250/32',
+        'dns-server = https://223.5.5.5/dns-query,https://1.12.12.12/dns-query,https://2400:3200::1/dns-query',
+        'fallback-dns-server = 223.5.5.5,119.29.29.29,2400:3200::1,2402:4e00::',
+        'ipv6 = true',
+        'prefer-ipv6 = false',
+        'dns-direct-system = false',
+        'icmp-auto-reply = true',
+        'always-reject-url-rewrite = false',
+        'private-ip-answer = true',
+        '# 当域名解析失败时，使用代理规则',
+        'dns-direct-fallback-proxy = true',
+        '# 当UDP流量匹配到不支持UDP转发的策略时的回退行为。可选值：DIRECT，REJECT。',
+        'udp-policy-not-supported-behaviour = REJECT',
+        
+        '',  # 添加空行以提高可读性
+        
         '[Rule]'
     ]
 
+    # 添加有效规则
     content.extend(valid_rules)
+    
+    # 添加 [Host] 部分
+    content.extend([
+        '',
+        '[Host]',
+        'localhost = 127.0.0.1',
+        
+        '',  # 添加空行以提高可读性
+        
+        '[URL Rewrite]',
+        '^https?://(www.)?g.cn https://www.google.com 302',
+        '^https?://(www.)?google.cn https://www.google.com 302'
+    ])
 
     # 写入文件
-    with open('module/beii.module', 'w', encoding='utf-8') as f:
+    with open('conf/和好可以吗.conf', 'w', encoding='utf-8') as f:
         f.write('\n'.join(content))
 
     print(f"生成的规则总数: {sum(rule_counts.values())}")
@@ -619,12 +649,12 @@ def main():
     optimized_domain_lines = optimize_domain_rules(optimized_lines)
     print(f"DOMAIN 规则优化后剩余 {len(optimized_domain_lines)} 行。")
 
-    # 生成 module 文件（包含最终的合法性检查）
-    print("正在生成 module 文件...")
-    generate_module_file(optimized_domain_lines)
-    print("module 文件生成完成。")
+    # 生成 conf 文件（包含最终的合法性检查）
+    print("正在生成 conf 文件...")
+    generate_conf_file(optimized_domain_lines)
+    print("conf 文件生成完成。")
 
-    print("处理完成，module 文件已生成。")
+    print("处理完成，conf 文件已生成。")
 
 
 if __name__ == "__main__":
