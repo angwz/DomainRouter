@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-16 00:26:21 (UTC+8)
+# UPDATED: 2024-10-17 00:24:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 390
+# TOTAL: 392
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -231,6 +231,7 @@ payload:
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns1.monolithindustries.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -247,10 +248,10 @@ payload:
   - 'open.xxtor.com'
   - 'opentracker.i2p.rocks'
   - 'oscar.reyesleon.xyz'
+  - 'p2p.azu.red'
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
-  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.x2k.ru'
@@ -268,6 +269,7 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
+  - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -275,6 +277,7 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr1.aag.moe'
   - 'tr2.trkb.ru'
+  - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -354,7 +357,6 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.uraniumhexafluori.de'
