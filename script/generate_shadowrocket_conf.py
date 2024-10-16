@@ -596,7 +596,9 @@ def generate_conf_file(lines):
     # 添加 [Host] 部分
     content.extend([
         'FINAL,DIRECT'
+        
         '',
+        
         '[Host]',
         'localhost = 127.0.0.1',
         
