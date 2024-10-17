@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-17 00:24:44 (UTC+8)
+# UPDATED: 2024-10-18 00:26:46 (UTC+8)
 # TYPE: domain
-# TOTAL: 93495
+# TOTAL: 93494
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -24150,7 +24150,6 @@ payload:
   - '+.dkrsq.com'
   - '+.dksgames.com'
   - '+.dkskcloud.com'
-  - '+.dktad.com'
   - '+.dktzjt.com'
   - '+.dku51.com'
   - '+.dky.cc'
