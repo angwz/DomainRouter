@@ -1,9 +1,9 @@
-# NAME: Weibo
+# NAME: YouTube
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-18 01:55:41 (UTC+8)
+# UPDATED: 2024-10-18 01:55:32 (UTC+8)
 # TYPE: classic
 # TOTAL: 1
 # DOMAIN-KEYWORD TOTAL: 1
 payload:
-  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,youtube
