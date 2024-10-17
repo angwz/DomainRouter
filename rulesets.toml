@@ -137,6 +137,24 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+group = "📺 YouTube"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/YouTube.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "📺 YouTube"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/YouTube-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "📺 YouTube"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/YouTube-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "💻 Google"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Google.yaml"
 type = "clash-domain"
