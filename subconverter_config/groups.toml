@@ -111,8 +111,8 @@ lazy = false
 name = "🌈 香港高速"
 type = "fallback"
 rule = [
-    "!!GROUPID=2!!((^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*1).*))",
-    "!!GROUPID=4!!((^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*1).*))",
+    "!!GROUPID=2!!((^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong)).*[^1]$))",
+    "!!GROUPID=4!!((^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong)).*[^2]$))",
     "!!GROUPID=0!!((^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*1).*))",
 ]
 url = "https://www.gstatic.com/generate_204"
@@ -123,8 +123,8 @@ lazy = true
 name = "🍙 日本高速"
 type = "fallback"
 rule = [
-    "!!GROUPID=2!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*1).*))",
-    "!!GROUPID=4!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*1).*))",
+    "!!GROUPID=2!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan)).*[^1]$))",
+    "!!GROUPID=4!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan)).*[^2]$))",
     "!!GROUPID=0!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*1).*))",
 ]
 url = "https://www.gstatic.com/generate_204"
