@@ -123,6 +123,7 @@ lazy = true
 name = "🍙 日本高速"
 type = "fallback"
 rule = [
+    "!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)",
     "!!GROUPID=2!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan)).*[^1]$))",
     "!!GROUPID=4!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan)).*[^2]$))",
     "!!GROUPID=0!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*1).*))",
@@ -134,7 +135,9 @@ lazy = true
 [[custom_groups]]
 name = "🗽 美国分流"
 type = "fallback"
-rule = ["!!GROUPID=1!!(Reality)"]
+rule = [
+    "!!GROUPID=1!!(^(?=.*(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States))(?!.*小兔).*)",
+]
 url = "https://www.gstatic.com/generate_204"
 interval = 660
 lazy = true
