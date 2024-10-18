@@ -124,9 +124,9 @@ name = "🍙 日本高速"
 type = "fallback"
 rule = [
     "!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)",
-    "!!GROUPID=2!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan)).*[^1]$))",
-    "!!GROUPID=4!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan)).*[^2]$))",
-    "!!GROUPID=0!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*1).*))",
+    "!!GROUPID=2!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*[^1]$))",
+    "!!GROUPID=4!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*[^2]$))",
+    "!!GROUPID=0!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚)(?!.*1).*))",
 ]
 url = "https://www.gstatic.com/generate_204"
 interval = 770
