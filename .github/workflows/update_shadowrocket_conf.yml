@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update_module:
+  update_shadowrocket_conf:
     runs-on: ubuntu-latest
 
     steps:
