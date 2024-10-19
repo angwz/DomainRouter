@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-20 00:08:38 (UTC+8)
+# UPDATED: 2024-10-20 00:31:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 2040
+# TOTAL: 2050
 payload:
   - '+.icbc'
   - '+.16q.cn'
@@ -15,14 +15,21 @@ payload:
   - '+.95516.com'
   - '+.95516.net'
   - '+.95588.com'
+  - '+.a-map.cn'
+  - '+.a-map.co'
+  - '+.a-map.link'
+  - '+.a-map.vip'
   - '+.abchina.com'
   - '+.aboutamazon.cn'
   - '+.acl4.ssr'
+  - '+.acloudrender.com'
   - '+.ai-yyds.com'
   - '+.aichaoxing.com'
   - '+.airitilibrary.cn'
   - '+.aixcoder.com'
   - '+.alexafund.cn'
+  - '+.amap.com'
+  - '+.amapauto.com'
   - '+.amazon.cn'
   - '+.amazonaws.cn'
   - '+.amazonbusiness.cn'
@@ -33,6 +40,7 @@ payload:
   - '+.amazonnow.cn'
   - '+.amazonprimevideo.cn'
   - '+.amazonworkdocs.cn'
+  - '+.anav.com'
   - '+.ancientbooks.cn'
   - '+.angwz.com'
   - '+.anydesk.com'
@@ -62,6 +70,7 @@ payload:
   - '+.appstoreapple.cn'
   - '+.asktug.com'
   - '+.assoc-amazon.cn'
+  - '+.autonavi.com'
   - '+.aws-border.cn'
   - '+.aws-icp-domain-manager.cn'
   - '+.awsapps.cn'
@@ -195,6 +204,7 @@ payload:
   - '+.faceshift.cn'
   - '+.fbank.com'
   - '+.frontjs.com'
+  - '+.gaode.com'
   - '+.getxlx.com'
   - '+.gitbook.cn'
   - '+.gitchat.cn'
