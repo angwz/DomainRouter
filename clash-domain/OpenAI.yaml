@@ -1,9 +1,9 @@
 # NAME: OpenAI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-21 00:10:22 (UTC+8)
+# UPDATED: 2024-10-21 01:21:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 38
+# TOTAL: 44
 payload:
   - '+.ai.com'
   - '+.algolia.net'
@@ -15,6 +15,11 @@ payload:
   - '+.intercom.io'
   - '+.intercomcdn.com'
   - '+.launchdarkly.com'
+  - '+.notion-static.com'
+  - '+.notion.com'
+  - '+.notion.new'
+  - '+.notion.site'
+  - '+.notion.so'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.observeit.net'
@@ -36,6 +41,7 @@ payload:
   - 'api.revenuecat.com'
   - 'api.statsig.com'
   - 'gemini.google.com'
+  - 'http-inputs-notion.splunkcloud.com'
   - 'oaic.report-uri.com'
   - 'openai-api.arkoselabs.com'
   - 'openaiapi-site.azureedge.net'
