@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-20 00:47:44 (UTC+8)
+# UPDATED: 2024-10-21 00:24:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 390
+# TOTAL: 389
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -190,7 +190,6 @@ payload:
   - 'retracker.local'
   - 'ryjer.com'
   - 'seedpeer.net'
-  - 'smurfsoft.com'
   - 'su-data.com'
   - 'torrentsmd.com'
   - 'trackarr.org'
@@ -270,13 +269,13 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
+  - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tr1.aag.moe'
-  - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
