@@ -3,8 +3,8 @@ name = "🌠 节点选择"
 type = "select"
 rule = [
     "[]🗽 美国分流",
+    "!!GROUPID=0!!(^(?!.*洛杉矶).*)",
     "[]🎉 高速切换",
-    "!!GROUPID=1!!(^(?!.*小兔).*$)",
     "[]✈️ 手动切换",
     "[]DIRECT",
 ]
@@ -13,22 +13,16 @@ rule = [
 name = "✈️ 手动切换"
 type = "select"
 rule = [
-    "!!GROUPID=1!!(^(?!.*小兔).*$)",
+    "!!GROUPID=0!!(.*)",
     "!!GROUPID=4!!(.*)",
     "!!GROUPID=2!!(.*)",
-    "!!GROUPID=0!!(.*)",
+    "!!GROUPID=1!!(.*)",
 ]
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
 type = "select"
-rule = [
-    "[]🗽 美国分流",
-    "!!GROUPID=1!!(^(?!.*小兔).*$)",
-    "(^(?=.*(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States))(?!.*小兔).*)",
-    "[]✈️ 手动切换",
-    "[]🌠 节点选择",
-]
+rule = ["[]🗽 美国分流", "!!GROUPID=0!!(^(?!.*洛杉矶).*)", "[]✈️ 手动切换", "[]🌠 节点选择"]
 
 [[custom_groups]]
 name = "📺 哔哩哔哩"
@@ -37,11 +31,9 @@ rule = ["[]DIRECT", "[]✈️ 手动切换"]
 
 [[custom_groups]]
 name = "📱 TikTok"
-type = "fallback"
+type = "select"
 rule = ["[]🍙 日本高速", "[]🌠 节点选择", "[]✈️ 手动切换"]
-url = "https://www.gstatic.com/generate_204"
-interval = 660
-lazy = true
+
 
 [[custom_groups]]
 name = "🍰 Dynamic"
@@ -52,7 +44,7 @@ rule = [
     "!!GROUPID=2!!(.*)",
     "!!GROUPID=3!!(.*)",
     "!!GROUPID=4!!(.*)",
-    "!!GROUPID=1!!(^(?!.*小兔).*$)",
+    "!!GROUPID=1!!(.*)",
 ]
 
 [[custom_groups]]
@@ -63,7 +55,7 @@ rule = ["[]🎉 高速切换", "[]🌠 节点选择", "[]🗽 美国分流", "[]
 [[custom_groups]]
 name = "💻 Google"
 type = "select"
-rule = ["[]🌠 节点选择", "[]🎉 高速切换", "[]🗽 美国分流", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🗽 美国分流", "[]🎉 高速切换", "[]✈️ 手动切换"]
 
 [[custom_groups]]
 name = "⛅ OneDrive"
@@ -78,9 +70,9 @@ rule = [
     "[]🍙 日本高速",
     "!!GROUPID=2!!(.*)",
     "!!GROUPID=4!!(.*)",
-    "!!GROUPID=0!!(.*)",
+    "!!GROUPID=1!!(.*)",
     "!!GROUPID=3!!(.*)",
-    "!!GROUPID=1!!(^(?!.*小兔).*$)",
+    "!!GROUPID=0!!(^(?!.*小兔).*)",
 ]
 
 [[custom_groups]]
@@ -111,9 +103,9 @@ lazy = false
 name = "🌈 香港高速"
 type = "fallback"
 rule = [
-    "!!GROUPID=2!!((^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong)).*[^1]$))",
-    "!!GROUPID=4!!((^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong)).*[^2]$))",
-    "!!GROUPID=0!!((^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*1).*))",
+    "!!GROUPID=2!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong)).*[^1]$)",
+    "!!GROUPID=4!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong)).*[^2]$)",
+    "!!GROUPID=1!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*1).*)",
 ]
 url = "https://www.gstatic.com/generate_204"
 interval = 670
@@ -123,10 +115,10 @@ lazy = true
 name = "🍙 日本高速"
 type = "fallback"
 rule = [
-    "!!GROUPID=1!!(日|东京|大阪|埼玉|JP|jp|Japan)",
-    "!!GROUPID=2!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*[^1]$))",
-    "!!GROUPID=4!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*[^2]$))",
-    "!!GROUPID=0!!((^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚)(?!.*1).*))",
+    "!!GROUPID=0!!(日|东京|大阪|埼玉|JP|jp|Japan)",
+    "!!GROUPID=2!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*[^1]$)",
+    "!!GROUPID=4!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*[^2]$)",
+    "!!GROUPID=1!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚)(?!.*1).*)",
 ]
 url = "https://www.gstatic.com/generate_204"
 interval = 770
@@ -136,7 +128,7 @@ lazy = true
 name = "🗽 美国分流"
 type = "fallback"
 rule = [
-    "!!GROUPID=1!!(^(?=.*(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States))(?!.*小兔).*)",
+    "!!GROUPID=0!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
 ]
 url = "https://www.gstatic.com/generate_204"
 interval = 660
