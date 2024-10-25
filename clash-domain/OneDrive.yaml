@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-25 00:26:08 (UTC+8)
+# UPDATED: 2024-10-26 00:26:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 388
+# TOTAL: 387
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -389,7 +389,6 @@ payload:
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
-  - 'u6.trakx.crim.ist'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
   - 'tracker1.bt.moack.co.kr'
