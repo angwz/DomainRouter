@@ -32,7 +32,6 @@ name = "🍰 Dynamic"
 type = "select"
 rule = [
     "[]DIRECT",
-
     "!!GROUPID=2!!(.*)",
     "!!GROUPID=1!!(.*)",
     "!!GROUPID=0!!(.*)",
