@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-27 00:24:51 (UTC+8)
+# UPDATED: 2024-10-28 00:25:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 93568
+# TOTAL: 93572
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -41203,6 +41203,7 @@ payload:
   - '+.i360mall.com'
   - '+.i3839.com'
   - '+.i3abox.com'
+  - '+.i3ciebwk6ixfb.com'
   - '+.i3cilx.com'
   - '+.i3done.com'
   - '+.i3dpworld.com'
@@ -54841,6 +54842,7 @@ payload:
   - '+.midust.com'
   - '+.midway.run'
   - '+.midwayjs.org'
+  - '+.mieco.net'
   - '+.miecod.com'
   - '+.miemie.la'
   - '+.miercn.com'
@@ -82197,6 +82199,7 @@ payload:
   - '+.xiaomingtaiji.cc'
   - '+.xiaomingtaiji.com'
   - '+.xiaomingtaiji.net'
+  - '+.xiaominr.com'
   - '+.xiaomiprint.com'
   - '+.xiaomiqiu.com'
   - '+.xiaomiquan.com'
@@ -82205,6 +82208,7 @@ payload:
   - '+.xiaomisa.net'
   - '+.xiaomisa.org'
   - '+.xiaomishu.com'
+  - '+.xiaomiwear.com'
   - '+.xiaomixiaoai.com'
   - '+.xiaomiyoupin.com'
   - '+.xiaomlove.com'
