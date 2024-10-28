@@ -1,0 +1,12 @@
+# NAME: Germany
+# AUTHOR: Angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-10-28 17:07:51 (UTC+8)
+# TYPE: ipcidr
+# TOTAL: 4
+# IP-CIDR TOTAL: 4
+payload:
+  - '205.164.56.0/24'
+  - '50.117.27.0/24'
+  - '63.251.124.0/24'
+  - '69.46.75.0/24'

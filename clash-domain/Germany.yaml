@@ -1,0 +1,31 @@
+# NAME: Germany
+# AUTHOR: Angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2024-10-28 17:07:51 (UTC+8)
+# TYPE: domain
+# TOTAL: 24
+payload:
+  - '+.agkn.com'
+  - '+.cohere.com'
+  - '+.crashlytics.com'
+  - '+.gog-statics.com'
+  - '+.gog.com'
+  - '+.inmobi.com'
+  - '+.ip-api.com'
+  - '+.kochava.com'
+  - '+.mobilefuse.com'
+  - '+.talkatone.com'
+  - '+.tktn.at'
+  - '+.tktn.be'
+  - '+.ubi.com'
+  - '+.ubisoft.com'
+  - '+.ubisoftconnect.com'
+  - '+.uplay.com'
+  - '+.gog.qtlglb.com'
+  - '+.ubisoft-orbit-savegames.s3.amazonaws.com'
+  - '+.ubisoft-uplay-savegames.s3.amazonaws.com'
+  - 'gog.qtlglb.com'
+  - 'gog.salesmanago.com'
+  - 'ubistatic3-a.akamaihd.net'
+  - 'ubisoft-orbit-savegames.s3.amazonaws.com'
+  - 'ubisoft-uplay-savegames.s3.amazonaws.com'
