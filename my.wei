@@ -355,26 +355,26 @@ zhipin.com
 
 
 [Rules]
-Angwz: 🍰 Dynamic
-OpenAI: 🗨️ ChatGPT
-AI: 🇺🇸 美国高速
+Angwz: 🍰Dynamic
+OpenAI: 🗨️ChatGPT
+AI: 🦅美国高速
 Direct: DIRECT
-TikTok: 📱 TikTok
-Bilibili: 📺 哔哩哔哩
+TikTok: 📱TikTok
+Bilibili: 🎨哔哩哔哩
 Tencent: DIRECT
-Netflix: 📽️ Netflix
-OneDrive: ⛅ OneDrive
-YouTube: 📺 YouTube
-Google: 💻 Google
-Japan: 🇺🇸 美国高速
+Netflix: 🎬Netflix
+OneDrive: 📁OneDrive
+YouTube: 🍿YouTube
+Google: 📧Google
+Japan: 🦅美国高速
 GEOIP,CLOUDFLARE: DIRECT,no-resolve
-Germany: 🇩🇪 德意志
-America: 🇺🇸 美国高速
+Germany: 🛠️德意志
+America: 🦅美国高速
 ChinaMedia: DIRECT
-Media: 🌍 国外流媒体
-Microsoft: 💾 Microsoft
-Proxy: 🌠 节点选择
+Media: 🌍国际流媒体
+Microsoft: 📈Microsoft
+Proxy: 🌠节点选择
 China: DIRECT
 
 GEOIP,CN: DIRECT
-MATCH: 🐳 漏网の鱼
+MATCH: 🐠漏网の鱼
