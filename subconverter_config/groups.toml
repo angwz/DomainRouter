@@ -1,13 +1,13 @@
 [[custom_groups]]
 name = "🌠 节点选择"
 type = "select"
-rule = ["[]🏈 美国高速", "[]🏰 德意志帝国", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌉 美利坚联邦国", "[]🏰 德意志帝国", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "✈️ 手动切换"
 type = "select"
 rule = [
-    "[]🏈 美国高速",
+    "!!GROUPID=0!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
     "!!GROUPID=2!!(.*)",
     "!!GROUPID=1!!(.*)",
     "!!GROUPID=0!!(.*)",
@@ -17,7 +17,7 @@ rule = [
 name = "🗨️ ChatGPT"
 type = "select"
 rule = [
-    "[]🏈 美国高速",
+    "[]🌉 美利坚联邦国",
     "!!GROUPID=0!!(.*)",
     "(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
 ]
@@ -46,7 +46,7 @@ rule = [
 [[custom_groups]]
 name = "🖥️ YouTube"
 type = "select"
-rule = ["[]🏰 德意志帝国", "[]🌠 节点选择", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🏰 德意志帝国", "[]✈️ 手动切换"]
 
 [[custom_groups]]
 name = "📧 Google"
@@ -61,17 +61,17 @@ rule = ["[]🏰 德意志帝国", "[]🌠 节点选择", "[]✈️ 手动切换"
 [[custom_groups]]
 name = "🎬 Netflix"
 type = "select"
-rule = ["[]🏰 德意志帝国", "!!GROUPID=2!!(.*)", "!!GROUPID=1!!(.*)"]
+rule = ["[]🌠 节点选择", "[]🏰 德意志帝国", "!!GROUPID=2!!(.*)", "!!GROUPID=1!!(.*)"]
 
 [[custom_groups]]
 name = "🪟 Microsoft"
 type = "select"
-rule = ["[]DIRECT", "[]🏰 德意志帝国", "[]🌠 节点选择", "[]✈️ 手动切换"]
+rule = ["[]DIRECT", "[]🌠 节点选择", "[]🏰 德意志帝国", "[]✈️ 手动切换"]
 
 [[custom_groups]]
 name = "🌍 国际流媒体"
 type = "select"
-rule = ["[]🏰 德意志帝国", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌠 节点选择", "[]🏰 德意志帝国", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
 name = "🐳 漏网の鱼"
@@ -80,7 +80,12 @@ rule = ["[]🌠 节点选择", "[]🏰 德意志帝国", "[]✈️ 手动切换"
 
 
 [[custom_groups]]
-name = "🏈 美国高速"
+name = "🏰 德意志帝国"
+type = "select"
+rule = ["!!GROUPID=0!!(Germany|法兰克福|德(国|意志)|中德|^德$)"]
+
+[[custom_groups]]
+name = "🌉 美利坚联邦国"
 type = "fallback"
 rule = [
     "!!GROUPID=0!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
@@ -88,8 +93,3 @@ rule = [
 url = "https://www.gstatic.com/generate_204"
 interval = 6600
 lazy = true
-
-[[custom_groups]]
-name = "🏰 德意志帝国"
-type = "select"
-rule = ["!!GROUPID=0!!(Germany|法兰克福|德(国|意志)|中德|^德$)"]

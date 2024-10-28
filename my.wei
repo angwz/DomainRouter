@@ -357,7 +357,7 @@ zhipin.com
 [Rules]
 Angwz: 🍰 Dynamic
 OpenAI: 🗨️ ChatGPT
-AI: 🏈 美国高速
+AI: 🌉 美利坚联邦国
 Direct: DIRECT
 TikTok: 📱 TikTok
 Bilibili: 🪗 哔哩哔哩
@@ -366,10 +366,10 @@ Netflix: 🎬 Netflix
 OneDrive: ⛅ OneDrive
 YouTube: 🖥️ YouTube
 Google: 📧 Google
-Japan: 🏈 美国高速
+Japan: 🌉 美利坚联邦国
 GEOIP,CLOUDFLARE: DIRECT,no-resolve
 Germany: 🏰 德意志帝国
-America: 🏈 美国高速
+America: 🌉 美利坚联邦国
 ChinaMedia: DIRECT
 Media: 🌍 国际流媒体
 Microsoft: 🪟 Microsoft
