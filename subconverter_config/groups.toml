@@ -1,40 +1,40 @@
 [[custom_groups]]
-name = "🌠节点选择"
+name = "🌠 节点选择"
 type = "select"
-rule = ["[]🦅美国高速", "[]🛠️德意志", "[]✈️手动切换", "[]DIRECT"]
+rule = ["[]🏈 美国高速", "[]🏰 德意志帝国", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
-name = "✈️手动切换"
+name = "✈️ 手动切换"
 type = "select"
 rule = [
-    "[]🦅美国高速",
+    "[]🏈 美国高速",
     "!!GROUPID=2!!(.*)",
     "!!GROUPID=1!!(.*)",
     "!!GROUPID=0!!(.*)",
 ]
 
 [[custom_groups]]
-name = "🗨️ChatGPT"
+name = "🗨️ ChatGPT"
 type = "select"
 rule = [
-    "[]🦅美国高速",
+    "[]🏈 美国高速",
     "!!GROUPID=0!!(.*)",
     "(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
 ]
 
 [[custom_groups]]
-name = "🎨哔哩哔哩"
+name = "🪗 哔哩哔哩"
 type = "select"
-rule = ["[]DIRECT", "[]✈️手动切换"]
+rule = ["[]DIRECT", "[]✈️ 手动切换"]
 
 [[custom_groups]]
-name = "📱TikTok"
+name = "📱 TikTok"
 type = "select"
-rule = ["[]🌠节点选择", "!!GROUPID=0!!(.*)", "[]✈️手动切换"]
+rule = ["[]🌠 节点选择", "!!GROUPID=0!!(.*)", "[]✈️ 手动切换"]
 
 
 [[custom_groups]]
-name = "🍰Dynamic"
+name = "🍰 Dynamic"
 type = "select"
 rule = [
     "[]DIRECT",
@@ -44,48 +44,43 @@ rule = [
 ]
 
 [[custom_groups]]
-name = "🍿YouTube"
+name = "🖥️ YouTube"
 type = "select"
-rule = ["[]🛠️德意志", "[]🌠节点选择", "[]✈️手动切换"]
+rule = ["[]🏰 德意志帝国", "[]🌠 节点选择", "[]✈️ 手动切换"]
 
 [[custom_groups]]
-name = "📧Google"
+name = "📧 Google"
 type = "select"
-rule = ["[]🌠节点选择", "[]✈️手动切换"]
+rule = ["[]🌠 节点选择", "[]✈️ 手动切换"]
 
 [[custom_groups]]
-name = "📁OneDrive"
+name = "⛅ OneDrive"
 type = "select"
-rule = ["[]🛠️德意志", "[]🌠节点选择", "[]✈️手动切换", "[]DIRECT"]
+rule = ["[]🏰 德意志帝国", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
-name = "🎬Netflix"
+name = "🎬 Netflix"
 type = "select"
-rule = ["[]🛠️德意志", "!!GROUPID=2!!(.*)", "!!GROUPID=1!!(.*)"]
+rule = ["[]🏰 德意志帝国", "!!GROUPID=2!!(.*)", "!!GROUPID=1!!(.*)"]
 
 [[custom_groups]]
-name = "📈Microsoft"
+name = "🪟 Microsoft"
 type = "select"
-rule = ["[]DIRECT", "[]🛠️德意志", "[]🌠节点选择", "[]✈️手动切换"]
+rule = ["[]DIRECT", "[]🏰 德意志帝国", "[]🌠 节点选择", "[]✈️ 手动切换"]
 
 [[custom_groups]]
-name = "🌍国际流媒体"
+name = "🌍 国际流媒体"
 type = "select"
-rule = ["[]🛠️德意志", "[]🌠节点选择", "[]✈️手动切换", "[]DIRECT"]
+rule = ["[]🏰 德意志帝国", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 
 [[custom_groups]]
-name = "🐠漏网の鱼"
+name = "🐳 漏网の鱼"
 type = "select"
-rule = ["[]🌠节点选择", "[]🛠️德意志", "[]✈️手动切换", "[]DIRECT"]
+rule = ["[]🌠 节点选择", "[]🏰 德意志帝国", "[]✈️ 手动切换", "[]DIRECT"]
 
 
 [[custom_groups]]
-name = "🛠️德意志"
-type = "select"
-rule = ["!!GROUPID=0!!(Germany|法兰克福|德(国|意志)|中德|^德$)"]
-
-[[custom_groups]]
-name = "🦅美国高速"
+name = "🏈 美国高速"
 type = "fallback"
 rule = [
     "!!GROUPID=0!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
@@ -93,3 +88,8 @@ rule = [
 url = "https://www.gstatic.com/generate_204"
 interval = 6600
 lazy = true
+
+[[custom_groups]]
+name = "🏰 德意志帝国"
+type = "select"
+rule = ["!!GROUPID=0!!(Germany|法兰克福|德(国|意志)|中德|^德$)"]
