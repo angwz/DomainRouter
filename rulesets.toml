@@ -1,41 +1,41 @@
 [[rulesets]]
-group = "🍰 Dynamic"
+group = "🍰Dynamic"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Angwz.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🗨️ ChatGPT"
+group = "🗨️ChatGPT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OpenAI.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🗨️ ChatGPT"
+group = "🗨️ChatGPT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/OpenAI-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🗨️ ChatGPT"
+group = "🗨️ChatGPT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OpenAI-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🇺🇸 美国高速"
+group = "🦅美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/AI.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🇺🇸 美国高速"
+group = "🦅美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/AI-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🇺🇸 美国高速"
+group = "🦅美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/AI-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -59,31 +59,31 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "📱 TikTok"
+group = "📱TikTok"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/TikTok.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "📱 TikTok"
+group = "📱TikTok"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/TikTok-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "📺 哔哩哔哩"
+group = "🎨哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Bilibili.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "📺 哔哩哔哩"
+group = "🎨哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Bilibili-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "📺 哔哩哔哩"
+group = "🎨哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Bilibili-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -101,79 +101,79 @@ type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "📽️ Netflix"
+group = "🎬Netflix"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Netflix.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "📽️ Netflix"
+group = "🎬Netflix"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Netflix-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "📽️ Netflix"
+group = "🎬Netflix"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Netflix-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "⛅ OneDrive"
+group = "📁OneDrive"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OneDrive.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "⛅ OneDrive"
+group = "📁OneDrive"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OneDrive-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "📺 YouTube"
+group = "🍿YouTube"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/YouTube.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "📺 YouTube"
+group = "🍿YouTube"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/YouTube-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "📺 YouTube"
+group = "🍿YouTube"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/YouTube-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "💻 Google"
+group = "📧Google"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Google.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "💻 Google"
+group = "📧Google"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Google-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "💻 Google"
+group = "📧Google"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Google-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🇺🇸 美国高速"
+group = "🦅美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Japan.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🇺🇸 美国高速"
+group = "🦅美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Japan-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
@@ -183,31 +183,31 @@ group = "DIRECT"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
-group = "🇩🇪 德意志"
+group = "🛠️德意志"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Germany.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🇩🇪 德意志"
+group = "🛠️德意志"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Germany-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🇺🇸 美国高速"
+group = "🦅美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/America.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🇺🇸 美国高速"
+group = "🦅美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/America-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🇺🇸 美国高速"
+group = "🦅美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/America-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -231,49 +231,49 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🌍 国外流媒体"
+group = "🌍国际流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Media.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌍 国外流媒体"
+group = "🌍国际流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Media-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🌍 国外流媒体"
+group = "🌍国际流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Media-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "💾 Microsoft"
+group = "📈Microsoft"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Microsoft.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "💾 Microsoft"
+group = "📈Microsoft"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Microsoft-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🌠 节点选择"
+group = "🌠节点选择"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Proxy.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌠 节点选择"
+group = "🌠节点选择"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Proxy-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🌠 节点选择"
+group = "🌠节点选择"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Proxy-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -301,5 +301,5 @@ group = "DIRECT"
 ruleset = "[]GEOIP,CN"
 
 [[rulesets]]
-group = "🐳 漏网の鱼"
+group = "🐠漏网の鱼"
 ruleset = "[]MATCH"
