@@ -23,19 +23,19 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🗽 美国分流"
+group = "🇺🇸 美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/AI.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🗽 美国分流"
+group = "🇺🇸 美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/AI-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🗽 美国分流"
+group = "🇺🇸 美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/AI-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -126,12 +126,6 @@ interval = 21600
 
 [[rulesets]]
 group = "⛅ OneDrive"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/OneDrive-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "⛅ OneDrive"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OneDrive-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -173,13 +167,13 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🍙 日本高速"
+group = "🇺🇸 美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Japan.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🍙 日本高速"
+group = "🇺🇸 美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Japan-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
@@ -189,19 +183,31 @@ group = "DIRECT"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
-group = "🗽 美国分流"
+group = "🇩🇪 德意志"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Germany.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🇩🇪 德意志"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Germany-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "🇺🇸 美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/America.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🗽 美国分流"
+group = "🇺🇸 美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/America-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🗽 美国分流"
+group = "🇺🇸 美国高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/America-classic.yaml"
 type = "clash-classic"
 interval = 21600
