@@ -1,10 +1,12 @@
 [DIRECT]
 angwz.com
 weesire.com
+h.cool
 
 infini-cloud.net
 teracloud.jp
 ai-yyds.com
+novnc.com
 bigchick.xyz
 bigchick.io
 chickfrp.com
@@ -37,16 +39,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 
 '+.cn'
 
-67.230.165.109
-47.103.212.143
-107.182.31.148
-35.212.174.9
-185.228.137.235
-
-2408:4002:1603:ad00::1997
-2a03:4000:23:91::1997
-240e:974:eb00:908::5064:19f
-
 
 DST-PORT,9993
 SRC-PORT,9993
@@ -55,8 +47,24 @@ SRC-PORT,9993
 
 596743944.top
 tidc.asia
-mitce-fuck.work
+ddns-link-b5.uk
 
+
+47.103.212.143
+67.230.165.109
+107.182.31.148
+185.228.137.235
+
+110.40.79.203
+
+# Sh
+2408:4002:1603:ad00::1997
+
+# DE
+2a03:4000:23:91::1997
+
+# Cdu
+240e:974:eb00:908::5064:1ef
 
 
 [PROXY]
