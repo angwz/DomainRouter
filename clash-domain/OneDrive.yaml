@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-30 00:26:30 (UTC+8)
+# UPDATED: 2024-10-31 00:26:21 (UTC+8)
 # TYPE: domain
 # TOTAL: 407
 payload:
@@ -197,7 +197,7 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'freedomalternative.com'
+  - 'ismaarino.com'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -209,6 +209,7 @@ payload:
   - 'pubt.net'
   - 'retracker.local'
   - 'ryjer.com'
+  - 'saltwood.top'
   - 'seedpeer.net'
   - 'su-data.com'
   - 'torrentsmd.com'
@@ -372,10 +373,8 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
-  - 'tracker.uraniumhexafluori.de'
   - 'tracker.vraphim.com'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
@@ -405,6 +404,7 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
+  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
