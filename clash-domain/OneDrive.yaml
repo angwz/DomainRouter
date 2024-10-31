@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-10-31 00:26:21 (UTC+8)
+# UPDATED: 2024-11-01 00:27:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 407
+# TOTAL: 406
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -230,7 +230,6 @@ payload:
   - 'bt.ktrackers.com'
   - 'bt.okmp3.ru'
   - 'bt.ptlsp.com'
-  - 'bt.rer.lol'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
   - 'bt1.archive.org'
@@ -248,7 +247,6 @@ payload:
   - 'ipv4announce.sktorrent.eu'
   - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
-  - 'kiryuu-test.mywaifu.best'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
   - 'notnetflix.cos.cat'
@@ -296,6 +294,7 @@ payload:
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tr1.aag.moe'
+  - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -376,6 +375,7 @@ payload:
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.vraphim.com'
+  - 'tracker.waaa.moe'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
   - 'tracker.zond.org'
@@ -404,7 +404,6 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
-  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
