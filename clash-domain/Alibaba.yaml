@@ -1,9 +1,9 @@
 # NAME: Alibaba
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-05 00:27:03 (UTC+8)
+# UPDATED: 2024-11-06 00:26:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 1267
+# TOTAL: 1270
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -41,6 +41,7 @@ payload:
   - '+.alibaba.cn'
   - '+.alibaba.com'
   - '+.alibabacapital.com'
+  - '+.alibabachengdun.com'
   - '+.alibabacloud.com'
   - '+.alibabacorp.com'
   - '+.alibabadesign-enable.com'
@@ -79,6 +80,7 @@ payload:
   - '+.aliexpress.com'
   - '+.aliexpress.ru'
   - '+.alifanyi.com'
+  - '+.aligames.com'
   - '+.aligaofang.com'
   - '+.aligenie.com'
   - '+.aligfcc.com'
@@ -181,6 +183,7 @@ payload:
   - '+.aliyundunddos.com'
   - '+.aliyundunwaf.com'
   - '+.aliyunedu.net'
+  - '+.aliyunfile.com'
   - '+.aliyunga.com'
   - '+.aliyunga0004.com'
   - '+.aliyunga0005.com'
