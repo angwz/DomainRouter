@@ -61,7 +61,7 @@ rule = ["[]🏰 德意志帝国", "[]🌠 节点选择", "[]✈️ 手动切换"
 [[custom_groups]]
 name = "🎬 Netflix"
 type = "select"
-rule = ["[]🌠 节点选择", "[]🏰 德意志帝国", "!!GROUPID=2!!(.*)", "!!GROUPID=1!!(.*)"]
+rule = ["[]🌠 节点选择", "!!GROUPID=2!!(.*)", "!!GROUPID=1!!(.*)"]
 
 [[custom_groups]]
 name = "🪟 Microsoft"
