@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-10 00:24:41 (UTC+8)
+# UPDATED: 2024-11-11 00:24:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 451
+# TOTAL: 449
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -253,7 +253,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'd13bttrck.duckdns.org'
   - 'discord.heihachi.pw'
   - 'emby.lcloud.wiki'
   - 'exodus.desync.com'
@@ -333,6 +332,7 @@ payload:
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
+  - 'tracker.bjut.jp'
   - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
@@ -448,11 +448,9 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'tracker-us.silksa.co.za'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'www.torrent.eu.org'
-  - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
   - 'tracker1.bt.moack.co.kr'
