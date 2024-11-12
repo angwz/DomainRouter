@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-12 00:26:09 (UTC+8)
+# UPDATED: 2024-11-13 00:26:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 2788
+# TOTAL: 2790
 payload:
   - '+.apple'
   - '+.playstation'
@@ -2781,6 +2781,7 @@ payload:
   - 'ea.tt.omtrdc.net'
   - 'f3b7q2p3.ssl.hwcdn.net'
   - 'ins-eeww7kom.ias.tencent-cloud.net'
+  - 'notary-submissions-prod.s3-accelerate.amazonaws.com'
   - 'ubisoft-orbit-savegames.s3.amazonaws.com'
   - 'ubisoft-uplay-savegames.s3.amazonaws.com'
   - 'v.streaming.qq.com'
@@ -2790,6 +2791,7 @@ payload:
   - 'appldnld.apple.com.edgesuite.net'
   - 'ios.video.mpush.qq.com'
   - 'lookup-api.apple.com.edgekey.net'
+  - 'notary-submissions-prod.s3.us-west-2.amazonaws.com'
   - 'store.apple.com.edgekey.net'
   - 'www.apple.com.edgekey.net'
   - 'gsp4-cn.ls.apple.com.edgekey.net'
