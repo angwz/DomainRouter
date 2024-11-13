@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-13 00:11:51 (UTC+8)
+# UPDATED: 2024-11-14 00:11:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 109
+# TOTAL: 110
 payload:
   - '+.bing'
   - '+.ai.com'
@@ -22,6 +22,7 @@ payload:
   - '+.bingvisualsearch.com'
   - '+.bingworld.com'
   - '+.bluehatnights.com'
+  - '+.chat.com'
   - '+.chatgpt.com'
   - '+.claude.ai'
   - '+.claudeusercontent.com'

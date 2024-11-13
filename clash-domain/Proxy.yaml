@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-13 00:11:51 (UTC+8)
+# UPDATED: 2024-11-14 00:11:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 31147
+# TOTAL: 31149
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4627,6 +4627,7 @@ payload:
   - '+.charlotte-anime.jp'
   - '+.charmescorts.com'
   - '+.charticulator.com'
+  - '+.chat.com'
   - '+.chatango.com'
   - '+.chatgpt.com'
   - '+.chatgptvideo.xyz'
@@ -10583,6 +10584,7 @@ payload:
   - '+.icl-fi.org'
   - '+.icloud-content.com'
   - '+.icloud-isupport.com'
+  - '+.icloud-sandbox.com'
   - '+.icloud.ch'
   - '+.icloud.com'
   - '+.icloud.de'
