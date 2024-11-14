@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-14 00:25:58 (UTC+8)
+# UPDATED: 2024-11-14 12:21:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 444
+# TOTAL: 449
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -223,6 +223,7 @@ payload:
   - 'shubt.net'
   - 'smurfsoft.com'
   - 'su-data.com'
+  - 'torrentsmd.com'
   - 'trackarr.org'
   - 'tracker.bz'
   - 'tracker810.xyz'
@@ -233,7 +234,6 @@ payload:
   - '1337.abcvg.info'
   - '1c.premierzal.ru'
   - '6.pocketnet.app'
-  - '7p41a8967.wicp.vip'
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
@@ -262,12 +262,14 @@ payload:
   - 'home.yxgz.club'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
+  - 'ipv4announce.sktorrent.eu'
   - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
   - 'kiryuu-test.mywaifu.best'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
   - 'notnetflix.cos.cat'
+  - 'ns-1.x-fins.com'
   - 'ns1.monolithindustries.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -286,7 +288,6 @@ payload:
   - 'open.xxtor.com'
   - 'opentracker.i2p.rocks'
   - 'oscar.reyesleon.xyz'
-  - 'p2p.azu.red'
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
@@ -294,6 +295,7 @@ payload:
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -308,10 +310,12 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
+  - 'tk.greedland.net'
   - 'tk1.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'tk4.leechshield.link'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -325,7 +329,6 @@ payload:
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
-  - 'tracker.beeimg.com'
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
@@ -382,6 +385,7 @@ payload:
   - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
+  - 'tracker.openwebtorrent.com'
   - 'tracker.peckservers.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
@@ -408,6 +412,7 @@ payload:
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.vanitycore.co'
+  - 'tracker.vraphim.com'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
