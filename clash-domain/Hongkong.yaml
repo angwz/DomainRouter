@@ -1,8 +1,47 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-14 12:06:31 (UTC+8)
+# UPDATED: 2024-11-14 20:28:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 1
+# TOTAL: 40
 payload:
   - '+.hk'
+  - '+.apple-dns.net'
+  - '+.apple.news'
+  - '+.appsto.re'
+  - '+.cdn-apple.com'
+  - '+.digicert.com'
+  - '+.apps.apple.com'
+  - '+.blobstore.apple.com'
+  - '+.ocsp.apple.com'
+  - '+.tv.apple.com'
+  - '+.audio-ssl.itunes.apple.com'
+  - '+.hls-amt.itunes.apple.com'
+  - '+.hls.itunes.apple.com'
+  - 'apple.comscoreresearch.com'
+  - 'cdn.apple-cloudkit.com'
+  - 'cvws.icloud-content.com'
+  - 'developer.apple.com'
+  - 'devimages-cdn.apple.com'
+  - 'devstreaming-cdn.apple.com'
+  - 'itunes.apple.com'
+  - 'lookup-api.apple.com'
+  - 'mask-api.icloud.com'
+  - 'mask-h2.icloud.com'
+  - 'mask.icloud.com'
+  - 'news-assets.apple.com'
+  - 'news-client.apple.com'
+  - 'news-edge.apple.com'
+  - 'news-events.apple.com'
+  - 'testflight.apple.com'
+  - 'tv.applemusic.com'
+  - 'api-glb-sea.smoot.apple.com'
+  - 'books.itunes.apple.com'
+  - 'docs-assets.developer.apple.com'
+  - 'gspe1-ssl.ls.apple.com'
+  - 'hls-svod.itunes.apple.com'
+  - 'js-cdn.music.apple.com'
+  - 'np-edge.itunes.apple.com'
+  - 'play-edge.itunes.apple.com'
+  - 'sandbox.itunes.apple.com'
+  - 'uts-api.itunes.apple.com'

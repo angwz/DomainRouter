@@ -1,10 +1,10 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-14 12:06:31 (UTC+8)
+# UPDATED: 2024-11-14 20:28:40 (UTC+8)
 # TYPE: classic
-# TOTAL: 49
-# DOMAIN-KEYWORD TOTAL: 37
+# TOTAL: 50
+# DOMAIN-KEYWORD TOTAL: 38
 # IP-ASN TOTAL: 5
 # PROCESS-NAME TOTAL: 7
 payload:
@@ -45,6 +45,7 @@ payload:
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,wikileaks
+  - DOMAIN-KEYWORD,github
 
   - IP-ASN,211157,no-resolve
   - IP-ASN,44907,no-resolve
