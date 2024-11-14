@@ -5,6 +5,12 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
+group = "🏰 德意志帝国"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Anthropic.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
 group = "🗨️ ChatGPT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OpenAI.yaml"
 type = "clash-domain"
