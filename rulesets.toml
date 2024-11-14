@@ -189,6 +189,18 @@ group = "DIRECT"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
+group = "🎉 香港节点"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Hongkong.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🎉 香港节点"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Hongkong-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "🏰 德意志帝国"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Germany.yaml"
 type = "clash-domain"
@@ -264,6 +276,18 @@ interval = 21600
 group = "🪟 Microsoft"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Microsoft-classic.yaml"
 type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+group = "🍙 日本高速"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Japan.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🍙 日本高速"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Japan-ipcidr.yaml"
+type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
