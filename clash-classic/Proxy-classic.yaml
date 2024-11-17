@@ -1,10 +1,10 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-17 00:10:31 (UTC+8)
+# UPDATED: 2024-11-18 00:10:27 (UTC+8)
 # TYPE: classic
-# TOTAL: 50
-# DOMAIN-KEYWORD TOTAL: 38
+# TOTAL: 49
+# DOMAIN-KEYWORD TOTAL: 37
 # IP-ASN TOTAL: 5
 # PROCESS-NAME TOTAL: 7
 payload:
@@ -24,7 +24,6 @@ payload:
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,instagram
-  - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,porn
@@ -32,7 +31,6 @@ payload:
   - DOMAIN-KEYWORD,skydrive
   - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,telegram
-  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,uk-live
@@ -41,11 +39,12 @@ payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,jav
+  - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,pinterest
+  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,wikileaks
-  - DOMAIN-KEYWORD,github
 
   - IP-ASN,211157,no-resolve
   - IP-ASN,44907,no-resolve

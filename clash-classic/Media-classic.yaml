@@ -1,13 +1,12 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-17 00:25:29 (UTC+8)
+# UPDATED: 2024-11-18 00:25:30 (UTC+8)
 # TYPE: classic
-# TOTAL: 28
-# DOMAIN-KEYWORD TOTAL: 25
+# TOTAL: 27
+# DOMAIN-KEYWORD TOTAL: 24
 # PROCESS-NAME TOTAL: 3
 payload:
-  - DOMAIN-KEYWORD,-spotify
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb
   - DOMAIN-KEYWORD,avoddashs
@@ -25,7 +24,7 @@ payload:
   - DOMAIN-KEYWORD,nowtv100
   - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,rthklive
-  - DOMAIN-KEYWORD,spotify.com
+  - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,tiktokcdn
   - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,tvbanywhere

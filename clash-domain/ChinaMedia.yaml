@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-17 00:25:30 (UTC+8)
+# UPDATED: 2024-11-18 00:25:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 2790
+# TOTAL: 2798
 payload:
   - '+.apple'
   - '+.playstation'
@@ -72,6 +72,7 @@ payload:
   - '+.acgvideo.com'
   - '+.admin5.com'
   - '+.aeasyshop.com'
+  - '+.agkn.com'
   - '+.aianno.cn'
   - '+.aianno.com'
   - '+.aiganggu.com'
@@ -878,6 +879,7 @@ payload:
   - '+.cntv.cn'
   - '+.cntvwb.cn'
   - '+.codm.com'
+  - '+.cohere.com'
   - '+.commandandconquer.com'
   - '+.conquerwithcharacter.com'
   - '+.convrgencegame.com'
@@ -1319,12 +1321,14 @@ payload:
   - '+.indiaipad.com'
   - '+.industrialtoys.com'
   - '+.inewsweek.cn'
+  - '+.inmobi.com'
   - '+.insidear.cn'
   - '+.insidemacintosh.com'
   - '+.instituteofwar.org'
   - '+.ioffergift.com'
   - '+.ios-icloud.com'
   - '+.iosinthecar.com'
+  - '+.ip-api.com'
   - '+.ipa-iphone.net'
   - '+.ipad.de'
   - '+.ipad.host'
@@ -1476,6 +1480,7 @@ payload:
   - '+.kirbysepicyarn.com'
   - '+.kirbysuperstarultra.com'
   - '+.kobbeatssbydredk.com'
+  - '+.kochava.com'
   - '+.koowo.com'
   - '+.kopfhorergunstigshop.com'
   - '+.kugou.com'
@@ -1630,6 +1635,7 @@ payload:
   - '+.miyoushe.com'
   - '+.mmonsterheadphones.net'
   - '+.mmstat.com'
+  - '+.mobilefuse.com'
   - '+.mobileme.dk'
   - '+.modrinth.com'
   - '+.mojang.com'
@@ -2089,6 +2095,7 @@ payload:
   - '+.taihe.com'
   - '+.take2games.com'
   - '+.takegoto.com'
+  - '+.talkatone.com'
   - '+.tazai.com'
   - '+.tcfmglobal.com'
   - '+.teamneedforspeed.com'
@@ -2124,6 +2131,7 @@ payload:
   - '+.timibase.com'
   - '+.titanfall.com'
   - '+.tivitv.com'
+  - '+.tktn.at'
   - '+.tmtpost.com'
   - '+.tmtsmartlife.com'
   - '+.tmtsmartrun.com'
