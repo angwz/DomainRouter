@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-21 00:27:03 (UTC+8)
+# UPDATED: 2024-11-22 00:27:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 444
+# TOTAL: 448
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -233,6 +233,7 @@ payload:
   - '1337.abcvg.info'
   - '1c.premierzal.ru'
   - '6.pocketnet.app'
+  - '7p41a8967.wicp.vip'
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
@@ -267,6 +268,7 @@ payload:
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
   - 'notnetflix.cos.cat'
+  - 'ns-1.x-fins.com'
   - 'ns1.monolithindustries.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -289,6 +291,7 @@ payload:
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
   - 'pybittrack.retiolus.net'
+  - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
   - 'retracker01-msk-virt.corbina.net'
@@ -311,7 +314,6 @@ payload:
   - 'tk1.trackerservers.com'
   - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -325,6 +327,7 @@ payload:
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
+  - 'tracker.beeimg.com'
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
@@ -408,6 +411,7 @@ payload:
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.vanitycore.co'
+  - 'tracker.vraphim.com'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
