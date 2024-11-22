@@ -1,13 +1,14 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-23 00:12:04 (UTC+8)
+# UPDATED: 2024-11-23 02:26:21 (UTC+8)
 # TYPE: classic
-# TOTAL: 9
-# DOMAIN-KEYWORD TOTAL: 7
+# TOTAL: 14
+# DOMAIN-KEYWORD TOTAL: 8
 # IP-ASN TOTAL: 1
-# PROCESS-NAME TOTAL: 1
+# PROCESS-NAME TOTAL: 5
 payload:
+  - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,adobe
   - DOMAIN-KEYWORD,facebook
@@ -19,3 +20,7 @@ payload:
   - IP-ASN,32934,no-resolve
 
   - PROCESS-NAME,LookupViewService
+  - PROCESS-NAME,com.spotify.music
+  - PROCESS-NAME,com.cbs.app
+  - PROCESS-NAME,com.hulu.plus
+  - PROCESS-NAME,com.showtime.standalone

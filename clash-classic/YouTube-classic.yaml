@@ -1,25 +1,10 @@
 # NAME: YouTube
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-23 00:26:54 (UTC+8)
+# UPDATED: 2024-11-23 02:41:37 (UTC+8)
 # TYPE: classic
-# TOTAL: 13
-# DOMAIN-KEYWORD TOTAL: 3
-# IP-ASN TOTAL: 5
-# PROCESS-NAME TOTAL: 5
+# TOTAL: 2
+# DOMAIN-KEYWORD TOTAL: 2
 payload:
   - DOMAIN-KEYWORD,youtube
-  - DOMAIN-KEYWORD,nicegram
   - DOMAIN-KEYWORD,github
-
-  - IP-ASN,211157,no-resolve
-  - IP-ASN,44907,no-resolve
-  - IP-ASN,59930,no-resolve
-  - IP-ASN,62014,no-resolve
-  - IP-ASN,62041,no-resolve
-
-  - PROCESS-NAME,Telegram.exe
-  - PROCESS-NAME,nekox.messenger
-  - PROCESS-NAME,org.telegram.messenger
-  - PROCESS-NAME,telegram-desktop
-  - PROCESS-NAME,tw.nekomimi.nekogram

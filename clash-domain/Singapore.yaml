@@ -1,8 +1,33 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-23 00:26:54 (UTC+8)
+# UPDATED: 2024-11-23 02:41:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 1
+# TOTAL: 26
 payload:
   - '+.sg'
+  - '+.cdn-telegram.org'
+  - '+.comments.app'
+  - '+.contest.com'
+  - '+.fragment.com'
+  - '+.graph.org'
+  - '+.legra.ph'
+  - '+.mbrx.app'
+  - '+.quiz.directory'
+  - '+.stel.com'
+  - '+.t.me'
+  - '+.tdesktop.com'
+  - '+.telega.one'
+  - '+.telegra.ph'
+  - '+.telegram-cdn.org'
+  - '+.telegram.dog'
+  - '+.telegram.me'
+  - '+.telegram.org'
+  - '+.telegram.space'
+  - '+.telegramdownload.com'
+  - '+.telesco.pe'
+  - '+.tg.dev'
+  - '+.tx.me'
+  - '+.usercontent.dev'
+  - 'api.imem.app'
+  - 'api.swiftgram.app'

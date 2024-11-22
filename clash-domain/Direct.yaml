@@ -1,13 +1,14 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-23 00:10:16 (UTC+8)
+# UPDATED: 2024-11-23 02:24:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 2047
+# TOTAL: 2046
 payload:
   - '+.icbc'
   - '+.16q.cn'
   - '+.51ccd.com'
+  - '+.596743944.top'
   - '+.5read.com'
   - '+.8008205555.cn'
   - '+.8008205555.com'
@@ -41,7 +42,6 @@ payload:
   - '+.amazonworkdocs.cn'
   - '+.anav.com'
   - '+.ancientbooks.cn'
-  - '+.angwz.com'
   - '+.anydesk.com'
   - '+.apabi.com'
   - '+.apifox.cn'
@@ -216,7 +216,6 @@ payload:
   - '+.goproxy.cn'
   - '+.goproxy.io'
   - '+.gtarsc.com'
-  - '+.h.cool'
   - '+.hailuoai.com'
   - '+.harmonyos.com'
   - '+.hiascend.cn'
@@ -381,6 +380,7 @@ payload:
   - '+.tidb.ai'
   - '+.tidb.net'
   - '+.tidbcloud.com'
+  - '+.tidc.asia'
   - '+.tikv.org'
   - '+.tipdim.org'
   - '+.tjstats.com'
@@ -405,7 +405,6 @@ payload:
   - '+.vipexam.org'
   - '+.webank.com'
   - '+.webankcdn.net'
-  - '+.weesire.com'
   - '+.wegamedeveloper.com'
   - '+.wegobank.cn'
   - '+.weixinbridge.com'
