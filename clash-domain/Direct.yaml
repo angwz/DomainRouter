@@ -1,14 +1,13 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-22 00:10:24 (UTC+8)
+# UPDATED: 2024-11-22 21:13:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 2050
+# TOTAL: 2047
 payload:
   - '+.icbc'
   - '+.16q.cn'
   - '+.51ccd.com'
-  - '+.596743944.top'
   - '+.5read.com'
   - '+.8008205555.cn'
   - '+.8008205555.com'
@@ -190,7 +189,6 @@ payload:
   - '+.cup62.cn'
   - '+.cxbiji.com'
   - '+.datasea.cn'
-  - '+.ddns-link-b5.uk'
   - '+.deepin.cn'
   - '+.deepin.com'
   - '+.deepin.io'
@@ -383,7 +381,6 @@ payload:
   - '+.tidb.ai'
   - '+.tidb.net'
   - '+.tidbcloud.com'
-  - '+.tidc.asia'
   - '+.tikv.org'
   - '+.tipdim.org'
   - '+.tjstats.com'

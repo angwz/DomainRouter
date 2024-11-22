@@ -1,11 +1,12 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-22 00:12:08 (UTC+8)
+# UPDATED: 2024-11-22 21:14:48 (UTC+8)
 # TYPE: classic
-# TOTAL: 8
+# TOTAL: 9
 # DOMAIN-KEYWORD TOTAL: 7
 # IP-ASN TOTAL: 1
+# PROCESS-NAME TOTAL: 1
 payload:
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,adobe
@@ -16,3 +17,5 @@ payload:
   - DOMAIN-KEYWORD,steamuserimages
 
   - IP-ASN,32934,no-resolve
+
+  - PROCESS-NAME,LookupViewService
