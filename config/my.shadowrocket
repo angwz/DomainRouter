@@ -1,8 +1,4 @@
 [DIRECT]
-angwz.com
-weesire.com
-h.cool
-
 infini-cloud.net
 teracloud.jp
 ai-yyds.com
@@ -36,25 +32,28 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/gog%40cn.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/xbox%40cn.yaml
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GaoDe/GaoDe.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/amap.yaml
 
 '+.cn'
-
-
-DST-PORT,9993
-SRC-PORT,9993
 
 
 
 596743944.top
 tidc.asia
-ddns-link-b5.uk
 
 
-5.45.101.201
+
 47.103.212.143
-189.1.246.66
+5.45.101.201
+166.108.229.147
+119.8.55.11
 67.230.165.109
+38.165.46.237
+38.207.137.155
+104.234.0.52
 
+180.188.47.87
 110.40.79.203
 
 # Sh
@@ -126,6 +125,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Emby/Emby.list
 
 [DIRECT]
+angwz.com
+weesire.com
+h.cool
 
 # Tencent
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tencent.yaml
@@ -173,8 +175,7 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tenc
 
 [PROXY]
 DOMAIN-SUFFIX,tktn.be
-https://raw.githubusercontent.com/mottzz87/crules/main/rule/talkatone.list
-https://raw.githubusercontent.com/SIJULY/Rules/refs/heads/main/Surge/talkatone.list
+
 
 # TikTok
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml
@@ -192,6 +193,9 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bliz
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list
 
 [DIRECT]
+https://raw.githubusercontent.com/mottzz87/crules/main/rule/talkatone.list
+https://raw.githubusercontent.com/SIJULY/Rules/refs/heads/main/Surge/talkatone.list
+
 
 # Douyin
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DouYin/DouYin.list
@@ -237,7 +241,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geol
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.list
 
 
-mitce.com
 zerotier.com
 
 
