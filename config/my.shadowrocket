@@ -37,7 +37,8 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 
 '+.cn'
 
-
+DST-PORT,9993
+SRC-PORT,9993
 
 596743944.top
 tidc.asia

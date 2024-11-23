@@ -36,6 +36,8 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GaoDe/GaoDe.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/amap.yaml
 
+DST-PORT,9993
+SRC-PORT,9993
 
 
 47.103.212.143
