@@ -74,7 +74,7 @@ rule = ["!!GROUPID=0!!(Media)", "[]✈️ 手动切换", "[]DIRECT"]
 [[custom_groups]]
 name = "🐳 漏网の鱼"
 type = "select"
-rule = ["[]🥗 美利坚高速", "[]🌠 节点选择", "[]🥝 新加坡高速", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]🥝 新加坡高速", "[]✈️ 手动切换", "[]DIRECT"]
 
 
 [[custom_groups]]
