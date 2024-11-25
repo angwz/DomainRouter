@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-25 00:11:22 (UTC+8)
+# UPDATED: 2024-11-26 00:12:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 7450
+# TOTAL: 7451
 payload:
   - '+.mit'
   - '+.us'
@@ -6278,6 +6278,7 @@ payload:
   - '+.splint-cetl.ac.uk'
   - '+.spokenword.ac.uk'
   - '+.spotify-com.akamaized.net'
+  - '+.spotify.app.link'
   - '+.spr.ac.uk'
   - '+.sprg.ac.uk'
   - '+.sprint.ac.uk'
