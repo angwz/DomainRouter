@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-26 00:27:46 (UTC+8)
+# UPDATED: 2024-11-27 00:27:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 399
+# TOTAL: 393
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -177,7 +177,6 @@ payload:
   - 'servandroidkino.ru'
   - 'shubt.net'
   - 'su-data.com'
-  - 'torrentsmd.com'
   - 'trackarr.org'
   - 'tracker.bz'
   - 'tracker810.xyz'
@@ -209,7 +208,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -220,6 +218,7 @@ payload:
   - 'kiryuu-test.mywaifu.best'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
   - 'ns1.monolithindustries.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -241,7 +240,6 @@ payload:
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
-  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
@@ -262,9 +260,6 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
-  - 'tk.leechshield.link'
-  - 'tk1.trackerservers.com'
-  - 'tk2v6.trackerservers.com'
   - 'torrents.artixlinux.org'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
@@ -322,8 +317,6 @@ payload:
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
-  - 'tracker.kmzs123.cf'
-  - 'tracker.kmzs123.cn'
   - 'tracker.kmzs123.tk'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
@@ -364,6 +357,7 @@ payload:
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.vanitycore.co'
+  - 'tracker.vds.nz'
   - 'tracker.vraphim.com'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
@@ -385,7 +379,6 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'wg.mortis.me'
-  - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
@@ -402,5 +395,6 @@ payload:
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
+  - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
   - 'tracker1.bt.moack.co.kr'
