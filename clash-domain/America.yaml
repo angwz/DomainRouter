@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-11-29 00:11:53 (UTC+8)
+# UPDATED: 2024-11-30 00:12:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 7451
+# TOTAL: 7452
 payload:
   - '+.mit'
   - '+.us'
@@ -804,6 +804,7 @@ payload:
   - '+.galegroup.com'
   - '+.gameroom.com'
   - '+.geolytics.com'
+  - '+.geoscienceworld.org'
   - '+.geotrust.com'
   - '+.getbraintree.com'
   - '+.gfacecbook.com'
