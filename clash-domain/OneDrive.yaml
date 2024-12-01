@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-01 00:27:41 (UTC+8)
+# UPDATED: 2024-12-02 00:27:41 (UTC+8)
 # TYPE: domain
 # TOTAL: 395
 payload:
@@ -156,7 +156,7 @@ payload:
   - 'explodie.org'
   - 'finbytes.org'
   - 'fleira.no'
-  - 'ftp.pet'
+  - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
   - 'leet-tracker.moe'
@@ -195,7 +195,6 @@ payload:
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
   - 'bt.ktrackers.com'
-  - 'bt.okmp3.ru'
   - 'bt.poletracker.org'
   - 'bt.ptlsp.com'
   - 'bt.rer.lol'
@@ -208,7 +207,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -289,6 +287,7 @@ payload:
   - 'tracker.btcake.com'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
+  - 'tracker.corpscorp.online'
   - 'tracker.cubonegro.lol'
   - 'tracker.cyberia.is'
   - 'tracker.darkness.services'
@@ -332,7 +331,6 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -378,6 +376,7 @@ payload:
   - 'tracker3.itzmx.com'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
+  - 'trackers.mlsub.net'
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
@@ -386,6 +385,7 @@ payload:
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
+  - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
   - 'z.mercax.com'
   - 'd40969.acod.regrucolo.ru'
@@ -393,10 +393,10 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
+  - 'torrent.tracker.durukanbal.com'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
-  - 'tracker1.bt.moack.co.kr'
