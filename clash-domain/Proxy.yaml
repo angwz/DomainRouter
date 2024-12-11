@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-11 00:12:58 (UTC+8)
+# UPDATED: 2024-12-12 00:12:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 31271
+# TOTAL: 31272
 payload:
   - '+.adult'
   - '+.amazon'
@@ -18750,6 +18750,7 @@ payload:
   - '+.sopcast.org'
   - '+.sophos.com'
   - '+.soporn.com'
+  - '+.sora.com'
   - '+.sora6.com'
   - '+.sorairi.info'
   - '+.sorazone.net'

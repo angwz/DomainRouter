@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-11 00:12:58 (UTC+8)
+# UPDATED: 2024-12-12 00:12:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 106
+# TOTAL: 107
 payload:
   - '+.bing'
   - '+.ai.com'
@@ -62,6 +62,7 @@ payload:
   - '+.renovacionoffice.com'
   - '+.segment.io'
   - '+.sentry.io'
+  - '+.sora.com'
   - '+.sprinklesapp.com'
   - '+.stripe.com'
   - '+.x.ai'
