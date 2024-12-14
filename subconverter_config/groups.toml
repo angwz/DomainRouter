@@ -79,14 +79,14 @@ type = "select"
 [[custom_groups]]
 name = "🐦‍🔥 香港专线"
 rule = [
-  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*(IPEL|IPLC|ipel|iplc)).*$)",
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*IEPL).*$)",
 ]
 type = "select"
 
 [[custom_groups]]
 name = "🌺 香港高速"
 rule = [
-  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*(IPEL|IPLC|ipel|iplc)).*$)",
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*IEPL).*$)",
 ]
 type = "select"
 
