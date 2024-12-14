@@ -191,7 +191,7 @@ type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "DIRECT"
+group = "🐦\u200d🔥 香港专线"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
@@ -208,31 +208,25 @@ interval = 21600
 
 [[rulesets]]
 group = "🥗 美利坚高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/America-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "🥗 美利坚高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/America-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🥝 新加坡高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
+group = "🐦\u200d🔥 香港专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Hongkong.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🥝 新加坡高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Singapore-ipcidr.yaml"
+group = "🐦\u200d🔥 香港专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Hongkong-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🥝 新加坡高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Singapore-classic.yaml"
+group = "🐦\u200d🔥 香港专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Hongkong-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
@@ -325,12 +319,12 @@ group = "DIRECT"
 ruleset = "[]GEOIP,CN"
 
 [[rulesets]]
-group = "🫒 日本高速"
-ruleset = "[]GEOIP,JP"
+group = "🐦\u200d🔥 香港专线"
+ruleset = "[]GEOIP,HK"
 
 [[rulesets]]
-group = "🥝 新加坡高速"
-ruleset = "[]GEOIP,SG"
+group = "🫒 日本高速"
+ruleset = "[]GEOIP,JP"
 
 [[rulesets]]
 group = "🐳 漏网の鱼"
