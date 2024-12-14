@@ -48,7 +48,7 @@ type = "select"
 
 [[custom_groups]]
 name = "📧 Google"
-rule = ["[]🌠 节点选择", "[]🥗 美利坚高速",  "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -68,7 +68,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🌍 国际流媒体"
-rule = ["!!GROUPID=0!!(Media)", "[]🫒 日本高速", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🥗 美利坚高速", "!!GROUPID=0!!(Media)", "[]🫒 日本高速", "[]🌺 香港高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
