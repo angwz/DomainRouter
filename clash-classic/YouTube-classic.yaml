@@ -1,10 +1,9 @@
 # NAME: YouTube
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-15 00:29:24 (UTC+8)
+# UPDATED: 2024-12-15 02:08:01 (UTC+8)
 # TYPE: classic
-# TOTAL: 2
-# DOMAIN-KEYWORD TOTAL: 2
+# TOTAL: 1
+# DOMAIN-KEYWORD TOTAL: 1
 payload:
   - DOMAIN-KEYWORD,youtube
-  - DOMAIN-KEYWORD,github
