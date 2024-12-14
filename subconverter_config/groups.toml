@@ -2,8 +2,8 @@
 name = "🌠 节点选择"
 rule = [
   "[]🐦‍🔥 香港专线",
-  "[]🥗 美利坚高速",
   "[]🫒 日本高速",
+  "[]🥗 美利坚高速",
   "[]🌳 德意志帝国",
   "[]🥝 新加坡高速",
   "[]✈️ 手动切换",
@@ -48,12 +48,12 @@ type = "select"
 
 [[custom_groups]]
 name = "📧 Google"
-rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🥗 美利坚高速",  "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "⛅ OneDrive"
-rule = ["[]🌳 德意志帝国", "!!GROUPID=0!!(港)", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌳 德意志帝国", "!!GROUPID=0!!(&Ali)", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
