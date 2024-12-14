@@ -572,7 +572,7 @@ def generate_conf_file(lines):
         'bypass-system = true',
         'skip-proxy = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,localhost,*.local',
         'tun-excluded-routes = 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24, 192.168.0.0/16, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32, 239.255.255.250/32',
-        'dns-server = system,https://163601.alidns.com/dns-query,https://1.12.12.12/dns-query,https://2400:3200::1/dns-query',
+        'dns-server = system,https://223.5.5.5/dns-query,https://1.12.12.12/dns-query,https://dns.alidns.com/dns-query',
         'fallback-dns-server = system,223.5.5.5,119.29.29.29,2400:3200::1,2402:4e00::',
         'ipv6 = true',
         'prefer-ipv6 = false',
