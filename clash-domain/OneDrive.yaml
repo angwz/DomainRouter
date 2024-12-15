@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-15 02:08:01 (UTC+8)
+# UPDATED: 2024-12-16 00:28:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 393
+# TOTAL: 394
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -217,7 +217,6 @@ payload:
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns1.monolithindustries.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -244,6 +243,7 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'rt.tace.ru'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
@@ -268,6 +268,7 @@ payload:
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr1.aag.moe'
+  - 'tr2.trkb.ru'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -354,10 +355,10 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.vanitycore.co'
+  - 'tracker.vds.nz'
   - 'tracker.vraphim.com'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
