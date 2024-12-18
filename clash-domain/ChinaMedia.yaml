@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-18 00:30:57 (UTC+8)
+# UPDATED: 2024-12-19 00:30:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 3777
+# TOTAL: 3781
 payload:
   - '+.apple'
   - '+.playstation'
@@ -2579,6 +2579,9 @@ payload:
   - '+.steamcdn-a.akamaihd.net'
   - '+.steamcommunity-a.akamaihd.net'
   - '+.steamcontent.tnkjmec.com'
+  - '+.steammobile.akamaized.net'
+  - '+.steampipe-kr.akamaized.net'
+  - '+.steampipe-partner.akamaized.net'
   - '+.steampipe.akamaized.net'
   - '+.steamstore-a.akamaihd.net'
   - '+.steamusercontent-a.akamaihd.net'
@@ -2631,6 +2634,7 @@ payload:
   - '+.dl.steam.ksyna.com'
   - '+.e8h2ty.tdum.alibaba.com'
   - '+.ea.tt.omtrdc.net'
+  - '+.f3b7q2p3.ssl.hwcdn.net'
   - '+.hearthstone.nosdn.127.net'
   - '+.heroes.nos.netease.com'
   - '+.itunes.com.edgekey.net'

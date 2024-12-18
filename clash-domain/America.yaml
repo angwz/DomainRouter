@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-18 00:12:56 (UTC+8)
+# UPDATED: 2024-12-19 00:12:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 7055
+# TOTAL: 7057
 payload:
   - '+.java'
   - '+.mit'
@@ -6897,11 +6897,13 @@ payload:
   - '+.hls.itunes.apple.com'
   - '+.jstage.jst.go.jp'
   - '+.ncbi.nlm.nih.gov'
+  - '+.notary-submissions-prod.s3-accelerate.amazonaws.com'
   - '+.push-apple.com.akadns.net'
   - '+.splash-ads.cdn.unity.cn'
   - '+.venmo.s3.amazonaws.com'
   - '+.cbsi.live.ott.irdeto.com'
   - '+.hulu.playback.edge.bamgrid.com'
+  - '+.notary-submissions-prod.s3.us-west-2.amazonaws.com'
   - 'adobeereg.com'
   - 'practivate.adobe'
   - 'amp.akamaized.net'
