@@ -80,6 +80,7 @@ type = "select"
 name = "🐦‍🔥 香港专线"
 rule = [
   "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*IEPL).*$)",
+  "[]🌺 香港高速",
 ]
 type = "select"
 
