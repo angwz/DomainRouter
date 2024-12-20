@@ -323,9 +323,5 @@ group = "🐦\u200d🔥 香港专线"
 ruleset = "[]GEOIP,HK"
 
 [[rulesets]]
-group = "🫒 日本高速"
-ruleset = "[]GEOIP,JP"
-
-[[rulesets]]
 group = "🐳 漏网の鱼"
 ruleset = "[]MATCH"
