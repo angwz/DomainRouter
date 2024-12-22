@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-22 00:28:13 (UTC+8)
+# UPDATED: 2024-12-23 00:28:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 10741
+# TOTAL: 10742
 payload:
   - '+.adult'
   - '+.bbc'
@@ -6280,6 +6280,7 @@ payload:
   - '+.skunkgirl.cc'
   - '+.sky.com'
   - '+.skyassets.com'
+  - '+.skymansion.net'
   - '+.skyoceanrescue.com'
   - '+.skyoceanrescue.de'
   - '+.skyoceanrescue.it'

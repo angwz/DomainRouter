@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-22 00:28:02 (UTC+8)
+# UPDATED: 2024-12-23 00:28:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 390
+# TOTAL: 393
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -155,6 +155,7 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
+  - 'freedomalternative.com'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -243,7 +244,6 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
-  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -259,7 +259,9 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
+  - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -267,6 +269,7 @@ payload:
   - 'tr.zukizuki.org'
   - 'tr1.aag.moe'
   - 'tr2.trkb.ru'
+  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -274,7 +277,6 @@ payload:
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
-  - 'tracker.beeimg.com'
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
@@ -317,7 +319,6 @@ payload:
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
-  - 'tracker.kmzs123.tk'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -335,7 +336,6 @@ payload:
   - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
-  - 'tracker.pmman.tech'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
@@ -362,6 +362,7 @@ payload:
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
+  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zond.org'
   - 'tracker1.520.jp'
@@ -374,6 +375,7 @@ payload:
   - 'tracker3.itzmx.com'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
+  - 'trackers.mlsub.net'
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
@@ -393,5 +395,6 @@ payload:
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
+  - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'

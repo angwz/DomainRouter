@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-22 00:28:02 (UTC+8)
+# UPDATED: 2024-12-23 00:28:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 571
+# TOTAL: 573
 payload:
   - '+.1700.cn'
   - '+.17roco.com'
@@ -13,6 +13,7 @@ payload:
   - '+.accessibilityunion.org'
   - '+.acctdns.com'
   - '+.acctdns.net'
+  - '+.acimg.cn'
   - '+.agcloudcs.com'
   - '+.aitangyou.com'
   - '+.aitransfy.com'
@@ -459,6 +460,7 @@ payload:
   - '+.tjstats.com'
   - '+.tlivecdn.com'
   - '+.tlivepush.com'
+  - '+.tlivesource.com'
   - '+.tos.cn'
   - '+.tourismshow.cn'
   - '+.tourismuser.cn'
