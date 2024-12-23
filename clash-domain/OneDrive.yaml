@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-23 00:28:03 (UTC+8)
+# UPDATED: 2024-12-24 00:29:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 393
+# TOTAL: 394
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -155,7 +155,6 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
-  - 'freedomalternative.com'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -218,6 +217,7 @@ payload:
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
   - 'ns1.monolithindustries.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -244,6 +244,7 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -265,6 +266,7 @@ payload:
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
+  - 'tr.movian.eu'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr1.aag.moe'
@@ -320,7 +322,6 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
   - 'tracker.ktxp.com'
-  - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
   - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
