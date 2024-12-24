@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-24 00:29:35 (UTC+8)
+# UPDATED: 2024-12-25 00:30:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 394
+# TOTAL: 392
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -155,6 +155,7 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
+  - 'freedomalternative.com'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -239,19 +240,15 @@ payload:
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
-  - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
-  - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
-  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
   - 'share.hkg-fansub.info'
   - 'sparkle.ghostchu-services.top'
   - 't-115.rhcloud.com'
-  - 't.213891.xyz'
   - 't.acg.rip'
   - 't.jaekr.sh'
   - 't.nyaatracker.com'
@@ -260,7 +257,6 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
-  - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -271,7 +267,6 @@ payload:
   - 'tr.zukizuki.org'
   - 'tr1.aag.moe'
   - 'tr2.trkb.ru'
-  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -279,6 +274,7 @@ payload:
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
+  - 'tracker.beeimg.com'
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
@@ -321,7 +317,9 @@ payload:
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
+  - 'tracker.kmzs123.tk'
   - 'tracker.ktxp.com'
+  - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
   - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
@@ -358,6 +356,7 @@ payload:
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
+  - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
   - 'tracker.vraphim.com'
   - 'tracker.waaa.moe'
@@ -381,7 +380,6 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'wg.mortis.me'
-  - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
