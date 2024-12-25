@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-25 00:30:37 (UTC+8)
+# UPDATED: 2024-12-26 00:28:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 392
+# TOTAL: 395
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -155,7 +155,6 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
-  - 'freedomalternative.com'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -207,6 +206,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'cq.kmzs123.cn'
   - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
@@ -240,15 +240,19 @@ payload:
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
+  - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
+  - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
   - 'share.hkg-fansub.info'
   - 'sparkle.ghostchu-services.top'
   - 't-115.rhcloud.com'
+  - 't.213891.xyz'
   - 't.acg.rip'
   - 't.jaekr.sh'
   - 't.nyaatracker.com'
@@ -257,8 +261,8 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
+  - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -279,7 +283,6 @@ payload:
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bjut.jp'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -319,7 +322,6 @@ payload:
   - 'tracker.kamigami.org'
   - 'tracker.kmzs123.tk'
   - 'tracker.ktxp.com'
-  - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
   - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
@@ -335,6 +337,7 @@ payload:
   - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
+  - 'tracker.pmman.tech'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
@@ -375,7 +378,6 @@ payload:
   - 'tracker3.itzmx.com'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
-  - 'trackers.mlsub.net'
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
@@ -391,6 +393,7 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
+  - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
