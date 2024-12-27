@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-28 00:28:56 (UTC+8)
+# UPDATED: 2024-12-28 02:50:11 (UTC+8)
 # TYPE: domain
-# TOTAL: 393
+# TOTAL: 401
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -161,6 +161,7 @@ payload:
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
+  - 'mathkangaroo.jp'
   - 'moonburrow.club'
   - 'new-line.net'
   - 'odd-hd.fr'
@@ -207,6 +208,7 @@ payload:
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
   - 'cq.kmzs123.cn'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -243,6 +245,7 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -267,6 +270,7 @@ payload:
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr1.aag.moe'
+  - 'tr2.trkb.ru'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -305,6 +309,7 @@ payload:
   - 'tracker.fnix.net'
   - 'tracker.foreverpirates.co'
   - 'tracker.gbitt.info'
+  - 'tracker.gcrenwp.top'
   - 'tracker.gcrreen.xyz'
   - 'tracker.gigantino.net'
   - 'tracker.gmi.gd'
@@ -318,6 +323,7 @@ payload:
   - 'tracker.kamigami.org'
   - 'tracker.kmzs123.tk'
   - 'tracker.ktxp.com'
+  - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
   - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
@@ -330,6 +336,7 @@ payload:
   - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
+  - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.pmman.tech'
@@ -391,6 +398,7 @@ payload:
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
+  - 'tracker-us.silksa.co.za'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
