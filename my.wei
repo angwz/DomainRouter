@@ -2,11 +2,7 @@
 infini-cloud.net
 teracloud.jp
 ai-yyds.com
-novnc.com
-bigchick.xyz
-bigchick.io
-chickfrp.com
-yesclouds.com
+
 
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
@@ -44,14 +40,13 @@ SRC-PORT,9993
 # NC&Ali&HW&BWG
 5.45.101.0/24
 47.103.212.0/24
+116.62.189.0/24
 47.101.143.0/24
-47.76.236.0/24
 166.108.229.0/24
 67.230.165.0/24
 
-# Alice&LL&GCP
+# Alice&GCP
 46.203.222.0/24
-120.232.217.0/24
 35.208.244.0/24
 
 # Wilson
@@ -60,12 +55,6 @@ SRC-PORT,9993
 
 # Sun's HW
 119.8.55.0/24
-
-# GGY
-110.40.59.0/24
-
-# jizai
-110.40.75.0/24
 
 
 # Alice
@@ -77,8 +66,6 @@ SRC-PORT,9993
 # DE
 2a03:4000:6:16::/64
 
-# CD
-240e:974:eb00:908::/64
 
 596743944.top
 tidc.asia
