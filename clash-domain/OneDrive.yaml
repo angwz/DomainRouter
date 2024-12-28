@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-29 00:28:00 (UTC+8)
+# UPDATED: 2024-12-29 03:04:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 398
+# TOTAL: 403
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -218,6 +218,7 @@ payload:
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
   - 'ns1.monolithindustries.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -262,9 +263,11 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
+  - 'tr.movian.eu'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr1.aag.moe'
@@ -383,6 +386,7 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'wg.mortis.me'
+  - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
@@ -396,6 +400,7 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
   - 'tracker-us.silksa.co.za'
+  - 'tracker.guguan.us.kg'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
