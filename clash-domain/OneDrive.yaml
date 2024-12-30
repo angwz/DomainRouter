@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-30 00:28:01 (UTC+8)
+# UPDATED: 2024-12-30 18:23:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 398
+# TOTAL: 402
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -155,6 +155,7 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
+  - 'freedomalternative.com'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -207,6 +208,7 @@ payload:
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
   - 'cq.kmzs123.cn'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -216,8 +218,8 @@ payload:
   - 'ipv4announce.sktorrent.eu'
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
+  - 'mikrotik2.draatman.net'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns1.monolithindustries.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -244,6 +246,7 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -277,11 +280,9 @@ payload:
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
-  - 'tracker.beeimg.com'
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.bjut.jp'
   - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
@@ -297,6 +298,7 @@ payload:
   - 'tracker.dler.com'
   - 'tracker.dler.org'
   - 'tracker.dmcomic.org'
+  - 'tracker.draatman.uk'
   - 'tracker.dump.cl'
   - 'tracker.edkj.club'
   - 'tracker.ex.ua'
@@ -390,16 +392,18 @@ payload:
   - 'www.torrentsnipe.info'
   - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
-  - 'z.mercax.com'
   - 'd40969.acod.regrucolo.ru'
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
+  - 'torrent.tracker.durukanbal.com'
   - 'tracker-us.silksa.co.za'
   - 'tracker.guguan.us.kg'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
+  - 'u6.trakx.crim.ist'
   - 'udp.tracker.projectk.org'
+  - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
