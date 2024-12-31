@@ -43,8 +43,7 @@ SRC-PORT,9993
 166.108.229.0/24
 67.230.165.0/24
 
-# Alice&GCP
-91.103.123.0/24
+# GCP
 35.208.244.0/24
 
 # Wilson
@@ -54,9 +53,6 @@ SRC-PORT,9993
 # Sun's HW
 119.8.55.0/24
 
-
-# Alice
-2a14:67c0:106::/64
 
 # Sh
 2408:4002:1603:ad00::/56
@@ -137,13 +133,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 [Hongkong]
 '+.hk'
 zerotier.com
+91.103.123.0/24
+2a14:67c0:106::/64
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Spotify/Spotify.list
-
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ea.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/blizzard.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list
 
 # Cloudflare
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.yaml
@@ -183,6 +176,11 @@ DOMAIN-SUFFIX,tktn.be
 # Ubisoft
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ubisoft.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list
+
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ea.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/blizzard.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list
 
 # GOG
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gog.yaml
