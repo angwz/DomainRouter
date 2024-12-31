@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-31 00:29:14 (UTC+8)
+# UPDATED: 2025-01-01 00:29:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 402
+# TOTAL: 401
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -155,7 +155,6 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
-  - 'freedomalternative.com'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -175,7 +174,6 @@ payload:
   - 'servandroidkino.ru'
   - 'shubt.net'
   - 'su-data.com'
-  - 'torrentsmd.com'
   - 'trackarr.org'
   - 'tracker.bz'
   - 'tracker810.xyz'
@@ -193,6 +191,7 @@ payload:
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
+  - 'brightstar.freeddns.org'
   - 'bt.ktrackers.com'
   - 'bt.okmp3.ru'
   - 'bt.poletracker.org'
@@ -220,6 +219,7 @@ payload:
   - 'mail.artixlinux.org'
   - 'mikrotik2.draatman.net'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
   - 'ns1.monolithindustries.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -244,9 +244,7 @@ payload:
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
-  - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
-  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -280,9 +278,11 @@ payload:
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
+  - 'tracker.beeimg.com'
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
+  - 'tracker.bjut.jp'
   - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
@@ -312,7 +312,6 @@ payload:
   - 'tracker.gbitt.info'
   - 'tracker.gcrenwp.top'
   - 'tracker.gcrreen.xyz'
-  - 'tracker.gigantino.net'
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.imgoingto.icu'

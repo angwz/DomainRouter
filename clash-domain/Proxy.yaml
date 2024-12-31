@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2024-12-31 00:11:29 (UTC+8)
+# UPDATED: 2025-01-01 00:11:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 31368
+# TOTAL: 31370
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5721,6 +5721,7 @@ payload:
   - '+.decodet.co'
   - '+.decorativemodels.com'
   - '+.decrypt.day'
+  - '+.deepai.org'
   - '+.deepdiscount.com'
   - '+.deeper.com'
   - '+.deepfake-porn.com'
@@ -21565,6 +21566,7 @@ payload:
   - '+.vraiesagesse.net'
   - '+.vrbgay.com'
   - '+.vrcams.io'
+  - '+.vrchat.com'
   - '+.vred-essentials.com'
   - '+.vredessentials.com'
   - '+.vredprofessional.com'
