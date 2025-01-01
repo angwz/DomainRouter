@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-01 00:11:16 (UTC+8)
+# UPDATED: 2025-01-02 00:11:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 31370
+# TOTAL: 31374
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9428,6 +9428,7 @@ payload:
   - '+.grindr.com'
   - '+.grooby.com'
   - '+.grotty-monday.com'
+  - '+.ground.news'
   - '+.groupfun.com'
   - '+.groups.com'
   - '+.grss-ieee.org'
@@ -10294,6 +10295,7 @@ payload:
   - '+.hpinkjet.com'
   - '+.hpinstantink.ca'
   - '+.hpinstantink.com'
+  - '+.hpjav.com'
   - '+.hpjav.tv'
   - '+.hpkeyboard.com'
   - '+.hplaptop.com'
@@ -10588,6 +10590,7 @@ payload:
   - '+.iask.bz'
   - '+.iask.ca'
   - '+.iav19.com'
+  - '+.iavian.net'
   - '+.iavnight.com'
   - '+.ibb.co'
   - '+.ibeats-uk.com'
@@ -16039,6 +16042,7 @@ payload:
   - '+.pccw.com'
   - '+.pccwglobal.com'
   - '+.pccwsolutions.com'
+  - '+.pcgamestorrents.com'
   - '+.pchomeec.tw'
   - '+.pcij.org'
   - '+.pcloud.com'
