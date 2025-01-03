@@ -1,10 +1,11 @@
-# NAME: Japan
+# NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
 # UPDATED: 2025-01-04 00:30:09 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 2
-# IP-CIDR TOTAL: 2
+# TOTAL: 3
+# IP-CIDR TOTAL: 3
 payload:
-  - '125.6.189.7/32'
-  - '203.104.209.7/32'
+  - '207.241.226.111/32'
+  - '207.241.231.226/32'
+  - '52.58.128.163/32'

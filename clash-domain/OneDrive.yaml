@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-03 00:30:11 (UTC+8)
+# UPDATED: 2025-01-04 00:30:09 (UTC+8)
 # TYPE: domain
-# TOTAL: 400
+# TOTAL: 401
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -241,10 +241,13 @@ payload:
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
+  - 'r.l5.ca'
+  - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -311,7 +314,6 @@ payload:
   - 'tracker.gbitt.info'
   - 'tracker.gcrenwp.top'
   - 'tracker.gcrreen.xyz'
-  - 'tracker.gigantino.net'
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.imgoingto.icu'
@@ -336,6 +338,7 @@ payload:
   - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
+  - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.pmman.tech'
@@ -360,7 +363,6 @@ payload:
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
-  - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
   - 'tracker.vraphim.com'
   - 'tracker.waaa.moe'
@@ -397,7 +399,6 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
   - 'tracker-us.silksa.co.za'
-  - 'tracker.guguan.us.kg'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
