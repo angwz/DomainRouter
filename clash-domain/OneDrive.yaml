@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-05 00:28:00 (UTC+8)
+# UPDATED: 2025-01-06 00:28:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 400
+# TOTAL: 402
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -207,6 +207,7 @@ payload:
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
   - 'cq.kmzs123.cn'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -214,6 +215,7 @@ payload:
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
+  - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'mikrotik2.draatman.net'
@@ -246,10 +248,10 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
-  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
+  - 'share.hkg-fansub.info'
   - 'sparkle.ghostchu-services.top'
   - 't-115.rhcloud.com'
   - 't.213891.xyz'
@@ -263,7 +265,6 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -335,6 +336,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
