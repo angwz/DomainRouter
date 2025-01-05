@@ -131,9 +131,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Emby/Emby.list
 
 [DIRECT]
-angwz.com
+iweii.com
 weesire.com
 h.cool
+angwz.com
 
 # Tencent
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tencent.yaml
