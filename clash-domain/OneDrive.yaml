@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-07 00:27:54 (UTC+8)
+# UPDATED: 2025-01-08 00:44:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 403
+# TOTAL: 400
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -155,7 +155,6 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
-  - 'freedomalternative.com'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -190,7 +189,6 @@ payload:
   - '9.rarbg.to'
   - 'api.ipv4online.uk'
   - 'bandito.byterunner.io'
-  - 'betelgeuse.freeddns.org'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
   - 'bt.ktrackers.com'
@@ -215,6 +213,7 @@ payload:
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
+  - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'mikrotik2.draatman.net'
@@ -247,7 +246,6 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
-  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -325,7 +323,6 @@ payload:
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
-  - 'tracker.kmzs123.tk'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
