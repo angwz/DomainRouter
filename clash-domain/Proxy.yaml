@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-08 00:27:55 (UTC+8)
+# UPDATED: 2025-01-09 00:11:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 31374
+# TOTAL: 31375
 payload:
   - '+.adult'
   - '+.amazon'
@@ -15097,6 +15097,7 @@ payload:
   - '+.nobelprize.org'
   - '+.nobodycanstop.us'
   - '+.nodejs.org'
+  - '+.nodeseek.com'
   - '+.nodesnoop.com'
   - '+.nodesource.com'
   - '+.nofile.io'
