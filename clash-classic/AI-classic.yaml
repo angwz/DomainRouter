@@ -1,16 +1,13 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-09 00:11:53 (UTC+8)
+# UPDATED: 2025-01-09 14:58:47 (UTC+8)
 # TYPE: classic
-# TOTAL: 6
-# DOMAIN-KEYWORD TOTAL: 4
+# TOTAL: 3
+# DOMAIN-KEYWORD TOTAL: 1
 # IP-ASN TOTAL: 2
 payload:
   - DOMAIN-KEYWORD,openaicom-api
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,developerprofiles
-  - DOMAIN-KEYWORD,generativelanguage
 
   - IP-ASN,14061,no-resolve
   - IP-ASN,20473,no-resolve

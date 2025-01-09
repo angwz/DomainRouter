@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-09 00:11:53 (UTC+8)
+# UPDATED: 2025-01-09 14:58:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 111
+# TOTAL: 109
 payload:
   - '+.bing'
   - '+.ai.com'
@@ -72,7 +72,6 @@ payload:
   - '+.x.ai'
   - '+.aistudio.google.com'
   - '+.api.microsoftapp.net'
-  - '+.apis.google.com'
   - '+.bard.google.com'
   - '+.bing-shopping.microsoft-falcon.io'
   - '+.bing.com.cn'
@@ -101,7 +100,6 @@ payload:
   - 'copilot.microsoft.com'
   - 'in.appcenter.ms'
   - 'location.microsoft.com'
-  - 'makersuite.google.com'
   - 'openai-api.arkoselabs.com'
   - 'openaiapi-site.azureedge.net'
   - 'openaicom.imgix.net'
