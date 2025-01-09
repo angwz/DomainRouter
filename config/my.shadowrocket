@@ -2,6 +2,7 @@
 infini-cloud.net
 teracloud.jp
 ai-yyds.com
+claw.cloud
 
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
@@ -44,13 +45,14 @@ tidc.asia
 
 # NC&Ali&HW&BWG
 5.45.101.0/24
-106.14.40.0/24
+#106.14.40.0/24
+8.210.219.0/24
+47.79.35.0/24
 47.103.212.0/24
 166.108.229.0/24
 67.230.165.0/24
 
-# Alice&GCP
-91.103.123.0/24
+# GCP
 35.208.244.0/24
 
 # Wilson
@@ -61,8 +63,9 @@ tidc.asia
 119.8.55.0/24
 
 
-# Alice
-2a14:67c0:106::/64
+# Ali
+240b:4001:278:8403::/64
+240b:4009:25a:1801::/64
 
 # Sh
 2408:4002:1603:ad00::/56
@@ -123,6 +126,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bing/Bing.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/google-gemini.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-ai-chat-!cn.yaml
 
