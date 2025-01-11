@@ -18,7 +18,13 @@ type = "select"
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
-rule = ["[]🫒 日本高速", "[]🥗 美利坚高速", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
+rule = [
+  "!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?=.*(家宽)).*$)",
+  "[]🫒 日本高速",
+  "[]🥗 美利坚高速",
+  "[]🌳 德意志帝国",
+  "[]✈️ 手动切换",
+]
 type = "select"
 
 [[custom_groups]]
@@ -28,7 +34,13 @@ type = "select"
 
 [[custom_groups]]
 name = "📱 TikTok"
-rule = ["[]🫒 日本高速", "[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换"]
+rule = [
+  "!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?=.*(家宽)).*$)",
+  "[]🫒 日本高速",
+  "[]🌠 节点选择",
+  "[]🥗 美利坚高速",
+  "[]✈️ 手动切换",
+]
 type = "select"
 
 [[custom_groups]]
@@ -43,7 +55,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🖥️ YouTube"
-rule = ["[]🥗 美利坚高速", "[]🌠 节点选择", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
+rule = ["[]🌺 香港高速", "[]🥗 美利坚高速", "[]🌠 节点选择", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -59,8 +71,7 @@ type = "select"
 [[custom_groups]]
 name = "🎬 Netflix"
 rule = [
-  "!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?=.*CN2中转)(?!.*尼日利亚).*$)",
-  "!!GROUPID=0!!(CN2中转)",
+  "!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?=.*(家宽)).*$)",
   "[]🫒 日本高速",
   "[]🐦‍🔥 香港专线",
   "[]✈️ 手动切换",
@@ -75,24 +86,22 @@ type = "select"
 [[custom_groups]]
 name = "🌍 国际流媒体"
 rule = [
-  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*CN2中转).*$)",
-  "!!GROUPID=0!!(CN2中转)",
-  "[]🥗 美利坚高速",
-  "[]🫒 日本高速",
   "[]🌺 香港高速",
+  "[]🫒 日本高速",
+  "[]🥗 美利坚高速",
   "[]✈️ 手动切换",
 ]
 type = "select"
 
 [[custom_groups]]
 name = "🐳 漏网の鱼"
-rule = ["[]🥗 美利坚高速", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
 name = "🐦‍🔥 香港专线"
 rule = [
-  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*(BGP|专线)).*$)",
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*(Claw|专线)).*$)",
   "[]🌺 香港高速",
 ]
 type = "select"
@@ -100,7 +109,7 @@ type = "select"
 [[custom_groups]]
 name = "🌺 香港高速"
 rule = [
-  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*(BGP|专线)).*$)",
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*专线).*$)",
 ]
 type = "select"
 
