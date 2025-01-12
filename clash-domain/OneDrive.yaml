@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-12 00:26:35 (UTC+8)
+# UPDATED: 2025-01-13 00:26:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 400
+# TOTAL: 397
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -206,7 +206,6 @@ payload:
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
   - 'cq.kmzs123.cn'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -247,13 +246,13 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
   - 'share.hkg-fansub.info'
   - 'sparkle.ghostchu-services.top'
   - 't-115.rhcloud.com'
-  - 't.213891.xyz'
   - 't.acg.rip'
   - 't.jaekr.sh'
   - 't.nyaatracker.com'
@@ -271,12 +270,10 @@ payload:
   - 'tr.zukizuki.org'
   - 'tr1.aag.moe'
   - 'tr2.trkb.ru'
-  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
-  - 'tracker.aburaya.live'
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
