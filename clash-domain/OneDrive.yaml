@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-16 00:27:34 (UTC+8)
+# UPDATED: 2025-01-17 00:27:09 (UTC+8)
 # TYPE: domain
-# TOTAL: 389
+# TOTAL: 393
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -244,6 +244,7 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
@@ -260,12 +261,12 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
+  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -328,6 +329,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -369,6 +371,7 @@ payload:
   - 'tracker2.dler.org'
   - 'tracker2.itzmx.com'
   - 'tracker2.torrentino.com'
+  - 'tracker3.itzmx.com'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
   - 'trackers.mlsub.net'
@@ -390,6 +393,7 @@ payload:
   - 'torrent.tracker.durukanbal.com'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
+  - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
