@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-17 00:27:09 (UTC+8)
+# UPDATED: 2025-01-18 00:27:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 393
+# TOTAL: 381
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -172,8 +172,6 @@ payload:
   - 'servandroidkino.ru'
   - 'shubt.net'
   - 'su-data.com'
-  - 'torrentsmd.com'
-  - 'trackarr.org'
   - 'tracker.bz'
   - 'tracker810.xyz'
   - 'wepzone.net'
@@ -204,8 +202,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'cq.kmzs123.cn'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -217,7 +213,6 @@ payload:
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -244,9 +239,7 @@ payload:
   - 'retracker.spark-rostov.ru'
   - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
-  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
-  - 'serpb.vpsburti.com'
   - 'share.dmhy.org'
   - 'share.hkg-fansub.info'
   - 'sparkle.ghostchu-services.top'
@@ -259,14 +252,12 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
-  - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
-  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -379,7 +370,6 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'wg.mortis.me'
-  - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
@@ -391,10 +381,8 @@ payload:
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
-  - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
-  - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
