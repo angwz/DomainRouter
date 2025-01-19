@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-19 00:10:02 (UTC+8)
+# UPDATED: 2025-01-20 00:09:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 31385
+# TOTAL: 31391
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4662,6 +4662,7 @@ payload:
   - '+.channel4.com'
   - '+.channel5.com'
   - '+.channelnewsasia.com'
+  - '+.chanworld.org'
   - '+.chaoex.com'
   - '+.chapm25.com'
   - '+.chargenow.com'
@@ -5648,6 +5649,7 @@ payload:
   - '+.darwinsource.org'
   - '+.darwinsourcecode.com'
   - '+.dasaob.online'
+  - '+.dashlane.com'
   - '+.dashwood360.com'
   - '+.dastanhisexy.cc'
   - '+.dastrassi.org'
@@ -16462,6 +16464,7 @@ payload:
   - '+.poop-pee.online'
   - '+.poopee-puke.com'
   - '+.poopeegirls.com'
+  - '+.popai.pro'
   - '+.popcap.com'
   - '+.popjav.tv'
   - '+.popo.tw'
@@ -23485,6 +23488,7 @@ payload:
   - '+.abdn-access-biomedical.ac.uk'
   - '+.abdn-online.ac.uk'
   - '+.abdn.ac.uk'
+  - '+.abebooks.co.uk'
   - '+.abematv.co.jp'
   - '+.aber.ac.uk'
   - '+.aberbangorpartnership.ac.uk'
@@ -24641,6 +24645,7 @@ payload:
   - '+.carmer.ac.uk'
   - '+.carnegie.ac.uk'
   - '+.carnegiecollege.ac.uk'
+  - '+.carousell.com.hk'
   - '+.carr-lse.ac.uk'
   - '+.carshalton.ac.uk'
   - '+.cartoons.ac.uk'
@@ -30767,6 +30772,7 @@ payload:
   - '+.volvotrucks.com.tw'
   - '+.volvotrucks.com.ua'
   - '+.vows.ac.uk'
+  - '+.vpl.bibliocommons.com'
   - '+.vssn.ac.uk'
   - '+.vtri.ac.uk'
   - '+.vts.ac.uk'
