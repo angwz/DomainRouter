@@ -37,7 +37,7 @@ DST-PORT,9993
 SRC-PORT,9993
 
 
-# NC&Ali&HW&BWG
+# NC&Ali&HW&BWG#TC
 5.45.101.0/24
 
 8.210.219.0/24
@@ -50,6 +50,7 @@ SRC-PORT,9993
 
 67.230.165.0/24
 
+43.142.53.0/24
 
 # GCP
 35.208.244.0/24
@@ -81,6 +82,9 @@ SRC-PORT,9993
 
 # Acck
 2a13:e2c4:fefa:1780::/64
+
+# TC
+2402:4e00:1420:500::/64
 
 
 596743944.top
@@ -320,6 +324,15 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/nico
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Niconico/Niconico.list
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HuluJP/HuluJP.list
+
+# Binance
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/binance.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Binance/Binance.list
+
+# OKX
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/okx.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OKX/OKX.list
+
 
 [Singapore]
 '+.sg'
