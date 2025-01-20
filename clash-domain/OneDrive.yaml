@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-20 02:04:47 (UTC+8)
+# UPDATED: 2025-01-21 00:27:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 386
+# TOTAL: 383
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -191,6 +191,7 @@ payload:
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
   - 'bt.ktrackers.com'
+  - 'bt.okmp3.ru'
   - 'bt.poletracker.org'
   - 'bt.ptlsp.com'
   - 'bt.rer.lol'
@@ -204,6 +205,7 @@ payload:
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
   - 'cq.kmzs123.cn'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -280,7 +282,6 @@ payload:
   - 'tracker.btcake.com'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
-  - 'tracker.corpscorp.online'
   - 'tracker.cubonegro.lol'
   - 'tracker.cyberia.is'
   - 'tracker.darkness.services'
@@ -369,25 +370,21 @@ payload:
   - 'tracker3.itzmx.com'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
-  - 'trackers.mlsub.net'
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'wg.mortis.me'
-  - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
-  - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
   - 'd40969.acod.regrucolo.ru'
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
+  - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
-  - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
-  - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
