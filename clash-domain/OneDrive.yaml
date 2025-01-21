@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-21 00:27:15 (UTC+8)
+# UPDATED: 2025-01-22 00:27:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 383
+# TOTAL: 385
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -272,7 +272,6 @@ payload:
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
-  - 'tracker.beeimg.com'
   - 'tracker.birkenwald.de'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
@@ -282,6 +281,7 @@ payload:
   - 'tracker.btcake.com'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
+  - 'tracker.corpscorp.online'
   - 'tracker.cubonegro.lol'
   - 'tracker.cyberia.is'
   - 'tracker.darkness.services'
@@ -317,7 +317,6 @@ payload:
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
-  - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
   - 'tracker.lintk.me'
   - 'tracker.loligirl.cn'
@@ -377,6 +376,7 @@ payload:
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
+  - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
   - 'd40969.acod.regrucolo.ru'
   - 'h4.trakx.nibba.trade'
@@ -385,6 +385,8 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
+  - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
+  - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
