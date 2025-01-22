@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-22 00:11:41 (UTC+8)
+# UPDATED: 2025-01-23 00:12:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 31425
+# TOTAL: 31436
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3542,6 +3542,7 @@ payload:
   - '+.blurams.com'
   - '+.blylq.buzz'
   - '+.blz-contentstack.com'
+  - '+.bmdru.com'
   - '+.bmfinn.com'
   - '+.bmia.org'
   - '+.bmj.com'
@@ -13985,6 +13986,7 @@ payload:
   - '+.moegirl.org'
   - '+.moeimg.net'
   - '+.moemax.net'
+  - '+.moeshare.cc'
   - '+.moez-m.com'
   - '+.mofaxiehui.com'
   - '+.mofos.com'
@@ -16340,6 +16342,7 @@ payload:
   - '+.pixiv.me'
   - '+.pixiv.net'
   - '+.pixiv.org'
+  - '+.pixivsketch.net'
   - '+.pixlr-o-matic.com'
   - '+.pixlromatic.com'
   - '+.pixnet.cc'
@@ -16356,6 +16359,7 @@ payload:
   - '+.pki-post.ch'
   - '+.pki-posta.ch'
   - '+.pki-poste.ch'
+  - '+.pkqjiasu.com'
   - '+.placemix.com'
   - '+.placesdocs.com'
   - '+.planetminecraft.com'
@@ -17180,6 +17184,7 @@ payload:
   - '+.qi-gong.me'
   - '+.qianbai.tw'
   - '+.qiandao.today'
+  - '+.qianglie.com'
   - '+.qiangwaikan.com'
   - '+.qiangyou.org'
   - '+.qiao-cn.com'
@@ -17657,6 +17662,7 @@ payload:
   - '+.robotoffice.com'
   - '+.robustnessiskey.com'
   - '+.rocket-inc.net'
+  - '+.rocket.chat'
   - '+.rocketbbs.com'
   - '+.rocketfishproducts.com'
   - '+.rockettube.com'
@@ -20051,6 +20057,7 @@ payload:
   - '+.tiney.com'
   - '+.tineye.com'
   - '+.ting53.xyz'
+  - '+.tingtalk.me'
   - '+.tinhduc.org'
   - '+.tinkerboxapp.com'
   - '+.tinkercad.com'
@@ -20834,6 +20841,7 @@ payload:
   - '+.uug25.com'
   - '+.uug26.com'
   - '+.uug27.com'
+  - '+.uujiasu.com'
   - '+.uuk28.com'
   - '+.uukanshu.com'
   - '+.uun78.com'
@@ -21567,6 +21575,7 @@ payload:
   - '+.voyeurweb.com'
   - '+.vpejey.xyz'
   - '+.vpn.ac'
+  - '+.vpn.net'
   - '+.vpn4all.com'
   - '+.vpnaccount.org'
   - '+.vpnaccounts.com'
@@ -21817,6 +21826,7 @@ payload:
   - '+.webwarper.net'
   - '+.webworkerdaily.com'
   - '+.wechatlawsuit.com'
+  - '+.weebly.com'
   - '+.weekly-economist.com'
   - '+.weekmag.info'
   - '+.wefightcensorship.org'
@@ -22337,6 +22347,7 @@ payload:
   - '+.xfockers.com'
   - '+.xfreehd.com'
   - '+.xfuckonline.com'
+  - '+.xfxssr.me'
   - '+.xgames.zone'
   - '+.xgaytube.com'
   - '+.xgaytube.tv'
@@ -22478,6 +22489,7 @@ payload:
   - '+.xn--mts47c3w9b1qr.net'
   - '+.xn--mtswd61ejxq.com'
   - '+.xn--ngstr-lra8j.com'
+  - '+.xn--noss43i.com'
   - '+.xn--oiq.cc'
   - '+.xn--p8j9a0d9c9a.xn--q9jyb4c'
   - '+.xn--pearsonenespaol-brb.com'
@@ -30814,7 +30826,6 @@ payload:
   - '+.wacc.ac.uk'
   - '+.waes.ac.uk'
   - '+.waf.ac.uk'
-  - '+.waittingfor001.weebly.com'
   - '+.wakcoll.ac.uk'
   - '+.wakefield.ac.uk'
   - '+.walc.ac.uk'

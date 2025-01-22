@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-22 00:27:33 (UTC+8)
+# UPDATED: 2025-01-23 00:27:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 385
+# TOTAL: 379
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -173,7 +173,6 @@ payload:
   - 'servandroidkino.ru'
   - 'shubt.net'
   - 'su-data.com'
-  - 'torrentsmd.com'
   - 'tracker.bz'
   - 'tracker810.xyz'
   - 'wepzone.net'
@@ -217,7 +216,6 @@ payload:
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -242,8 +240,8 @@ payload:
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
-  - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
   - 'share.hkg-fansub.info'
@@ -259,7 +257,6 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -352,7 +349,6 @@ payload:
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
-  - 'tracker.vanitycore.co'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
@@ -364,15 +360,13 @@ payload:
   - 'tracker1.itzmx.com'
   - 'tracker1.myporn.club'
   - 'tracker2.dler.org'
-  - 'tracker2.itzmx.com'
   - 'tracker2.torrentino.com'
-  - 'tracker3.itzmx.com'
   - 'tracker3.torrentino.com'
-  - 'tracker4.itzmx.com'
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'wg.mortis.me'
+  - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
