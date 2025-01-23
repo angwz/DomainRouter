@@ -1,12 +1,11 @@
-# NAME: YouTube
+# NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
 # UPDATED: 2025-01-24 00:27:51 (UTC+8)
 # TYPE: ipcidr
 # TOTAL: 3
-# IP-CIDR TOTAL: 2
-# IP-CIDR6 TOTAL: 1
+# IP-CIDR TOTAL: 3
 payload:
-  - '172.110.32.0/21'
-  - '216.73.80.0/20'
-  - '2620:120:e000::/40'
+  - '207.241.226.111/32'
+  - '207.241.231.226/32'
+  - '52.58.128.163/32'
