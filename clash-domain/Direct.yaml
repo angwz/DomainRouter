@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-24 00:10:11 (UTC+8)
+# UPDATED: 2025-01-24 02:01:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 2059
+# TOTAL: 2058
 payload:
   - '+.citic'
   - '+.icbc'
@@ -390,7 +390,6 @@ payload:
   - '+.tidb.ai'
   - '+.tidb.net'
   - '+.tidbcloud.com'
-  - '+.tidc.asia'
   - '+.tikv.org'
   - '+.tipdim.org'
   - '+.tjstats.com'

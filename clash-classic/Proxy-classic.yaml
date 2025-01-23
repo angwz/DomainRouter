@@ -1,12 +1,11 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-24 00:11:53 (UTC+8)
+# UPDATED: 2025-01-24 02:03:05 (UTC+8)
 # TYPE: classic
-# TOTAL: 50
-# DOMAIN-KEYWORD TOTAL: 37
-# IP-ASN TOTAL: 5
-# PROCESS-NAME TOTAL: 8
+# TOTAL: 38
+# DOMAIN-KEYWORD TOTAL: 36
+# PROCESS-NAME TOTAL: 2
 payload:
   - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,1drv
@@ -44,19 +43,6 @@ payload:
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,wikileaks
-  - DOMAIN-KEYWORD,nicegram
-
-  - IP-ASN,211157,no-resolve
-  - IP-ASN,44907,no-resolve
-  - IP-ASN,59930,no-resolve
-  - IP-ASN,62014,no-resolve
-  - IP-ASN,62041,no-resolve
 
   - PROCESS-NAME,com.amazon.avod.thirdpartyclient
   - PROCESS-NAME,LookupViewService
-  - PROCESS-NAME,Telegram.exe
-  - PROCESS-NAME,nekox.messenger
-  - PROCESS-NAME,org.telegram.messenger
-  - PROCESS-NAME,telegram-desktop
-  - PROCESS-NAME,tw.nekomimi.nekogram
-  - PROCESS-NAME,xyz.nextalone.nagram

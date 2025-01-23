@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-24 00:11:53 (UTC+8)
+# UPDATED: 2025-01-24 02:03:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 31436
+# TOTAL: 31432
 payload:
   - '+.adult'
   - '+.amazon'
@@ -13303,7 +13303,6 @@ payload:
   - '+.maying.co'
   - '+.mbeats-tech.com'
   - '+.mbheadphone.com'
-  - '+.mbrx.app'
   - '+.mcadforums.com'
   - '+.mcaf.ee'
   - '+.mcchcdn.com'
@@ -19165,7 +19164,6 @@ payload:
   - '+.steezylist.com'
   - '+.steganos.com'
   - '+.steganos.net'
-  - '+.stel.com'
   - '+.stepchina.com'
   - '+.stepdaughter.love'
   - '+.stepfamilyporn.com'
@@ -31330,8 +31328,6 @@ payload:
   - 'angle.com.tw'
   - 'anime-rule34-world.b-cdn.net'
   - 'api-p.videomarket.jp'
-  - 'api.imem.app'
-  - 'api.swiftgram.app'
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
   - 'beck-online.beck.de'
