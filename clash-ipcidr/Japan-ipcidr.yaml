@@ -1,10 +1,12 @@
 # NAME: Japan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-30 00:17:33 (UTC+8)
+# UPDATED: 2025-01-31 00:16:56 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 2
-# IP-CIDR TOTAL: 2
+# TOTAL: 4
+# IP-CIDR TOTAL: 4
 payload:
+  - '104.154.127.126/32'
   - '125.6.189.7/32'
   - '203.104.209.7/32'
+  - '35.186.224.47/32'

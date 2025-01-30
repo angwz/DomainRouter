@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-30 00:17:33 (UTC+8)
+# UPDATED: 2025-01-31 00:16:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 65
+# TOTAL: 90
 payload:
   - '+.jp'
   - '+.nico'
@@ -46,6 +46,7 @@ payload:
   - '+.bnbstatic.com'
   - '+.bnbzh.ac'
   - '+.bntrace.com'
+  - '+.byspotify.com'
   - '+.cosmiccute.com'
   - '+.dmm-extension.com'
   - '+.dmm.com'
@@ -64,9 +65,33 @@ payload:
   - '+.okx-dns1.com'
   - '+.okx-dns2.com'
   - '+.okx.com'
+  - '+.pscdn.co'
   - '+.saasexch.cc'
   - '+.saasexch.com'
   - '+.saasexch.io'
+  - '+.scdn.co'
   - '+.socdm.com'
+  - '+.spoti.fi'
+  - '+.spotify-everywhere.com'
+  - '+.spotify.com'
+  - '+.spotify.design'
+  - '+.spotifycdn.com'
+  - '+.spotifycdn.net'
+  - '+.spotifycharts.com'
+  - '+.spotifycodes.com'
+  - '+.spotifyforbrands.com'
+  - '+.spotifyjobs.com'
+  - '+.spotilocal.com'
   - '+.tenco.cc'
+  - '+.tospotify.com'
   - '+.wheel-soft.com'
+  - '+.audio-ak-spotify-com.akamaized.net'
+  - '+.heads4-ak-spotify-com.akamaized.net'
+  - '+.spotify-com.akamaized.net'
+  - '+.spotify.app.link'
+  - 'audio4-ak-spotify-com.akamaized.net'
+  - 'cdn-spotify-experiments.conductrics.com'
+  - 'heads-ak-spotify-com.akamaized.net'
+  - 'spotify.com.edgesuite.net'
+  - 'spotify.map.fastly.net'
+  - 'spotify.map.fastlylb.net'

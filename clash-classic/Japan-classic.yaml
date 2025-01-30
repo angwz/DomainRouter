@@ -1,13 +1,12 @@
-# NAME: TikTok
+# NAME: Japan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
 # UPDATED: 2025-01-31 00:16:56 (UTC+8)
 # TYPE: classic
-# TOTAL: 3
-# DOMAIN-KEYWORD TOTAL: 2
+# TOTAL: 2
+# DOMAIN-KEYWORD TOTAL: 1
 # PROCESS-NAME TOTAL: 1
 payload:
-  - DOMAIN-KEYWORD,musical.ly
-  - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,spotify
 
-  - PROCESS-NAME,com.zhiliaoapp.musically
+  - PROCESS-NAME,com.spotify.music
