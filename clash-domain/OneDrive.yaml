@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-01-31 00:16:56 (UTC+8)
+# UPDATED: 2025-02-01 00:16:58 (UTC+8)
 # TYPE: domain
 # TOTAL: 388
 payload:
@@ -315,6 +315,7 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
   - 'tracker.kmzs123.cn'
+  - 'tracker.kmzs123.com'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -332,7 +333,6 @@ payload:
   - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
-  - 'tracker.pmman.tech'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
