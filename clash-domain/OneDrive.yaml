@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-01 00:16:58 (UTC+8)
+# UPDATED: 2025-02-02 00:15:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 388
+# TOTAL: 383
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -263,7 +263,6 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
-  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -314,8 +313,6 @@ payload:
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
-  - 'tracker.kmzs123.cn'
-  - 'tracker.kmzs123.com'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -354,7 +351,6 @@ payload:
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.vanitycore.co'
-  - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
   - 'tracker.yume-hatsuyuki.moe'
@@ -387,7 +383,6 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
-  - 'tracker.wsaoa.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
   - 'udp.tracker.projectk.org'
