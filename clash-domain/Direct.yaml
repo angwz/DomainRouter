@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-02 00:08:27 (UTC+8)
+# UPDATED: 2025-02-02 22:32:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 2058
+# TOTAL: 2057
 payload:
   - '+.citic'
   - '+.icbc'
@@ -144,7 +144,6 @@ payload:
   - '+.citiciam.com'
   - '+.citicifh.com'
   - '+.citicsf.com'
-  - '+.claw.cloud'
   - '+.cloudflare-cn.com'
   - '+.cloudflareanycast.net'
   - '+.cloudflarechina.cn'

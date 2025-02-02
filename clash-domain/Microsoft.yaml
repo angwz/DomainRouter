@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-02 00:15:31 (UTC+8)
+# UPDATED: 2025-02-02 22:40:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 704
+# TOTAL: 702
 payload:
   - '+.azure'
   - '+.bing'
@@ -642,7 +642,6 @@ payload:
   - '+.xbox360.eu'
   - '+.xbox360.org'
   - '+.xboxab.com'
-  - '+.xboxab.net'
   - '+.xboxgamepass.com'
   - '+.xboxgamestudios.com'
   - '+.xboxlive.cn'
@@ -651,7 +650,6 @@ payload:
   - '+.xboxone.com'
   - '+.xboxone.eu'
   - '+.xboxplayanywhere.com'
-  - '+.xboxservice.com'
   - '+.xboxservices.com'
   - '+.xboxstudios.com'
   - '+.xbx.lv'

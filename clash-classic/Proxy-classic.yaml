@@ -1,13 +1,12 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-02 00:09:07 (UTC+8)
+# UPDATED: 2025-02-02 22:33:36 (UTC+8)
 # TYPE: classic
-# TOTAL: 38
+# TOTAL: 37
 # DOMAIN-KEYWORD TOTAL: 36
-# PROCESS-NAME TOTAL: 2
+# PROCESS-NAME TOTAL: 1
 payload:
-  - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
@@ -35,6 +34,7 @@ payload:
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,amazon
+  - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,jav
   - DOMAIN-KEYWORD,musical.ly
@@ -44,5 +44,4 @@ payload:
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,wikileaks
 
-  - PROCESS-NAME,com.amazon.avod.thirdpartyclient
   - PROCESS-NAME,LookupViewService

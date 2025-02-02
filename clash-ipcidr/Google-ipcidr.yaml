@@ -1,7 +1,7 @@
 # NAME: Google
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-02 00:15:31 (UTC+8)
+# UPDATED: 2025-02-02 22:40:08 (UTC+8)
 # TYPE: ipcidr
 # TOTAL: 805
 # IP-CIDR TOTAL: 629
@@ -87,7 +87,7 @@ payload:
   - '134.231.192.0/19'
   - '134.231.224.0/20'
   - '134.231.240.0/23'
-  - '134.231.244.0/23'
+  - '134.231.244.0/22'
   - '135.84.69.0/24'
   - '136.124.0.0/15'
   - '136.22.0.0/23'
