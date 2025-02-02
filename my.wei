@@ -119,12 +119,18 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 [Hongkong]
 '+.hk'
+'chat.angwz.com'
+'claude.angwz.com'
+'gpt4.angwz.com'
 zerotier.com
+nodeseek.com
+
 91.103.123.0/24
 50.114.152.0/24
 2a14:67c0:106::/64
 2a14:67c0:301::/64
 
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
 
 # CloudGlobal
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudGlobal/CloudGlobal.list
@@ -185,12 +191,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 [America]
 '+.us'
-'chat.angwz.com'
-'claude.angwz.com'
-'gpt4.angwz.com'
-nodeseek.com
 
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AppleProxy/AppleProxy.list
 
@@ -463,7 +464,7 @@ ChinaMedia: DIRECT
 Microsoft: 🪟 Microsoft
 Media: 🌍 国际流媒体
 GEOIP,HK: 🐦‍🔥 香港专线,no-resolve
+Proxy: 🐦‍🔥 香港专线
 China: DIRECT
 GEOIP,CN: DIRECT
-Proxy: 🥗 美利坚高速
 MATCH: 🐳 漏网の鱼
