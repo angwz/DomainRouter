@@ -53,7 +53,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🖥️ YouTube"
-rule = ["[]🌺 香港高速", "[]🥗 美利坚高速", "[]🌠 节点选择", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
+rule = ["[]🥗 美利坚高速", "[]🌺 香港高速", "[]🌠 节点选择", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -83,8 +83,8 @@ type = "select"
 [[custom_groups]]
 name = "🌍 国际流媒体"
 rule = [
-  "[]🌺 香港高速",
   "[]🫒 日本高速",
+  "[]🌺 香港高速",
   "[]🥗 美利坚高速",
   "[]✈️ 手动切换",
 ]
@@ -92,21 +92,21 @@ type = "select"
 
 [[custom_groups]]
 name = "🐳 漏网の鱼"
-rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🥗 美利坚高速", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
 name = "🐦‍🔥 香港专线"
 rule = [
-  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*(Claw|专线)).*$)",
   "[]🌺 香港高速",
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*(IPLC|IEPL)).*$)",
 ]
 type = "select"
 
 [[custom_groups]]
 name = "🌺 香港高速"
 rule = [
-  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*专线).*$)",
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*(IPLC|IEPL)).*$)",
 ]
 type = "select"
 

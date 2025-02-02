@@ -2,7 +2,6 @@
 infini-cloud.net
 teracloud.jp
 ai-yyds.com
-claw.cloud
 
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
@@ -58,9 +57,6 @@ SRC-PORT,9993
 103.216.253.0/24
 
 
-# Sun's HW
-119.8.55.0/24
-
 
 # Ali
 240b:4001:278:8403::/64
@@ -79,30 +75,10 @@ SRC-PORT,9993
 596743944.top
 
 [Proxy]
-'chat.angwz.com'
-'claude.angwz.com'
-'gpt4.angwz.com'
-nodeseek.com
 
-
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
-
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/amazon.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Amazon/Amazon.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.list
-
-# X
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/x.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geoip/twitter.yaml
-
-# CloudGlobal
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudGlobal/CloudGlobal.list
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/azure.yaml
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/DNS/DNS.list
 
 
 [OpenAI]
@@ -148,6 +124,18 @@ zerotier.com
 50.114.152.0/24
 2a14:67c0:106::/64
 2a14:67c0:301::/64
+
+
+# CloudGlobal
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudGlobal/CloudGlobal.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/azure.yaml
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/DNS/DNS.list
+
+# X
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/x.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geoip/twitter.yaml
 
 # Cloudflare
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.yaml
@@ -201,11 +189,21 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 [America]
 '+.us'
+'chat.angwz.com'
+'claude.angwz.com'
+'gpt4.angwz.com'
+nodeseek.com
+
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AppleProxy/AppleProxy.list
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/USMedia/USMedia.list
 
+
+# Amazon
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/amazon.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Amazon/Amazon.list
 
 # PayPal
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/paypal.yaml
@@ -290,6 +288,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 [Japan]
 '+.jp'
+
+
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dmm.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DMM/DMM.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dmm-porn.yaml
@@ -313,6 +313,11 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 [Singapore]
 '+.sg'
+claw.cloud
+
+# Telegram
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
 
 [Taiwan]
 '+.tw'
@@ -353,15 +358,15 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cate
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tracker.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/PrivateTracker/PrivateTracker.list
 
+# Xbox
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xbox.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.list
+
 
 
 [Microsoft]
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
-
-# Xbox
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xbox.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.list
 
 
 [Google]
@@ -375,9 +380,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
 
-# Telegram
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
 
 
 # Dev
@@ -451,14 +453,18 @@ Google: 📧 Google
 Japan: 🫒 日本高速
 GEOIP,CLOUDFLARE: 🐦‍🔥 香港专线,no-resolve
 Germany: 🌳 德意志帝国
+GEOIP,JP: 🫒 日本高速,no-resolve
 America: 🥗 美利坚高速
+GEOIP,US: 🥗 美利坚高速,no-resolve
+GEOIP,CA: 🥗 美利坚高速,no-resolve
 Hongkong: 🐦‍🔥 香港专线
+Singapore: 🥝 新加坡高速
+GEOIP,SG: 🥗 美利坚高速,no-resolve
 ChinaMedia: DIRECT
 Microsoft: 🪟 Microsoft
 Media: 🌍 国际流媒体
-Proxy: 🌠 节点选择
+GEOIP,HK: 🐦‍🔥 香港专线,no-resolve
 China: DIRECT
-
 GEOIP,CN: DIRECT
-GEOIP,HK: 🐦‍🔥 香港专线
+Proxy: 🥗 美利坚高速
 MATCH: 🐳 漏网の鱼
