@@ -1,19 +1,23 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-02 22:32:56 (UTC+8)
+# UPDATED: 2025-02-03 00:09:16 (UTC+8)
 # TYPE: classic
-# TOTAL: 44
-# DOMAIN-KEYWORD TOTAL: 5
+# TOTAL: 47
+# DOMAIN-KEYWORD TOTAL: 6
+# IP-ASN TOTAL: 1
 # DST-PORT TOTAL: 1
 # SRC-PORT TOTAL: 1
-# PROCESS-NAME TOTAL: 37
+# PROCESS-NAME TOTAL: 38
 payload:
   - DOMAIN-KEYWORD,aria2
   - DOMAIN-KEYWORD,thunder
   - DOMAIN-KEYWORD,xlliveud
   - DOMAIN-KEYWORD,xunlei
   - DOMAIN-KEYWORD,yunpan
+  - DOMAIN-KEYWORD,weibo
+
+  - IP-ASN,132203,no-resolve
 
   - DST-PORT,9993
 
@@ -56,3 +60,4 @@ payload:
   - PROCESS-NAME,qbittorrent.exe
   - PROCESS-NAME,uTorrent
   - PROCESS-NAME,uTorrent.exe
+  - PROCESS-NAME,com.taobao.taobao
