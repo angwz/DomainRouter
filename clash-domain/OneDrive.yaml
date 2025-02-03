@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-03 00:16:19 (UTC+8)
+# UPDATED: 2025-02-04 00:17:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 430
+# TOTAL: 431
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -246,6 +246,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -254,7 +255,6 @@ payload:
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
-  - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
   - 'login.live.com'
   - 'logincdn.msauth.net'
@@ -285,6 +285,7 @@ payload:
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
+  - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
@@ -302,7 +303,6 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -369,6 +369,7 @@ payload:
   - 'tracker.moeking.me'
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
+  - 'tracker.nanoha.org'
   - 'tracker.netmap.top'
   - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
