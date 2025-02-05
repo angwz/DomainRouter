@@ -116,6 +116,11 @@ rule = ["!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日�
 type = "select"
 
 [[custom_groups]]
+name = "🐸 台湾节点"
+rule = ["!!GROUPID=0!!(台|新北|彰化|TW|tw|Taiwan)"]
+type = "select"
+
+[[custom_groups]]
 name = "🥝 新加坡高速"
 rule = ["!!GROUPID=0!!(新加坡|新|坡|狮城|SG|sg|Singapore)"]
 type = "select"
