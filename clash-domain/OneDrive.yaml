@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-05 00:17:05 (UTC+8)
+# UPDATED: 2025-02-06 00:17:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 428
+# TOTAL: 427
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -255,6 +255,7 @@ payload:
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
+  - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
   - 'login.live.com'
   - 'logincdn.msauth.net'
@@ -302,7 +303,6 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -408,11 +408,8 @@ payload:
   - 'tracker1.itzmx.com'
   - 'tracker1.myporn.club'
   - 'tracker2.dler.org'
-  - 'tracker2.itzmx.com'
   - 'tracker2.torrentino.com'
-  - 'tracker3.itzmx.com'
   - 'tracker3.torrentino.com'
-  - 'tracker4.itzmx.com'
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
@@ -432,4 +429,6 @@ payload:
   - 'tracker.wsaoa.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'
+  - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
+  - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
