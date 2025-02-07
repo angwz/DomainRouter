@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-07 00:15:51 (UTC+8)
+# UPDATED: 2025-02-08 00:17:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 880
+# TOTAL: 883
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -594,6 +594,8 @@ payload:
   - '+.tiktokcdn.com'
   - '+.tiktokd.net'
   - '+.tiktokd.org'
+  - '+.tiktokeu-cdn.com'
+  - '+.tiktokrow-cdn.com'
   - '+.tiktokv.com'
   - '+.tiktokv.eu'
   - '+.tiktokv.us'
@@ -646,6 +648,7 @@ payload:
   - '+.ttgtm.com'
   - '+.ttjisu.com'
   - '+.ttlivecdn.com'
+  - '+.ttoverseaus.net'
   - '+.ttwebview.com'
   - '+.ttwstatic.com'
   - '+.ugshare-img.com'

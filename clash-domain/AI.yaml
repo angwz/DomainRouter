@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-07 00:09:28 (UTC+8)
+# UPDATED: 2025-02-08 00:10:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 109
+# TOTAL: 110
 payload:
   - '+.bing'
   - '+.ai.com'
@@ -38,6 +38,7 @@ payload:
   - '+.featuregates.org'
   - '+.flipwithsurface.com'
   - '+.generativeai.google'
+  - '+.groq.com'
   - '+.identrust.com'
   - '+.intercom.io'
   - '+.intercomcdn.com'
