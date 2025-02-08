@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-08 00:10:36 (UTC+8)
+# UPDATED: 2025-02-09 00:09:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 31294
+# TOTAL: 31299
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9385,6 +9385,7 @@ payload:
   - '+.gravitytank.com'
   - '+.grazie.ai'
   - '+.greasespot.net'
+  - '+.greasyfork.org'
   - '+.great-firewall.com'
   - '+.great-roc.org'
   - '+.greatergothammini.com'
@@ -11346,6 +11347,7 @@ payload:
   - '+.ipadmini.lk'
   - '+.ipadpro.buzz'
   - '+.ipalter.com'
+  - '+.ipdefenseforum.com'
   - '+.ipfire.org'
   - '+.ipfs-gateway.cloud'
   - '+.ipfs.io'
@@ -15078,6 +15080,7 @@ payload:
   - '+.nobelprize.org'
   - '+.nobodycanstop.us'
   - '+.nodejs.org'
+  - '+.nodeseek.com'
   - '+.nodesnoop.com'
   - '+.nodesource.com'
   - '+.nofile.io'
@@ -15746,6 +15749,7 @@ payload:
   - '+.packer.io'
   - '+.packetix.net'
   - '+.pacloudflare.com'
+  - '+.pacom.mil'
   - '+.pacopacomama.com'
   - '+.paddle.com'
   - '+.paddleapi.com'
@@ -24673,6 +24677,7 @@ payload:
   - '+.cccu.ac.uk'
   - '+.ccdc.ac.uk'
   - '+.ccesd.ac.uk'
+  - '+.ccfd.org.tw'
   - '+.ccfe.ac.uk'
   - '+.cch.ac.uk'
   - '+.cchsr.ac.uk'
