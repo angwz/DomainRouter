@@ -1,12 +1,11 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-10 00:08:45 (UTC+8)
+# UPDATED: 2025-02-11 00:11:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 110
+# TOTAL: 109
 payload:
   - '+.bing'
-  - '+.ai.com'
   - '+.algolia.net'
   - '+.anthropic.com'
   - '+.auth0.com'
