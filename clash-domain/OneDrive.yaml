@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-12 00:17:20 (UTC+8)
+# UPDATED: 2025-02-13 00:17:17 (UTC+8)
 # TYPE: domain
 # TOTAL: 431
 payload:
@@ -241,12 +241,12 @@ payload:
   - 'bt.sc-ol.com'
   - 'bt1.archive.org'
   - 'bt1.xxxxbt.cc'
-  - 'bt2.080609.xyz'
   - 'bt2.archive.org'
   - 'btfile.sdo.com'
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -303,7 +303,6 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -374,6 +373,7 @@ payload:
   - 'tracker.mywaifu.best'
   - 'tracker.nanoha.org'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -396,13 +396,13 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
+  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.vanitycore.co'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zond.org'
   - 'tracker1.520.jp'
@@ -430,9 +430,9 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
+  - 'u6.trakx.crim.ist'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
