@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-15 00:10:31 (UTC+8)
+# UPDATED: 2025-02-16 00:08:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 31298
+# TOTAL: 31302
 payload:
   - '+.adult'
   - '+.amazon'
@@ -12310,6 +12310,7 @@ payload:
   - '+.kpptoto.info'
   - '+.kqes.net'
   - '+.kraken.com'
+  - '+.kraken.onl'
   - '+.krakenjs.com'
   - '+.krhentai.com'
   - '+.kristenbjorn.com'
@@ -19805,6 +19806,7 @@ payload:
   - '+.thetibetpost.com'
   - '+.thetimes.ie'
   - '+.thetinhat.com'
+  - '+.thetrackernetwork.com'
   - '+.thetranny.com'
   - '+.thetread.com'
   - '+.thetrotskymovie.com'
@@ -20178,6 +20180,8 @@ payload:
   - '+.tps138.info'
   - '+.tr.com'
   - '+.tracfone.com'
+  - '+.tracker.gg'
+  - '+.tracker.network'
   - '+.tracking-location.com'
   - '+.tradevip1.com'
   - '+.tradingview.com'
