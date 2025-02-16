@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-16 00:15:13 (UTC+8)
+# UPDATED: 2025-02-17 00:15:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 433
+# TOTAL: 435
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -241,6 +241,7 @@ payload:
   - 'bt.sc-ol.com'
   - 'bt1.archive.org'
   - 'bt1.xxxxbt.cc'
+  - 'bt2.080609.xyz'
   - 'bt2.archive.org'
   - 'btfile.sdo.com'
   - 'bubu.mapfactor.com'
@@ -282,11 +283,9 @@ payload:
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
-  - 'r.l5.ca'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
-  - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
@@ -314,7 +313,6 @@ payload:
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
-  - 'tracker.aburaya.live'
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
@@ -362,17 +360,19 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
   - 'tracker.kmzs123.cn'
-  - 'tracker.kmzs123.top'
+  - 'tracker.kmzs123.com'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
   - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
   - 'tracker.lintk.me'
+  - 'tracker.linvk.com'
   - 'tracker.loligirl.cn'
   - 'tracker.moeking.me'
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
+  - 'tracker.nanoha.org'
   - 'tracker.netmap.top'
   - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
@@ -400,6 +400,7 @@ payload:
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
+  - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
@@ -432,6 +433,7 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
+  - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
   - 'u6.trakx.crim.ist'

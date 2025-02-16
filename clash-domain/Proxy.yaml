@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-16 00:08:58 (UTC+8)
+# UPDATED: 2025-02-17 00:09:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 31302
+# TOTAL: 31305
 payload:
   - '+.adult'
   - '+.amazon'
@@ -800,6 +800,7 @@ payload:
   - '+.adaptivecards.io'
   - '+.adbecrsl.com'
   - '+.adbkm.com'
+  - '+.adblockcdn.com'
   - '+.adblockplus.org'
   - '+.adcex.com'
   - '+.adcommerce.tv'
@@ -23013,6 +23014,8 @@ payload:
   - '+.your-freedom.net'
   - '+.your-objectstorage.com'
   - '+.your-server.de'
+  - '+.your-storagebox.de'
+  - '+.your-storageshare.de'
   - '+.youramateurporn.com'
   - '+.yourassbig.com'
   - '+.yourbrain.com'

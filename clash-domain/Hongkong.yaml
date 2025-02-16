@@ -1,9 +1,9 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-16 00:08:58 (UTC+8)
+# UPDATED: 2025-02-17 00:09:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 879
+# TOTAL: 880
 payload:
   - '+.azure'
   - '+.hk'
@@ -771,6 +771,7 @@ payload:
   - '+.steam.ru.qtlglb.com'
   - '+.steampowered.com.8686c.com'
   - '+.steamstatic.com.8686c.com'
+  - '+.twitter.map.fastly.net'
   - '+.edge.steam-dns.top.comcast.net'
   - '+.steam.cdn.orcon.net.nz'
   - '+.steam.cdn.slingshot.co.nz'
