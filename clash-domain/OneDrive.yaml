@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-17 00:15:26 (UTC+8)
+# UPDATED: 2025-02-18 00:16:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 435
+# TOTAL: 432
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -241,13 +241,11 @@ payload:
   - 'bt.sc-ol.com'
   - 'bt1.archive.org'
   - 'bt1.xxxxbt.cc'
-  - 'bt2.080609.xyz'
   - 'bt2.archive.org'
   - 'btfile.sdo.com'
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -286,6 +284,7 @@ payload:
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
+  - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
@@ -303,7 +302,6 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -320,7 +318,6 @@ payload:
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bjut.jp'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
