@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-18 00:16:53 (UTC+8)
+# UPDATED: 2025-02-19 00:17:27 (UTC+8)
 # TYPE: domain
-# TOTAL: 432
+# TOTAL: 429
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -198,7 +198,6 @@ payload:
   - 'explodie.org'
   - 'finbytes.org'
   - 'fleira.no'
-  - 'fosstorrents.com'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -289,7 +288,6 @@ payload:
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
   - 'share.hkg-fansub.info'
-  - 'sparkle.ghostchu-services.top'
   - 'store-images.s-microsoft.com'
   - 't-115.rhcloud.com'
   - 't.acg.rip'
@@ -302,6 +300,7 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -357,7 +356,6 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
   - 'tracker.kmzs123.cn'
-  - 'tracker.kmzs123.com'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -371,7 +369,6 @@ payload:
   - 'tracker.mywaifu.best'
   - 'tracker.nanoha.org'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
