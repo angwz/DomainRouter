@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-20 00:17:23 (UTC+8)
+# UPDATED: 2025-02-21 00:17:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 430
+# TOTAL: 434
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -246,6 +246,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -312,6 +313,7 @@ payload:
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
+  - 'tracker.aburaya.live'
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
@@ -358,10 +360,10 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
   - 'tracker.kmzs123.cn'
+  - 'tracker.kmzs123.top'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
-  - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
   - 'tracker.lintk.me'
   - 'tracker.linvk.com'
@@ -371,6 +373,7 @@ payload:
   - 'tracker.mywaifu.best'
   - 'tracker.nanoha.org'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -428,6 +431,7 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
+  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'

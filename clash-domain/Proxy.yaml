@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-20 00:11:12 (UTC+8)
+# UPDATED: 2025-02-21 00:11:17 (UTC+8)
 # TYPE: domain
-# TOTAL: 31313
+# TOTAL: 31314
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9826,6 +9826,7 @@ payload:
   - '+.hentaivn.de'
   - '+.hentaivn.la'
   - '+.hentaivn.net'
+  - '+.hentaivox.com'
   - '+.hentaivvz.com'
   - '+.hentaiworld.eu'
   - '+.hentaiworld.tv'

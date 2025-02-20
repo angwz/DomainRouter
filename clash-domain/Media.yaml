@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-20 00:17:27 (UTC+8)
+# UPDATED: 2025-02-21 00:17:46 (UTC+8)
 # TYPE: domain
-# TOTAL: 10742
+# TOTAL: 10743
 payload:
   - '+.adult'
   - '+.bbc'
@@ -3131,6 +3131,7 @@ payload:
   - '+.hentaivn.de'
   - '+.hentaivn.la'
   - '+.hentaivn.net'
+  - '+.hentaivox.com'
   - '+.hentaivvz.com'
   - '+.hentaiworld.eu'
   - '+.hentaiworld.tv'
