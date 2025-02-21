@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-21 00:17:42 (UTC+8)
+# UPDATED: 2025-02-22 00:16:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 434
+# TOTAL: 431
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -198,7 +198,6 @@ payload:
   - 'explodie.org'
   - 'finbytes.org'
   - 'fleira.no'
-  - 'fosstorrents.com'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -246,7 +245,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -303,7 +301,6 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -364,6 +361,7 @@ payload:
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
+  - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
   - 'tracker.lintk.me'
   - 'tracker.linvk.com'
@@ -431,7 +429,6 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
-  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
   - 'tracker.torrent.eu.org'
   - 'u4.trakx.crim.ist'
