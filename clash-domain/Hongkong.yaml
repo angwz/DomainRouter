@@ -1,9 +1,9 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-22 00:10:44 (UTC+8)
+# UPDATED: 2025-02-23 00:08:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 880
+# TOTAL: 881
 payload:
   - '+.azure'
   - '+.hk'
@@ -477,6 +477,7 @@ payload:
   - '+.gfacecbook.com'
   - '+.gotcosmos.com'
   - '+.gounlimited.to'
+  - '+.grok.com'
   - '+.groups.com'
   - '+.hackerfacebook.com'
   - '+.hackfacebook.com'

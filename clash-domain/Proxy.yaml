@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-22 00:10:43 (UTC+8)
+# UPDATED: 2025-02-23 00:08:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 31314
+# TOTAL: 31322
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4874,6 +4874,7 @@ payload:
   - '+.cineastentreff.de'
   - '+.cinemax.com'
   - '+.cinepornogratis.com'
+  - '+.cinny.in'
   - '+.cios.org'
   - '+.cipfg.org'
   - '+.circlethebayfortibet.org'
@@ -6372,6 +6373,7 @@ payload:
   - '+.drweb.com'
   - '+.drweb.fr'
   - '+.drweb.kz'
+  - '+.drweb.ru'
   - '+.drweb.uz'
   - '+.dscn.info'
   - '+.dsex.to'
@@ -8015,6 +8017,7 @@ payload:
   - '+.flowfront.net'
   - '+.flowhongkong.net'
   - '+.flowtype.org'
+  - '+.fluffychat.im'
   - '+.fluidfxapp.com'
   - '+.fluidpreview.com'
   - '+.flutter.dev'
@@ -9409,6 +9412,7 @@ payload:
   - '+.greginhollywood.com'
   - '+.gridaware.app'
   - '+.grindr.com'
+  - '+.grok.com'
   - '+.grooby.com'
   - '+.groq.com'
   - '+.grotty-monday.com'
@@ -14794,6 +14798,8 @@ payload:
   - '+.nexitally.com'
   - '+.nexitallysafe.com'
   - '+.nexitcore.com'
+  - '+.nexo.com'
+  - '+.nexo.io'
   - '+.nexon.com'
   - '+.nexon.io'
   - '+.nexpart.com'
@@ -16299,6 +16305,8 @@ payload:
   - '+.pixelqi.com'
   - '+.pixfs.net'
   - '+.pixhost.to'
+  - '+.pixiv-recommend.net'
+  - '+.pixiv.help'
   - '+.pixiv.me'
   - '+.pixiv.net'
   - '+.pixiv.org'
