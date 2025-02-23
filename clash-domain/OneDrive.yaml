@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-23 00:15:06 (UTC+8)
+# UPDATED: 2025-02-24 00:15:20 (UTC+8)
 # TYPE: domain
 # TOTAL: 434
 payload:
@@ -237,6 +237,7 @@ payload:
   - 'bt.okmp3.ru'
   - 'bt.poletracker.org'
   - 'bt.ptlsp.com'
+  - 'bt.rer.lol'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
   - 'bt1.archive.org'
@@ -363,7 +364,6 @@ payload:
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
-  - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
   - 'tracker.lintk.me'
   - 'tracker.linvk.com'
