@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-24 00:15:20 (UTC+8)
+# UPDATED: 2025-02-25 00:18:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 573
+# TOTAL: 574
 payload:
   - '+.1700.cn'
   - '+.17roco.com'
@@ -175,6 +175,7 @@ payload:
   - '+.iemiq.com'
   - '+.igamecj.com'
   - '+.igcdn.cn'
+  - '+.igtm-meeting-tencent.com'
   - '+.igtm.pub'
   - '+.ihappystudio.cn'
   - '+.ihappystudio.com'

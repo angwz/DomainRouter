@@ -1,9 +1,9 @@
 # NAME: YouTube
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-24 00:15:20 (UTC+8)
+# UPDATED: 2025-02-25 00:18:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 706
+# TOTAL: 713
 payload:
   - '+.java'
   - '+.youtube'
@@ -163,6 +163,7 @@ payload:
   - '+.github.community'
   - '+.github.dev'
   - '+.github.io'
+  - '+.github1s.com'
   - '+.githubapp.com'
   - '+.githubassets.com'
   - '+.githubcopilot.com'
@@ -407,8 +408,13 @@ payload:
   - '+.stackoverflow.co'
   - '+.stackoverflow.com'
   - '+.stackoverflow.email'
+  - '+.stackoverflow.help'
+  - '+.stackoverflow.net'
   - '+.stackoverflowbusiness.com'
   - '+.stackoverflowcareers.com'
+  - '+.stackoverflowjobs.com'
+  - '+.stackoverflowsolutions.com'
+  - '+.stackoverflowteams.com'
   - '+.stacksnippets.net'
   - '+.stockagainstphotography.com'
   - '+.strikingly.com'
@@ -467,6 +473,7 @@ payload:
   - '+.xda-cdn.com'
   - '+.xda-developers.com'
   - '+.xdaforums.com'
+  - '+.xdaimages.com'
   - '+.xposed.info'
   - '+.yarnpkg.com'
   - '+.yogalayout.com'

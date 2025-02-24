@@ -1,9 +1,9 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-24 00:09:03 (UTC+8)
+# UPDATED: 2025-02-25 00:11:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 881
+# TOTAL: 882
 payload:
   - '+.azure'
   - '+.hk'
@@ -760,6 +760,7 @@ payload:
   - '+.dl.steam.clngaa.com'
   - '+.dl.steam.ksyna.com'
   - '+.f3b7q2p3.ssl.hwcdn.net'
+  - '+.gstore.val.manlaxy.com'
   - '+.ip6.static.sl-reverse.com'
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'

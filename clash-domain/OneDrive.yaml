@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-24 00:15:20 (UTC+8)
+# UPDATED: 2025-02-25 00:18:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 434
+# TOTAL: 433
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -237,7 +237,6 @@ payload:
   - 'bt.okmp3.ru'
   - 'bt.poletracker.org'
   - 'bt.ptlsp.com'
-  - 'bt.rer.lol'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
   - 'bt1.archive.org'
@@ -262,7 +261,6 @@ payload:
   - 'logincdn.msauth.net'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -361,6 +359,7 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
   - 'tracker.kmzs123.cn'
+  - 'tracker.kmzs123.top'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -373,6 +372,7 @@ payload:
   - 'tracker.mywaifu.best'
   - 'tracker.nanoha.org'
   - 'tracker.netmap.top'
+  - 'tracker.nitrix.me'
   - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
@@ -431,7 +431,6 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
   - 'tracker.wsaoa.eu.org'
   - 'u4.trakx.crim.ist'

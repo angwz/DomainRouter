@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-24 00:08:23 (UTC+8)
+# UPDATED: 2025-02-25 00:11:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 4119
+# TOTAL: 4123
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -709,6 +709,7 @@ payload:
   - '+.cspro.org'
   - '+.csto.com'
   - '+.csxbank.com'
+  - '+.cueme.cn'
   - '+.cup62.cn'
   - '+.cxbiji.com'
   - '+.d10a.com'
@@ -739,6 +740,7 @@ payload:
   - '+.deepin.com'
   - '+.deepin.io'
   - '+.deepin.org'
+  - '+.deepseek.com'
   - '+.dengguobi.com'
   - '+.devui.design'
   - '+.dfkhgj.com'
@@ -1631,6 +1633,7 @@ payload:
   - '+.jomodns.net'
   - '+.joybuy.com'
   - '+.joybuy.es'
+  - '+.joying.com'
   - '+.jpaas.cn'
   - '+.jsplayground.net'
   - '+.juejin.cn'
@@ -2755,6 +2758,7 @@ payload:
   - '+.dl.steam.clngaa.com'
   - '+.dl.steam.ksyna.com'
   - '+.edu.ntp.org.cn'
+  - '+.gstore.val.manlaxy.com'
   - '+.hk.ntp.org.cn'
   - '+.hz.tbusergw.taobao.net'
   - '+.ina.ntp.org.cn'

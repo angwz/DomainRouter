@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-24 00:15:20 (UTC+8)
+# UPDATED: 2025-02-25 00:18:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 702
+# TOTAL: 707
 payload:
   - '+.azure'
   - '+.bing'
@@ -256,6 +256,7 @@ payload:
   - '+.jwt.ms'
   - '+.kidgrid.tv'
   - '+.kumo.com'
+  - '+.l-msedge.net'
   - '+.latampartneruniversity.com'
   - '+.live.cn'
   - '+.live.com'
@@ -438,6 +439,7 @@ payload:
   - '+.msftconnecttest.com'
   - '+.msfteducation.ca'
   - '+.msftidentity.com'
+  - '+.msftncsi.com'
   - '+.msftnet.org'
   - '+.msgamesresearch.com'
   - '+.msgamestudios.com'
@@ -473,6 +475,7 @@ payload:
   - '+.myhomemsn.com'
   - '+.mymicrosoft.com'
   - '+.myoctocat.com'
+  - '+.nelreports.net'
   - '+.nextechafrica.net'
   - '+.npm.community'
   - '+.npmjs.com'
@@ -563,6 +566,7 @@ payload:
   - '+.skypeassets.com'
   - '+.skypeassets.net'
   - '+.skypeforbusiness.com'
+  - '+.spo-msedge.net'
   - '+.sprinklesapp.com'
   - '+.sqlserveronlinux.com'
   - '+.staffhub.ms'
@@ -575,6 +579,7 @@ payload:
   - '+.sway.com'
   - '+.syncshop.cn'
   - '+.sysinternals.com'
+  - '+.t-msedge.net'
   - '+.tailwindtraders.com'
   - '+.techhub.ms'
   - '+.tellmewhygame.com'

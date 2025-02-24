@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-24 00:15:25 (UTC+8)
+# UPDATED: 2025-02-25 00:18:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 3820
+# TOTAL: 3824
 payload:
   - '+.apple'
   - '+.playstation'
@@ -1065,6 +1065,7 @@ payload:
   - '+.ecgapp.net'
   - '+.ecns.cn'
   - '+.edu-research.org'
+  - '+.eft-store.com'
   - '+.elderscrolls.com'
   - '+.electronicarts.com'
   - '+.electronicarts.fr'
@@ -1074,6 +1075,7 @@ payload:
   - '+.epicgames.dev'
   - '+.epicgamescdn.com'
   - '+.esbeatsbydrebuy.com'
+  - '+.escapefromtarkov.com'
   - '+.etheadphones.com'
   - '+.euroipad.com'
   - '+.eworld.com'
@@ -2120,6 +2122,7 @@ payload:
   - '+.take2games.com'
   - '+.takegoto.com'
   - '+.talkatone.com'
+  - '+.tarkov.com'
   - '+.tazai.com'
   - '+.tcfmglobal.com'
   - '+.teamneedforspeed.com'
@@ -2674,6 +2677,7 @@ payload:
   - '+.e8h2ty.tdum.alibaba.com'
   - '+.ea.tt.omtrdc.net'
   - '+.f3b7q2p3.ssl.hwcdn.net'
+  - '+.gstore.val.manlaxy.com'
   - '+.hearthstone.nosdn.127.net'
   - '+.heroes.nos.netease.com'
   - '+.itunes.com.edgekey.net'
