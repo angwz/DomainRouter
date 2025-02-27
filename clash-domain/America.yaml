@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-27 00:11:38 (UTC+8)
+# UPDATED: 2025-02-28 00:11:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 6800
+# TOTAL: 6808
 payload:
   - '+.amazon'
   - '+.aws'
@@ -180,6 +180,13 @@ payload:
   - '+.amzn.asia'
   - '+.amzn.com'
   - '+.amzn.to'
+  - '+.amzndns-cn.biz'
+  - '+.amzndns-cn.cn'
+  - '+.amzndns-cn.com'
+  - '+.amzndns-cn.net'
+  - '+.amzndns.com'
+  - '+.amzndns.net'
+  - '+.amzndns.org'
   - '+.amznl.com'
   - '+.analytictech.com'
   - '+.anatomy.tv'
@@ -1239,6 +1246,7 @@ payload:
   - '+.amity.ac.uk'
   - '+.amof.ac.uk'
   - '+.amrtraining.ac.uk'
+  - '+.amzndns.co.uk'
   - '+.anaesthetistswales.ac.uk'
   - '+.ancientcyprus.ac.uk'
   - '+.ancientwisdoms.ac.uk'

@@ -1,9 +1,9 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-27 00:11:36 (UTC+8)
+# UPDATED: 2025-02-28 00:11:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 882
+# TOTAL: 911
 payload:
   - '+.azure'
   - '+.hk'
@@ -31,6 +31,25 @@ payload:
   - '+.atlasdmt.com'
   - '+.atlasonepoint.com'
   - '+.atscaleconference.com'
+  - '+.azchcdna.com'
+  - '+.azchcdnb.com'
+  - '+.azchcdnc.com'
+  - '+.azchcdnd.com'
+  - '+.azchcdne.com'
+  - '+.azchcdnf.com'
+  - '+.azchcdng.com'
+  - '+.azchcdnh.com'
+  - '+.azchcdni.com'
+  - '+.azchcdnj.com'
+  - '+.azchcdnk.com'
+  - '+.azchcdnl.com'
+  - '+.azchcdnm.com'
+  - '+.azchcdnn.com'
+  - '+.azchcdno.com'
+  - '+.azchcdnp.com'
+  - '+.azchcdnq.com'
+  - '+.azchcdnr.com'
+  - '+.azchcdns.com'
   - '+.azcrmc-test.cn'
   - '+.azcrmc.cn'
   - '+.azk8s.cn'
@@ -45,6 +64,16 @@ payload:
   - '+.azure-devices-provisioning.cn'
   - '+.azure-devices.cn'
   - '+.azure-devices.net'
+  - '+.azure-dns-1.cn'
+  - '+.azure-dns-10.cn'
+  - '+.azure-dns-2.cn'
+  - '+.azure-dns-3.cn'
+  - '+.azure-dns-4.cn'
+  - '+.azure-dns-5.cn'
+  - '+.azure-dns-6.cn'
+  - '+.azure-dns-7.cn'
+  - '+.azure-dns-8.cn'
+  - '+.azure-dns-9.cn'
   - '+.azure-dns.cn'
   - '+.azure-dns.com'
   - '+.azure-dns.info'

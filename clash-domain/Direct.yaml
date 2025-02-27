@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-27 00:10:56 (UTC+8)
+# UPDATED: 2025-02-28 00:11:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 4123
+# TOTAL: 4134
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -305,6 +305,10 @@ payload:
   - '+.amazonprimevideo.cn'
   - '+.amazonworkdocs.cn'
   - '+.amhimalayanet.com'
+  - '+.amzndns-cn.biz'
+  - '+.amzndns-cn.cn'
+  - '+.amzndns-cn.com'
+  - '+.amzndns-cn.net'
   - '+.anav.com'
   - '+.ancientbooks.cn'
   - '+.androidga.com'
@@ -2876,6 +2880,7 @@ payload:
   - 'cbsnewshd-lh.akamaihd.net'
   - 'cclive.aniu.tv'
   - 'cclive2.aniu.tv'
+  - 'cdn-cn.apple-mapkit.com'
   - 'cdn-cn1.apple-mapkit.com'
   - 'cdn-cn2.apple-mapkit.com'
   - 'cdn-cn3.apple-mapkit.com'
@@ -3397,6 +3402,11 @@ payload:
   - 'rtsp.zmgdcm.cn'
   - 'rtvcdn.com.au'
   - 's.mzstatic.com'
+  - 's1.mzstatic.com'
+  - 's2.mzstatic.com'
+  - 's3.mzstatic.com'
+  - 's4.mzstatic.com'
+  - 's5.mzstatic.com'
   - 'satellitepull.cnr.cn'
   - 'scgctvshow.sctv.com'
   - 'sdbz.chinashadt.com'
@@ -4034,6 +4044,7 @@ payload:
   - 'cds.apple.com.akadns.net'
   - 'certs-lb.apple.com.akadns.net'
   - 'cl1-cdn.origin-apple.com.akadns.net'
+  - 'cl2-cdn.origin-apple.com.akadns.net'
   - 'cl3-cdn.origin-apple.com.akadns.net'
   - 'cl4-cdn.origin-apple.com.akadns.net'
   - 'cl5-cdn.origin-apple.com.akadns.net'

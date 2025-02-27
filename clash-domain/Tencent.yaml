@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-27 00:17:53 (UTC+8)
+# UPDATED: 2025-02-28 00:18:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 574
+# TOTAL: 583
 payload:
   - '+.1700.cn'
   - '+.17roco.com'
@@ -371,15 +371,23 @@ payload:
   - '+.tcloudscdn.com'
   - '+.tcloudscdn.net'
   - '+.tdnsv1.com'
+  - '+.tdnsv1.net'
   - '+.tdnsv10.com'
   - '+.tdnsv10.net'
+  - '+.tdnsv11.com'
+  - '+.tdnsv11.net'
   - '+.tdnsv12.com'
+  - '+.tdnsv12.net'
   - '+.tdnsv13.com'
   - '+.tdnsv13.net'
   - '+.tdnsv14.com'
   - '+.tdnsv14.net'
+  - '+.tdnsv15.com'
   - '+.tdnsv15.net'
   - '+.tdnsv2.com'
+  - '+.tdnsv2.net'
+  - '+.tdnsv3.com'
+  - '+.tdnsv3.net'
   - '+.tdnsv4.com'
   - '+.tdnsv4.net'
   - '+.tdnsv5.com'
@@ -389,6 +397,7 @@ payload:
   - '+.tdnsv7.com'
   - '+.tdnsv7.net'
   - '+.tdnsv8.com'
+  - '+.tdnsv8.net'
   - '+.tdnsv9.com'
   - '+.tdnsv9.net'
   - '+.tdnsx1.com'
