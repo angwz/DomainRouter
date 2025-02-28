@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-28 00:11:52 (UTC+8)
+# UPDATED: 2025-03-01 00:11:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 31438
+# TOTAL: 31441
 payload:
   - '+.adult'
   - '+.amazon'
@@ -14726,6 +14726,7 @@ payload:
   - '+.netcup-news.de'
   - '+.netcup-sonderangebote.de'
   - '+.netcup-wiki.de'
+  - '+.netcup.cafe'
   - '+.netcup.com'
   - '+.netcup.de'
   - '+.netcup.eu'
@@ -20462,7 +20463,9 @@ payload:
   - '+.tubevintageporn.com'
   - '+.tubewolf.com'
   - '+.tubexclips.com'
+  - '+.tubi.io'
   - '+.tubinge.com'
+  - '+.tubitv.com'
   - '+.tubous.com'
   - '+.tubsexer.com'
   - '+.tubxporn.com'

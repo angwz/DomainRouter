@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-02-28 00:18:12 (UTC+8)
+# UPDATED: 2025-03-01 00:17:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 10767
+# TOTAL: 10769
 payload:
   - '+.adult'
   - '+.bbc'
@@ -6893,7 +6893,9 @@ payload:
   - '+.tubevintageporn.com'
   - '+.tubewolf.com'
   - '+.tubexclips.com'
+  - '+.tubi.io'
   - '+.tubinge.com'
+  - '+.tubitv.com'
   - '+.tubsexer.com'
   - '+.tubxporn.com'
   - '+.tubxporn.xxx'
