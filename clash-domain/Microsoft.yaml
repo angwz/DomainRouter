@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-06 00:21:13 (UTC+8)
+# UPDATED: 2025-03-07 00:17:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 736
+# TOTAL: 737
 payload:
   - '+.azure'
   - '+.bing'
@@ -414,6 +414,7 @@ payload:
   - '+.microsoftonline.com'
   - '+.microsoftpartnercommunity.com'
   - '+.microsoftpartnersolutions.com'
+  - '+.microsoftpersonalcontent.com'
   - '+.microsoftreactor.cn'
   - '+.microsoftreactor.info'
   - '+.microsoftreactor.net'

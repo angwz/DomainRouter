@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-06 00:21:13 (UTC+8)
+# UPDATED: 2025-03-07 00:17:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 432
+# TOTAL: 431
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -383,7 +383,6 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.sbsub.com'
   - 'tracker.sktorrent.net'
-  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
   - 'tracker.t-rb.org'
