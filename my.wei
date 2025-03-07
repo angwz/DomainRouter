@@ -26,7 +26,7 @@ SRC-PORT,9993
 
 
 # Wilson
-103.216.253.0/24
+59.42.247.0/24
 
 
 
@@ -314,8 +314,8 @@ claw.cloud
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
 
-[Taiwan]
-'+.tw'
+# [Taiwan]
+# '+.tw'
 
 # Binance
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/binance.yaml
@@ -461,9 +461,7 @@ America: 🥗 美利坚高速
 GEOIP,US: 🥗 美利坚高速,no-resolve
 GEOIP,CA: 🥗 美利坚高速,no-resolve
 Hongkong: 🐦‍🔥 香港专线
-Taiwan: 🐸 台湾节点
 Singapore: 🥝 新加坡高速
-GEOIP,TW: 🐸 台湾节点,no-resolve
 GEOIP,SG: 🥝 新加坡高速,no-resolve
 ChinaMedia: DIRECT
 Microsoft: 🪟 Microsoft

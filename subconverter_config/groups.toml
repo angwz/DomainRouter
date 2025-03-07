@@ -19,8 +19,8 @@ type = "select"
 [[custom_groups]]
 name = "🗨️ ChatGPT"
 rule = [
-  "[]🫒 日本高速",
   "[]🥗 美利坚高速",
+  "[]🫒 日本高速",
   "[]🌳 德意志帝国",
   "[]✈️ 手动切换",
 ]
@@ -69,8 +69,8 @@ type = "select"
 [[custom_groups]]
 name = "🎬 Netflix"
 rule = [
-  "[]🫒 日本高速",
   "[]🌺 香港高速",
+  "[]🫒 日本高速",
   "[]✈️ 手动切换",
 ]
 type = "select"
@@ -83,8 +83,8 @@ type = "select"
 [[custom_groups]]
 name = "🌍 国际流媒体"
 rule = [
-  "[]🫒 日本高速",
   "[]🌺 香港高速",
+  "[]🫒 日本高速",
   "[]🥗 美利坚高速",
   "[]✈️ 手动切换",
 ]
@@ -113,11 +113,6 @@ type = "select"
 [[custom_groups]]
 name = "🫒 日本高速"
 rule = ["!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*$)"]
-type = "select"
-
-[[custom_groups]]
-name = "🐸 台湾节点"
-rule = ["!!GROUPID=0!!(台|新北|彰化|TW|tw|Taiwan)"]
 type = "select"
 
 [[custom_groups]]
