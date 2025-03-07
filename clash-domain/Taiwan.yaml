@@ -1,11 +1,10 @@
 # NAME: Taiwan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-07 00:17:42 (UTC+8)
+# UPDATED: 2025-03-08 00:17:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 44
+# TOTAL: 43
 payload:
-  - '+.tw'
   - '+.appsflayer.com'
   - '+.binance.cc'
   - '+.binance.charity'
