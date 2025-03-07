@@ -273,12 +273,6 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🐸 台湾节点"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Taiwan.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
 group = "🥝 新加坡高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
 type = "clash-domain"
@@ -295,10 +289,6 @@ group = "🥝 新加坡高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Singapore-classic.yaml"
 type = "clash-classic"
 interval = 21600
-
-[[rulesets]]
-group = "🐸 台湾节点"
-ruleset = "[]GEOIP,TW,no-resolve"
 
 [[rulesets]]
 group = "🥝 新加坡高速"
