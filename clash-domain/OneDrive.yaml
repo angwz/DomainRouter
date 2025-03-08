@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-08 00:17:06 (UTC+8)
+# UPDATED: 2025-03-09 00:14:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 431
+# TOTAL: 430
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -370,6 +370,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -382,6 +383,7 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.sbsub.com'
   - 'tracker.sktorrent.net'
+  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
   - 'tracker.t-rb.org'
@@ -398,7 +400,6 @@ payload:
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
-  - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
@@ -431,8 +432,6 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
-  - 'u4.trakx.crim.ist'
-  - 'u6.trakx.crim.ist'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-08 00:11:01 (UTC+8)
+# UPDATED: 2025-03-09 00:08:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 31602
+# TOTAL: 31621
 payload:
   - '+.adult'
   - '+.amazon'
@@ -527,6 +527,7 @@ payload:
   - '+.69loli.com'
   - '+.69luolie.com'
   - '+.69re.net'
+  - '+.69shuba.cx'
   - '+.69story.com'
   - '+.69tubesex.com'
   - '+.69vj.com'
@@ -3904,6 +3905,7 @@ payload:
   - '+.bookstagram.com'
   - '+.booloo.com'
   - '+.boomba.club'
+  - '+.boombeach.com'
   - '+.boomerang.com'
   - '+.boomssr.com'
   - '+.boomtrain.com'
@@ -3993,6 +3995,7 @@ payload:
   - '+.bravoteens.com'
   - '+.bravotube.net'
   - '+.bravotube.tv'
+  - '+.brawlstars.com'
   - '+.brawlstarsgame.com'
   - '+.brazilpartneruniversity.com'
   - '+.brazzer.com'
@@ -4987,6 +4990,11 @@ payload:
   - '+.claravenger.com'
   - '+.clarionproject.org'
   - '+.clarivate.com'
+  - '+.clash.com'
+  - '+.clashmini.com'
+  - '+.clashofclans.com'
+  - '+.clashroyale.com'
+  - '+.clashroyaleapp.com'
   - '+.clasporno.org'
   - '+.classicalguitarblog.net'
   - '+.classicnike.com'
@@ -8693,6 +8701,7 @@ payload:
   - '+.gamerotic.com'
   - '+.gamerp.jp'
   - '+.gamesathletes.com'
+  - '+.gamesfirsthelsinki.com'
   - '+.gamesfuckgirls.com'
   - '+.gamesofdesire.com'
   - '+.gamesstack.com'
@@ -9668,6 +9677,8 @@ payload:
   - '+.hayabusa.dev'
   - '+.hayabusa.io'
   - '+.hayabusa.media'
+  - '+.hayday.com'
+  - '+.haydaygame.com'
   - '+.hbabit.com'
   - '+.hbfile.net'
   - '+.hbg.com'
@@ -14036,6 +14047,7 @@ payload:
   - '+.mmtv.life'
   - '+.mmwxl27.top'
   - '+.mnewstv.com'
+  - '+.mo.co'
   - '+.moapi.site'
   - '+.moapi1.club'
   - '+.moapi1.online'
@@ -16597,6 +16609,7 @@ payload:
   - '+.politiscales.net'
   - '+.poloniex.com'
   - '+.polygon.com'
+  - '+.polymarket.com'
   - '+.polymer-project.org'
   - '+.polymerhk.com'
   - '+.polymerproject.org'
@@ -18149,6 +18162,7 @@ payload:
   - '+.seemygf.com'
   - '+.seemyporn.com'
   - '+.seesmic.com'
+  - '+.seeurlpcl.com'
   - '+.seevpn.com'
   - '+.seezone.net'
   - '+.sego8.cc'
@@ -19121,6 +19135,7 @@ payload:
   - '+.sqlite.org'
   - '+.sqlserveronlinux.com'
   - '+.squ1.com'
+  - '+.squadbusters.com'
   - '+.squarecapital.com'
   - '+.squarecdn.com'
   - '+.squarecloudservices.com'
@@ -19460,6 +19475,10 @@ payload:
   - '+.superadultgames.com'
   - '+.supercell.com'
   - '+.supercell.net'
+  - '+.supercellcreators.com'
+  - '+.supercellgames.com'
+  - '+.supercellid.com'
+  - '+.supercellstore.com'
   - '+.superearsenjoy.com'
   - '+.superfreevpn.com'
   - '+.supergratisporno.com'

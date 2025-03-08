@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-08 00:17:10 (UTC+8)
+# UPDATED: 2025-03-09 00:14:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 3824
+# TOTAL: 3840
 payload:
   - '+.apple'
   - '+.playstation'
@@ -738,6 +738,7 @@ payload:
   - '+.blz-contentstack.com'
   - '+.blzstatic.cn'
   - '+.bookonsky.net'
+  - '+.boombeach.com'
   - '+.bossae.com'
   - '+.bowsersinsidestory.com'
   - '+.braeburncapital.com'
@@ -869,6 +870,11 @@ payload:
   - '+.chomp.com'
   - '+.ciattackers.com'
   - '+.cibntv.net'
+  - '+.clash.com'
+  - '+.clashmini.com'
+  - '+.clashofclans.com'
+  - '+.clashroyale.com'
+  - '+.clashroyaleapp.com'
   - '+.cls.cn'
   - '+.cmhalq.com'
   - '+.cmvideo.cn'
@@ -1132,6 +1138,7 @@ payload:
   - '+.gameloop.com'
   - '+.gamenow.club'
   - '+.gamepass.com'
+  - '+.gamesfirsthelsinki.com'
   - '+.garena.com'
   - '+.garena.live'
   - '+.garena.my'
@@ -1175,6 +1182,8 @@ payload:
   - '+.gtgres.com'
   - '+.hackyourconsole.com'
   - '+.happyhlddz.com'
+  - '+.hayday.com'
+  - '+.haydaygame.com'
   - '+.haydaypop.cn'
   - '+.hdslb.com'
   - '+.hdslb.net'
@@ -1642,6 +1651,7 @@ payload:
   - '+.miyoushe.com'
   - '+.mmonsterheadphones.net'
   - '+.mmstat.com'
+  - '+.mo.co'
   - '+.mobilefuse.com'
   - '+.mobileme.dk'
   - '+.modrinth.com'
@@ -1985,6 +1995,7 @@ payload:
   - '+.scsentry.cn'
   - '+.seagroup.com'
   - '+.seaofsolitude.com'
+  - '+.seeurlpcl.com'
   - '+.services-apple.net'
   - '+.servicetalk.io'
   - '+.sg.cn'
@@ -2058,6 +2069,7 @@ payload:
   - '+.splatoon2tournament.com'
   - '+.spore.com'
   - '+.spyjinx.com'
+  - '+.squadbusters.com'
   - '+.ssajax.cn'
   - '+.ssimg.cn'
   - '+.sspai.com'
@@ -2095,6 +2107,10 @@ payload:
   - '+.supercell.com'
   - '+.supercell.net'
   - '+.supercellcommunity.cn'
+  - '+.supercellcreators.com'
+  - '+.supercellgames.com'
+  - '+.supercellid.com'
+  - '+.supercellstore.com'
   - '+.supercellsupport.cn'
   - '+.superearsenjoy.com'
   - '+.supermario.com'
