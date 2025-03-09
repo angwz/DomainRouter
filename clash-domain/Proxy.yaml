@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-09 00:08:13 (UTC+8)
+# UPDATED: 2025-03-10 00:08:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 31621
+# TOTAL: 31622
 payload:
   - '+.adult'
   - '+.amazon'
@@ -20779,6 +20779,7 @@ payload:
   - '+.twitvid.com'
   - '+.twitzap.com'
   - '+.twiyia.com'
+  - '+.twkan.com'
   - '+.twlegs.com'
   - '+.twline5.com'
   - '+.twnextdigital.com'

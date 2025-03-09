@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-09 00:14:23 (UTC+8)
+# UPDATED: 2025-03-10 00:14:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 430
+# TOTAL: 429
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -244,7 +244,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -259,7 +258,6 @@ payload:
   - 'logincdn.msauth.net'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -301,7 +299,6 @@ payload:
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -377,13 +374,13 @@ payload:
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.pmman.tech'
+  - 'tracker.privateseedbox.xyz'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
   - 'tracker.sbsub.com'
   - 'tracker.sktorrent.net'
-  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
   - 'tracker.t-rb.org'
@@ -400,8 +397,10 @@ payload:
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
+  - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
+  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.top'
   - 'tracker.zond.org'

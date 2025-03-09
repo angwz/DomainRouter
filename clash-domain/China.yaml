@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-09 00:14:23 (UTC+8)
+# UPDATED: 2025-03-10 00:14:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 96871
+# TOTAL: 96873
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -66117,6 +66117,8 @@ payload:
   - '+.qwe1e.com'
   - '+.qweather.com'
   - '+.qweather.net'
+  - '+.qwen.ai'
+  - '+.qwenlm.ai'
   - '+.qwerhost.com'
   - '+.qwfync.com'
   - '+.qwgg.com'
