@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-10 00:14:34 (UTC+8)
+# UPDATED: 2025-03-11 00:16:30 (UTC+8)
 # TYPE: domain
 # TOTAL: 429
 payload:
@@ -256,8 +256,10 @@ payload:
   - 'isk.richardsw.club'
   - 'login.live.com'
   - 'logincdn.msauth.net'
+  - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -281,7 +283,6 @@ payload:
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
-  - 'retracker.x2k.ru'
   - 'retracker01-msk-virt.corbina.net'
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
@@ -367,7 +368,6 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
