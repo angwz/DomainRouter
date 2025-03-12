@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-12 00:18:13 (UTC+8)
+# UPDATED: 2025-03-13 00:18:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 964
+# TOTAL: 946
 payload:
   - '+.and'
   - '+.chrome'
@@ -402,7 +402,6 @@ payload:
   - '+.googlepagecreator.com'
   - '+.googlephotos.com'
   - '+.googleplay.com'
-  - '+.googleplex.com'
   - '+.googleplus.com'
   - '+.googlescholar.com'
   - '+.googlesource.com'
@@ -717,12 +716,7 @@ payload:
   - '+.blogspot.com.tr'
   - '+.blogspot.com.uy'
   - '+.clickserve.cc-dt.com'
-  - '+.distribution.qatp1.net'
-  - '+.distribution.qcpp1.net'
-  - '+.distribution.qpdp1.net'
   - '+.download.qatp1.net'
-  - '+.download.qcpp1.net'
-  - '+.download.qpdp1.net'
   - '+.google.co.ao'
   - '+.google.co.bw'
   - '+.google.co.ck'
@@ -806,25 +800,13 @@ payload:
   - '+.google.com.vn'
   - '+.googlecompare.co.uk'
   - '+.howtogetmo.co.uk'
-  - '+.monitoring.qatp1.net'
-  - '+.monitoring.qcpp1.net'
   - '+.monitoring.qpdp1.net'
   - '+.qagpublic.qatp1.net'
-  - '+.qagpublic.qcpp1.net'
-  - '+.qagpublic.qpdp1.net'
-  - '+.qgadmin.qatp1.net'
   - '+.qgadmin.qcpp1.net'
-  - '+.qgadmin.qpdp1.net'
   - '+.qpx.googleflights.net'
   - '+.qualysapi.qatp1.net'
-  - '+.qualysapi.qcpp1.net'
-  - '+.qualysapi.qpdp1.net'
-  - '+.qualysguard.qatp1.net'
-  - '+.qualysguard.qcpp1.net'
   - '+.qualysguard.qpdp1.net'
-  - '+.scanservice1.qatp1.net'
   - '+.scanservice1.qcpp1.net'
-  - '+.scanservice1.qpdp1.net'
   - '+.thinkquarterly.co.uk'
   - '+.womenwill.com.br'
   - '+.www.destinationurl.com'
