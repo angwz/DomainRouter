@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-13 00:11:53 (UTC+8)
+# UPDATED: 2025-03-14 00:12:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 31622
+# TOTAL: 31623
 payload:
   - '+.adult'
   - '+.amazon'
@@ -17037,6 +17037,7 @@ payload:
   - '+.ppe.lawyer'
   - '+.pplah.com'
   - '+.pplusstatic.com'
+  - '+.pplx.ai'
   - '+.ppp91.cc'
   - '+.pppds.com'
   - '+.ppy.sh'

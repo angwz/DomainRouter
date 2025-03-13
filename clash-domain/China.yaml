@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-13 00:18:00 (UTC+8)
+# UPDATED: 2025-03-14 00:18:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 96617
+# TOTAL: 96619
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -38790,6 +38790,7 @@ payload:
   - '+.heytapimage.com'
   - '+.heytapmobi.com'
   - '+.heytapugc.com'
+  - '+.heytea-co.com'
   - '+.heytea.com'
   - '+.heythings-iot.com'
   - '+.heytime.com'
@@ -54117,6 +54118,7 @@ payload:
   - '+.luckeeinc.com'
   - '+.luckforcalendar.com'
   - '+.luckincalendar.com'
+  - '+.luckincdn.com'
   - '+.luckincoffee.co'
   - '+.luckincoffee.com'
   - '+.luckincoffeecdn.com'

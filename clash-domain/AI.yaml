@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-13 00:11:54 (UTC+8)
+# UPDATED: 2025-03-14 00:12:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 111
+# TOTAL: 113
 payload:
   - '+.bing'
   - '+.algolia.net'
@@ -64,6 +64,7 @@ payload:
   - '+.perplexity.ai'
   - '+.poe.com'
   - '+.poecdn.net'
+  - '+.pplx.ai'
   - '+.renovacionoffice.com'
   - '+.segment.io'
   - '+.sentry.io'
@@ -105,6 +106,7 @@ payload:
   - 'openai-api.arkoselabs.com'
   - 'openaiapi-site.azureedge.net'
   - 'openaicom.imgix.net'
+  - 'pplx-res.cloudinary.com'
   - 'production-openaicom-storage.azureedge.net'
   - 'servd-anthropic-website.b-cdn.net'
   - 'static.cloudflareinsights.com'
