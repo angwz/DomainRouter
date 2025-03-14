@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-14 00:12:05 (UTC+8)
+# UPDATED: 2025-03-15 00:11:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 31623
+# TOTAL: 31632
 payload:
   - '+.adult'
   - '+.amazon'
@@ -281,6 +281,7 @@ payload:
   - '+.2021hkcharter.com'
   - '+.2022.dev'
   - '+.2047.name'
+  - '+.2047.one'
   - '+.2049bbs.xyz'
   - '+.20thcenturystudios.jp'
   - '+.20yearsoffea.com'
@@ -2722,6 +2723,7 @@ payload:
   - '+.bdsmtv.cc'
   - '+.bdsmvideos.net'
   - '+.beaconevents.com'
+  - '+.bearteach.com'
   - '+.beascoremodel.com'
   - '+.beastiegals.com'
   - '+.beastysexlinks.com'
@@ -4270,6 +4272,7 @@ payload:
   - '+.cableav.xyz'
   - '+.cablegatesearch.net'
   - '+.cabletvdirectv.com'
+  - '+.cachefly.com'
   - '+.cachefly.net'
   - '+.cachinese.com'
   - '+.cacnw.com'
@@ -5532,6 +5535,7 @@ payload:
   - '+.customizedbeatsdre.com'
   - '+.customnikeshoes.com'
   - '+.cusu.hk'
+  - '+.cutout.pro'
   - '+.cutscenes.net'
   - '+.cutt.ly'
   - '+.cwcams.com'
@@ -7566,6 +7570,7 @@ payload:
   - '+.fackebook.com'
   - '+.facnbook.com'
   - '+.facrbook.com'
+  - '+.factchecklab.org'
   - '+.factograph.info'
   - '+.factpedia.org'
   - '+.factwire.org'
@@ -8812,6 +8817,7 @@ payload:
   - '+.gcpnode.com'
   - '+.gcr.io'
   - '+.gcrtires.com'
+  - '+.gdaily.org'
   - '+.gdansk-amazon.com'
   - '+.gdbt.net'
   - '+.gdian-dh.mom'
@@ -8914,6 +8920,7 @@ payload:
   - '+.getpricetag.com'
   - '+.getprintersupports.com'
   - '+.getscorecash.com'
+  - '+.getsession.org'
   - '+.getsexgames.com'
   - '+.getsocialscope.com'
   - '+.getsync.com'
@@ -19021,6 +19028,7 @@ payload:
   - '+.soundofhope.eu'
   - '+.soundofhope.kr'
   - '+.soundofhope.org'
+  - '+.soundon.fm'
   - '+.soup.io'
   - '+.soupofmedia.com'
   - '+.sourceforge.com'
@@ -19877,6 +19885,7 @@ payload:
   - '+.tfhub.dev'
   - '+.tfiflve.com'
   - '+.tfsallin.net'
+  - '+.tg-me.com'
   - '+.tg.dev'
   - '+.tgirlcentral.com'
   - '+.tgirlpostop.com'
