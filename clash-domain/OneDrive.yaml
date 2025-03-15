@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-15 00:17:21 (UTC+8)
+# UPDATED: 2025-03-16 00:15:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 447
+# TOTAL: 449
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -246,7 +246,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -302,7 +301,10 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
+  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
+  - 'torrent.hificode.in'
+  - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -311,7 +313,6 @@ payload:
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr2.trkb.ru'
-  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -326,10 +327,10 @@ payload:
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bjut.jp'
+  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.corpscorp.online'
@@ -354,12 +355,12 @@ payload:
   - 'tracker.gbitt.info'
   - 'tracker.gcrenwp.top'
   - 'tracker.gcrreen.xyz'
+  - 'tracker.ghostchu-services.top'
   - 'tracker.gigantino.net'
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -395,6 +396,7 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.sbsub.com'
   - 'tracker.sktorrent.net'
+  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
   - 'tracker.t-rb.org'
@@ -429,9 +431,9 @@ payload:
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
   - 'trackers.ptlsp.com'
-  - 'trunker.ghostchu-services.top'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
+  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'www.all4nothin.net'
   - 'www.genesis-sp.org'

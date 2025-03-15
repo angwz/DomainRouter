@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-15 00:11:12 (UTC+8)
+# UPDATED: 2025-03-16 00:09:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 31632
+# TOTAL: 31631
 payload:
   - '+.adult'
   - '+.amazon'
@@ -26197,7 +26197,6 @@ payload:
   - '+.fdtl.ac.uk'
   - '+.federalschool.ac.uk'
   - '+.federalsurrey.ac.uk'
-  - '+.feedly.comfastgpt.run'
   - '+.fefc.ac.uk'
   - '+.fehesorp.ac.uk'
   - '+.felp.ac.uk'
