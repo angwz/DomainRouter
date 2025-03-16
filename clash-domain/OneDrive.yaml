@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-16 00:15:50 (UTC+8)
+# UPDATED: 2025-03-17 00:16:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 449
+# TOTAL: 445
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -236,7 +236,6 @@ payload:
   - 'bt.okmp3.ru'
   - 'bt.poletracker.org'
   - 'bt.ptlsp.com'
-  - 'bt.rer.lol'
   - 'bt.rghost.net'
   - 'bt.sc-ol.com'
   - 'bt1.archive.org'
@@ -304,15 +303,12 @@ payload:
   - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'torrent.hificode.in'
-  - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
-  - 'tr2.trkb.ru'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -327,7 +323,6 @@ payload:
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bjut.jp'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -361,6 +356,7 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'

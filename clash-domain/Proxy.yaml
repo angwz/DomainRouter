@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-16 00:09:43 (UTC+8)
+# UPDATED: 2025-03-17 00:09:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 31631
+# TOTAL: 31623
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6858,7 +6858,6 @@ payload:
   - '+.ecspublisher.com'
   - '+.ecstart.com'
   - '+.ecuatorianas.best'
-  - '+.ed21.cc'
   - '+.edcity.hk'
   - '+.edditstatic.com'
   - '+.edengay.net'
@@ -7736,7 +7735,6 @@ payload:
   - '+.fashionnike.com'
   - '+.fast.com'
   - '+.fastestvpn.com'
-  - '+.fastgpt.run'
   - '+.fastindianporn.com'
   - '+.fastlane.ci'
   - '+.fastlane.tools'
@@ -10490,7 +10488,6 @@ payload:
   - '+.hsselite.com'
   - '+.hstern.net'
   - '+.hstt.net'
-  - '+.hsxhr.cc'
   - '+.hsxsp1.buzz'
   - '+.hsyy.vip'
   - '+.ht.ly'
@@ -12012,7 +12009,6 @@ payload:
   - '+.jiuse823.com'
   - '+.jiuse904.com'
   - '+.jiuse905.com'
-  - '+.jiuzhouyihuo.com'
   - '+.jiyou520.com'
   - '+.jizzboom.com'
   - '+.jizzbunker.com'
@@ -13425,7 +13421,6 @@ payload:
   - '+.mdbankpublic.com'
   - '+.mdhcdn.com'
   - '+.mdialog.com'
-  - '+.mdlf.xyz'
   - '+.mdn.dev'
   - '+.mdnkids.com'
   - '+.mdnplay.dev'
@@ -16449,7 +16444,6 @@ payload:
   - '+.pinterest.vn'
   - '+.pinterestmail.com'
   - '+.pintool.com'
-  - '+.pinyinxiang.com'
   - '+.pipii.tv'
   - '+.piposay.com'
   - '+.piraattilahti.org'
@@ -20424,7 +20418,6 @@ payload:
   - '+.toytractorshow.com'
   - '+.tparents.org'
   - '+.tpornstars.com'
-  - '+.tps138.info'
   - '+.tr.com'
   - '+.tracfone.com'
   - '+.tracker.gg'
@@ -21006,7 +20999,6 @@ payload:
   - '+.urchin.com'
   - '+.urduvoa.com'
   - '+.urhtbooks.com'
-  - '+.uriminzokkiri.com'
   - '+.url.tw'
   - '+.urlborg.com'
   - '+.urlgalleries.net'
