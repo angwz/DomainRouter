@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-17 00:09:48 (UTC+8)
+# UPDATED: 2025-03-18 00:12:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 31623
+# TOTAL: 31625
 payload:
   - '+.adult'
   - '+.amazon'
@@ -12009,6 +12009,7 @@ payload:
   - '+.jiuse823.com'
   - '+.jiuse904.com'
   - '+.jiuse905.com'
+  - '+.jiuzhouyihuo.com'
   - '+.jiyou520.com'
   - '+.jizzboom.com'
   - '+.jizzbunker.com'
@@ -17047,6 +17048,7 @@ payload:
   - '+.practicalmoneyskills.jp'
   - '+.prastitutki.ru'
   - '+.prayforchina.net'
+  - '+.prcleader.org'
   - '+.pre-bmwgroup.jobs'
   - '+.predictivetechnologies.com'
   - '+.premeforwindows7.com'
