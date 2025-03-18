@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-18 00:18:40 (UTC+8)
+# UPDATED: 2025-03-19 00:18:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 446
+# TOTAL: 443
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -198,7 +198,6 @@ payload:
   - 'explodie.org'
   - 'finbytes.org'
   - 'fleira.no'
-  - 'ftp.pet'
   - 'highteahop.top'
   - 'ismaarino.com'
   - 'jutone.com'
@@ -305,6 +304,7 @@ payload:
   - 'torrent.hificode.in'
   - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -329,7 +329,6 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.corpscorp.online'
@@ -432,7 +431,6 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
-  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
@@ -441,7 +439,6 @@ payload:
   - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
   - '4.tracker.devnak.win'
-  - '6.tracker.devnak.win'
   - 'd40969.acod.regrucolo.ru'
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
