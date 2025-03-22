@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-22 00:17:56 (UTC+8)
+# UPDATED: 2025-03-23 00:16:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 446
+# TOTAL: 444
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -246,7 +246,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -302,8 +301,11 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
+  - 'torrent.hificode.in'
   - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
+  - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -394,7 +396,6 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.sbsub.com'
   - 'tracker.sktorrent.net'
-  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
   - 'tracker.t-rb.org'
@@ -406,7 +407,6 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
@@ -431,7 +431,6 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
-  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
@@ -440,14 +439,13 @@ payload:
   - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
   - '4.tracker.devnak.win'
-  - '6.tracker.devnak.win'
   - 'd40969.acod.regrucolo.ru'
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'tracker.home.kmzs123.cn'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
+  - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
