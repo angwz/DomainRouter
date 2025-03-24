@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-24 00:09:43 (UTC+8)
+# UPDATED: 2025-03-25 00:12:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 31625
+# TOTAL: 31626
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2522,7 +2522,6 @@ payload:
   - '+.b-ok.org'
   - '+.b0ne.com'
   - '+.b3boos.com'
-  - '+.b3bos.com'
   - '+.b6b33.com'
   - '+.baazee.com'
   - '+.babble.com'
@@ -5183,6 +5182,7 @@ payload:
   - '+.coinalyze.net'
   - '+.coinbase.com'
   - '+.coinbene.com'
+  - '+.coincarp.com'
   - '+.coincheck.com'
   - '+.coindesk.com'
   - '+.coinegg.com'
@@ -26163,6 +26163,7 @@ payload:
   - '+.familymart.com.my'
   - '+.familymart.com.ph'
   - '+.famous.ac.uk'
+  - '+.fangeming.comffvpn.com'
   - '+.faraday.ac.uk'
   - '+.fareham.ac.uk'
   - '+.farmington.ac.uk'
