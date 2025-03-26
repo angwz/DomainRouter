@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-26 00:10:18 (UTC+8)
+# UPDATED: 2025-03-27 00:12:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 31626
+# TOTAL: 31627
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1665,6 +1665,7 @@ payload:
   - '+.apornotube.net'
   - '+.aporntv.com'
   - '+.apornvideo.com'
+  - '+.app-analytics-services.com'
   - '+.app-dynamics.com'
   - '+.app-measurement-cn.com'
   - '+.app-measurement.com'
