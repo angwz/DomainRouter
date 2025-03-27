@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-27 00:11:40 (UTC+8)
+# UPDATED: 2025-03-28 00:11:27 (UTC+8)
 # TYPE: domain
-# TOTAL: 4136
+# TOTAL: 4146
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -427,7 +427,9 @@ payload:
   - '+.baitiao.cn'
   - '+.baitiao.com'
   - '+.bakshifen.com'
+  - '+.baltamatica.cn'
   - '+.baltamatica.com'
+  - '+.baltamatica.net'
   - '+.ban-ma.cn'
   - '+.bank-of-china.com'
   - '+.bankcomm.com'
@@ -517,6 +519,7 @@ payload:
   - '+.caigoutong.net'
   - '+.cainiao-inc.com'
   - '+.cainiao.com'
+  - '+.cainiaoyizhan.com'
   - '+.caiyu.com'
   - '+.ccb.cn'
   - '+.ccb.com'
@@ -1315,6 +1318,7 @@ payload:
   - '+.gtm-a6b3.com'
   - '+.gtm-a6b4.com'
   - '+.gts.work'
+  - '+.guoguo-app.com'
   - '+.gxic.club'
   - '+.gyhimalayanul.com'
   - '+.h5util.com'
@@ -1787,7 +1791,9 @@ payload:
   - '+.mynet.cn'
   - '+.mysxl.cn'
   - '+.mznznj.com'
+  - '+.n.cn'
   - '+.nagcloudcs.com'
+  - '+.namiso.com'
   - '+.natgmj.com'
   - '+.ncyrqs.com'
   - '+.neffkb.com'
@@ -2478,6 +2484,7 @@ payload:
   - '+.baidubce.com.cn'
   - '+.baidubce.net.cn'
   - '+.baidupcs.com.cn'
+  - '+.baltamatica.org.cn'
   - '+.bankofbeijing.com.cn'
   - '+.beats1.com.cn'
   - '+.beats2.com.cn'
@@ -2852,6 +2859,7 @@ payload:
   - 'agsj.appcoo.com'
   - 'ahhs.chinashadt.com'
   - 'ahhsdb.chinashadt.com'
+  - 'ai.zhaomi.cn'
   - 'aka-amd-njpwworld-hls-enlive.akamaized.net'
   - 'amdlive-ch03-ctnd-com.akamaized.net'
   - 'aplay.gztv.com'
@@ -2973,6 +2981,8 @@ payload:
   - 'gddb.chinashadt.com'
   - 'gdhj.chinashadt.com'
   - 'glive.grtn.cn'
+  - 'gog-cdn-fastly.gog.com'
+  - 'gog-cdn.akamaized.net'
   - 'gog.qtlglb.com'
   - 'gogalaxy.gog-statics.com'
   - 'gpb-hls.streamguys1.com'

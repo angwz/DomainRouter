@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-27 00:12:22 (UTC+8)
+# UPDATED: 2025-03-28 00:12:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 6808
+# TOTAL: 6809
 payload:
   - '+.amazon'
   - '+.aws'
@@ -89,6 +89,7 @@ payload:
   - '+.adobesigncdn.com'
   - '+.adobespark.com'
   - '+.adobess.com'
+  - '+.adobestats.io'
   - '+.adobestock.com'
   - '+.adobetag.com'
   - '+.adobetarget.com'

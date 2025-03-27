@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-27 00:18:45 (UTC+8)
+# UPDATED: 2025-03-28 00:18:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 3840
+# TOTAL: 3843
 payload:
   - '+.apple'
   - '+.playstation'
@@ -1445,6 +1445,8 @@ payload:
   - '+.islamiccenterofnewlondon.com'
   - '+.italiabeatsbydrdre.com'
   - '+.itc.cn'
+  - '+.itch.io'
+  - '+.itch.zone'
   - '+.ithome.com'
   - '+.itools.info'
   - '+.itun.es'
@@ -2879,6 +2881,7 @@ payload:
   - 'gddb.chinashadt.com'
   - 'gdhj.chinashadt.com'
   - 'glive.grtn.cn'
+  - 'gog-cdn.akamaized.net'
   - 'gog.qtlglb.com'
   - 'gog.salesmanago.com'
   - 'gpb-hls.streamguys1.com'

@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-27 00:18:41 (UTC+8)
+# UPDATED: 2025-03-28 00:18:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 946
+# TOTAL: 947
 payload:
   - '+.and'
   - '+.chrome'
@@ -50,6 +50,7 @@ payload:
   - '+.angulardart.org'
   - '+.api.ai'
   - '+.apigee.com'
+  - '+.app-analytics-services.com'
   - '+.app-measurement-cn.com'
   - '+.app-measurement.com'
   - '+.app-measurement.net'

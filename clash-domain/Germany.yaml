@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-27 00:12:20 (UTC+8)
+# UPDATED: 2025-03-28 00:12:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 232
+# TOTAL: 233
 payload:
   - '+.anthemgame.com'
   - '+.anthemthegame.com'
@@ -227,6 +227,7 @@ payload:
   - 'bnetshopus.akamaized.net'
   - 'eaasserts-a.akamaihd.net'
   - 'eaassets-a.akamaihd.net'
+  - 'gog-cdn.akamaized.net'
   - 'gog.qtlglb.com'
   - 'gog.salesmanago.com'
   - 'origin-a.akamaihd.net'

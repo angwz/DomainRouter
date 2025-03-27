@@ -1,9 +1,9 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-27 00:12:20 (UTC+8)
+# UPDATED: 2025-03-28 00:12:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 911
+# TOTAL: 912
 payload:
   - '+.azure'
   - '+.hk'
@@ -126,6 +126,7 @@ payload:
   - '+.blueaggrestore.com'
   - '+.bluecloudprod.com'
   - '+.bookstagram.com'
+  - '+.botframework.com'
   - '+.botorch.org'
   - '+.buck.build'
   - '+.buckbuild.com'
