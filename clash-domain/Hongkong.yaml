@@ -1,9 +1,9 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-28 00:12:07 (UTC+8)
+# UPDATED: 2025-03-29 00:11:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 912
+# TOTAL: 916
 payload:
   - '+.azure'
   - '+.hk'
@@ -11,6 +11,7 @@ payload:
   - '+.21vbluecloud.com'
   - '+.21vbluecloud.net'
   - '+.aadrm.cn'
+  - '+.aadrm.com'
   - '+.aboutfacebook.com'
   - '+.accessfacebookfromschool.com'
   - '+.accountkit.com'
@@ -609,6 +610,7 @@ payload:
   - '+.meta.ai'
   - '+.meta.com'
   - '+.mgmt-azure-api.cn'
+  - '+.microsoftazuread-sso.com'
   - '+.microsoftazuresponsorships.com'
   - '+.microsoftazurestatus.cn'
   - '+.microsofteca.com'
@@ -656,6 +658,8 @@ payload:
   - '+.periscope.tv'
   - '+.playartifact.com'
   - '+.playercdn.net'
+  - '+.playfab.com'
+  - '+.playfabapi.com'
   - '+.powersunitedvr.com'
   - '+.propvideo.net'
   - '+.pscp.tv'

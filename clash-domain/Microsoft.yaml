@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-28 00:18:43 (UTC+8)
+# UPDATED: 2025-03-29 00:18:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 737
+# TOTAL: 739
 payload:
   - '+.azure'
   - '+.bing'
@@ -556,7 +556,9 @@ payload:
   - '+.pbiwebcontent.cn'
   - '+.phonefactor.net'
   - '+.pixapp.net'
+  - '+.playfab.com'
   - '+.playfabapi.cn'
+  - '+.playfabapi.com'
   - '+.playfabcn.com'
   - '+.poshtestgallery.com'
   - '+.powerapps.cn'
