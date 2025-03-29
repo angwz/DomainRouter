@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-29 00:18:21 (UTC+8)
+# UPDATED: 2025-03-30 00:16:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 101090
+# TOTAL: 101088
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -39707,7 +39707,6 @@ payload:
   - '+.hdslb.net'
   - '+.hdslb.org'
   - '+.hdsmgw.com'
-  - '+.hdstreet.club'
   - '+.hdtgtm.com'
   - '+.hdtime.org'
   - '+.hdtmedia.com'
@@ -40777,7 +40776,6 @@ payload:
   - '+.hitoupiao.com'
   - '+.hitozumi.com'
   - '+.hitpt.com'
-  - '+.hitpt.org'
   - '+.hitrip.info'
   - '+.hitui.com'
   - '+.hitutu.com'

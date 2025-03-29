@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-29 00:18:21 (UTC+8)
+# UPDATED: 2025-03-30 00:16:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 443
+# TOTAL: 444
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -245,7 +245,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -301,10 +300,10 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
+  - 'torrent.hificode.in'
   - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -313,6 +312,7 @@ payload:
   - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
+  - 'tracker-v6.opendev.cloud'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
   - 'tracker.23794.top'
@@ -384,6 +384,7 @@ payload:
   - 'tracker.netmap.top'
   - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
+  - 'tracker.opendev.cloud'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
@@ -431,6 +432,7 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
+  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
@@ -446,5 +448,4 @@ payload:
   - 'tracker.home.kmzs123.cn'
   - 'tracker.torrent.eu.org'
   - 'udp.tracker.projectk.org'
-  - 'www.torrent.eu.org'
   - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'
