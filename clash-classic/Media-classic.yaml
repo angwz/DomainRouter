@@ -1,16 +1,18 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-03-30 00:16:59 (UTC+8)
+# UPDATED: 2025-03-31 00:17:00 (UTC+8)
 # TYPE: classic
-# TOTAL: 33
-# DOMAIN-KEYWORD TOTAL: 27
+# TOTAL: 35
+# DOMAIN-KEYWORD TOTAL: 29
 # PROCESS-NAME TOTAL: 6
 payload:
   - DOMAIN-KEYWORD,abematv.akamaized.net
+  - DOMAIN-KEYWORD,anthropic
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb
   - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,discovery.uplynk.com
   - DOMAIN-KEYWORD,dualstack.apiproxy
   - DOMAIN-KEYWORD,dualstack.ichnaea-web
