@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-03 00:11:55 (UTC+8)
+# UPDATED: 2025-04-04 00:11:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 31660
+# TOTAL: 31666
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4007,6 +4007,7 @@ payload:
   - '+.brawlstars.com'
   - '+.brawlstarsgame.com'
   - '+.brazilpartneruniversity.com'
+  - '+.brazz.org'
   - '+.brazzer.com'
   - '+.brazzers-porno.online'
   - '+.brazzers-xxx.net'
@@ -7278,6 +7279,7 @@ payload:
   - '+.exchristian.hk'
   - '+.excitebots.com'
   - '+.exec-appointments.com'
+  - '+.exeporn.net'
   - '+.exgfvideos.xxx'
   - '+.exgirlfriendmarket.com'
   - '+.exhentai.org'
@@ -10154,6 +10156,7 @@ payload:
   - '+.hnntube.com'
   - '+.hobonichielog.com'
   - '+.hochi.news'
+  - '+.hochu.tv'
   - '+.hockeyapp.net'
   - '+.hoes.com'
   - '+.hola.com'
@@ -12617,6 +12620,7 @@ payload:
   - '+.lemonde.fr'
   - '+.lencr.org'
   - '+.lenkino.xxx'
+  - '+.lenporno.net'
   - '+.lenporno.red'
   - '+.lenwhite.com'
   - '+.leorockwell.com'
@@ -21914,6 +21918,7 @@ payload:
   - '+.vsezoo.com'
   - '+.vsphere.com'
   - '+.vsphere.net'
+  - '+.vtrahe.page'
   - '+.vtsociety.org'
   - '+.vtunnel.com'
   - '+.vtvan.com'
@@ -23072,6 +23077,7 @@ payload:
   - '+.yadi.sk'
   - '+.yadori.club'
   - '+.yaeby.info'
+  - '+.yaeby.pro'
   - '+.yahoo.ae'
   - '+.yahoo.am'
   - '+.yahoo.as'

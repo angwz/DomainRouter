@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-03 00:19:20 (UTC+8)
+# UPDATED: 2025-04-04 00:18:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 10791
+# TOTAL: 10797
 payload:
   - '+.adult'
   - '+.bbc'
@@ -1212,6 +1212,7 @@ payload:
   - '+.bravotube.tv'
   - '+.bravotv.com'
   - '+.braze.com'
+  - '+.brazz.org'
   - '+.brazzer.com'
   - '+.brazzers-porno.online'
   - '+.brazzers-xxx.net'
@@ -2144,6 +2145,7 @@ payload:
   - '+.evropaelire.org'
   - '+.excedo.com'
   - '+.exec-appointments.com'
+  - '+.exeporn.net'
   - '+.exgfvideos.xxx'
   - '+.exgirlfriendmarket.com'
   - '+.exhentai.org'
@@ -3209,6 +3211,7 @@ payload:
   - '+.hnntube.com'
   - '+.hobonichielog.com'
   - '+.hochi.news'
+  - '+.hochu.tv'
   - '+.hoes.com'
   - '+.holaporno.xxx'
   - '+.holdemstripem.com'
@@ -4052,6 +4055,7 @@ payload:
   - '+.leliao1.com'
   - '+.lemoncams.com'
   - '+.lenkino.xxx'
+  - '+.lenporno.net'
   - '+.lenporno.red'
   - '+.leporno.org'
   - '+.lepornochaud.com'
@@ -7196,6 +7200,7 @@ payload:
   - '+.vrsmash.com'
   - '+.vrsumo.com'
   - '+.vsezoo.com'
+  - '+.vtrahe.page'
   - '+.vtvan.com'
   - '+.vulgarx.com'
   - '+.w0512.com'
@@ -7730,6 +7735,7 @@ payload:
   - '+.yaddal.tv'
   - '+.yadori.club'
   - '+.yaeby.info'
+  - '+.yaeby.pro'
   - '+.yamoon.club'
   - '+.yande.re'
   - '+.yantaqu.com'
