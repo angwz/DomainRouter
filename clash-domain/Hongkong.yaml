@@ -1,9 +1,9 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-06 00:09:53 (UTC+8)
+# UPDATED: 2025-04-07 00:09:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 916
+# TOTAL: 918
 payload:
   - '+.azure'
   - '+.hk'
@@ -885,6 +885,7 @@ payload:
   - 'ibuki.cgnat.net'
   - 'jp.tiar.app'
   - 'jp.tiarap.org'
+  - 'lv.queniujq.cn'
   - 'mozilla.cloudflare-dns.com'
   - 'odvr.nic.cz'
   - 'ordns.he.net'
@@ -921,3 +922,4 @@ payload:
   - 'one.one.one.one'
   - 'private.canadianshield.cira.ca'
   - 'protected.canadianshield.cira.ca'
+  - 'a4e8s8k3.map2.ssl.hwcdn.net'

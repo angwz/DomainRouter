@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-06 00:17:32 (UTC+8)
+# UPDATED: 2025-04-07 00:17:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 3843
+# TOTAL: 3845
 payload:
   - '+.apple'
   - '+.playstation'
@@ -3155,6 +3155,7 @@ payload:
   - 'lolstatic-a.akamaihd.net'
   - 'ls.qingting.fm'
   - 'luzhi.xuyongrongmei.com'
+  - 'lv.queniujq.cn'
   - 'lxfile.lxxcb.cn'
   - 'lzlive.vojs.cn'
   - 'm.567it.com'
@@ -3792,6 +3793,7 @@ payload:
   - 'zhongxiang.live.cjyun.org'
   - 'zigui.live.cjyun.org'
   - '6.mms.vlog.xuite.net'
+  - 'a4e8s8k3.map2.ssl.hwcdn.net'
   - 'aljazeera-eng-hd-live.hls.adaptive.level3.net'
   - 'amdlive-ch01.ctnd.com.edgesuite.net'
   - 'amdlive-ch03.ctnd.com.edgesuite.net'

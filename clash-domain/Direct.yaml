@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-06 00:09:12 (UTC+8)
+# UPDATED: 2025-04-07 00:09:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 4146
+# TOTAL: 4151
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1262,6 +1262,9 @@ payload:
   - '+.gneec7.com'
   - '+.gneeccloud.com'
   - '+.goldenear.club'
+  - '+.golink.com'
+  - '+.golinkapi.com'
+  - '+.golinkcn.com'
   - '+.gomcloud.cn'
   - '+.gongyi.xin'
   - '+.goofish.com'
@@ -1912,6 +1915,7 @@ payload:
   - '+.researchkit.cn'
   - '+.resset.com'
   - '+.rexpos.cn'
+  - '+.rmbgame.net'
   - '+.rmwxgame.com'
   - '+.roblox.cn'
   - '+.robloxdev.cn'
@@ -2081,8 +2085,10 @@ payload:
   - '+.sslibrary.com'
   - '+.ssreader.cn'
   - '+.ssvideo.cn'
+  - '+.steam302.xyz'
   - '+.steamchina.com'
   - '+.steamcontent.com'
+  - '+.steampp.net'
   - '+.steamserver.net'
   - '+.steamusercontent.com'
   - '+.submusic.cn'
@@ -2769,7 +2775,6 @@ payload:
   - '+.d.f.ip6.arpa'
   - '+.de.ntp.org.cn'
   - '+.dl.steam.clngaa.com'
-  - '+.dl.steam.ksyna.com'
   - '+.edu.ntp.org.cn'
   - '+.gstore.val.manlaxy.com'
   - '+.hk.ntp.org.cn'
@@ -2801,7 +2806,6 @@ payload:
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'
   - '+.st.dl.pinyuncloud.com'
-  - '+.steampipe.steamcontent.tnkjmec.com'
   - '+.steampowered.com.8686c.com'
   - '+.steamstatic.com.8686c.com'
   - '+.time.asia.apple.com'
@@ -3277,6 +3281,7 @@ payload:
   - 'lmt.scqstv.com'
   - 'ls.qingting.fm'
   - 'luzhi.xuyongrongmei.com'
+  - 'lv.queniujq.cn'
   - 'lxfile.lxxcb.cn'
   - 'lzlive.vojs.cn'
   - 'm.567it.com'
