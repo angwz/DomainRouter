@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-07 00:17:18 (UTC+8)
+# UPDATED: 2025-04-08 00:19:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 106862
+# TOTAL: 106869
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -32572,6 +32572,7 @@ payload:
   - '+.forestfood.com'
   - '+.forestmusicnanjing.com'
   - '+.forestpolice.org'
+  - '+.forevernine.com'
   - '+.foreveross.com'
   - '+.foreweld.com'
   - '+.forface3d.com'
@@ -36045,6 +36046,8 @@ payload:
   - '+.golenpower.com'
   - '+.golfvv.com'
   - '+.golink.com'
+  - '+.golinkapi.com'
+  - '+.golinkcn.com'
   - '+.golinksworld.com'
   - '+.golive-tv.com'
   - '+.golivetv.tv'
@@ -48038,6 +48041,7 @@ payload:
   - '+.imlianai.com'
   - '+.imliuyi.com'
   - '+.immeee.com'
+  - '+.immersivetranslate.com'
   - '+.immfast.com'
   - '+.immi520.com'
   - '+.immiexpo.com'
@@ -73925,6 +73929,7 @@ payload:
   - '+.rm.run'
   - '+.rmb.sh'
   - '+.rmbbk.com'
+  - '+.rmbgame.net'
   - '+.rmbrate.net'
   - '+.rmburl.com'
   - '+.rmcaribbean.com'
@@ -80593,6 +80598,7 @@ payload:
   - '+.stdout.pub'
   - '+.stdwp.com'
   - '+.ste56.com'
+  - '+.steam302.xyz'
   - '+.steambang.com'
   - '+.steambig.com'
   - '+.steamboxs.com'
@@ -106856,6 +106862,7 @@ payload:
   - 'wpc.124ce.sigmacdn.net'
   - 'xb.dlservice.microsoft.com'
   - '6.mms.vlog.xuite.net'
+  - 'alibaba.cdn.steampipe.steamcontent.com'
   - 'aljazeera-eng-hd-live.hls.adaptive.level3.net'
   - 'amdlive-ch01.ctnd.com.edgesuite.net'
   - 'amdlive-ch03.ctnd.com.edgesuite.net'
