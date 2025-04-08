@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-08 00:19:06 (UTC+8)
+# UPDATED: 2025-04-09 00:19:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 583
+# TOTAL: 585
 payload:
   - '+.1700.cn'
   - '+.17roco.com'
@@ -528,7 +528,9 @@ payload:
   - '+.wnsqzonebk.com'
   - '+.woa.com'
   - '+.wting.info'
+  - '+.wxcloudrun.com'
   - '+.wxgamemini.com'
+  - '+.wxgateway.com'
   - '+.wxlagame.com'
   - '+.wxlivecdn.com'
   - '+.wxutil.com'

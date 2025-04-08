@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-08 00:11:40 (UTC+8)
+# UPDATED: 2025-04-09 00:12:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 31667
+# TOTAL: 31671
 payload:
   - '+.adult'
   - '+.amazon'
@@ -18676,7 +18676,11 @@ payload:
   - '+.sigmoidoscopeexam.com'
   - '+.sign.new'
   - '+.signal.art'
+  - '+.signal.group'
+  - '+.signal.link'
+  - '+.signal.me'
   - '+.signal.org'
+  - '+.signal.tube'
   - '+.signalbar.com'
   - '+.signalprocessingsociety.org'
   - '+.signalr.net'
