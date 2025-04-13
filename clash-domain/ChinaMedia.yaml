@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-13 00:17:44 (UTC+8)
+# UPDATED: 2025-04-13 12:34:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 3845
+# TOTAL: 3857
 payload:
   - '+.apple'
   - '+.playstation'
@@ -963,6 +963,17 @@ payload:
   - '+.dmhmusic.com'
   - '+.dodi-repacks.download'
   - '+.dodi-repacks.site'
+  - '+.domesticmedia.cc'
+  - '+.domesticmedia.cn'
+  - '+.domesticmedia.co'
+  - '+.domesticmedia.com'
+  - '+.domesticmedia.net'
+  - '+.domesticmedia.tv'
+  - '+.domesticmediagame.cn'
+  - '+.domesticmediagame.co'
+  - '+.domesticmediagame.net'
+  - '+.domesticmediapay.cn'
+  - '+.domesticmediapay.com'
   - '+.donkeykongcountryreturns.com'
   - '+.doom.com'
   - '+.dot-mac.de'
@@ -2613,6 +2624,8 @@ payload:
   - '+.noxagile.duapp.com'
   - '+.opgg-static.akamaized.net'
   - '+.origin-a.akamaihd.net'
+  - '+.p-bstarstatic.akamaized.net'
+  - '+.p.bstarstatic.com'
   - '+.pconline.com.cn'
   - '+.people.com.cn'
   - '+.pgdt.gtimg.cn'
@@ -2655,10 +2668,13 @@ payload:
   - '+.tvcc.com.cn'
   - '+.ukoo.com.cn'
   - '+.umamusume.akamaized.net'
+  - '+.upos-bstar-mirrorakam.akamaized.net'
+  - '+.upos-bstar1-mirrorakam.akamaized.net'
   - '+.upos-hz-mirrorakam.akamaized.net'
   - '+.uposdash-302-bilivideo.yfcdn.net'
   - '+.v.qq.com'
   - '+.v.smtcdns.com'
+  - '+.v1d.szbdyd.com'
   - '+.v2.reachmax.cn'
   - '+.video.qq.com'
   - '+.videos-rockstargames-com.akamaized.net'
@@ -3216,9 +3232,7 @@ payload:
   - 'ott-live.olympicchannel.com'
   - 'ott.mobaibox.com'
   - 'ott3.ysbn.cn'
-  - 'p-bstarstatic.akamaized.net'
   - 'p-events-delivery.akamaized.net'
-  - 'p.bstarstatic.com'
   - 'p2.weizan.cn'
   - 'p2bj.weizan.cn'
   - 'p4.weizan.cn'
@@ -3416,8 +3430,6 @@ payload:
   - 'tvpull.smartwq.cn'
   - 'ubistatic3-a.akamaihd.net'
   - 'uni6rtmp.tulix.tv'
-  - 'upos-bstar-mirrorakam.akamaized.net'
-  - 'upos-bstar1-mirrorakam.akamaized.net'
   - 'v.xstv.net'
   - 'v1.one-tv.com'
   - 'vfile.cfrtv.cn'
