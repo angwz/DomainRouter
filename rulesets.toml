@@ -280,18 +280,6 @@ interval = 21600
 
 [[rulesets]]
 group = "🥝 新加坡高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Singapore-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "🥝 新加坡高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Singapore-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🥝 新加坡高速"
 ruleset = "[]GEOIP,SG,no-resolve"
 
 [[rulesets]]
