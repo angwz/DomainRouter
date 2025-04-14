@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-14 00:10:09 (UTC+8)
+# UPDATED: 2025-04-15 00:12:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 31790
+# TOTAL: 31798
 payload:
   - '+.adult'
   - '+.amazon'
@@ -7698,6 +7698,7 @@ payload:
   - '+.fanhaodian.com'
   - '+.fanhaolou.com'
   - '+.fanhowab.buzz'
+  - '+.fani.com'
   - '+.fank.ru'
   - '+.fanleakstoday.com'
   - '+.fanqiang.network'
@@ -7793,6 +7794,7 @@ payload:
   - '+.fatbtc.com'
   - '+.fatstube.com'
   - '+.fau11.com'
+  - '+.favcomic.com'
   - '+.favebook.com'
   - '+.favelaporno.com'
   - '+.favepornmovs.com'
@@ -9627,6 +9629,7 @@ payload:
   - '+.gzm.tv'
   - '+.gzone-anime.info'
   - '+.h-china.org'
+  - '+.h-ciyuan.com'
   - '+.h-doujinshi.xyz'
   - '+.h-flash.com'
   - '+.h-moe.com'
@@ -13266,6 +13269,7 @@ payload:
   - '+.manta.com'
   - '+.mantochichi.com'
   - '+.manurefetish.com'
+  - '+.manwa.me'
   - '+.manytoon.com'
   - '+.manyvids.com'
   - '+.manyvoices.news'
@@ -19135,6 +19139,7 @@ payload:
   - '+.soso7778.com'
   - '+.sosreader.com'
   - '+.sostibet.org'
+  - '+.sotwe.com'
   - '+.sou-tong.org'
   - '+.soubory.com'
   - '+.souka.xyz'
@@ -19294,6 +19299,7 @@ payload:
   - '+.ssl.com'
   - '+.ssl443.org'
   - '+.sslpaypal.org'
+  - '+.ssm.fun'
   - '+.sspanel.net'
   - '+.sspanel.org'
   - '+.ssplive.pw'
@@ -20220,6 +20226,7 @@ payload:
   - '+.thotbook.tv'
   - '+.thothub.ru'
   - '+.thothub.to'
+  - '+.thotsbay.tv'
   - '+.thottok.com'
   - '+.thotvids.com'
   - '+.threadreaderapp.com'
@@ -31035,6 +31042,7 @@ payload:
   - '+.uyghur.co.uk'
   - '+.uyghurensemble.co.uk'
   - '+.v-resort.ac.uk'
+  - '+.v2.hysteria.network'
   - '+.vaccine.ac.uk'
   - '+.vads.ac.uk'
   - '+.vam.ac.uk'
