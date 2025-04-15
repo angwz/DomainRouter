@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-15 00:21:26 (UTC+8)
+# UPDATED: 2025-04-16 00:19:46 (UTC+8)
 # TYPE: domain
-# TOTAL: 3857
+# TOTAL: 3869
 payload:
   - '+.apple'
   - '+.playstation'
@@ -44,6 +44,7 @@ payload:
   - '+.36krcdn.com'
   - '+.36krcnd.com'
   - '+.3conline.com'
+  - '+.3lateral.com'
   - '+.40shopping.com'
   - '+.4beatsbydre.com'
   - '+.52mtkvideo.cn'
@@ -371,6 +372,7 @@ payload:
   - '+.appye.com'
   - '+.apyle.com'
   - '+.apzones.com'
+  - '+.artstation.com'
   - '+.asto.re'
   - '+.aucheapbeats.com'
   - '+.audiobeatsau.com'
@@ -780,6 +782,7 @@ payload:
   - '+.camelspaceeffect.com'
   - '+.canada-beatsbydre.com'
   - '+.capitalgames.com'
+  - '+.capturingreality.com'
   - '+.carbon.com'
   - '+.carekit.org'
   - '+.casque-fr.com'
@@ -903,6 +906,7 @@ payload:
   - '+.cqcorea.com'
   - '+.crashlytics.com'
   - '+.crysis.jp'
+  - '+.cubicmotion.com'
   - '+.cuffiesaldi.com'
   - '+.cups.org'
   - '+.curseforge.com'
@@ -1098,6 +1102,7 @@ payload:
   - '+.eworld.com'
   - '+.excitebots.com'
   - '+.expreview.com'
+  - '+.fab.com'
   - '+.fabricmc.net'
   - '+.faceid99.com'
   - '+.faceid99.net'
@@ -1253,6 +1258,7 @@ payload:
   - '+.hutpromos.com'
   - '+.huxiu.com'
   - '+.huxiucdn.com'
+  - '+.hyprsense.com'
   - '+.i-book.com'
   - '+.i-book.net'
   - '+.ibeats-uk.com'
@@ -1956,11 +1962,15 @@ payload:
   - '+.quicktime.net'
   - '+.quicktime.tv'
   - '+.quiltmc.org'
+  - '+.quixel.com'
+  - '+.quixel.se'
   - '+.qwapi.com'
   - '+.qy.com'
   - '+.qy.net'
+  - '+.radgametools.com'
   - '+.rbsgr.com'
   - '+.realcybertron.com'
+  - '+.realityscan.com'
   - '+.reform-apple.com'
   - '+.renovacionxboxlive.com'
   - '+.repsneakermall.com'
@@ -2044,6 +2054,7 @@ payload:
   - '+.siri.com'
   - '+.sk2cdsnw.cn'
   - '+.skate2.com'
+  - '+.sketchfab.com'
   - '+.skydweller.cn'
   - '+.sl916.com'
   - '+.smtcdns.net'
@@ -2206,6 +2217,7 @@ payload:
   - '+.tudou.com'
   - '+.tvappstore.net'
   - '+.tvcc.cn'
+  - '+.twinmotion.com'
   - '+.ubi.com'
   - '+.ubisoft.com'
   - '+.ubisoftconnect.com'

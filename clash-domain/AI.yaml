@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-15 00:12:06 (UTC+8)
+# UPDATED: 2025-04-16 00:10:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 116
+# TOTAL: 118
 payload:
   - '+.bing'
   - '+.algolia.net'
@@ -23,6 +23,7 @@ payload:
   - '+.bluehatnights.com'
   - '+.chat.com'
   - '+.chatgpt.com'
+  - '+.chutes.ai'
   - '+.claude.ai'
   - '+.claudeusercontent.com'
   - '+.clipdrop.co'
@@ -54,6 +55,7 @@ payload:
   - '+.microsoftlatamholiday.com'
   - '+.microsoftmxfilantropia.com'
   - '+.microsoftpartnersolutions.com'
+  - '+.mistral.ai'
   - '+.msunlimitedcloudsummit.com'
   - '+.notebooklm.google'
   - '+.oaistatic.com'

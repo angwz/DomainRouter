@@ -1,9 +1,9 @@
 # NAME: YouTube
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-15 00:21:21 (UTC+8)
+# UPDATED: 2025-04-16 00:19:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 712
+# TOTAL: 713
 payload:
   - '+.java'
   - '+.youtube'
@@ -476,6 +476,7 @@ payload:
   - '+.xposed.info'
   - '+.yarnpkg.com'
   - '+.yogalayout.com'
+  - '+.youtrack.cloud'
   - '+.youtu.be'
   - '+.youtube-nocookie.com'
   - '+.youtube.ae'

@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-15 00:12:08 (UTC+8)
+# UPDATED: 2025-04-16 00:10:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 6809
+# TOTAL: 6810
 payload:
   - '+.amazon'
   - '+.aws'
@@ -223,6 +223,7 @@ payload:
   - '+.aws-border.cn'
   - '+.aws-icp-domain-manager.cn'
   - '+.aws-iot-hackathon.com'
+  - '+.aws.com'
   - '+.awsapps.cn'
   - '+.awsautopilot.com'
   - '+.awsautoscaling.com'

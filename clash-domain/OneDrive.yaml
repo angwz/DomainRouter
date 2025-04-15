@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-15 00:21:21 (UTC+8)
+# UPDATED: 2025-04-16 00:19:41 (UTC+8)
 # TYPE: domain
 # TOTAL: 444
 payload:
@@ -191,6 +191,7 @@ payload:
   - 'amigacity.xyz'
   - 'buny.uk'
   - 'ch3oh.ru'
+  - 'chihaya.de'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'epider.me'
@@ -261,7 +262,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -304,12 +304,12 @@ payload:
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
-  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -324,7 +324,6 @@ payload:
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bjut.jp'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -383,6 +382,7 @@ payload:
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
   - 'tracker.nitrix.me'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -432,7 +432,6 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
-  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
@@ -445,6 +444,7 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
+  - 'tracker.home.kmzs123.cn'
   - 'tracker.torrent.eu.org'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
