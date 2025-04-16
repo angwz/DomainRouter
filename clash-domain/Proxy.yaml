@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-16 00:10:26 (UTC+8)
+# UPDATED: 2025-04-17 00:12:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 31814
+# TOTAL: 31815
 payload:
   - '+.adult'
   - '+.amazon'
@@ -10023,6 +10023,7 @@ payload:
   - '+.hetzner.com'
   - '+.hetzner.company'
   - '+.hetzner.de'
+  - '+.hetzner.social'
   - '+.heungkongdiscuss.com'
   - '+.hewlett-packard.asia'
   - '+.hewlett-packard.ch'

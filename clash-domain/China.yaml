@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-16 00:19:41 (UTC+8)
+# UPDATED: 2025-04-17 00:22:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 118807
+# TOTAL: 118810
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -33882,6 +33882,7 @@ payload:
   - '+.eszzxxz.com'
   - '+.et-api.com'
   - '+.et-fine.com'
+  - '+.et001.com'
   - '+.et59.com'
   - '+.et8.org'
   - '+.et998.com'
@@ -41031,6 +41032,7 @@ payload:
   - '+.guahaowang.com'
   - '+.guaiguai.com'
   - '+.guaihou.com'
+  - '+.guaiku.com'
   - '+.guaileicp.com'
   - '+.guaili.org'
   - '+.guailuo.com'
@@ -69517,6 +69519,7 @@ payload:
   - '+.mingxingbobbin.com'
   - '+.mingxingku.com'
   - '+.mingxinglai.com'
+  - '+.mingxuan.store'
   - '+.mingxuanxz.com'
   - '+.mingya.mobi'
   - '+.mingyafeng.com'
