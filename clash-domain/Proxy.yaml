@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-19 00:11:27 (UTC+8)
+# UPDATED: 2025-04-20 00:09:57 (UTC+8)
 # TYPE: domain
 # TOTAL: 31823
 payload:
@@ -10719,6 +10719,7 @@ payload:
   - '+.hypodermicinjectiononline.com'
   - '+.hypothes.is'
   - '+.hyprsense.com'
+  - '+.hysteria.network'
   - '+.hyu2.com'
   - '+.hzmn.net'
   - '+.i-123-hp.com'
@@ -31067,7 +31068,6 @@ payload:
   - '+.uyghur.co.uk'
   - '+.uyghurensemble.co.uk'
   - '+.v-resort.ac.uk'
-  - '+.v2.hysteria.network'
   - '+.vaccine.ac.uk'
   - '+.vads.ac.uk'
   - '+.vam.ac.uk'
