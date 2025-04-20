@@ -1,12 +1,13 @@
 # NAME: Gemini
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-20 00:09:58 (UTC+8)
+# UPDATED: 2025-04-21 00:10:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 15
+# TOTAL: 16
 payload:
   - '+.deepmind.com'
   - '+.deepmind.google'
+  - '+.gemini.google'
   - '+.generativeai.google'
   - '+.aistudio.google.com'
   - '+.apis.google.com'

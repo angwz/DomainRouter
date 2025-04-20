@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-20 00:19:13 (UTC+8)
+# UPDATED: 2025-04-21 00:19:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 947
+# TOTAL: 929
 payload:
   - '+.and'
   - '+.chrome'
@@ -888,6 +888,7 @@ payload:
   - '2mdn-cn.net'
   - '2mdn.net'
   - 'admob-cn.com'
+  - 'app-analytics-services.com'
   - 'app-measurement-cn.com'
   - 'app-measurement.com'
   - 'dartsearch-cn.net'
@@ -905,7 +906,6 @@ payload:
   - 'googleflights-cn.net'
   - 'googleoptimize-cn.com'
   - 'googleoptimize.com'
-  - 'googleplex.com'
   - 'googlesyndication-cn.com'
   - 'googlesyndication.com'
   - 'googletagmanager-cn.com'
@@ -919,36 +919,18 @@ payload:
   - 'qiao-cn.com'
   - 'recaptcha-cn.net'
   - 'recaptcha.net'
-  - 'xn--9kr7l.com'
   - 'xn--flw351e.com'
   - 'apps5.oingo.com'
   - 'avail.googleflights.net'
   - 'clickserve.cc-dt.com'
-  - 'distribution.qatp1.net'
-  - 'distribution.qcpp1.net'
-  - 'distribution.qpdp1.net'
   - 'download.qatp1.net'
-  - 'download.qcpp1.net'
-  - 'download.qpdp1.net'
   - 'google-ohttp-relay-safebrowsing.fastly-edge.com'
-  - 'monitoring.qatp1.net'
-  - 'monitoring.qcpp1.net'
   - 'monitoring.qpdp1.net'
   - 'qagpublic.qatp1.net'
-  - 'qagpublic.qcpp1.net'
-  - 'qagpublic.qpdp1.net'
-  - 'qgadmin.qatp1.net'
   - 'qgadmin.qcpp1.net'
-  - 'qgadmin.qpdp1.net'
   - 'qpx.googleflights.net'
   - 'qualysapi.qatp1.net'
-  - 'qualysapi.qcpp1.net'
-  - 'qualysapi.qpdp1.net'
-  - 'qualysguard.qatp1.net'
-  - 'qualysguard.qcpp1.net'
   - 'qualysguard.qpdp1.net'
-  - 'scanservice1.qatp1.net'
   - 'scanservice1.qcpp1.net'
-  - 'scanservice1.qpdp1.net'
   - 'www.destinationurl.com'
   - 'www.pxcc.com'

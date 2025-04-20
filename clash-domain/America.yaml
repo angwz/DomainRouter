@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-20 00:10:00 (UTC+8)
+# UPDATED: 2025-04-21 00:10:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 6810
+# TOTAL: 6811
 payload:
   - '+.amazon'
   - '+.aws'
@@ -336,6 +336,7 @@ payload:
   - '+.cf-ns.net'
   - '+.cf-ns.site'
   - '+.cf-ns.tech'
+  - '+.cfargotunnel.com'
   - '+.cfl.re'
   - '+.cftest5.cn'
   - '+.cftest6.cn'

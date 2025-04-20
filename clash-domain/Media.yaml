@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-20 00:19:17 (UTC+8)
+# UPDATED: 2025-04-21 00:19:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 10797
+# TOTAL: 10798
 payload:
   - '+.adult'
   - '+.bbc'
@@ -4053,6 +4053,7 @@ payload:
   - '+.legsex.com'
   - '+.legsjapan.com'
   - '+.leliao1.com'
+  - '+.lemmynsfw.com'
   - '+.lemoncams.com'
   - '+.lenkino.xxx'
   - '+.lenporno.net'
