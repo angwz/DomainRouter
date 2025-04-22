@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-22 00:20:59 (UTC+8)
+# UPDATED: 2025-04-23 00:21:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 10798
+# TOTAL: 10805
 payload:
   - '+.adult'
   - '+.bbc'
@@ -298,6 +298,7 @@ payload:
   - '+.8thstreetlatinas.com'
   - '+.8xxx.net'
   - '+.90seconds.asia'
+  - '+.91-cg.com'
   - '+.91av.one'
   - '+.91avfuli.com'
   - '+.91beiyong.com'
@@ -309,6 +310,7 @@ payload:
   - '+.91md.me'
   - '+.91moxiong.com'
   - '+.91oo.xyz'
+  - '+.91porn.best'
   - '+.91pornplus.com'
   - '+.91porny.com'
   - '+.91porny.store'
@@ -321,6 +323,7 @@ payload:
   - '+.91sesex.xyz'
   - '+.91sew.xyz'
   - '+.91sew40.buzz'
+  - '+.91short.com'
   - '+.91vhome.com'
   - '+.920share.com'
   - '+.921bb.com'
@@ -1928,6 +1931,7 @@ payload:
   - '+.dvdtrailertube.com'
   - '+.dw.com'
   - '+.dx9527.cc'
+  - '+.dxk4h.com'
   - '+.dxyav.co'
   - '+.dyfl1.pw'
   - '+.dykycl.com'
@@ -2934,6 +2938,7 @@ payload:
   - '+.hanime.me'
   - '+.hanime.tv'
   - '+.hanime.xxx'
+  - '+.hanime.xyz'
   - '+.hanime1.me'
   - '+.hanr-bao.mom'
   - '+.hao21.xyz'
@@ -5551,6 +5556,7 @@ payload:
   - '+.pornvideotop.com'
   - '+.pornvideotube.online'
   - '+.pornvidhd.club'
+  - '+.pornvr.me'
   - '+.pornwatchers.com'
   - '+.pornwebmasters.com'
   - '+.pornwhite.com'
@@ -10438,6 +10444,7 @@ payload:
   - 'dhx-degrassi-2-ca.samsung.wurl.tv'
   - 'digicom.hls.iptvdc.com'
   - 'digitalmediarights-retrocrush-1.sinclair.wurl.com'
+  - 'disney.my.sentry.io'
   - 'dmiffthvll.cdn.mangomolo.com'
   - 'dminnvll.cdn.mangomolo.com'
   - 'dmisxthvll.cdn.mangomolo.com'

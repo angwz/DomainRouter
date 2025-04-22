@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-22 00:11:40 (UTC+8)
+# UPDATED: 2025-04-23 00:12:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 31842
+# TOTAL: 31851
 payload:
   - '+.adult'
   - '+.amazon'
@@ -615,6 +615,7 @@ payload:
   - '+.9001700.com'
   - '+.908taiwan.org'
   - '+.90seconds.asia'
+  - '+.91-cg.com'
   - '+.91av.one'
   - '+.91avfuli.com'
   - '+.91beiyong.com'
@@ -648,6 +649,7 @@ payload:
   - '+.91sesex.xyz'
   - '+.91sew.xyz'
   - '+.91sew40.buzz'
+  - '+.91short.com'
   - '+.91vhome.com'
   - '+.91vps.club'
   - '+.920share.com'
@@ -6621,6 +6623,7 @@ payload:
   - '+.dwnews.net'
   - '+.dx9527.cc'
   - '+.dxiong.com'
+  - '+.dxk4h.com'
   - '+.dxyav.co'
   - '+.dydx.exchange'
   - '+.dyfl1.pw'
@@ -9505,6 +9508,7 @@ payload:
   - '+.gotgeeks.com'
   - '+.gothdporn.com'
   - '+.gotporn.com'
+  - '+.gotquestions.org'
   - '+.gotraffic.net'
   - '+.gotrusted.com'
   - '+.gotw.ca'
@@ -9713,6 +9717,7 @@ payload:
   - '+.hanime.me'
   - '+.hanime.tv'
   - '+.hanime.xxx'
+  - '+.hanime.xyz'
   - '+.hanime1.me'
   - '+.hanminzu.org'
   - '+.hanr-bao.mom'
@@ -10883,6 +10888,7 @@ payload:
   - '+.idlcoyote.com'
   - '+.idnike.com'
   - '+.idol-sagasukun.com'
+  - '+.idope.se'
   - '+.idouga.com'
   - '+.idreamx.com'
   - '+.ids-apple.com'
@@ -17092,6 +17098,7 @@ payload:
   - '+.pornvideotube.online'
   - '+.pornvidhd.club'
   - '+.pornvisit.com'
+  - '+.pornvr.me'
   - '+.pornwatchers.com'
   - '+.pornwebmasters.com'
   - '+.pornwhite.com'
@@ -19608,6 +19615,7 @@ payload:
   - '+.stxmosquitoproject.net'
   - '+.stxmosquitoproject.org'
   - '+.sub147.com'
+  - '+.subhd.tv'
   - '+.sublimedirectory.com'
   - '+.sublimetext.com'
   - '+.submarin.online'
@@ -31808,6 +31816,7 @@ payload:
   - 'hpstore.corpmerchandise.com'
   - 'i.jeded.com'
   - 'imperial.insendi.com'
+  - 'ingest.apple-studies.com'
   - 'live-patreon-marketing.pantheonsite.io'
   - 'mdn.mozillademos.org'
   - 'medone-education.thieme.com'

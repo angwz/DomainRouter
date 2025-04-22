@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-22 00:20:59 (UTC+8)
+# UPDATED: 2025-04-23 00:21:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 3869
+# TOTAL: 3870
 payload:
   - '+.apple'
   - '+.playstation'
@@ -2996,6 +2996,7 @@ payload:
   - 'icons.axm-usercontent-apple.com'
   - 'ihzlh.linker.cc'
   - 'img-prod-cms-rt-microsoft-com.akamaized.net'
+  - 'ingest.apple-studies.com'
   - 'iptv.ac.cn'
   - 'jc-qlive-play.jingchangkan.cn'
   - 'jiangjinlive.cbg.cn'

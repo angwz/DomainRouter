@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-22 00:20:54 (UTC+8)
+# UPDATED: 2025-04-23 00:21:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 445
+# TOTAL: 444
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -247,7 +247,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
@@ -307,9 +306,11 @@ payload:
   - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
+  - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
@@ -360,7 +361,6 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -433,7 +433,6 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
-  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
