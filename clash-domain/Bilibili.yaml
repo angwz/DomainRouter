@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-23 00:21:26 (UTC+8)
+# UPDATED: 2025-04-24 00:22:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 883
+# TOTAL: 894
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -358,6 +358,9 @@ payload:
   - '+.goodluckcalendar.com'
   - '+.gslbdns.com'
   - '+.gslbdns.net'
+  - '+.hapierxia.com'
+  - '+.hapipixia.com'
+  - '+.hapiyixia.com'
   - '+.hdslb.com'
   - '+.hdslb.net'
   - '+.hdslb.org'
@@ -451,6 +454,7 @@ payload:
   - '+.kfcbest.com'
   - '+.kolbuyer.cn'
   - '+.kspkg.com'
+  - '+.kuailepipixia.com'
   - '+.kych5.com'
   - '+.lackvc.cn'
   - '+.lark-passport-qa-sg.net'
@@ -539,7 +543,13 @@ payload:
   - '+.pglstatp-toutiao-b.com'
   - '+.pglstatp-toutiao.com'
   - '+.pipix.com'
+  - '+.pipixiaha.com'
+  - '+.piyipiba.com'
   - '+.ppkankan01.com'
+  - '+.ppxhhh.com'
+  - '+.ppximg.com'
+  - '+.ppxstatic.com'
+  - '+.ppxvod.com'
   - '+.pstatp.com'
   - '+.qingfuwu.cn'
   - '+.qingfuwu.com'
@@ -775,6 +785,7 @@ payload:
   - '+.wukong.com'
   - '+.wukongwenda.cn'
   - '+.wukongwenda.com'
+  - '+.xiaoxiaapi.com'
   - '+.xiguaapp.cn'
   - '+.xiguaapp.com'
   - '+.xiguashipin.cn'
