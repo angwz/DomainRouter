@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-24 00:22:12 (UTC+8)
+# UPDATED: 2025-04-25 00:21:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 118683
+# TOTAL: 118693
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -45626,7 +45626,10 @@ payload:
   - '+.hapg-hitachi.com'
   - '+.hapi123.net'
   - '+.hapids.com'
+  - '+.hapierxia.com'
   - '+.hapingapp.com'
+  - '+.hapipixia.com'
+  - '+.hapiyixia.com'
   - '+.hapjs.org'
   - '+.haplat.net'
   - '+.happi123.com'
@@ -60047,6 +60050,8 @@ payload:
   - '+.kaimg.com'
   - '+.kaimitech.com'
   - '+.kaipanla.com'
+  - '+.kaipuyun.com'
+  - '+.kaipuyun.net'
   - '+.kaiqiancq.com'
   - '+.kaiqiu.cc'
   - '+.kaiqsz.com'
@@ -61929,6 +61934,7 @@ payload:
   - '+.kuailedo.com'
   - '+.kuailekaishi.com'
   - '+.kuailelunwen.com'
+  - '+.kuailepipixia.com'
   - '+.kuailetongyao.com'
   - '+.kuailexs.com'
   - '+.kuailexue.com'
@@ -76926,6 +76932,7 @@ payload:
   - '+.pipishu.com'
   - '+.pipiti.com'
   - '+.pipix.com'
+  - '+.pipixiaha.com'
   - '+.pipiyo.com'
   - '+.pipsemi.com'
   - '+.pipuda.com'
@@ -77557,10 +77564,13 @@ payload:
   - '+.ppwwyyxx.com'
   - '+.ppx520.com'
   - '+.ppxclub.com'
+  - '+.ppxhhh.com'
   - '+.ppxiaoshuowang.com'
+  - '+.ppximg.com'
   - '+.ppxm.com'
   - '+.ppxmw.com'
   - '+.ppxs.net'
+  - '+.ppxstatic.com'
   - '+.ppxsw.co'
   - '+.ppxvod.com'
   - '+.ppxwo.com'
