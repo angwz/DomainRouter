@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-25 00:12:28 (UTC+8)
+# UPDATED: 2025-04-26 00:12:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 31851
+# TOTAL: 31852
 payload:
   - '+.adult'
   - '+.amazon'
@@ -31747,6 +31747,7 @@ payload:
   - '+.global.market.xiaomi.com'
   - '+.hk.file.myqcloud.com'
   - '+.ipfs.eth.aragon.network'
+  - '+.news.mt.co.kr'
   - '+.ntp-os01.ocn.ad.jp'
   - '+.ntp-tk01.ocn.ad.jp'
   - '+.ntp-tk02.ocn.ad.jp'
