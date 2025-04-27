@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-27 00:19:21 (UTC+8)
+# UPDATED: 2025-04-28 00:19:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 448
+# TOTAL: 447
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -217,6 +217,7 @@ payload:
   - 'su-data.com'
   - 'thouvenin.cloud'
   - 'torrentsmd.com'
+  - 'trackarr.org'
   - 'tracker.bz'
   - 'tracker810.xyz'
   - 'wepzone.net'
@@ -229,6 +230,7 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
+  - 'admin.52ywp.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -262,8 +264,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
-  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -366,6 +366,7 @@ payload:
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
+  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
@@ -380,7 +381,6 @@ payload:
   - 'tracker.lintk.me'
   - 'tracker.linvk.com'
   - 'tracker.loligirl.cn'
-  - 'tracker.lyretain.site'
   - 'tracker.moeblog.cn'
   - 'tracker.moeking.me'
   - 'tracker.moxing.party'
@@ -435,7 +435,6 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
-  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
