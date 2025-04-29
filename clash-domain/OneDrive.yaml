@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-29 00:20:56 (UTC+8)
+# UPDATED: 2025-04-30 00:21:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 449
+# TOTAL: 445
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -198,8 +198,8 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
+  - 'fosstorrents.com'
   - 'highteahop.top'
-  - 'ismaarino.com'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -303,10 +303,10 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
-  - 'torrent.hificode.in'
   - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -380,13 +380,11 @@ payload:
   - 'tracker.lintk.me'
   - 'tracker.linvk.com'
   - 'tracker.loligirl.cn'
-  - 'tracker.lyretain.site'
   - 'tracker.moeblog.cn'
   - 'tracker.moeking.me'
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -436,7 +434,6 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
-  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
@@ -453,4 +450,3 @@ payload:
   - 'tracker.torrent.eu.org'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
-  - 'ec2-18-191-163-220.us-east-2.compute.amazonaws.com'

@@ -1,9 +1,9 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-04-29 00:11:49 (UTC+8)
+# UPDATED: 2025-04-30 00:12:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 943
+# TOTAL: 944
 payload:
   - '+.azure'
   - '+.hk'
@@ -725,6 +725,7 @@ payload:
   - '+.thefacebook.net'
   - '+.thefind.com'
   - '+.theinstagramhack.com'
+  - '+.threads.com'
   - '+.threads.net'
   - '+.toplayerserver.com'
   - '+.trafficmanager.cn'
