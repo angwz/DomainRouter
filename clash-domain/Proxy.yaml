@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-01 00:12:12 (UTC+8)
+# UPDATED: 2025-05-02 00:12:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 31850
+# TOTAL: 31853
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4101,6 +4101,7 @@ payload:
   - '+.brni.com'
   - '+.broadbandreports.com'
   - '+.broadbook.com'
+  - '+.broadcom.com'
   - '+.broadpressinc.com'
   - '+.brocaproject.com'
   - '+.brockbbs.com'
@@ -14453,6 +14454,7 @@ payload:
   - '+.msguancha.com'
   - '+.msha.gov'
   - '+.mshome.net'
+  - '+.msi.com'
   - '+.msidentity.com'
   - '+.msinnovationchallenge.com'
   - '+.msn.com'
@@ -18828,6 +18830,7 @@ payload:
   - '+.simsquad.com'
   - '+.simulationsquad.com'
   - '+.sinchew.my'
+  - '+.sing-box.app'
   - '+.sing4.lat'
   - '+.sing68.com'
   - '+.singfortibet.com'

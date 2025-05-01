@@ -1,9 +1,9 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-01 00:12:12 (UTC+8)
+# UPDATED: 2025-05-02 00:12:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 944
+# TOTAL: 945
 payload:
   - '+.azure'
   - '+.hk'
@@ -793,6 +793,7 @@ payload:
   - '+.1fhjlv1.oloadcdn.net'
   - '+.a.o333o.com'
   - '+.cdn.vidarequre.com'
+  - '+.client-update.queniuqe.com'
   - '+.cnbeta.com.tw'
   - '+.csgo.wmsj.cn'
   - '+.deliver.vkcdnservice.com'
