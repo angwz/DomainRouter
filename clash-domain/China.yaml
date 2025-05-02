@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-02 00:21:37 (UTC+8)
+# UPDATED: 2025-05-03 00:21:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 118525
+# TOTAL: 118527
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -30053,6 +30053,7 @@ payload:
   - '+.djiang.net'
   - '+.djiavip.com'
   - '+.djicdn.com'
+  - '+.djiits.com'
   - '+.djiops.com'
   - '+.djiservice.org'
   - '+.djjgj.com'
@@ -70215,6 +70216,7 @@ payload:
   - '+.mored.com'
   - '+.moredian.com'
   - '+.morefood.com'
+  - '+.morefreegame.com'
   - '+.morefun-philippines.com'
   - '+.moregy.com'
   - '+.moreless.io'
