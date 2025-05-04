@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-04 03:17:28 (UTC+8)
+# UPDATED: 2025-05-04 12:24:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 31853
+# TOTAL: 31857
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9509,6 +9509,7 @@ payload:
   - '+.gotgeeks.com'
   - '+.gothdporn.com'
   - '+.gotporn.com'
+  - '+.gotquestions.org'
   - '+.gotraffic.net'
   - '+.gotrusted.com'
   - '+.gotw.ca'
@@ -10888,6 +10889,7 @@ payload:
   - '+.idlcoyote.com'
   - '+.idnike.com'
   - '+.idol-sagasukun.com'
+  - '+.idope.se'
   - '+.idouga.com'
   - '+.idreamx.com'
   - '+.ids-apple.com'
@@ -15371,6 +15373,7 @@ payload:
   - '+.nobelprize.org'
   - '+.nobodycanstop.us'
   - '+.nodejs.org'
+  - '+.nodeloc.com'
   - '+.nodeseek.com'
   - '+.nodesnoop.com'
   - '+.nodesource.com'
@@ -19616,6 +19619,7 @@ payload:
   - '+.stxmosquitoproject.net'
   - '+.stxmosquitoproject.org'
   - '+.sub147.com'
+  - '+.subhd.tv'
   - '+.sublimedirectory.com'
   - '+.sublimetext.com'
   - '+.submarin.online'
