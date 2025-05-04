@@ -43,7 +43,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🖥️ YouTube"
-rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]🌺 香港高速", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
+rule = ["[]🌺 香港高速", "[]🌠 节点选择", "[]🥗 美利坚高速", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -58,12 +58,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🎬 Netflix"
-rule = [
-  "!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?=.*家宽).*$)",
-  "[]🌺 香港高速",
-  "[]🫒 日本高速",
-  "[]✈️ 手动切换",
-]
+rule = ["[]🌺 香港高速", "[]🫒 日本高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
