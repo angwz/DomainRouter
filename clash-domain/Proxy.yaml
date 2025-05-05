@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-05 00:10:29 (UTC+8)
+# UPDATED: 2025-05-06 00:12:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 31857
+# TOTAL: 31858
 payload:
   - '+.adult'
   - '+.amazon'
@@ -18826,6 +18826,7 @@ payload:
   - '+.simplenote.com'
   - '+.simpleproductivityblog.com'
   - '+.simpleswap.io'
+  - '+.simplex.chat'
   - '+.simplify.com'
   - '+.simplifycommerce.com'
   - '+.simply-hentai.com'
@@ -23682,7 +23683,6 @@ payload:
   - '+.ysmass.com'
   - '+.ysmeal.com'
   - '+.ysmeat.com'
-  - '+.ysmeet.com'
   - '+.ysmelf.com'
   - '+.ysmere.com'
   - '+.ysmuch.com'
@@ -23857,6 +23857,7 @@ payload:
   - '+.zndsk.com'
   - '+.zobry.site'
   - '+.zodgame.us'
+  - '+.zodgame.xyz'
   - '+.zoho.com'
   - '+.zoho.eu'
   - '+.zoho.in'
