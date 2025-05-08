@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-08 00:23:23 (UTC+8)
+# UPDATED: 2025-05-09 00:22:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 740
+# TOTAL: 741
 payload:
   - '+.azure'
   - '+.bing'
@@ -434,6 +434,7 @@ payload:
   - '+.microsofttranslator.com'
   - '+.microsoftusercontent.com'
   - '+.microsoftuwp.com'
+  - '+.minecraft-services.net'
   - '+.minecraft.net'
   - '+.minecraftservices.com'
   - '+.minecraftshop.com'

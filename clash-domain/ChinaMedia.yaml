@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-08 00:23:28 (UTC+8)
+# UPDATED: 2025-05-09 00:22:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 3871
+# TOTAL: 3872
 payload:
   - '+.apple'
   - '+.playstation'
@@ -1658,6 +1658,7 @@ payload:
   - '+.miiverse.com'
   - '+.minapp.com'
   - '+.mincdn.com'
+  - '+.minecraft-services.net'
   - '+.minecraft.net'
   - '+.minecraft.wiki'
   - '+.minecraftservices.com'
