@@ -18,7 +18,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
-rule = ["[]🫒 日本高速", "[]🥗 美利坚高速", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
+rule = ["[]🥗 美利坚高速", "[]🫒 日本高速", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
