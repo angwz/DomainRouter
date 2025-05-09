@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-09 00:12:31 (UTC+8)
+# UPDATED: 2025-05-10 00:12:09 (UTC+8)
 # TYPE: domain
-# TOTAL: 31859
+# TOTAL: 31860
 payload:
   - '+.adult'
   - '+.amazon'
@@ -14486,6 +14486,7 @@ payload:
   - '+.mtw.tl'
   - '+.mu6bce1c.xyz'
   - '+.mubi.com'
+  - '+.mubicdn.net'
   - '+.muchohentai.com'
   - '+.muchomasporno.com'
   - '+.muchosucko.com'
