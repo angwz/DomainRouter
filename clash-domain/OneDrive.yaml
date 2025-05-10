@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-10 02:00:48 (UTC+8)
+# UPDATED: 2025-05-11 00:20:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 447
+# TOTAL: 449
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -307,13 +307,14 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
-  - 'torrent.hificode.in'
   - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
+  - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
@@ -368,7 +369,6 @@ payload:
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
-  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
@@ -393,6 +393,7 @@ payload:
   - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
+  - 'tracker.privateseedbox.xyz'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
@@ -411,6 +412,7 @@ payload:
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
+  - 'tracker.trackarr.org'
   - 'tracker.trackerfix.com'
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
