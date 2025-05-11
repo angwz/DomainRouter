@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-11 00:10:25 (UTC+8)
+# UPDATED: 2025-05-12 00:10:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 31860
+# TOTAL: 31867
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9190,6 +9190,7 @@ payload:
   - '+.gmocloud.com'
   - '+.gmodules.com'
   - '+.gmoney.org'
+  - '+.gmp4.com'
   - '+.gmx.net'
   - '+.gnai-dh.sbs'
   - '+.gnailapp.sbs'
@@ -17387,6 +17388,7 @@ payload:
   - '+.pure18.com'
   - '+.pureapk.com'
   - '+.pureconcepts.net'
+  - '+.puredns.org'
   - '+.pureinsight.org'
   - '+.purelov5.com'
   - '+.purelyceleb.com'
@@ -17489,6 +17491,7 @@ payload:
   - '+.qmap.pub'
   - '+.qmov.com'
   - '+.qmov.net'
+  - '+.qmp4.com'
   - '+.qmttqg3k.me'
   - '+.qmzdd.com'
   - '+.qnap.com'
@@ -23731,7 +23734,10 @@ payload:
   - '+.yysub.net'
   - '+.yzld188.top'
   - '+.yzzk.com'
+  - '+.z-lib.fm'
+  - '+.z-lib.fo'
   - '+.z-lib.gd'
+  - '+.z-lib.gl'
   - '+.z-lib.gs'
   - '+.z-lib.io'
   - '+.z-lib.org'
@@ -27214,6 +27220,7 @@ payload:
   - '+.i-centralwm.ac.uk'
   - '+.i-lab.ac.uk'
   - '+.i-part.com.tw'
+  - '+.i.111666.best'
   - '+.i69.com.tw'
   - '+.iaac.ac.uk'
   - '+.iagp.ac.uk'
