@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-13 00:12:47 (UTC+8)
+# UPDATED: 2025-05-14 00:12:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 31867
+# TOTAL: 31868
 payload:
   - '+.adult'
   - '+.amazon'
@@ -28795,6 +28795,7 @@ payload:
   - '+.nike.com.br'
   - '+.nike.com.hk'
   - '+.nikestore.com.au'
+  - '+.nikke.hotcool.tw'
   - '+.nikkei-cnbc.co.jp'
   - '+.nikkei.co.jp'
   - '+.nikkeibp.co.jp'
