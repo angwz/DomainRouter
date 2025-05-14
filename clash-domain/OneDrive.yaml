@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-14 00:22:14 (UTC+8)
+# UPDATED: 2025-05-15 00:22:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 439
+# TOTAL: 448
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -190,6 +190,7 @@ payload:
   - '6ahddutb1ucc3cp.ru'
   - 'aegir.sexy'
   - 'amigacity.xyz'
+  - 'buny.uk'
   - 'ch3oh.ru'
   - 'chihaya.de'
   - 'concen.org'
@@ -214,12 +215,14 @@ payload:
   - 'ryjer.com'
   - 'seeders-paradise.org'
   - 'servandroidkino.ru'
+  - 'shubt.net'
   - 'su-data.com'
   - 'thouvenin.cloud'
   - 'torrentsmd.com'
   - 'tracker.bz'
   - 'tracker810.xyz'
   - 'wepzone.net'
+  - '0d.kebhana.mx'
   - '10.rarbg.com'
   - '12.rarbg.me'
   - '1337.abcvg.info'
@@ -228,7 +231,6 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
-  - 'admin.52ywp.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -246,6 +248,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -276,6 +279,7 @@ payload:
   - 'open.stealth.si'
   - 'open.tracker.cl'
   - 'open.tracker.ink'
+  - 'open.trackerlist.xyz'
   - 'open.u-p.pw'
   - 'open.xxtor.com'
   - 'opentracker.i2p.rocks'
@@ -311,6 +315,7 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
+  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -331,6 +336,7 @@ payload:
   - 'tracker.btcake.com'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
+  - 'tracker.corpscorp.online'
   - 'tracker.cubonegro.lol'
   - 'tracker.cyberia.is'
   - 'tracker.darkness.services'
@@ -359,6 +365,7 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -373,10 +380,12 @@ payload:
   - 'tracker.leechers-paradise.org'
   - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
+  - 'tracker.lintk.me'
   - 'tracker.linvk.com'
   - 'tracker.loligirl.cn'
   - 'tracker.moeblog.cn'
   - 'tracker.moeking.me'
+  - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
   - 'tracker.openbittorrent.com'
