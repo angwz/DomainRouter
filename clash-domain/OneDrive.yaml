@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-16 00:22:05 (UTC+8)
+# UPDATED: 2025-05-17 00:21:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 446
+# TOTAL: 449
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -201,7 +201,6 @@ payload:
   - 'finbytes.org'
   - 'fosstorrents.com'
   - 'highteahop.top'
-  - 'ismaarino.com'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -307,10 +306,10 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
+  - 'torrent.hificode.in'
   - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -331,6 +330,7 @@ payload:
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bjut.jp'
+  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -388,11 +388,13 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
+  - 'tracker.privateseedbox.xyz'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
@@ -412,6 +414,7 @@ payload:
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
+  - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'

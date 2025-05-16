@@ -1,11 +1,11 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-16 00:12:33 (UTC+8)
+# UPDATED: 2025-05-17 00:12:02 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 2813
+# TOTAL: 2814
 # IP-CIDR TOTAL: 1992
-# IP-CIDR6 TOTAL: 821
+# IP-CIDR6 TOTAL: 822
 payload:
   - '1.1.1.1/32'
   - '1.160.0.0/12'
@@ -2676,6 +2676,7 @@ payload:
   - '2a03:2887:ff27::/48'
   - '2a03:2887:ff28::/46'
   - '2a03:2887:ff2f::/48'
+  - '2a03:2887:ff30::/48'
   - '2a03:2887:ff33::/48'
   - '2a03:2887:ff37::/48'
   - '2a03:2887:ff38::/46'
