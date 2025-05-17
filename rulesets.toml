@@ -1,10 +1,4 @@
 [[rulesets]]
-group = "🍰 Dynamic"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Angwz.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
 group = "🥗 美利坚高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Gemini.yaml"
 type = "clash-domain"
@@ -89,19 +83,19 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🪗 哔哩哔哩"
+group = "🍰 哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Bilibili.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🪗 哔哩哔哩"
+group = "🍰 哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Bilibili-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🪗 哔哩哔哩"
+group = "🍰 哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Bilibili-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -116,6 +110,12 @@ interval = 21600
 group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Tencent-ipcidr.yaml"
 type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Tencent-classic.yaml"
+type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
