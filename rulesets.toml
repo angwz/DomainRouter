@@ -1,11 +1,5 @@
 [[rulesets]]
 group = "🥗 美利坚高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Gemini.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🥗 美利坚高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Gemini-classic.yaml"
 type = "clash-classic"
 interval = 21600
