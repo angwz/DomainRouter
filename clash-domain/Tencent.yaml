@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-17 00:21:33 (UTC+8)
+# UPDATED: 2025-05-17 13:08:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 585
+# TOTAL: 588
 payload:
   - '+.1700.cn'
   - '+.17roco.com'
@@ -183,6 +183,7 @@ payload:
   - '+.imweb.io'
   - '+.in.th'
   - '+.intltencentcos.com'
+  - '+.iot-tencent.com'
   - '+.isd.com'
   - '+.ispqcloud.com'
   - '+.itopsdk.com'
@@ -507,6 +508,7 @@ payload:
   - '+.webnovel.com'
   - '+.wechat.com'
   - '+.wechatlegal.net'
+  - '+.wechatos.net'
   - '+.wechatpay.cn'
   - '+.wechatpay.com'
   - '+.wegame.com'
@@ -590,3 +592,4 @@ payload:
   - '+.wegame.com.cn'
   - '+.werepository.com.cn'
   - '+.yufuid.com.cn'
+  - 'slife.xy-asia.com'

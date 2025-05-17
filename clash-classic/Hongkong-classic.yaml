@@ -1,10 +1,10 @@
 # NAME: Hongkong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-17 00:12:02 (UTC+8)
+# UPDATED: 2025-05-17 12:58:19 (UTC+8)
 # TYPE: classic
-# TOTAL: 20
-# DOMAIN-KEYWORD TOTAL: 7
+# TOTAL: 17
+# DOMAIN-KEYWORD TOTAL: 4
 # IP-ASN TOTAL: 6
 # PROCESS-NAME TOTAL: 7
 payload:
@@ -12,9 +12,6 @@ payload:
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
-  - DOMAIN-KEYWORD,steambroadcast
-  - DOMAIN-KEYWORD,steamstore
-  - DOMAIN-KEYWORD,steamuserimages
 
   - IP-ASN,211157,no-resolve
   - IP-ASN,44907,no-resolve
