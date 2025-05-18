@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-18 00:11:01 (UTC+8)
+# UPDATED: 2025-05-19 00:10:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 31855
+# TOTAL: 31858
 payload:
   - '+.adult'
   - '+.amazon'
@@ -12651,6 +12651,8 @@ payload:
   - '+.lbtube.com'
   - '+.lcgirls.com'
   - '+.lcsmerch.com'
+  - '+.ldplayer.net'
+  - '+.ldplayer.tw'
   - '+.le-direct.tv'
   - '+.le-vpn.com'
   - '+.leafyvpn.net'
@@ -24548,6 +24550,7 @@ payload:
   - '+.bbe.ac.uk'
   - '+.bbk.ac.uk'
   - '+.bbs-cove.ac.uk'
+  - '+.bbs.naixi.net'
   - '+.bbs.sina.com'
   - '+.bbsrc.ac.uk'
   - '+.bca.ac.uk'

@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-18 00:20:30 (UTC+8)
+# UPDATED: 2025-05-19 00:19:51 (UTC+8)
 # TYPE: domain
-# TOTAL: 446
+# TOTAL: 443
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -192,7 +192,6 @@ payload:
   - 'amigacity.xyz'
   - 'buny.uk'
   - 'ch3oh.ru'
-  - 'chihaya.de'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'epider.me'
@@ -264,7 +263,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -305,6 +303,7 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
+  - 'torrent.hificode.in'
   - 'torrent.i.ng'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
@@ -385,7 +384,6 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -447,7 +445,6 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
