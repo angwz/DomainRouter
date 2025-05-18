@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-19 00:10:24 (UTC+8)
+# UPDATED: 2025-05-19 00:37:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 6784
+# TOTAL: 6783
 payload:
   - '+.amazon'
   - '+.aws'
@@ -717,7 +717,6 @@ payload:
   - '+.paypal-marketing.com'
   - '+.paypal-media.com'
   - '+.paypal-merchantloyalty.com'
-  - '+.paypal-mktg.com'
   - '+.paypal-mobilemoney.com'
   - '+.paypal-network.org'
   - '+.paypal-notice.com'
