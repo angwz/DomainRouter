@@ -1,16 +1,17 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-19 00:37:28 (UTC+8)
+# UPDATED: 2025-05-20 00:12:20 (UTC+8)
 # TYPE: classic
-# TOTAL: 9
-# DOMAIN-KEYWORD TOTAL: 5
+# TOTAL: 10
+# DOMAIN-KEYWORD TOTAL: 6
 # PROCESS-NAME TOTAL: 4
 payload:
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
   - DOMAIN-KEYWORD,avoddashs
+  - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,adobe
 
   - PROCESS-NAME,com.cbs.app

@@ -1,9 +1,9 @@
 # NAME: Gemini
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-19 00:37:26 (UTC+8)
+# UPDATED: 2025-05-20 00:12:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 16
+# TOTAL: 17
 payload:
   - '+.deepmind.com'
   - '+.deepmind.google'
@@ -21,3 +21,4 @@ payload:
   - 'makersuite.google.com'
   - 'alkalicore-pa.clients6.google.com'
   - 'alkalimakersuite-pa.clients6.google.com'
+  - 'webchannel-alkalimakersuite-pa.clients6.google.com'

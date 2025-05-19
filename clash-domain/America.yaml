@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-19 00:37:28 (UTC+8)
+# UPDATED: 2025-05-20 00:12:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 6783
+# TOTAL: 6789
 payload:
   - '+.amazon'
   - '+.aws'
@@ -24,6 +24,7 @@ payload:
   - '+.1lib.eu'
   - '+.1lib.limited'
   - '+.1lib.pl'
+  - '+.1lib.sk'
   - '+.1lib.to'
   - '+.1lib.tw'
   - '+.2lib.org'
@@ -717,6 +718,7 @@ payload:
   - '+.paypal-marketing.com'
   - '+.paypal-media.com'
   - '+.paypal-merchantloyalty.com'
+  - '+.paypal-mktg.com'
   - '+.paypal-mobilemoney.com'
   - '+.paypal-network.org'
   - '+.paypal-notice.com'
@@ -1004,8 +1006,12 @@ payload:
   - '+.yale.edu'
   - '+.yamaxun.cn'
   - '+.yamaxun.com'
+  - '+.z-lib.fm'
+  - '+.z-lib.gd'
+  - '+.z-lib.gl'
   - '+.z-lib.org'
   - '+.z-library.se'
+  - '+.z-library.sk'
   - '+.z.cn'
   - '+.zenodo.org'
   - '+.zlib.life'

@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-19 00:47:10 (UTC+8)
+# UPDATED: 2025-05-20 00:21:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 3864
+# TOTAL: 3872
 payload:
   - '+.apple'
   - '+.playstation'
@@ -1493,6 +1493,7 @@ payload:
   - '+.itunesu.com'
   - '+.itunesu.net'
   - '+.iutunes.com'
+  - '+.ivwen.com'
   - '+.iwork.com'
   - '+.iwork.se'
   - '+.iwork.wang'
@@ -1502,6 +1503,8 @@ payload:
   - '+.jiangbing.cn'
   - '+.jianyuweb.com'
   - '+.jiemian.com'
+  - '+.jike.city'
+  - '+.jikecdn.com'
   - '+.jkbeats.com'
   - '+.joyjoy.net'
   - '+.jrjimg.cn'
@@ -1635,6 +1638,8 @@ payload:
   - '+.mbheadphone.com'
   - '+.mcbbs.net'
   - '+.me.com'
+  - '+.meipian.cn'
+  - '+.meipian.me'
   - '+.metalrevolution.com'
   - '+.mgtv.com'
   - '+.mhystatic.com'
@@ -1843,6 +1848,8 @@ payload:
   - '+.officialheadphone.com'
   - '+.offrezdesipods.com'
   - '+.ogameblog.com'
+  - '+.okjike.com'
+  - '+.okjk.co'
   - '+.olympicchannelchina.cn'
   - '+.onbeatsbydresale.com'
   - '+.onlineapplestore.com'
@@ -1997,6 +2004,7 @@ payload:
   - '+.rsg.sc'
   - '+.rstatic.net'
   - '+.ruanmei.com'
+  - '+.ruguoapp.com'
   - '+.ruinedking.com'
   - '+.s.team'
   - '+.saayaa.com'

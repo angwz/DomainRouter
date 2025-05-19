@@ -1,9 +1,9 @@
 # NAME: YouTube
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-19 00:47:06 (UTC+8)
+# UPDATED: 2025-05-20 00:21:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 713
+# TOTAL: 716
 payload:
   - '+.java'
   - '+.youtube'
@@ -86,6 +86,7 @@ payload:
   - '+.devopsassessment.net'
   - '+.docker.com'
   - '+.docker.io'
+  - '+.dockerstatic.com'
   - '+.docs.rs'
   - '+.dot.net'
   - '+.dotdeb.org'
@@ -712,9 +713,11 @@ payload:
   - 'appleworldwidedeveloper.hb-api.omtrdc.net'
   - 'appleworldwidedeveloper.sc.omtrdc.net'
   - 'az764295.vo.msecnd.net'
+  - 'docker-pinata-support.s3.amazonaws.com'
   - 'download.visualstudio.microsoft.com'
   - 'github-cloud.s3.amazonaws.com'
   - 'gitlab-assets.oss-cn-hongkong.aliyuncs.com'
   - 'notary-submissions-prod.s3-accelerate.amazonaws.com'
   - 'vscode.search.windows.net'
+  - 'docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com'
   - 'notary-submissions-prod.s3.us-west-2.amazonaws.com'
