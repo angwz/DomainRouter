@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-20 00:12:18 (UTC+8)
+# UPDATED: 2025-05-21 00:12:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 31874
+# TOTAL: 31875
 payload:
   - '+.adult'
   - '+.amazon'
@@ -14460,6 +14460,7 @@ payload:
   - '+.msft.info'
   - '+.msft.net'
   - '+.msftauth.net'
+  - '+.msftauthimages.net'
   - '+.msftconnecttest.com'
   - '+.msfteducation.ca'
   - '+.msftncsi.com'

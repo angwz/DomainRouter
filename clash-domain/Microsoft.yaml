@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-20 00:21:52 (UTC+8)
+# UPDATED: 2025-05-21 00:22:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 741
+# TOTAL: 742
 payload:
   - '+.azure'
   - '+.bing'
@@ -189,6 +189,7 @@ payload:
   - '+.chinacloudapi.cn'
   - '+.chinacloudapp.cn'
   - '+.chinacloudsites.cn'
+  - '+.clarity.ms'
   - '+.cloudapp.net'
   - '+.cloudappsecurity.com'
   - '+.codethemicrobit.com'
