@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-21 00:12:30 (UTC+8)
+# UPDATED: 2025-05-22 00:12:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 31875
+# TOTAL: 31878
 payload:
   - '+.adult'
   - '+.amazon'
@@ -12667,6 +12667,7 @@ payload:
   - '+.lcsmerch.com'
   - '+.ldplayer.net'
   - '+.ldplayer.tw'
+  - '+.ldstatic.com'
   - '+.le-direct.tv'
   - '+.le-vpn.com'
   - '+.leafyvpn.net'
@@ -12864,6 +12865,7 @@ payload:
   - '+.linotype.com'
   - '+.linpie.com'
   - '+.linseysworld.com'
+  - '+.linux.do'
   - '+.linux.org'
   - '+.linuxfoundation.org'
   - '+.linuxfromscratch.org'
@@ -31822,6 +31824,7 @@ payload:
   - 'api-p.videomarket.jp'
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
+  - 'bbs.boingboing.net'
   - 'beck-online.beck.de'
   - 'bybit.ada.support'
   - 'cdn-spotify-experiments.conductrics.com'
