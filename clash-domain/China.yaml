@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-24 00:21:21 (UTC+8)
+# UPDATED: 2025-05-25 00:19:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 120839
+# TOTAL: 120846
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -4028,6 +4028,7 @@ payload:
   - '+.365355157.com'
   - '+.36543.com'
   - '+.365500.com'
+  - '+.3656.com'
   - '+.365639355.com'
   - '+.36578.com'
   - '+.365960.com'
@@ -54000,6 +54001,7 @@ payload:
   - '+.ijunhai.com'
   - '+.ijunxun.com'
   - '+.ijuzhong.com'
+  - '+.ijxuitr.com'
   - '+.ijycnd.com'
   - '+.ijzhang.com'
   - '+.ik123.com'
@@ -62052,6 +62054,7 @@ payload:
   - '+.kingdraw.com'
   - '+.kingdun.net'
   - '+.kingexplorer.com'
+  - '+.kingfu-china.com'
   - '+.kingfulai.com'
   - '+.kinggoo.com'
   - '+.kinggrid.com'
@@ -77327,6 +77330,7 @@ payload:
   - '+.pbiso.com'
   - '+.pbkrs.com'
   - '+.pblie.com'
+  - '+.pbqdhty.com'
   - '+.pbrcw.net'
   - '+.pbsvpn.com'
   - '+.pbtcw.com'
@@ -92052,6 +92056,7 @@ payload:
   - '+.sxbdf.com'
   - '+.sxbest.com'
   - '+.sxbjedu.com'
+  - '+.sxbpa.com'
   - '+.sxbuszp.com'
   - '+.sxbychem.com'
   - '+.sxcahosp.com'
@@ -106285,6 +106290,7 @@ payload:
   - '+.xiaxs.la'
   - '+.xiayige.org'
   - '+.xiayijian.com'
+  - '+.xiayixing.com'
   - '+.xiayx.com'
   - '+.xiazai.live'
   - '+.xiazai126.com'
@@ -112772,6 +112778,7 @@ payload:
   - '+.youxiake.com'
   - '+.youxiake.net'
   - '+.youxiamotors.com'
+  - '+.youxiangclub.com'
   - '+.youxiangyx.com'
   - '+.youxiaoge.com'
   - '+.youxiaohou.com'
