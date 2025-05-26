@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-26 00:10:51 (UTC+8)
+# UPDATED: 2025-05-27 00:11:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 122
+# TOTAL: 124
 payload:
   - '+.bing'
   - '+.algolia.net'
@@ -48,6 +48,7 @@ payload:
   - '+.intercom.io'
   - '+.intercomcdn.com'
   - '+.jasper.ai'
+  - '+.jules.google'
   - '+.launchdarkly.com'
   - '+.masalladeloslimites.com'
   - '+.meta.ai'
@@ -94,6 +95,7 @@ payload:
   - '+.gemini.google.com'
   - '+.generativelanguage.googleapis.com'
   - '+.host.livekit.cloud'
+  - '+.jules.google.com'
   - '+.makersuite.google.com'
   - '+.notebooklm.google.com'
   - '+.openaiapi-site.azureedge.net'

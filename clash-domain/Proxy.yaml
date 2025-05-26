@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-26 00:10:50 (UTC+8)
+# UPDATED: 2025-05-27 00:11:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 31886
+# TOTAL: 31903
 payload:
   - '+.adult'
   - '+.amazon'
@@ -10781,7 +10781,11 @@ payload:
   - '+.ibeatsbydre.com'
   - '+.ibiblio.org'
   - '+.ibit.am'
+  - '+.ibkr.ca'
   - '+.ibkr.com'
+  - '+.ibkr.eu'
+  - '+.ibkr.ie'
+  - '+.ibkrguides.com'
   - '+.iblist.com'
   - '+.ibllc.com'
   - '+.iblogserv-f.net'
@@ -14430,6 +14434,7 @@ payload:
   - '+.mql5.com'
   - '+.mqxd.org'
   - '+.mr-tireman.jp'
+  - '+.mradx.net'
   - '+.mray.club'
   - '+.mrbasic.com'
   - '+.mrbdsm.com'
@@ -18004,6 +18009,7 @@ payload:
   - '+.rosechina.net'
   - '+.rosemarydoll.com'
   - '+.roshy.tv'
+  - '+.rostaxi.org'
   - '+.rotten.com'
   - '+.rou.video'
   - '+.roucdn.link'
@@ -21758,6 +21764,7 @@ payload:
   - '+.vixvids.to'
   - '+.vizvaz.com'
   - '+.vjav.com'
+  - '+.vk-analytics.ru'
   - '+.vk-apps.com'
   - '+.vk-apps.ru'
   - '+.vk-cdn.me'
@@ -23364,6 +23371,7 @@ payload:
   - '+.yammer.com'
   - '+.yamoon.club'
   - '+.yande.re'
+  - '+.yandex-bank.net'
   - '+.yandex.aero'
   - '+.yandex.az'
   - '+.yandex.by'
@@ -23389,7 +23397,10 @@ payload:
   - '+.yandex.tm'
   - '+.yandex.ua'
   - '+.yandex.uz'
+  - '+.yandexadexchange.net'
   - '+.yandexcloud.net'
+  - '+.yandexcom.net'
+  - '+.yandexwebcache.org'
   - '+.yanghengjun.com'
   - '+.yangjianli.com'
   - '+.yantaqu.com'
@@ -27251,6 +27262,11 @@ payload:
   - '+.ib.metapix.net'
   - '+.ibd-boost.ac.uk'
   - '+.ibis.ac.uk'
+  - '+.ibkr.co.in'
+  - '+.ibkr.co.uk'
+  - '+.ibkr.com.au'
+  - '+.ibkr.com.hk'
+  - '+.ibkr.com.sg'
   - '+.ibook.co.nz'
   - '+.ibss.ac.uk'
   - '+.ibuild.ac.uk'
@@ -31640,6 +31656,7 @@ payload:
   - '+.yale-wrexham.ac.uk'
   - '+.yale.ac.uk'
   - '+.yam.org.tw'
+  - '+.yandex-images.clstorage.net'
   - '+.yandex.co.il'
   - '+.yandex.com.am'
   - '+.yandex.com.ge'
