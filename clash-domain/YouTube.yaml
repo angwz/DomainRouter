@@ -1,9 +1,9 @@
 # NAME: YouTube
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-27 00:21:15 (UTC+8)
+# UPDATED: 2025-05-28 00:22:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 712
+# TOTAL: 713
 payload:
   - '+.java'
   - '+.youtube'
@@ -679,6 +679,7 @@ payload:
   - '+.youtube-ui.l.google.com'
   - '+.notary-submissions-prod.s3.us-west-2.amazonaws.com'
   - 'amp.akamaized.net'
+  - 'android.googlesource.com'
   - 'bingsettingssearch.trafficmanager.net'
   - 'd29vzk4ow07wi7.cloudfront.net'
   - 'default.exp-tas.com'
