@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-05-28 00:12:48 (UTC+8)
+# UPDATED: 2025-05-29 00:11:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 31903
+# TOTAL: 31904
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19813,6 +19813,7 @@ payload:
   - '+.syhacked.com'
   - '+.sylfoundation.org'
   - '+.symantec.com'
+  - '+.symantecliveupdate.com'
   - '+.symauth.com'
   - '+.symcb.com'
   - '+.symcd.com'
