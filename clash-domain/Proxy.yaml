@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-01 00:10:46 (UTC+8)
+# UPDATED: 2025-06-02 00:10:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 32022
+# TOTAL: 32026
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3395,6 +3395,7 @@ payload:
   - '+.blackfridaydrebeatsshop.com'
   - '+.blackhomeporn.com'
   - '+.blacklogic.com'
+  - '+.blackmagicdesign.com'
   - '+.blackmonsterterror.com'
   - '+.blackshemalevideo.com'
   - '+.blacksonblondes.com'
@@ -7993,6 +7994,7 @@ payload:
   - '+.fi11.com'
   - '+.fi11av1.com'
   - '+.fi11tv1.com'
+  - '+.fibank.bg'
   - '+.ficeboock.com'
   - '+.fictionmania.tv'
   - '+.fifastreet.com'
@@ -13586,6 +13588,7 @@ payload:
   - '+.meadjohnson.net'
   - '+.meansys.com'
   - '+.mearki.com'
+  - '+.meawallet.app'
   - '+.mebank.ir'
   - '+.media-amazon.com'
   - '+.media-imdb.com'
@@ -14669,6 +14672,7 @@ payload:
   - '+.myfavoritearcade.com'
   - '+.myfbfans.com'
   - '+.myferrariheadphones.com'
+  - '+.myfin.bg'
   - '+.myfirstflame.com'
   - '+.myfistingporn.com'
   - '+.myfontastic.com'
