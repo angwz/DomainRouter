@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-02 00:10:57 (UTC+8)
+# UPDATED: 2025-06-03 00:12:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 32026
+# TOTAL: 32027
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5523,6 +5523,7 @@ payload:
   - '+.ctexcel.us'
   - '+.ctfassets.net'
   - '+.ctfriend.net'
+  - '+.ctinews.com'
   - '+.ctotires.com'
   - '+.ctowc.org'
   - '+.ctrip.my'
