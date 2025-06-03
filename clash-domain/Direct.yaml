@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-03 00:12:03 (UTC+8)
+# UPDATED: 2025-06-04 00:13:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 2105
+# TOTAL: 2097
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1043,7 +1043,6 @@ payload:
   - 'ihzlh.linker.cc'
   - 'images-cn-8.ssl-images-amazon.com'
   - 'images-cn.ssl-images-amazon.com'
-  - 'images.apple.com'
   - 'init-kt.apple.com'
   - 'init-p01md.apple.com'
   - 'instant.arubanetworks.com'
@@ -1670,9 +1669,6 @@ payload:
   - 'aod.itunes.apple.com'
   - 'aod.xjbs.com.cn'
   - 'api-edge.apps.apple.com'
-  - 'api-p-ap-c.smoot.apple.com'
-  - 'api-p-ap-d.smoot.apple.com'
-  - 'api-p-ap-e.smoot.apple.com'
   - 'appldnld.g.aaplimg.com'
   - 'apptrailers.itunes.apple.com'
   - 'auth.music.apple.com'
@@ -1739,7 +1735,6 @@ payload:
   - 'gspe19-cn-ssl.ls.apple.com'
   - 'gspe19-cn.ls.apple.com'
   - 'gspe21-ssl.ls.apple.com'
-  - 'gspe21.ls.apple.com'
   - 'gspe35-ssl.ls.apple.com'
   - 'gspe79-cn-ssl.ls.apple.com'
   - 'gspe85-cn-ssl.ls.apple.com'
@@ -2040,7 +2035,6 @@ payload:
   - 'httpdvb.slave.bfgd.com.cn'
   - 'httpdvb.slave.homed.hrtn.net'
   - 'icloud-cdn.icloud.com.akadns.net'
-  - 'images.apple.com.akadns.net'
   - 'inappcheck-cn.itunes-apple.com.akadns.net'
   - 'inappcheck-lb.itunes-apple.com.akadns.net'
   - 'init-p01md-lb.push-apple.com.akadns.net'
@@ -2084,12 +2078,10 @@ payload:
   - 'valid.origin-apple.com.akadns.net'
   - 'weather-data.apple.com.akadns.net'
   - 'wshdl.load.cdn.zhanqi.tv'
-  - 'www.apple.com.edgekey.net'
   - 'yf.m.l.cztv.com'
   - 'yunshangdawu.live.tempsource.cjyun.org'
   - 'bst.broadcast.live.bestvcdn.com.cn'
   - 'e1.vdowowza.vip.hk1.tvb.com'
-  - 'gsp4-cn.ls.apple.com.edgekey.net'
   - 'hwltc.tv.cdn.zj.chinamobile.com'
   - 'init.gc-lb.apple.com.akadns.net'
   - 'starfish.bj.aliyun.001.qingting.fm'

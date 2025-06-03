@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-03 00:22:16 (UTC+8)
+# UPDATED: 2025-06-04 00:23:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 3872
+# TOTAL: 3875
 payload:
   - '+.apple'
   - '+.playstation'
@@ -372,6 +372,7 @@ payload:
   - '+.apyle.com'
   - '+.apzones.com'
   - '+.artstation.com'
+  - '+.asobostudio.com'
   - '+.asto.re'
   - '+.aucheapbeats.com'
   - '+.audiobeatsau.com'
@@ -1126,11 +1127,13 @@ payload:
   - '+.firewire.cl'
   - '+.firewire.eu'
   - '+.fitgirl-repacks.site'
+  - '+.flightsimulator.com'
   - '+.flipnotestudio.com'
   - '+.focus-img.cn'
   - '+.focus.cn'
   - '+.forgecdn.net'
   - '+.fortnite.com'
+  - '+.forza.net'
   - '+.forzamotorsport.net'
   - '+.forzaracingchampionship.com'
   - '+.forzarc.com'
@@ -2901,6 +2904,7 @@ payload:
   - 'fjnhdb.chinashadt.com'
   - 'fjpc.chinashadt.com'
   - 'fjsh.chinashadt.com'
+  - 'flightsimulator.azureedge.net'
   - 'fm901.cityfm.tw'
   - 'fm929.cityfm.tw'
   - 'fm971.cityfm.tw'
@@ -3853,6 +3857,7 @@ payload:
   - 'pili-live-hls.lyzx.live.chinacici.cn'
   - 'pili-live-hls.poyang.jxxw.com.cn'
   - 'pl1.cloud.dayang.com.cn'
+  - 'prodforza.blob.core.windows.net'
   - 'shbu.live.bestvcdn.com.cn'
   - 'store.apple.com.edgekey.net'
   - 'store.ovp.wsrtv.com.cn'
@@ -3860,12 +3865,10 @@ payload:
   - 'tvfile.mb.lsrm.org.cn'
   - 'tvfile.sw.lsrm.org.cn'
   - 'wshdl.load.cdn.zhanqi.tv'
-  - 'www.apple.com.edgekey.net'
   - 'yf.m.l.cztv.com'
   - 'yunshangdawu.live.tempsource.cjyun.org'
   - 'bst.broadcast.live.bestvcdn.com.cn'
   - 'e1.vdowowza.vip.hk1.tvb.com'
-  - 'gsp4-cn.ls.apple.com.edgekey.net'
   - 'hwltc.tv.cdn.zj.chinamobile.com'
   - 'starfish.bj.aliyun.001.qingting.fm'
   - 'starfish.bj.aliyun.002.qingting.fm'

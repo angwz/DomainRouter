@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-03 00:12:44 (UTC+8)
+# UPDATED: 2025-06-04 00:13:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 32027
+# TOTAL: 32030
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2107,6 +2107,7 @@ payload:
   - '+.asmr.gay'
   - '+.asmrbuluo.com'
   - '+.asn-online.org'
+  - '+.asobostudio.com'
   - '+.asp-cc.com'
   - '+.asp.net'
   - '+.aspbjournals.org'
@@ -8158,6 +8159,7 @@ payload:
   - '+.flickrhivemind.net'
   - '+.flickriver.com'
   - '+.fliggy.hk'
+  - '+.flightsimulator.com'
   - '+.fling.com'
   - '+.flipboard.com'
   - '+.flipfap.com'
@@ -8253,6 +8255,7 @@ payload:
   - '+.fortuneinsight.com'
   - '+.forum4hk.com'
   - '+.forums-free.com'
+  - '+.forza.net'
   - '+.forzamotorsport.net'
   - '+.forzaracingchampionship.com'
   - '+.forzarc.com'

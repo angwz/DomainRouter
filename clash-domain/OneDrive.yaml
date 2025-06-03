@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-03 00:22:11 (UTC+8)
+# UPDATED: 2025-06-04 00:23:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 445
+# TOTAL: 450
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -18,6 +18,7 @@ payload:
   - '+.animetorrents.me'
   - '+.anthelion.me'
   - '+.asiancinema.me'
+  - '+.asobostudio.com'
   - '+.audiences.me'
   - '+.avgv.cc'
   - '+.avistaz.to'
@@ -55,6 +56,8 @@ payload:
   - '+.exoticaz.to'
   - '+.extremlymtorrents.ws'
   - '+.filelist.io'
+  - '+.flightsimulator.com'
+  - '+.forza.net'
   - '+.forzamotorsport.net'
   - '+.forzaracingchampionship.com'
   - '+.forzarc.com'
@@ -249,6 +252,7 @@ payload:
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
+  - 'flightsimulator.azureedge.net'
   - 'free.publictracker.xyz'
   - 'home.yxgz.club'
   - 'img-prod-cms-rt-microsoft-com.akamaized.net'
@@ -450,3 +454,4 @@ payload:
   - 'tracker.torrent.eu.org'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
+  - 'prodforza.blob.core.windows.net'
