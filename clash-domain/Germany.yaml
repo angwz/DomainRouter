@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-06 00:12:44 (UTC+8)
+# UPDATED: 2025-06-06 00:40:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 233
+# TOTAL: 232
 payload:
   - '+.anthemgame.com'
   - '+.anthemthegame.com'
@@ -171,7 +171,6 @@ payload:
   - '+.tiberiumalliances.com'
   - '+.tiburon.com'
   - '+.titanfall.com'
-  - '+.tktn.be'
   - '+.tnt-ea.com'
   - '+.ubi.com'
   - '+.ubisoft.com'
