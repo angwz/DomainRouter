@@ -332,7 +332,7 @@ interval = 21600
 
 [[rulesets]]
 group = "🐦\u200d🔥 香港专线"
-ruleset = "[]GEOIP,HK"
+ruleset = "[]GEOIP,HK,no-resolve"
 
 [[rulesets]]
 group = "🐦\u200d🔥 香港专线"
@@ -372,7 +372,7 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "[]GEOIP,CN"
+ruleset = "[]GEOIP,CN,no-resolve"
 
 [[rulesets]]
 group = "🐳 漏网の鱼"
