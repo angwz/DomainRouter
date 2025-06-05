@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-05 00:12:42 (UTC+8)
+# UPDATED: 2025-06-05 23:30:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 32030
+# TOTAL: 32032
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4961,6 +4961,7 @@ payload:
   - '+.ci-en.jp'
   - '+.ci-en.net'
   - '+.ciattackers.com'
+  - '+.cici.com'
   - '+.ciciai.com'
   - '+.cienen.com'
   - '+.cilk.com'
@@ -25332,6 +25333,7 @@ payload:
   - '+.cdd.ac.uk'
   - '+.cdn.ac.uk'
   - '+.cdn.angruo.com'
+  - '+.cdn.arstechnica.net'
   - '+.cdn.segment.com'
   - '+.cdnews.com.tw'
   - '+.cdpuk.co.uk'
