@@ -414,18 +414,18 @@ YouTube: 🖥️ YouTube
 Google: 📧 Google
 Japan: 🫒 日本高速
 #Taiwan: 🫒 日本高速
-GEOIP,CLOUDFLARE: 🐦‍🔥 香港专线,no-resolve
 Germany: 🌳 德意志帝国
-GEOIP,JP: 🫒 日本高速,no-resolve
 America: 🥗 美利坚高速
-GEOIP,US: 🥗 美利坚高速,no-resolve
-GEOIP,CA: 🥗 美利坚高速,no-resolve
 Hongkong: 🐦‍🔥 香港专线
 Singapore: 🥝 新加坡高速
-GEOIP,SG: 🥝 新加坡高速,no-resolve
 ChinaMedia: DIRECT
 Microsoft: 🪟 Microsoft
 Media: 🌍 国际流媒体
+GEOIP,CLOUDFLARE: 🐦‍🔥 香港专线,no-resolve
+GEOIP,JP: 🫒 日本高速,no-resolve
+GEOIP,US: 🥗 美利坚高速,no-resolve
+GEOIP,CA: 🥗 美利坚高速,no-resolve
+GEOIP,SG: 🥝 新加坡高速,no-resolve
 GEOIP,HK: 🐦‍🔥 香港专线,no-resolve
 Proxy: 🐦‍🔥 香港专线
 China: DIRECT
