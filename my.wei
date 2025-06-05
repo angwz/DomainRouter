@@ -424,8 +424,8 @@ GEOIP,SG: 🥝 新加坡高速,no-resolve
 ChinaMedia: DIRECT
 Microsoft: 🪟 Microsoft
 Media: 🌍 国际流媒体
-GEOIP,HK: 🐦‍🔥 香港专线
+GEOIP,HK: 🐦‍🔥 香港专线,no-resolve
 Proxy: 🐦‍🔥 香港专线
 China: DIRECT
-GEOIP,CN: DIRECT
+GEOIP,CN: DIRECT,no-resolve
 MATCH: 🐳 漏网の鱼
