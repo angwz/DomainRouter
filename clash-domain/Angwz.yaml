@@ -1,9 +1,9 @@
-# NAME: Hongkong
+# NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-06 01:27:24 (UTC+8)
+# UPDATED: 2025-06-07 00:12:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 974
+# TOTAL: 978
 payload:
   - '+.azure'
   - '+.hk'
@@ -911,6 +911,7 @@ payload:
   - 'doh-de.blahdns.com'
   - 'doh-fi.blahdns.com'
   - 'doh-jp.blahdns.com'
+  - 'doh-pure.onedns.net'
   - 'doh.42l.fr'
   - 'doh.armadillodns.net'
   - 'doh.cleanbrowsing.org'
@@ -920,6 +921,7 @@ payload:
   - 'doh.ffmuc.net'
   - 'doh.libredns.gr'
   - 'doh.mullvad.net'
+  - 'doh.onedns.net'
   - 'doh.opendns.com'
   - 'doh.powerdns.com'
   - 'doh.powerdns.org'
@@ -930,6 +932,8 @@ payload:
   - 'doh.tiarap.org'
   - 'doh.xfinity.com'
   - 'dohdot.coxlab.net'
+  - 'dot-pure.onedns.net'
+  - 'dot.onedns.net'
   - 'edns.233py.com'
   - 'fbcdn-a.akamaihd.net'
   - 'gpt4.angwz.com'

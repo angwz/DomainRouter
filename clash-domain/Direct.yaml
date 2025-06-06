@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-06 01:26:43 (UTC+8)
+# UPDATED: 2025-06-07 00:12:11 (UTC+8)
 # TYPE: domain
-# TOTAL: 2097
+# TOTAL: 2098
 payload:
   - '+.citic'
   - '+.icbc'
@@ -595,6 +595,7 @@ payload:
   - '+.macbookair.com.cn'
   - '+.njcb.com.cn'
   - '+.ntp.aliyun.com'
+  - '+.ntp.tencent.com'
   - '+.ntp1.aliyun.com'
   - '+.ntp2.aliyun.com'
   - '+.ntp3.aliyun.com'
