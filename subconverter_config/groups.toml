@@ -68,15 +68,16 @@ type = "select"
 
 [[custom_groups]]
 name = "🐦‍🔥 香港专线"
+rule = ["[]🌺 香港高速", "[]🥗 美利坚高速"]
+type = "fallback"
+url = "https://www.gstatic.com/generate_204"
+interval = 97
+lazy = false
+
+[[custom_groups]]
+name = "🌺 香港高速"
 rule = ["!!GROUPID=0!!(港|HK|hk|Hong Kong|HongKong|hongkong)"]
 type = "select"
-
-# [[custom_groups]]
-# name = "🌺 香港高速"
-# rule = [
-#   "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*(IPLC|IEPL)).*$)",
-# ]
-# type = "select"
 
 [[custom_groups]]
 name = "🫒 日本高速"
