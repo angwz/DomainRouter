@@ -239,20 +239,20 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🐦\u200d🔥 香港专线"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Hongkong.yaml"
+group = "🌠 节点选择"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Angwz.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🐦\u200d🔥 香港专线"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Hongkong-ipcidr.yaml"
+group = "🌠 节点选择"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Angwz-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🐦\u200d🔥 香港专线"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Hongkong-classic.yaml"
+group = "🌠 节点选择"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Angwz-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
@@ -311,7 +311,7 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🐦\u200d🔥 香港专线"
+group = "🌠 节点选择"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
@@ -319,35 +319,35 @@ group = "🫒 日本高速"
 ruleset = "[]GEOIP,JP,no-resolve"
 
 [[rulesets]]
-group = "🥗 美利坚高速"
-ruleset = "[]GEOIP,US,no-resolve"
+group = "🥝 新加坡高速"
+ruleset = "[]GEOIP,SG,no-resolve"
 
 [[rulesets]]
 group = "🥗 美利坚高速"
 ruleset = "[]GEOIP,CA,no-resolve"
 
 [[rulesets]]
-group = "🥝 新加坡高速"
-ruleset = "[]GEOIP,SG,no-resolve"
+group = "🥗 美利坚高速"
+ruleset = "[]GEOIP,US,no-resolve"
 
 [[rulesets]]
-group = "🐦\u200d🔥 香港专线"
+group = "🌠 节点选择"
 ruleset = "[]GEOIP,HK,no-resolve"
 
 [[rulesets]]
-group = "🐦\u200d🔥 香港专线"
+group = "🌠 节点选择"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Proxy.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🐦\u200d🔥 香港专线"
+group = "🌠 节点选择"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Proxy-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🐦\u200d🔥 香港专线"
+group = "🌠 节点选择"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Proxy-classic.yaml"
 type = "clash-classic"
 interval = 21600
