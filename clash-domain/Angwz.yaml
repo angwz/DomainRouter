@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-07 08:38:00 (UTC+8)
+# UPDATED: 2025-06-08 00:10:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 978
+# TOTAL: 968
 payload:
   - '+.azure'
   - '+.hk'
@@ -24,7 +24,6 @@ payload:
   - '+.ads-twitter.com'
   - '+.advancediddetection.com'
   - '+.aggresmart.com'
-  - '+.agkn.com'
   - '+.apihub-internal.cn'
   - '+.apple-dns.net'
   - '+.apple.news'
@@ -201,14 +200,12 @@ payload:
   - '+.cms-twdigitalassets.com'
   - '+.cnbeta.com'
   - '+.cnbetacdn.com'
-  - '+.cohere.com'
   - '+.comments.app'
   - '+.como-hackearfacebook.com'
   - '+.componentkit.org'
   - '+.contest.com'
   - '+.cosmosdb.info'
   - '+.cosmosdb.net'
-  - '+.crashlytics.com'
   - '+.crowdtangle.com'
   - '+.dacebook.com'
   - '+.devopsms.com'
@@ -589,7 +586,6 @@ payload:
   - '+.igtv.com'
   - '+.imstagram.com'
   - '+.imtagram.com'
-  - '+.inmobi.com'
   - '+.instaadder.com'
   - '+.instachecker.com'
   - '+.instafallow.com'
@@ -642,11 +638,9 @@ payload:
   - '+.intagrm.com'
   - '+.internet.org'
   - '+.intgram.com'
-  - '+.ip-api.com'
   - '+.isbgpsafeyet.com'
   - '+.kingstagram.com'
   - '+.klik.me'
-  - '+.kochava.com'
   - '+.legra.ph'
   - '+.licdn.cn'
   - '+.licdn.com'
@@ -684,7 +678,6 @@ payload:
   - '+.midentsolutions.com'
   - '+.mncmsidlab1.cn'
   - '+.mobilefacebook.com'
-  - '+.mobilefuse.com'
   - '+.moneywithfacebook.com'
   - '+.msappproxy.cn'
   - '+.mschcdn.com'
@@ -753,7 +746,6 @@ payload:
   - '+.supportfacebook.com'
   - '+.t.co'
   - '+.t.me'
-  - '+.talkatone.com'
   - '+.tdesktop.com'
   - '+.telega.one'
   - '+.telegra.ph'
@@ -773,8 +765,6 @@ payload:
   - '+.theinstagramhack.com'
   - '+.threads.com'
   - '+.threads.net'
-  - '+.tktn.at'
-  - '+.tktn.be'
   - '+.toplayerserver.com'
   - '+.trafficmanager.cn'
   - '+.trafficmanager.net'
