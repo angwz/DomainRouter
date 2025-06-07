@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-07 00:12:52 (UTC+8)
+# UPDATED: 2025-06-07 08:38:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 32033
+# TOTAL: 32034
 payload:
   - '+.adult'
   - '+.amazon'
@@ -621,6 +621,7 @@ payload:
   - '+.91avfuli.com'
   - '+.91beiyong.com'
   - '+.91cy.app'
+  - '+.91dasai.com'
   - '+.91dy.club'
   - '+.91fans.org'
   - '+.91gay.me'
