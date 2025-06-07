@@ -13,7 +13,7 @@ type = "select"
 
 [[custom_groups]]
 name = "✈️ 手动切换"
-rule = ["(.*)"]
+rule = ["[]🥗 美利坚高速", "(.*)"]
 type = "select"
 
 [[custom_groups]]
