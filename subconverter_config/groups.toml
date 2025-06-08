@@ -18,7 +18,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
-rule = ["[]🥗 美利坚高速", "[]🫒 日本高速", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
+rule = ["[]🫒 日本高速", "[]🥗 美利坚高速", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -95,6 +95,11 @@ rule = ["!!GROUPID=0!!(Germany|法兰克福|德(国|意志)|中德|^德$)"]
 type = "select"
 
 [[custom_groups]]
+name = "🧊 菲律宾群岛"
+rule = ["!!GROUPID=0!!(?i:\\bPH\\d*\\b|Philippines|菲律宾)"]
+type = "select"
+
+[[custom_groups]]
 name = "🥗 美利坚高速"
 rule = [
   "!!GROUPID=0!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
@@ -103,5 +108,8 @@ type = "select"
 
 [[custom_groups]]
 name = "🐧 游戏加速"
-rule = ["[]🌠 节点选择", "!!GROUPID=0!!(菲律宾)"]
-type = "select"
+rule = ["[]🧊 菲律宾群岛", "[]🌠 节点选择"]
+type = "fallback"
+url = "https://www.gstatic.com/generate_204"
+interval = 197
+lazy = true
