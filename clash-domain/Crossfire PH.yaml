@@ -1,0 +1,9 @@
+# NAME: Crossfire PH
+# AUTHOR: Angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2025-06-09 18:03:36 (UTC+8)
+# TYPE: domain
+# TOTAL: 2
+payload:
+  - '+.gameclub.ph'
+  - '+.onstove.com'

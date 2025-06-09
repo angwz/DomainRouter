@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-09 01:23:54 (UTC+8)
+# UPDATED: 2025-06-09 17:54:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 32034
+# TOTAL: 32036
 payload:
   - '+.adult'
   - '+.amazon'
@@ -22194,6 +22194,7 @@ payload:
   - '+.wal.co'
   - '+.wallet.com'
   - '+.walletconnect.com'
+  - '+.wallhaven.cc'
   - '+.wallmama.com'
   - '+.wallornot.org'
   - '+.wallpapercasa.com'
@@ -22451,6 +22452,7 @@ payload:
   - '+.whorevintagesex.com'
   - '+.whosthehost.com'
   - '+.whotalking.com'
+  - '+.whvn.cc'
   - '+.whvuxtub.com'
   - '+.whychoosehorizon.com'
   - '+.whychooseview.com'

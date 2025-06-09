@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-09 01:33:37 (UTC+8)
+# UPDATED: 2025-06-09 18:03:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 3959
+# TOTAL: 3962
 payload:
   - '+.apple'
   - '+.playstation'
@@ -818,6 +818,7 @@ payload:
   - '+.camelphat.com'
   - '+.camelspaceeffect.com'
   - '+.canada-beatsbydre.com'
+  - '+.cankaoxiaoxi.com'
   - '+.capitalgames.com'
   - '+.capturingreality.com'
   - '+.carbon.com'
@@ -911,6 +912,7 @@ payload:
   - '+.chomp.com'
   - '+.ciattackers.com'
   - '+.cibntv.net'
+  - '+.ckxx.net'
   - '+.clash.com'
   - '+.clashmini.com'
   - '+.clashofclans.com'
@@ -2224,6 +2226,7 @@ payload:
   - '+.taihe.com'
   - '+.take2games.com'
   - '+.takegoto.com'
+  - '+.takungpao.com'
   - '+.tapimg.com'
   - '+.tapimg.net'
   - '+.taptap.cn'
