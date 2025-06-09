@@ -1,4 +1,4 @@
-# NAME: Japan
+# NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
 # UPDATED: 2025-06-09 18:29:02 (UTC+8)
@@ -6,7 +6,7 @@
 # TOTAL: 4
 # IP-CIDR TOTAL: 4
 payload:
-  - '104.154.127.126/32'
-  - '125.6.189.7/32'
-  - '203.104.209.7/32'
-  - '35.186.224.47/32'
+  - '205.164.56.0/24'
+  - '50.117.27.0/24'
+  - '63.251.124.0/24'
+  - '69.46.75.0/24'
