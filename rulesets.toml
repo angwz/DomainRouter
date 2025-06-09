@@ -257,6 +257,12 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+group = "🐧 游戏加速"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Crossfire PH.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
 group = "🥝 新加坡高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
 type = "clash-domain"
@@ -372,11 +378,7 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "[]GEOIP,CN"
-
-[[rulesets]]
-group = "🐧 游戏加速"
-ruleset = "[]GEOIP,PH"
+ruleset = "[]GEOIP,CN,no-resolve"
 
 [[rulesets]]
 group = "🐳 漏网の鱼"
