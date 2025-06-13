@@ -1,4 +1,22 @@
 [[rulesets]]
+group = "⛅ OneDrive"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OneDrive.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "⛅ OneDrive"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/OneDrive-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "⛅ OneDrive"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OneDrive-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "🥗 美利坚高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Gemini.yaml"
 type = "clash-domain"
@@ -133,24 +151,6 @@ interval = 21600
 [[rulesets]]
 group = "🎬 Netflix"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Netflix-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "⛅ OneDrive"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OneDrive.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "⛅ OneDrive"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/OneDrive-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "⛅ OneDrive"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OneDrive-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
