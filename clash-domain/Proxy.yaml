@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-13 00:12:43 (UTC+8)
+# UPDATED: 2025-06-13 21:01:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 32036
+# TOTAL: 32037
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5428,6 +5428,7 @@ payload:
   - '+.cpan.org'
   - '+.cpedge.com'
   - '+.cpj.org'
+  - '+.cpu-monkey.com'
   - '+.cpz.to'
   - '+.cq99.us'
   - '+.cqcorea.com'
