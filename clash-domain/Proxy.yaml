@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-14 00:12:16 (UTC+8)
+# UPDATED: 2025-06-15 00:10:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 32037
+# TOTAL: 32043
 payload:
   - '+.adult'
   - '+.amazon'
@@ -760,6 +760,7 @@ payload:
   - '+.aboutyourmini.com'
   - '+.abow.jp'
   - '+.abpchina.org'
+  - '+.abplive.com'
   - '+.abs.edu'
   - '+.absoluporn.com'
   - '+.absolutewhores.com'
@@ -2219,7 +2220,6 @@ payload:
   - '+.auth0.com'
   - '+.authorizeddns.net'
   - '+.authorizeddns.org'
-  - '+.authorizeddns.us'
   - '+.authorxml.com'
   - '+.authy.com'
   - '+.autocad-schulungen.com'
@@ -8033,6 +8033,7 @@ payload:
   - '+.financeleadsonline.com'
   - '+.financetwitter.com'
   - '+.financialadvisoriq.com'
+  - '+.financialexpress.com'
   - '+.financialsoccer.ca'
   - '+.finchvpn.com'
   - '+.find-apple.com'
@@ -9316,7 +9317,6 @@ payload:
   - '+.good.news'
   - '+.gooday.xyz'
   - '+.gooddaychicago.com'
-  - '+.gooddns.info'
   - '+.goodhope.school'
   - '+.goodnewsnetwork.org'
   - '+.goodporn.to'
@@ -10154,6 +10154,7 @@ payload:
   - '+.himemix.net'
   - '+.hindawi.com'
   - '+.hindiweb.com'
+  - '+.hindustantimes.com'
   - '+.hinet.net'
   - '+.hipaa6020.com'
   - '+.hiporn.net'
@@ -11246,6 +11247,7 @@ payload:
   - '+.indiansexstories.net'
   - '+.indiansexstories2.net'
   - '+.indiatimes.com'
+  - '+.indiatoday.in'
   - '+.indiemerch.com'
   - '+.indienudes.com'
   - '+.indonesiaporn.name'
@@ -15079,6 +15081,7 @@ payload:
   - '+.newhentai.org'
   - '+.newhighlandvision.com'
   - '+.newhtbook.com'
+  - '+.newindianexpress.com'
   - '+.newipnow.com'
   - '+.newisiknowledge.com'
   - '+.newlineporn.com'
@@ -15089,6 +15092,7 @@ payload:
   - '+.newnews.ca'
   - '+.newpppp.com'
   - '+.news1.kr'
+  - '+.news18.com'
   - '+.newsamerica.com'
   - '+.newsancai.com'
   - '+.newsblur.com'
@@ -20230,6 +20234,7 @@ payload:
   - '+.theguardian.com'
   - '+.theguardiandns.com'
   - '+.thehabibshow.com'
+  - '+.thehansindia.com'
   - '+.thehealthsite.com'
   - '+.thehentaiworld.com'
   - '+.thehindu.com'
@@ -30452,6 +30457,7 @@ payload:
   - '+.stak.ac.uk'
   - '+.stamford.ac.uk'
   - '+.stamfordparktrust.ac.uk'
+  - '+.standard.co.uk'
   - '+.stanmore.ac.uk'
   - '+.stanstedairportcollege.ac.uk'
   - '+.star.ac.uk'
