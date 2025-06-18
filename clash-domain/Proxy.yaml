@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-18 00:12:59 (UTC+8)
+# UPDATED: 2025-06-19 00:12:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 32044
+# TOTAL: 32046
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19622,6 +19622,7 @@ payload:
   - '+.storj.io'
   - '+.storm.mg'
   - '+.stormmediagroup.com'
+  - '+.storry.tv'
   - '+.storyful.com'
   - '+.stoweboyd.com'
   - '+.straightouttasomewhere.com'
@@ -22185,6 +22186,7 @@ payload:
   - '+.w.wiki'
   - '+.w0512.com'
   - '+.w3.org'
+  - '+.w3s.link'
   - '+.w3schools.com'
   - '+.w6un.com'
   - '+.wa.me'

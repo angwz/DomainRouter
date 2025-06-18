@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-18 00:22:23 (UTC+8)
+# UPDATED: 2025-06-19 00:22:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 451
+# TOTAL: 446
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -304,10 +304,9 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
-  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
+  - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
-  - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
@@ -319,17 +318,14 @@ payload:
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
-  - 'tracker.23794.top'
   - 'tracker.aburaya.live'
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
   - 'tracker.birkenwald.de'
-  - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bjut.jp'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -362,11 +358,8 @@ payload:
   - 'tracker.gigantino.net'
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
-  - 'tracker.hifimarket.in'
-  - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -384,12 +377,12 @@ payload:
   - 'tracker.lintk.me'
   - 'tracker.linvk.com'
   - 'tracker.loligirl.cn'
-  - 'tracker.lyretain.site'
   - 'tracker.moeblog.cn'
   - 'tracker.moeking.me'
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -402,6 +395,7 @@ payload:
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
+  - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
@@ -417,6 +411,7 @@ payload:
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
+  - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
