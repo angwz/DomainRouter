@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-23 00:10:55 (UTC+8)
+# UPDATED: 2025-06-24 00:13:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 32047
+# TOTAL: 32052
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2041,6 +2041,7 @@ payload:
   - '+.artstor.org'
   - '+.artsy.net'
   - '+.arukas.io'
+  - '+.arvanstorage.ir'
   - '+.arxiv.org'
   - '+.arzon.jp'
   - '+.as-hp.ca'
@@ -9551,6 +9552,7 @@ payload:
   - '+.gotrusted.com'
   - '+.gotw.ca'
   - '+.gouri.xyz'
+  - '+.gov.ir'
   - '+.gov.taipei'
   - '+.gov.tw'
   - '+.governmentengineer.com'
@@ -11701,6 +11703,7 @@ payload:
   - '+.iqq2.cc'
   - '+.iqq3.cc'
   - '+.iqqtv.net'
+  - '+.irangov.ir'
   - '+.iranianboobs.com'
   - '+.iranlms.ir'
   - '+.iransextv.com'
@@ -11708,6 +11711,7 @@ payload:
   - '+.iredmail.org'
   - '+.irib.ir'
   - '+.iridiumbrowser.de'
+  - '+.irna.ir'
   - '+.iromod91.info'
   - '+.ironna.jp'
   - '+.ironpython.net'
@@ -17273,6 +17277,7 @@ payload:
   - '+.prepsure.com'
   - '+.presentation.new'
   - '+.presentationzen.com'
+  - '+.president.ir'
   - '+.presidentlee.tw'
   - '+.press.vin'
   - '+.prestige-av.com'
