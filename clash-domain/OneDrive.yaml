@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-26 00:22:34 (UTC+8)
+# UPDATED: 2025-06-27 00:22:19 (UTC+8)
 # TYPE: domain
 # TOTAL: 452
 payload:
@@ -264,7 +264,6 @@ payload:
   - 'logincdn.msauth.net'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -304,9 +303,11 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
+  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -321,6 +322,7 @@ payload:
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
+  - 'tracker.beeimg.com'
   - 'tracker.birkenwald.de'
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
@@ -396,7 +398,6 @@ payload:
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
-  - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
   - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
@@ -450,7 +451,6 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'tracker.guguan.dpdns.org'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
   - 'tracker.zhuqiy.dgj055.icu'
