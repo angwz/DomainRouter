@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-27 00:13:00 (UTC+8)
+# UPDATED: 2025-06-28 00:12:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 32052
+# TOTAL: 32053
 payload:
   - '+.adult'
   - '+.amazon'
@@ -17676,6 +17676,7 @@ payload:
   - '+.radiovaticana.org'
   - '+.radiovncr.com'
   - '+.radiyoyacuvoa.com'
+  - '+.radmin-vpn.com'
   - '+.rael.org'
   - '+.raggedbanner.com'
   - '+.ragnaporn.com'
