@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-28 00:22:27 (UTC+8)
+# UPDATED: 2025-06-29 00:20:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 894
+# TOTAL: 897
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -490,6 +490,7 @@ payload:
   - '+.luckysf.net'
   - '+.maidouke.com'
   - '+.maoercdn.com'
+  - '+.marscode.cn'
   - '+.mcbbs.net'
   - '+.meegobeta.com'
   - '+.mincdn.com'
@@ -651,6 +652,7 @@ payload:
   - '+.tr-test-ali.net'
   - '+.tr-test.net'
   - '+.tr-testboe.net'
+  - '+.trae.cn'
   - '+.ttbyte.cn'
   - '+.ttbyte.com'
   - '+.ttbyte.net'
@@ -837,6 +839,7 @@ payload:
   - '+.qishui.com.cn'
   - '+.qishuimusic.com.cn'
   - '+.toutiaohao.com.cn'
+  - '+.trae.com.cn'
   - '+.upos-bstar-mirrorakam.akamaized.net'
   - '+.upos-bstar1-mirrorakam.akamaized.net'
   - '+.upos-hz-mirrorakam.akamaized.net'

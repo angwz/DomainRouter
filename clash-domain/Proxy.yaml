@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-28 00:12:57 (UTC+8)
+# UPDATED: 2025-06-29 00:10:51 (UTC+8)
 # TYPE: domain
-# TOTAL: 32053
+# TOTAL: 32072
 payload:
   - '+.adult'
   - '+.amazon'
@@ -31992,6 +31992,7 @@ payload:
   - '+.steam.cdn.slingshot.co.nz'
   - 'adobeereg.com'
   - 'practivate.adobe'
+  - 'yangzhi.app'
   - 'ztedevices.com'
   - '1password.drift.click'
   - 'angle.com.tw'
@@ -32015,7 +32016,9 @@ payload:
   - 'faronics.kayako.com'
   - 'firstsearch.oclc.org'
   - 'gog.qtlglb.com'
+  - 'holoxx.f5.si'
   - 'hpstore.corpmerchandise.com'
+  - 'hub.slarker.me'
   - 'i.jeded.com'
   - 'imperial.insendi.com'
   - 'ingest.apple-studies.com'
@@ -32037,6 +32040,22 @@ payload:
   - 'practivate.adobe.ipp'
   - 'practivate.adobe.newoa'
   - 'practivate.adobe.ntp'
+  - 'rss.4040940.xyz'
+  - 'rss.datuan.dev'
+  - 'rss.littlebaby.life'
+  - 'rss.owo.nz'
+  - 'rss.wudifeixue.com'
+  - 'rsshub.asailor.org'
+  - 'rsshub.email-once.com'
+  - 'rsshub.henry.wang'
+  - 'rsshub.isrss.com'
+  - 'rsshub.ktachibana.party'
+  - 'rsshub.pseudoyu.com'
+  - 'rsshub.rss.tips'
+  - 'rsshub.rssforever.com'
+  - 'rsshub.umzzz.com'
+  - 'rsshub.woodland.cafe'
+  - 'rsshub2.asailor.org'
   - 'scholar.google.cn'
   - 'servd-anthropic-website.b-cdn.net'
   - 'tesla-cdn.thron.com'
