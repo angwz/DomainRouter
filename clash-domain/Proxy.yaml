@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-29 00:10:51 (UTC+8)
+# UPDATED: 2025-06-30 00:11:09 (UTC+8)
 # TYPE: domain
-# TOTAL: 32072
+# TOTAL: 32073
 payload:
   - '+.adult'
   - '+.amazon'
@@ -27483,6 +27483,7 @@ payload:
   - '+.imageworkshop.ac.uk'
   - '+.imems.ac.uk'
   - '+.imet.ac.uk'
+  - '+.img.picgo.net'
   - '+.imlab.ac.uk'
   - '+.impact-hei.ac.uk'
   - '+.impact.ac.uk'
