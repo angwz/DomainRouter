@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-06-30 00:20:43 (UTC+8)
+# UPDATED: 2025-07-01 00:22:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 458
+# TOTAL: 456
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -248,7 +248,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -306,17 +305,15 @@ payload:
   - 't1.hloli.org'
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
-  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
+  - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
-  - 'tr-rh-zhuqiy.dgj055.icu'
-  - 'tr-zhuqiy-1.dgj055.icu'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
+  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -391,7 +388,6 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -443,6 +439,7 @@ payload:
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
   - 'trackers.ptlsp.com'
+  - 'trl-zhuqiy.dgj055.icu'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'v74853.hosted-by-vdsina.com'
@@ -460,6 +457,7 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
+  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
   - 'prodforza.blob.core.windows.net'
