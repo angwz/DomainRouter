@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-08 00:22:25 (UTC+8)
+# UPDATED: 2025-07-09 00:22:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 453
+# TOTAL: 456
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -230,7 +230,6 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
-  - 'admin.52ywp.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -248,6 +247,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -308,7 +308,10 @@ payload:
   - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
+  - 'tr-zhuqiy-1.dgj055.icu'
+  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -364,6 +367,7 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -414,7 +418,6 @@ payload:
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
-  - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
