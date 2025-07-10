@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-10 00:19:45 (UTC+8)
+# UPDATED: 2025-07-11 00:22:27 (UTC+8)
 # TYPE: domain
-# TOTAL: 456
+# TOTAL: 461
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -230,6 +230,7 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
+  - 'admin.52ywp.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -307,8 +308,8 @@ payload:
   - 'tamas3.ynh.fr'
   - 'threads.canofsocks.com'
   - 'tk.greedland.net'
+  - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
-  - 'tr-zhuqiy-1.dgj055.icu'
   - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
@@ -332,6 +333,7 @@ payload:
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bjut.jp'
+  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -364,6 +366,7 @@ payload:
   - 'tracker.gigantino.net'
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
+  - 'tracker.hifimarket.in'
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
@@ -384,6 +387,7 @@ payload:
   - 'tracker.lintk.me'
   - 'tracker.linvk.com'
   - 'tracker.loligirl.cn'
+  - 'tracker.lyretain.site'
   - 'tracker.moeblog.cn'
   - 'tracker.moeking.me'
   - 'tracker.moxing.party'
@@ -402,6 +406,7 @@ payload:
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
+  - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
   - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
@@ -418,6 +423,7 @@ payload:
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
+  - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
@@ -460,4 +466,3 @@ payload:
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
   - 'prodforza.blob.core.windows.net'
-  - 'tracker1.bt.moack.co.kr'
