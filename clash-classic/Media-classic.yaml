@@ -1,11 +1,11 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-20 00:21:09 (UTC+8)
+# UPDATED: 2025-07-20 03:24:59 (UTC+8)
 # TYPE: classic
-# TOTAL: 35
-# DOMAIN-KEYWORD TOTAL: 29
-# PROCESS-NAME TOTAL: 6
+# TOTAL: 48
+# DOMAIN-KEYWORD TOTAL: 31
+# PROCESS-NAME TOTAL: 17
 payload:
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,anthropic
@@ -33,6 +33,8 @@ payload:
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,-spotify-com
+  - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
@@ -40,6 +42,17 @@ payload:
   - PROCESS-NAME,com.viu.pad
   - PROCESS-NAME,com.viu.phone
   - PROCESS-NAME,com.vuclip.viu
+  - PROCESS-NAME,com.amazon.avod.thirdpartyclient
+  - PROCESS-NAME,tv
+  - PROCESS-NAME,music
+  - PROCESS-NAME,com.bstar.intl
+  - PROCESS-NAME,com.hulu.plus
+  - PROCESS-NAME,com.tencent.ibg.joox
+  - PROCESS-NAME,com.linecorp.linetv
+  - PROCESS-NAME,com.netflix.mediaclient
+  - PROCESS-NAME,com.twgood.android
+  - PROCESS-NAME,tv.twitch.android.app
+  - PROCESS-NAME,com.hktve.viutv
   - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
   - PROCESS-NAME,com.disney.disneyplus
   - PROCESS-NAME,com.mb.android

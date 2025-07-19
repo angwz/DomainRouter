@@ -1,16 +1,17 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-20 00:21:04 (UTC+8)
+# UPDATED: 2025-07-20 03:24:55 (UTC+8)
 # TYPE: classic
-# TOTAL: 6
-# DOMAIN-KEYWORD TOTAL: 4
+# TOTAL: 7
+# DOMAIN-KEYWORD TOTAL: 5
 # PROCESS-NAME TOTAL: 2
 payload:
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-KEYWORD,hotmail
 
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDriveUpdater
