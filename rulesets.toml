@@ -1,76 +1,4 @@
 [[rulesets]]
-group = "⛅ OneDrive"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OneDrive.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "⛅ OneDrive"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/OneDrive-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "⛅ OneDrive"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OneDrive-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🥗 美利坚高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Gemini.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🥗 美利坚高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Gemini-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🌳 德意志帝国"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Anthropic.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🗨️ ChatGPT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OpenAI.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🗨️ ChatGPT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/OpenAI-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "🗨️ ChatGPT"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OpenAI-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🥗 美利坚高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/AI.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🥗 美利坚高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/AI-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "🥗 美利坚高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/AI-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
 group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Direct.yaml"
 type = "clash-domain"
@@ -85,6 +13,24 @@ interval = 21600
 [[rulesets]]
 group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Direct-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+group = "🗨️ ChatGPT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/AI.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🗨️ ChatGPT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/AI-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "🗨️ ChatGPT"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/AI-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
@@ -221,6 +167,12 @@ type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
+group = "🌳 德意志帝国"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Germany-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "🥗 美利坚高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/America.yaml"
 type = "clash-domain"
@@ -283,6 +235,18 @@ interval = 21600
 [[rulesets]]
 group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/ChinaMedia-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+group = "⛅ OneDrive"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/OneDrive.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "⛅ OneDrive"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/OneDrive-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
