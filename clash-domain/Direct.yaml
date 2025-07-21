@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-21 00:10:58 (UTC+8)
+# UPDATED: 2025-07-22 00:11:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 3402
+# TOTAL: 3405
 payload:
   - '+.citic'
   - '+.icbc'
@@ -2000,6 +2000,7 @@ payload:
   - 'dl.snipaste.com'
   - 'dl.tailscale.com'
   - 'dl.thorium.rocks'
+  - 'dl.vanadium.app'
   - 'dlgarenanow-a.akamaihd.net'
   - 'dlhls-cdn-mp.zhanqi.tv'
   - 'docker.cloudsmith.io'
@@ -2631,6 +2632,8 @@ payload:
   - 'qxlmlive9.cbg.cn'
   - 'radiolive.sxrtv.com'
   - 'registry.fedoraproject.org'
+  - 'registry.terraform.io'
+  - 'release-assets.githubusercontent.com'
   - 'release.runcloud.io'
   - 'releases.grapheneos.org'
   - 'releases.obsidian.md'
