@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-22 00:12:40 (UTC+8)
+# UPDATED: 2025-07-23 00:13:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 625
+# TOTAL: 628
 payload:
   - '+.1ptba.com'
   - '+.2xfree.org'
@@ -381,7 +381,6 @@ payload:
   - '9.rarbg.me'
   - '9.rarbg.to'
   - 'admin.52ywp.com'
-  - 'asiatorrent.ddns.net'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -448,6 +447,7 @@ payload:
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
+  - 'pybittrack.retiolus.net'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
@@ -469,7 +469,9 @@ payload:
   - 'tk.greedland.net'
   - 'torrents.artixlinux.org'
   - 'tr-zhuqiy-1.dgj055.icu'
+  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -621,6 +623,7 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
+  - 'torrent.tracker.durukanbal.com'
   - 'tracker.home.kmzs123.cn'
   - 'tracker.itscraftsoftware.my.id'
   - 'tracker.torrent.eu.org'
