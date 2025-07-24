@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-24 00:13:56 (UTC+8)
+# UPDATED: 2025-07-25 00:12:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 628
+# TOTAL: 626
 payload:
   - '+.1ptba.com'
   - '+.2xfree.org'
@@ -380,7 +380,7 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
-  - 'admin.52ywp.com'
+  - 'asiatorrent.ddns.net'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -406,6 +406,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'eaasserts-a.akamaihd.net'
   - 'eaassets-a.akamaihd.net'
   - 'exodus.desync.com'
@@ -457,7 +458,6 @@ payload:
   - 'share.hkg-fansub.info'
   - 'sparkle.ghostchu-services.top'
   - 't-115.rhcloud.com'
-  - 't.213891.xyz'
   - 't.acg.rip'
   - 't.jaekr.sh'
   - 't.nyaatracker.com'
@@ -467,9 +467,8 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
+  - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
-  - 'tr-zhuqiy-1.dgj055.icu'
-  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -477,7 +476,6 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
-  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -492,7 +490,6 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -545,7 +542,6 @@ payload:
   - 'tracker.leechshield.link'
   - 'tracker.lilithraws.org'
   - 'tracker.lintk.me'
-  - 'tracker.linvk.com'
   - 'tracker.loligirl.cn'
   - 'tracker.moeblog.cn'
   - 'tracker.moeking.me'
@@ -582,6 +578,7 @@ payload:
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
+  - 'tracker.tricitytorrents.com'
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
@@ -622,6 +619,7 @@ payload:
   - 'h4.trakx.nibba.trade'
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
+  - 'region.nl1.privex.cc'
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
   - 'tracker.home.kmzs123.cn'
