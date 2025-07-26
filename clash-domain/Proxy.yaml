@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-26 00:13:09 (UTC+8)
+# UPDATED: 2025-07-27 00:11:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 32074
+# TOTAL: 32075
 payload:
   - '+.adult'
   - '+.amazon'
@@ -23471,6 +23471,7 @@ payload:
   - '+.yandexwebcache.org'
   - '+.yanghengjun.com'
   - '+.yangjianli.com'
+  - '+.yangzhi.org'
   - '+.yantaqu.com'
   - '+.yaohubaba.com'
   - '+.yaoimangaonline.com'
