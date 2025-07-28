@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-28 00:11:50 (UTC+8)
+# UPDATED: 2025-07-28 20:20:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 624
+# TOTAL: 621
 payload:
   - '+.1ptba.com'
   - '+.2xfree.org'
@@ -467,7 +467,6 @@ payload:
   - 'taciturn-shadow.spb.ru'
   - 'tamas3.ynh.fr'
   - 'tk.greedland.net'
-  - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
@@ -481,6 +480,7 @@ payload:
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
+  - 'tracker.23794.top'
   - 'tracker.aburaya.live'
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
@@ -490,7 +490,6 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -506,7 +505,6 @@ payload:
   - 'tracker.dler.com'
   - 'tracker.dler.org'
   - 'tracker.dmcomic.org'
-  - 'tracker.ducks.party'
   - 'tracker.dump.cl'
   - 'tracker.edkj.club'
   - 'tracker.ex.ua'
@@ -528,6 +526,7 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -578,7 +577,6 @@ payload:
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
-  - 'tracker.tricitytorrents.com'
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
@@ -621,9 +619,8 @@ payload:
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
-  - 'tracker.itscraftsoftware.my.id'
+  - 'tracker.home.kmzs123.cn'
   - 'tracker.torrent.eu.org'
-  - 'tracker.tvunderground.org.ru'
   - 'ubisoft-orbit-savegames.s3.amazonaws.com'
   - 'ubisoft-uplay-savegames.s3.amazonaws.com'
   - 'udp.tracker.projectk.org'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-28 00:11:50 (UTC+8)
+# UPDATED: 2025-07-28 20:20:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 32075
+# TOTAL: 32076
 payload:
   - '+.adult'
   - '+.amazon'
@@ -13130,6 +13130,7 @@ payload:
   - '+.luckydesigner.space'
   - '+.luckyissue.com'
   - '+.luckysrv.de'
+  - '+.ludepress.com'
   - '+.luke54.com'
   - '+.luke54.org'
   - '+.lululu.one'
