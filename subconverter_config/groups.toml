@@ -67,12 +67,12 @@ rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换"
 type = "select"
 
 [[custom_groups]]
+interval = 97
+lazy = false
 name = "🐦‍🔥 香港专线"
 rule = ["[]🌺 香港高速", "[]🥗 美利坚高速"]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
-interval = 97
-lazy = false
 
 [[custom_groups]]
 name = "🌺 香港高速"
