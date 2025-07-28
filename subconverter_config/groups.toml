@@ -76,7 +76,7 @@ lazy = false
 
 [[custom_groups]]
 name = "🌺 香港高速"
-rule = ["!!GROUPID=0!!(港|HK|hk|Hong Kong|HongKong|hongkong)"]
+rule = ["!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*菲律宾).*$)"]
 type = "select"
 
 [[custom_groups]]
