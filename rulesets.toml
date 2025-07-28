@@ -41,12 +41,6 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "📱 TikTok"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/TikTok-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
 group = "🍰 哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Bilibili.yaml"
 type = "clash-domain"
