@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-07-30 00:23:12 (UTC+8)
+# UPDATED: 2025-07-31 00:23:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 10828
+# TOTAL: 10829
 payload:
   - '+.adult'
   - '+.bbc'
@@ -1910,6 +1910,7 @@ payload:
   - '+.drunkenstepfather.com'
   - '+.drunkentop.com'
   - '+.dsex.to'
+  - '+.dssedge.com'
   - '+.dssott.com'
   - '+.dswz88.xyz'
   - '+.dsyiren.com'
