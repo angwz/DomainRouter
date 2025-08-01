@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-01 00:13:26 (UTC+8)
+# UPDATED: 2025-08-02 00:13:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 3405
+# TOTAL: 3406
 payload:
   - '+.citic'
   - '+.icbc'
@@ -2016,6 +2016,7 @@ payload:
   - 'download.clashverge.dev'
   - 'download.cypress.io'
   - 'download.epicgames.com'
+  - 'download.fosshub.com'
   - 'download.gigabyte.com'
   - 'download.iboysoft.com'
   - 'download.jetbrains.com'
