@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-02 00:13:42 (UTC+8)
+# UPDATED: 2025-08-03 00:11:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 632
+# TOTAL: 627
 payload:
   - '+.1ptba.com'
   - '+.2xfree.org'
@@ -362,7 +362,6 @@ payload:
   - 'odd-hd.fr'
   - 'opentor.org'
   - 'opentracker.io'
-  - 'passpulse.net'
   - 'pubt.net'
   - 'retracker.local'
   - 'ryjer.com'
@@ -385,8 +384,6 @@ payload:
   - '9.rarbg.me'
   - '9.rarbg.to'
   - 'admin.52ywp.com'
-  - 'asiatorrent.ddns.net'
-  - 'asiatorrent.giize.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -538,7 +535,6 @@ payload:
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
-  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
@@ -556,7 +552,6 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'

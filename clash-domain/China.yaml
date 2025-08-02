@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-02 00:23:12 (UTC+8)
+# UPDATED: 2025-08-03 00:21:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 118856
+# TOTAL: 118858
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -11980,6 +11980,7 @@ payload:
   - '+.anpuzx.com'
   - '+.anqingonline.com'
   - '+.anqingwt.com'
+  - '+.anqingzhiyun.com'
   - '+.anqn.com'
   - '+.anqu.com'
   - '+.anquan.info'
@@ -18465,6 +18466,7 @@ payload:
   - '+.c360dn.com'
   - '+.c3acg.com'
   - '+.c3crm.com'
+  - '+.c3pool.org'
   - '+.c3x.me'
   - '+.c4006.com'
   - '+.c4008.com'
@@ -45197,7 +45199,6 @@ payload:
   - '+.haochu.com'
   - '+.haochuguo.com'
   - '+.haocw.com'
-  - '+.haodadachina.com'
   - '+.haodai.com'
   - '+.haodanku.com'
   - '+.haodaquan.com'
@@ -47917,7 +47918,6 @@ payload:
   - '+.hljrcc.com'
   - '+.hljsdm.com'
   - '+.hljsek.com'
-  - '+.hljsfjy.com'
   - '+.hljsjtzy.com'
   - '+.hljsph.com'
   - '+.hljszjxhw.com'
@@ -63257,6 +63257,7 @@ payload:
   - '+.lcqixing.com'
   - '+.lcqjsjxxx.com'
   - '+.lcqwdz.com'
+  - '+.lcrc.ltd'
   - '+.lcrcbank.com'
   - '+.lcrq.net'
   - '+.lcsepu.com'
@@ -75300,7 +75301,6 @@ payload:
   - '+.otm.ink'
   - '+.otms.com'
   - '+.otoeasy.com'
-  - '+.otokonocomplex.com'
   - '+.otome.me'
   - '+.otomedream.com'
   - '+.otosaas.com'
@@ -103327,7 +103327,6 @@ payload:
   - '+.xcmobi.com'
   - '+.xcmsports.com'
   - '+.xcmwqdvc.com'
-  - '+.xcn457.com'
   - '+.xcnchinese.com'
   - '+.xcncp.com'
   - '+.xcnic.net'
@@ -117956,6 +117955,7 @@ payload:
   - '+.zyjymall.com'
   - '+.zyjyxx.com'
   - '+.zyjyyun.com'
+  - '+.zyka.cc'
   - '+.zykj0668.com'
   - '+.zykjct.com'
   - '+.zykjgame.com'
@@ -118461,7 +118461,9 @@ payload:
   - '+.th.bing.com'
   - '+.thepeak.com.my'
   - '+.tk.anythinktech.com'
+  - '+.tngdigital.com.my'
   - '+.tongji.linezing.com'
+  - '+.touchngo.com.my'
   - '+.travel6.co.uk'
   - '+.turnitin.org.in'
   - '+.txwy.com.tw'
