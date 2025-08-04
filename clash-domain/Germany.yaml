@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-04 00:11:52 (UTC+8)
+# UPDATED: 2025-08-05 00:15:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 627
+# TOTAL: 630
 payload:
   - '+.1ptba.com'
   - '+.2xfree.org'
@@ -429,6 +429,7 @@ payload:
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
   - 'ns-1.x-fins.com'
+  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -444,6 +445,7 @@ payload:
   - 'open.trackerlist.xyz'
   - 'open.u-p.pw'
   - 'open.xxtor.com'
+  - 'opentracker.8880085.xyz'
   - 'opentracker.i2p.rocks'
   - 'origin-a.akamaihd.net'
   - 'originasserts.akamaized.net'
@@ -535,6 +537,7 @@ payload:
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
+  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'

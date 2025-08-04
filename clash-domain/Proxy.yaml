@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-04 00:11:52 (UTC+8)
+# UPDATED: 2025-08-05 00:15:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 32076
+# TOTAL: 32078
 payload:
   - '+.adult'
   - '+.amazon'
@@ -22774,6 +22774,8 @@ payload:
   - '+.wwwwebay.com'
   - '+.wwwxoom.com'
   - '+.wxoyt.com'
+  - '+.wxw.cat'
+  - '+.wxw.moe'
   - '+.wynd.network'
   - '+.wyndlabs.ai'
   - '+.wyqqdz.com'
