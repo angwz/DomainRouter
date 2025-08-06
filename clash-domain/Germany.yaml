@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-06 00:11:48 (UTC+8)
+# UPDATED: 2025-08-07 00:14:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 630
+# TOTAL: 626
 payload:
   - '+.1ptba.com'
   - '+.2xfree.org'
@@ -351,7 +351,6 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
-  - 'glotorrents.pw'
   - 'hificode.in'
   - 'highteahop.top'
   - 'jutone.com'
@@ -367,7 +366,6 @@ payload:
   - 'ryjer.com'
   - 'seeders-paradise.org'
   - 'servandroidkino.ru'
-  - 'shahidrazi.online'
   - 'shubt.net'
   - 'su-data.com'
   - 'torrentsmd.com'
@@ -384,6 +382,7 @@ payload:
   - '9.rarbg.me'
   - '9.rarbg.to'
   - 'admin.52ywp.com'
+  - 'asiatorrent.ddns.net'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -428,7 +427,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -496,7 +494,6 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -534,7 +531,6 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -555,6 +551,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -592,7 +589,6 @@ payload:
   - 'tracker.wepzone.net'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.top'
   - 'tracker.zond.org'
