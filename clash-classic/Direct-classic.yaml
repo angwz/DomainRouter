@@ -1,11 +1,10 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-08 00:13:32 (UTC+8)
+# UPDATED: 2025-08-09 00:11:10 (UTC+8)
 # TYPE: classic
-# TOTAL: 48
+# TOTAL: 44
 # DOMAIN-KEYWORD TOTAL: 5
-# DOMAIN-REGEX TOTAL: 4
 # DST-PORT TOTAL: 1
 # SRC-PORT TOTAL: 1
 # PROCESS-NAME TOTAL: 37
@@ -15,11 +14,6 @@ payload:
   - DOMAIN-KEYWORD,xlliveud
   - DOMAIN-KEYWORD,xunlei
   - DOMAIN-KEYWORD,yunpan
-
-  - DOMAIN-REGEX,^cdn-[\w.-]*?\.comaps\.tech
-  - DOMAIN-REGEX,^download[\w.-]*?\.mediafire\.com
-  - DOMAIN-REGEX,^cdn-[\w.-]*?\.organicmaps\.app
-  - DOMAIN-REGEX,^cdn-[\w.-]*?\.comaps\.app
 
   - DST-PORT,9993
 

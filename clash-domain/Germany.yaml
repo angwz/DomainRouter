@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-08 00:14:14 (UTC+8)
+# UPDATED: 2025-08-09 00:11:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 626
+# TOTAL: 629
 payload:
   - '+.1ptba.com'
   - '+.2xfree.org'
@@ -351,6 +351,7 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
+  - 'glotorrents.pw'
   - 'hificode.in'
   - 'highteahop.top'
   - 'jutone.com'
@@ -366,6 +367,7 @@ payload:
   - 'ryjer.com'
   - 'seeders-paradise.org'
   - 'servandroidkino.ru'
+  - 'shahidrazi.online'
   - 'shubt.net'
   - 'su-data.com'
   - 'torrentsmd.com'
@@ -382,7 +384,7 @@ payload:
   - '9.rarbg.me'
   - '9.rarbg.to'
   - 'admin.52ywp.com'
-  - 'asiatorrent.ddns.net'
+  - 'asiatorrent.giize.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -394,8 +396,8 @@ payload:
   - 'bnetcmsus-a.akamaihd.net'
   - 'bnetproduct-a.akamaihd.net'
   - 'bnetshopus.akamaized.net'
+  - 'bt.bontal.net'
   - 'bt.ktrackers.com'
-  - 'bt.okmp3.ru'
   - 'bt.poletracker.org'
   - 'bt.ptlsp.com'
   - 'bt.rer.lol'
@@ -427,7 +429,7 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns3109441.mypdns.org'
+  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -443,7 +445,6 @@ payload:
   - 'open.trackerlist.xyz'
   - 'open.u-p.pw'
   - 'open.xxtor.com'
-  - 'opentracker.8880085.xyz'
   - 'opentracker.i2p.rocks'
   - 'origin-a.akamaihd.net'
   - 'originasserts.akamaized.net'
@@ -494,6 +495,7 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
+  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -523,6 +525,7 @@ payload:
   - 'tracker.gbitt.info'
   - 'tracker.gcrenwp.top'
   - 'tracker.gcrreen.xyz'
+  - 'tracker.ghostchu-services.top'
   - 'tracker.gigantino.net'
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
@@ -531,6 +534,7 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -623,7 +627,6 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
-  - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
   - 'ubisoft-orbit-savegames.s3.amazonaws.com'
