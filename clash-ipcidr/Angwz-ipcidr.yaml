@@ -1,10 +1,10 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-09 00:11:52 (UTC+8)
+# UPDATED: 2025-08-10 00:11:41 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 2832
-# IP-CIDR TOTAL: 2011
+# TOTAL: 2833
+# IP-CIDR TOTAL: 2012
 # IP-CIDR6 TOTAL: 821
 payload:
   - '1.0.0.2/31'
@@ -734,6 +734,7 @@ payload:
   - '131.0.72.0/22'
   - '136.243.69.38/32'
   - '139.178.128.0/18'
+  - '139.59.210.98/32'
   - '141.101.64.0/18'
   - '143.204.105.0/24'
   - '143.204.106.0/23'

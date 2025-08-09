@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-09 00:11:52 (UTC+8)
+# UPDATED: 2025-08-10 00:11:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 32078
+# TOTAL: 32079
 payload:
   - '+.adult'
   - '+.amazon'
@@ -21267,6 +21267,7 @@ payload:
   - '+.uoherald.com'
   - '+.uoutside.org'
   - '+.up01.cc'
+  - '+.upbit.com'
   - '+.updatestar.com'
   - '+.updatetube.com'
   - '+.upfrontcfd.com'
