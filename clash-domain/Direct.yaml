@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-10 00:10:59 (UTC+8)
+# UPDATED: 2025-08-10 13:38:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 3408
+# TOTAL: 3410
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1073,6 +1073,7 @@ payload:
   - '+.oss-me-east-1.aliyuncs.com'
   - '+.oss-us-east-1.aliyuncs.com'
   - '+.oss-us-west-1.aliyuncs.com'
+  - '+.oss.ypt.com'
   - '+.packages-cf.termux.dev'
   - '+.packages.httpie.io'
   - '+.packages.termux.dev'
@@ -1227,6 +1228,7 @@ payload:
   - '+.xp.apple.com'
   - '+.xuexi365.com.cn'
   - '+.yiyan.baidu.com'
+  - '+.yridc.net.cn'
   - '+.zaifan.com.cn'
   - '+.100.100.in-addr.arpa'
   - '+.101.100.in-addr.arpa'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-10 00:11:41 (UTC+8)
+# UPDATED: 2025-08-10 13:39:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 32079
+# TOTAL: 32080
 payload:
   - '+.adult'
   - '+.amazon'
@@ -28344,6 +28344,7 @@ payload:
   - '+.mattu.ac.uk'
   - '+.matu.ac.uk'
   - '+.mau.ac.uk'
+  - '+.maven.neoforged.net'
   - '+.maximize.ac.uk'
   - '+.maxwell.ac.uk'
   - '+.mba.ac.uk'
