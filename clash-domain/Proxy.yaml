@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-12 00:13:16 (UTC+8)
+# UPDATED: 2025-08-13 00:13:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 32080
+# TOTAL: 32078
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2024,6 +2024,7 @@ payload:
   - '+.army.mil'
   - '+.arnoldrenderer.com'
   - '+.arphic.com'
+  - '+.arstechnica.net'
   - '+.art1lib.com'
   - '+.art4tibet1998.org'
   - '+.artcam.com'
@@ -5192,7 +5193,6 @@ payload:
   - '+.cnet.de'
   - '+.cnetfrance.fr'
   - '+.cnineu.com'
-  - '+.cnitter.com'
   - '+.cnix-gov-cn.com'
   - '+.cnn.com'
   - '+.cnn.io'
@@ -14852,6 +14852,7 @@ payload:
   - '+.naijauncut.com'
   - '+.nailedhard.com'
   - '+.naitik.net'
+  - '+.naixi.net'
   - '+.naizitv.top'
   - '+.nakadashi.to'
   - '+.naked-asian-porn.com'
@@ -14989,6 +14990,7 @@ payload:
   - '+.nenitas.club'
   - '+.nentindo.net'
   - '+.neo-miracle.com'
+  - '+.neoforged.net'
   - '+.neow.in'
   - '+.neowin.net'
   - '+.nepusoku.com'
@@ -15440,7 +15442,6 @@ payload:
   - '+.nobelprize.org'
   - '+.nobodycanstop.us'
   - '+.nodejs.org'
-  - '+.nodeloc.com'
   - '+.nodeseek.com'
   - '+.nodesnoop.com'
   - '+.nodesource.com'
@@ -16570,6 +16571,7 @@ payload:
   - '+.picasaweb.com'
   - '+.picasaweb.net'
   - '+.picasaweb.org'
+  - '+.picgo.net'
   - '+.pichunter.com'
   - '+.picidae.net'
   - '+.picjs.xyz'
@@ -20906,7 +20908,6 @@ payload:
   - '+.tuidang.net'
   - '+.tuidang.org'
   - '+.tuidang.se'
-  - '+.tuitui.info'
   - '+.tuitwit.com'
   - '+.tukaani.org'
   - '+.tukif.com'
@@ -22930,6 +22931,7 @@ payload:
   - '+.xiaoshuobb.life'
   - '+.xiaoyaoge.xyz'
   - '+.xiaxiaoqiang.net'
+  - '+.xicons.org'
   - '+.xie56.xyz'
   - '+.xiezhua.com'
   - '+.xihua.es'
@@ -24668,8 +24670,8 @@ payload:
   - '+.bbe.ac.uk'
   - '+.bbk.ac.uk'
   - '+.bbs-cove.ac.uk'
-  - '+.bbs.naixi.net'
   - '+.bbs.sina.com'
+  - '+.bbs.tuitui.info'
   - '+.bbsrc.ac.uk'
   - '+.bca.ac.uk'
   - '+.bcam.ac.uk'
@@ -25358,7 +25360,6 @@ payload:
   - '+.cdd.ac.uk'
   - '+.cdn.ac.uk'
   - '+.cdn.angruo.com'
-  - '+.cdn.arstechnica.net'
   - '+.cdn.segment.com'
   - '+.cdnews.com.tw'
   - '+.cdpuk.co.uk'
@@ -27488,7 +27489,6 @@ payload:
   - '+.imageworkshop.ac.uk'
   - '+.imems.ac.uk'
   - '+.imet.ac.uk'
-  - '+.img.picgo.net'
   - '+.imlab.ac.uk'
   - '+.impact-hei.ac.uk'
   - '+.impact.ac.uk'
@@ -28344,7 +28344,6 @@ payload:
   - '+.mattu.ac.uk'
   - '+.matu.ac.uk'
   - '+.mau.ac.uk'
-  - '+.maven.neoforged.net'
   - '+.maximize.ac.uk'
   - '+.maxwell.ac.uk'
   - '+.mba.ac.uk'
@@ -31721,7 +31720,6 @@ payload:
   - '+.wwmpcrn.ac.uk'
   - '+.www.destinationurl.com'
   - '+.www.pxcc.com'
-  - '+.www.xicons.org'
   - '+.wyams.ac.uk'
   - '+.wyke.ac.uk'
   - '+.wylln.ac.uk'

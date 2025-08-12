@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-12 00:12:34 (UTC+8)
+# UPDATED: 2025-08-13 00:12:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 3410
+# TOTAL: 3409
 payload:
   - '+.citic'
   - '+.icbc'
@@ -670,6 +670,7 @@ payload:
   - '+.ccf.org.cn'
   - '+.cdimage.debian.org'
   - '+.cdimage.kali.org'
+  - '+.cdn-builds.paw.cloud'
   - '+.cdn-cn1.apple-mapkit.com'
   - '+.cdn-cn2.apple-mapkit.com'
   - '+.cdn-cn3.apple-mapkit.com'
@@ -1160,9 +1161,7 @@ payload:
   - '+.spdb.com.cn'
   - '+.ssreader.com.cn'
   - '+.ssvideo.com.cn'
-  - '+.static-production.npmjs.com'
   - '+.static.adtidy.org'
-  - '+.static.npmjs.com'
   - '+.stocks-sparkline.apple.com'
   - '+.store.apple.com'
   - '+.store.setapp.com'

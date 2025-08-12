@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-12 00:22:38 (UTC+8)
+# UPDATED: 2025-08-13 00:22:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 10829
+# TOTAL: 10832
 payload:
   - '+.adult'
   - '+.bbc'
@@ -1466,6 +1466,7 @@ payload:
   - '+.clasporno.org'
   - '+.classymomsex.com'
   - '+.claude.ai'
+  - '+.claudeusercontent.com'
   - '+.clinical-videos.com'
   - '+.clip16.com'
   - '+.clipcake.com'
@@ -1610,6 +1611,8 @@ payload:
   - '+.cuntwars.com'
   - '+.curbed.com'
   - '+.curiositystream.com'
+  - '+.curosr.com'
+  - '+.curosr.sh'
   - '+.currenttime.tv'
   - '+.curvybbwwives.com'
   - '+.curvyerotic.com'
@@ -6375,7 +6378,6 @@ payload:
   - '+.soolakhi.com'
   - '+.soooyinfor.lol'
   - '+.soporn.com'
-  - '+.sora.com'
   - '+.sora6.com'
   - '+.sorcerersarena.com'
   - '+.sos44.com'
@@ -8907,6 +8909,7 @@ payload:
   - 'ahhs.chinashadt.com'
   - 'ai.google.dev'
   - 'air.tvk6.ru'
+  - 'aistudio.google.com'
   - 'akaal.zecast.net'
   - 'akritastv1.flashmediacast.com'
   - 'albmusic.dyndns.tv'

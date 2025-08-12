@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-12 00:22:33 (UTC+8)
+# UPDATED: 2025-08-13 00:22:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 118832
+# TOTAL: 118845
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -29855,6 +29855,7 @@ payload:
   - '+.dishuge.com'
   - '+.dishuizhijia.com'
   - '+.disimy.com'
+  - '+.diskstation.me'
   - '+.dislux.com'
   - '+.dislytegame.com'
   - '+.dismall.com'
@@ -31151,6 +31152,9 @@ payload:
   - '+.dsbaike.com'
   - '+.dsblog.net'
   - '+.dscbs.com'
+  - '+.dscloud.biz'
+  - '+.dscloud.me'
+  - '+.dscloud.mobi'
   - '+.dscq.com'
   - '+.dsdbxg.com'
   - '+.dsdod.com'
@@ -31183,6 +31187,9 @@ payload:
   - '+.dsm888.com'
   - '+.dsmxp.com'
   - '+.dsmyiyuan.com'
+  - '+.dsmynas.com'
+  - '+.dsmynas.net'
+  - '+.dsmynas.org'
   - '+.dsmzyy.com'
   - '+.dsmzyy120.com'
   - '+.dsn300.com'
@@ -34374,6 +34381,9 @@ payload:
   - '+.famicn.com'
   - '+.famige.com'
   - '+.family-marathon.com'
+  - '+.familyds.com'
+  - '+.familyds.net'
+  - '+.familyds.org'
   - '+.familyincloud.com'
   - '+.familykoloro.com'
   - '+.familylifemag.com'
@@ -51837,6 +51847,7 @@ payload:
   - '+.i1758.com'
   - '+.i1766.com'
   - '+.i1r.cc'
+  - '+.i234.me'
   - '+.i2863.com'
   - '+.i2abc.com'
   - '+.i2eas.com'
@@ -70983,6 +70994,7 @@ payload:
   - '+.mydor.com'
   - '+.mydown.com'
   - '+.mydrivers.com'
+  - '+.myds.me'
   - '+.mydyt.com'
   - '+.myecer.com'
   - '+.myechannel.com'
@@ -71382,7 +71394,6 @@ payload:
   - '+.naiveadmin.com'
   - '+.naiveblue.com'
   - '+.naiwch.com'
-  - '+.naixi.net'
   - '+.naixuecha.com'
   - '+.naiyouxuexi.com'
   - '+.najingtech.com'
@@ -90843,6 +90854,7 @@ payload:
   - '+.synnchem.com'
   - '+.synochip.com'
   - '+.synology-cn.com'
+  - '+.synology.me'
   - '+.synologyssb.com'
   - '+.syntao.com'
   - '+.synyan.net'
@@ -95595,6 +95607,7 @@ payload:
   - '+.tuishujun.com'
   - '+.tuisnake.com'
   - '+.tuistone.com'
+  - '+.tuitui.info'
   - '+.tuitui99.com'
   - '+.tuituifang.com'
   - '+.tuituisoft.com'
