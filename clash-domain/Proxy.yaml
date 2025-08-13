@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-13 00:13:06 (UTC+8)
+# UPDATED: 2025-08-14 00:09:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 32078
+# TOTAL: 32080
 payload:
   - '+.adult'
   - '+.amazon'
@@ -13129,6 +13129,7 @@ payload:
   - '+.lucasentertainment.com'
   - '+.luckydesigner.space'
   - '+.luckyissue.com'
+  - '+.luckymobile.ca'
   - '+.luckysrv.de'
   - '+.ludepress.com'
   - '+.luke54.com'
@@ -13709,6 +13710,7 @@ payload:
   - '+.metacubex.one'
   - '+.metafilter.com'
   - '+.metalpha.finance'
+  - '+.metamask.io'
   - '+.metamind.io'
   - '+.metaporn.com'
   - '+.metart.com'
