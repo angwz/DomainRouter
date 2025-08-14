@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-14 00:09:44 (UTC+8)
+# UPDATED: 2025-08-15 00:13:27 (UTC+8)
 # TYPE: domain
-# TOTAL: 32080
+# TOTAL: 32082
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3165,6 +3165,7 @@ payload:
   - '+.bethsoft.com'
   - '+.betterbim.com'
   - '+.betterexplained.com'
+  - '+.betterhash.net'
   - '+.betterhdporn.com'
   - '+.betternet.co'
   - '+.betternike.com'
@@ -10075,6 +10076,7 @@ payload:
   - '+.herokucdn.com'
   - '+.herokucharge.com'
   - '+.herokussl.com'
+  - '+.herominers.com'
   - '+.herringnetwork.com'
   - '+.hetzner.cloud'
   - '+.hetzner.com'

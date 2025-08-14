@@ -1,7 +1,7 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-14 00:09:44 (UTC+8)
+# UPDATED: 2025-08-15 00:13:27 (UTC+8)
 # TYPE: domain
 # TOTAL: 624
 payload:
@@ -351,6 +351,7 @@ payload:
   - 'evan.im'
   - 'explodie.org'
   - 'finbytes.org'
+  - 'glotorrents.pw'
   - 'hificode.in'
   - 'highteahop.top'
   - 'jutone.com'
@@ -382,8 +383,7 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
-  - 'asiatorrent.ddns.net'
-  - 'asiatorrent.giize.com'
+  - 'admin.52ywp.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -529,6 +529,7 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -536,7 +537,6 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
   - 'tracker.kamigami.org'
-  - 'tracker.kmzs123.cn'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
