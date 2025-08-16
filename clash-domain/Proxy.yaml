@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-16 00:12:25 (UTC+8)
+# UPDATED: 2025-08-17 00:10:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 32082
+# TOTAL: 32083
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19820,6 +19820,7 @@ payload:
   - '+.swag.live'
   - '+.swagbucks.com'
   - '+.swapsmut.com'
+  - '+.swapspace.co'
   - '+.sway-cdn.com'
   - '+.sway.com'
   - '+.sweetadult-tube.com'

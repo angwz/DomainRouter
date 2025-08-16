@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-16 00:21:48 (UTC+8)
+# UPDATED: 2025-08-17 00:20:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 118845
+# TOTAL: 118851
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -31934,6 +31934,7 @@ payload:
   - '+.dzlems.net'
   - '+.dzljy.com'
   - '+.dzllzg.com'
+  - '+.dzlndygh.com'
   - '+.dzmachines.com'
   - '+.dzmhospital.com'
   - '+.dzng.com'
@@ -46100,6 +46101,7 @@ payload:
   - '+.hcccia.com'
   - '+.hcciot.com'
   - '+.hcclhealthcare.com'
+  - '+.hccoeutg.com'
   - '+.hccpcba.com'
   - '+.hcdamai.com'
   - '+.hcdiy.com'
@@ -92862,6 +92864,7 @@ payload:
   - '+.tecolighting.com'
   - '+.tecompharma.com'
   - '+.tecreal.com'
+  - '+.tecunonline.com'
   - '+.tecyle.com'
   - '+.teda-veolia.com'
   - '+.tedagas.com'
@@ -103320,6 +103323,7 @@ payload:
   - '+.xct168.com'
   - '+.xctmr.com'
   - '+.xcukezmr.com'
+  - '+.xcultur.com'
   - '+.xcurrency.com'
   - '+.xcvec.com'
   - '+.xcvmbyte.com'
@@ -107183,7 +107187,9 @@ payload:
   - '+.xxxhhh.com'
   - '+.xxxinwen.com'
   - '+.xxxoooxxxooo.net'
+  - '+.xxxx88xxxx.com'
   - '+.xxxx92xxxx.com'
+  - '+.xxxx96xxxx.com'
   - '+.xxxxxx6.com'
   - '+.xxxzzlm.org'
   - '+.xxycw.com'

@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-16 00:12:26 (UTC+8)
+# UPDATED: 2025-08-17 00:10:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 624
+# TOTAL: 626
 payload:
   - '+.1ptba.com'
   - '+.2xfree.org'
@@ -420,6 +420,7 @@ payload:
   - 'gog.qtlglb.com'
   - 'gog.salesmanago.com'
   - 'home.yxgz.club'
+  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -459,6 +460,7 @@ payload:
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
   - 'share.hkg-fansub.info'
+  - 'speedtest.iperson.xyz'
   - 't-115.rhcloud.com'
   - 't.acg.rip'
   - 't.jaekr.sh'
@@ -476,7 +478,7 @@ payload:
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
-  - 'tr.zukizuki.org'
+  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -494,6 +496,7 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.cangku.moe'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.corpscorp.online'
@@ -529,7 +532,6 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -611,8 +613,8 @@ payload:
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
-  - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
+  - '1.tracker.eu.org'
   - 'blizzard.nefficient.co.kr'
   - 'cloudsync-prod.s3.amazonaws.com'
   - 'd40969.acod.regrucolo.ru'
