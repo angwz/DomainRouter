@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-17 00:10:16 (UTC+8)
+# UPDATED: 2025-08-18 00:10:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 3410
+# TOTAL: 3411
 payload:
   - '+.citic'
   - '+.icbc'
@@ -2964,6 +2964,7 @@ payload:
   - 'cdn-out.iqy.sc96655.com'
   - 'cdn.gdlive.gdmain.com'
   - 'cdn.winget.microsoft.com'
+  - 'cdnorg.d.miui.com'
   - 'cdnpull.0471tv.org.cn'
   - 'cds-cdn.v.aaplimg.com'
   - 'changyang.live.cjyun.org'

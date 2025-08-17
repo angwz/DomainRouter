@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-17 00:10:58 (UTC+8)
+# UPDATED: 2025-08-18 00:11:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 32083
+# TOTAL: 32086
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16172,6 +16172,7 @@ payload:
   - '+.paltalk.com'
   - '+.panasonic.com'
   - '+.panasonic.jp'
+  - '+.pancakeswap.finance'
   - '+.pancolle-movie.jp'
   - '+.panda30.shop'
   - '+.pandafan.pub'
@@ -16530,6 +16531,7 @@ payload:
   - '+.petiteamateurteen.com'
   - '+.petiteballerinasfucked.com'
   - '+.petitehdporn.com'
+  - '+.pewresearch.org'
   - '+.pgyy67.top'
   - '+.phantomjs.org'
   - '+.phapluan.org'
@@ -17334,6 +17336,7 @@ payload:
   - '+.prisoneralert.com'
   - '+.pritunl.com'
   - '+.privacybox.de'
+  - '+.privacyguides.org'
   - '+.privacysandbox.com'
   - '+.privacysimplified.com'
   - '+.privacytools.io'
