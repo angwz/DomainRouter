@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-18 00:11:06 (UTC+8)
+# UPDATED: 2025-08-19 00:13:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 626
+# TOTAL: 629
 payload:
   - '+.1ptba.com'
   - '+.2xfree.org'
@@ -410,6 +410,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'eaasserts-a.akamaihd.net'
   - 'eaassets-a.akamaihd.net'
   - 'exodus.desync.com'
@@ -420,7 +421,6 @@ payload:
   - 'gog.qtlglb.com'
   - 'gog.salesmanago.com'
   - 'home.yxgz.club'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -429,7 +429,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -460,7 +459,6 @@ payload:
   - 'run.publictracker.xyz'
   - 'share.dmhy.org'
   - 'share.hkg-fansub.info'
-  - 'speedtest.iperson.xyz'
   - 't-115.rhcloud.com'
   - 't.acg.rip'
   - 't.jaekr.sh'
@@ -473,7 +471,6 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -493,10 +490,12 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
+  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
   - 'tracker.cangku.moe'
+  - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.corpscorp.online'
@@ -551,6 +550,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -569,6 +569,7 @@ payload:
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
+  - 'tracker.startwork.cv'
   - 'tracker.t-rb.org'
   - 'tracker.tamersunion.org'
   - 'tracker.tfile.me'
@@ -614,7 +615,9 @@ payload:
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
   - 'yolo.liberbear.com'
-  - '1.tracker.eu.org'
+  - '2.tracker.eu.org'
+  - '3.tracker.eu.org'
+  - '4.tracker.eu.org'
   - 'blizzard.nefficient.co.kr'
   - 'cloudsync-prod.s3.amazonaws.com'
   - 'd40969.acod.regrucolo.ru'
