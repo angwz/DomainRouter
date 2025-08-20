@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-20 00:21:48 (UTC+8)
+# UPDATED: 2025-08-21 00:22:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 118851
+# TOTAL: 118850
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -36886,7 +36886,6 @@ payload:
   - '+.furielec.com'
   - '+.furniture-channel.com'
   - '+.furongedu.com'
-  - '+.furrybar.com'
   - '+.furrychina.com'
   - '+.furuijiaju.vip'
   - '+.furuise.com'

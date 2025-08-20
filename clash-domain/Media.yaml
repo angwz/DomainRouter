@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-20 00:21:52 (UTC+8)
+# UPDATED: 2025-08-21 00:22:11 (UTC+8)
 # TYPE: domain
-# TOTAL: 10832
+# TOTAL: 10833
 payload:
   - '+.adult'
   - '+.bbc'
@@ -3940,6 +3940,7 @@ payload:
   - '+.kechtube.com'
   - '+.keezmovies.com'
   - '+.keiba.net'
+  - '+.kemono.cr'
   - '+.kemono.party'
   - '+.kemono.su'
   - '+.kendralist.com'

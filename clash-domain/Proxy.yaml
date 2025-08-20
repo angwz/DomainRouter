@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-20 00:12:32 (UTC+8)
+# UPDATED: 2025-08-21 00:12:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 32088
+# TOTAL: 32089
 payload:
   - '+.adult'
   - '+.amazon'
@@ -12421,6 +12421,7 @@ payload:
   - '+.keepyourcad.com'
   - '+.keezmovies.com'
   - '+.keiba.net'
+  - '+.kemono.cr'
   - '+.kemono.party'
   - '+.kemono.su'
   - '+.kendatire.com'

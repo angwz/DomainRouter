@@ -1,13 +1,14 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-20 00:11:48 (UTC+8)
+# UPDATED: 2025-08-21 00:12:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 3411
+# TOTAL: 3412
 payload:
   - '+.citic'
   - '+.icbc'
   - '+.xbox'
+  - '+.xn--fiq64b'
   - '+.16q.cn'
   - '+.1fichier.com'
   - '+.1fichier.info'
