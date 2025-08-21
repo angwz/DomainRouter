@@ -1,9 +1,9 @@
 # NAME: YouTube
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-21 00:22:07 (UTC+8)
+# UPDATED: 2025-08-22 00:31:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 713
+# TOTAL: 714
 payload:
   - '+.java'
   - '+.youtube'
@@ -154,6 +154,7 @@ payload:
   - '+.getzola.org'
   - '+.ggpht.cn'
   - '+.ggpht.com'
+  - '+.gh.io'
   - '+.ghcr.io'
   - '+.git-scm.com'
   - '+.git.io'
