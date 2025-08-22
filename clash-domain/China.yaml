@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-22 00:31:38 (UTC+8)
+# UPDATED: 2025-08-23 00:20:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 118850
+# TOTAL: 118849
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -21,6 +21,7 @@ payload:
   - '+.xn--1qqw23a'
   - '+.xn--3bst00m'
   - '+.xn--3ds443g'
+  - '+.xn--55qw42g'
   - '+.xn--55qx5d'
   - '+.xn--5tzm5g'
   - '+.xn--6frz82g'
@@ -71131,7 +71132,6 @@ payload:
   - '+.mypian.com'
   - '+.mypiao.com'
   - '+.mypiaojia.com'
-  - '+.mypikpak.net'
   - '+.mypitaya.com'
   - '+.mypity.com'
   - '+.mypiwik.com'
@@ -97056,7 +97056,6 @@ payload:
   - '+.ustbtc.com'
   - '+.ustc.edu'
   - '+.ustcers.com'
-  - '+.ustclug.org'
   - '+.ustui.com'
   - '+.usuredata.com'
   - '+.usuuu.com'

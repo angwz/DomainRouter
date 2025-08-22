@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-22 00:22:23 (UTC+8)
+# UPDATED: 2025-08-23 00:11:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 32091
+# TOTAL: 32093
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9154,6 +9154,7 @@ payload:
   - '+.gitbook.io'
   - '+.gitbooks.io'
   - '+.githack.com'
+  - '+.github.ai'
   - '+.github.blog'
   - '+.github.com'
   - '+.github.community'
@@ -11780,6 +11781,7 @@ payload:
   - '+.itfromtheinside.com'
   - '+.itgonglun.com'
   - '+.ithaisex.com'
+  - '+.itiger.com'
   - '+.itnel.com'
   - '+.itools.info'
   - '+.itripto.com'
