@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-23 00:11:44 (UTC+8)
+# UPDATED: 2025-08-24 00:09:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 32093
+# TOTAL: 32094
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25719,6 +25719,7 @@ payload:
   - '+.cov.ac.uk'
   - '+.covcollege.ac.uk'
   - '+.cove4careinkent.ac.uk'
+  - '+.covenantswatch.org.tw'
   - '+.coventry.ac.uk'
   - '+.coventrycollege.ac.uk'
   - '+.coventryuniversity.ac.uk'
