@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-24 00:09:59 (UTC+8)
+# UPDATED: 2025-08-25 00:10:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 32094
+# TOTAL: 32096
 payload:
   - '+.adult'
   - '+.amazon'
@@ -8669,6 +8669,8 @@ payload:
   - '+.fuck6teen.com'
   - '+.fuckableteens.net'
   - '+.fuckbookecuador.com'
+  - '+.fuckccp.com'
+  - '+.fuckccp.xyz'
   - '+.fuckcnnic.net'
   - '+.fuckcuck.com'
   - '+.fuckgames.xxx'

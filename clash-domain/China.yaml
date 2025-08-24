@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-24 00:19:14 (UTC+8)
+# UPDATED: 2025-08-25 00:20:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 118849
+# TOTAL: 118844
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -36116,7 +36116,6 @@ payload:
   - '+.foguanghui.org'
   - '+.fohohr.com'
   - '+.foidn.com'
-  - '+.foisonad.com'
   - '+.foisongroup.com'
   - '+.fojiaonet.com'
   - '+.fojiaoyongpin.com'
@@ -54429,7 +54428,6 @@ payload:
   - '+.itiankong.net'
   - '+.itianliao.com'
   - '+.itiexue.net'
-  - '+.itiger.com'
   - '+.itigergrowth.com'
   - '+.itigergrowtha.com'
   - '+.itigerup.com'
@@ -61552,7 +61550,6 @@ payload:
   - '+.kowa-dental.com'
   - '+.kowa103.com'
   - '+.kowloonhospital.com'
-  - '+.kox.moe'
   - '+.koyuki.cc'
   - '+.kpblw.com'
   - '+.kpbyd.com'
@@ -70308,7 +70305,6 @@ payload:
   - '+.moweather.com'
   - '+.mowgz.com'
   - '+.mowowo.com'
-  - '+.mox.moe'
   - '+.moxfive.xyz'
   - '+.moxiai.com'
   - '+.moxian.com'
@@ -98089,7 +98085,6 @@ payload:
   - '+.voip366.com'
   - '+.vojs.tv'
   - '+.vokop.com'
-  - '+.vol.moe'
   - '+.volc-dns.com'
   - '+.volc-dns.net'
   - '+.volc-dns.pub'
