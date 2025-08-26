@@ -3,7 +3,6 @@ infini-cloud.net
 teracloud.jp
 ai-yyds.com
 lala.gg
-yridc.net.cn
 
 
 DST-PORT,9993
@@ -28,6 +27,8 @@ SRC-PORT,9993
 # Aliyun
 47.100.160.0/24
 
+47.83.31.0/24
+
 47.103.212.0/24
 2408:4002:1603:ad00::/56
 
@@ -38,11 +39,6 @@ SRC-PORT,9993
 # 鸡仔
 106.75.153.0/24
 
-# yridc
-151.242.172.0/24
-
-183.2.133.0/24
-120.241.237.0/24
 
 
 
@@ -102,9 +98,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 [Angwz]
 '+.hk'
-'chat.angwz.com'
-'claude.angwz.com'
-'gpt4.angwz.com'
 zerotier.com
 nodeseek.com
 
@@ -264,7 +257,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 
 [China]
-iweii.com
 weesire.com
 h.cool
 angwz.com
