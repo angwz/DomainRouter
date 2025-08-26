@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-26 00:21:53 (UTC+8)
+# UPDATED: 2025-08-27 00:21:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 2402
+# TOTAL: 2403
 payload:
   - '+.playstation'
   - '+.sohu'
@@ -813,6 +813,7 @@ payload:
   - '+.skydweller.cn'
   - '+.sl916.com'
   - '+.smtcdns.net'
+  - '+.snk-corp.info'
   - '+.snkplaymore.info'
   - '+.snowballsecurities.com'
   - '+.snssdk.com'

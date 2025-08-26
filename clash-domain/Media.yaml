@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-26 00:21:53 (UTC+8)
+# UPDATED: 2025-08-27 00:21:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 10833
+# TOTAL: 10834
 payload:
   - '+.adult'
   - '+.bbc'
@@ -6920,6 +6920,8 @@ payload:
   - '+.tubewolf.com'
   - '+.tubexclips.com'
   - '+.tubi.io'
+  - '+.tubi.tv'
+  - '+.tubi.video'
   - '+.tubinge.com'
   - '+.tubitv.com'
   - '+.tubsexer.com'
@@ -10453,7 +10455,6 @@ payload:
   - 'contv.sinclair.wurl.com'
   - 'cs428.wpc.edgecastcdn.net'
   - 'csm-e-boxplus.tls1.yospace.com'
-  - 'csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video'
   - 'csm-e-stv.tls1.yospace.com'
   - 'csm-e.cds1.yospace.com'
   - 'dai2-playlistserver.aws.syncbak.com'
