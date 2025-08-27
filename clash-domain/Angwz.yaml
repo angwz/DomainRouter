@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-27 00:12:00 (UTC+8)
+# UPDATED: 2025-08-27 09:48:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 2543
+# TOTAL: 2541
 payload:
   - '+.apple'
   - '+.azure'
@@ -2441,8 +2441,6 @@ payload:
   - 'azure.microsoft.com'
   - 'azuremarketplace.microsoft.com'
   - 'cdn-doh.ssnm.xyz'
-  - 'chat.angwz.com'
-  - 'claude.angwz.com'
   - 'dns-family.adguard.com'
   - 'dns-nyc.aaflalo.me'
   - 'dns-tls.qis.io'
@@ -2495,7 +2493,6 @@ payload:
   - 'dot.onedns.net'
   - 'edns.233py.com'
   - 'fbcdn-a.akamaihd.net'
-  - 'gpt4.angwz.com'
   - 'i.233py.com'
   - 'ibksturm.synology.me'
   - 'ibuki.cgnat.net'
@@ -2547,4 +2544,5 @@ payload:
   - 'appldnld.apple.com.edgesuite.net'
   - 'lookup-api.apple.com.edgekey.net'
   - 'notary-submissions-prod.s3.us-west-2.amazonaws.com'
+  - 'steamcommunity-a.akamaihd.net.edgesuite.net'
   - 'store.apple.com.edgekey.net'

@@ -1,9 +1,9 @@
 # NAME: Taiwan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-27 00:21:35 (UTC+8)
+# UPDATED: 2025-08-27 09:57:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 43
+# TOTAL: 44
 payload:
   - '+.appsflayer.com'
   - '+.binance.cc'
@@ -46,5 +46,6 @@ payload:
   - '+.okx-dns2.com'
   - '+.okx.com'
   - '+.saasexch.cc'
+  - '+.saasexch.co'
   - '+.saasexch.com'
   - '+.saasexch.io'

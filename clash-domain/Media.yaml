@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-27 00:21:40 (UTC+8)
+# UPDATED: 2025-08-27 09:58:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 10834
+# TOTAL: 10837
 payload:
   - '+.adult'
   - '+.bbc'
@@ -1533,13 +1533,14 @@ payload:
   - '+.conan.xxx'
   - '+.contactossexoecuador.com'
   - '+.conviva.com'
-  - '+.cooer.su'
   - '+.cookielaw.org'
   - '+.cool-comics.com'
   - '+.cool18.com'
   - '+.coolinet.net'
   - '+.coolsexnew.com'
   - '+.coomer.party'
+  - '+.coomer.st'
+  - '+.coomer.su'
   - '+.copro.pw'
   - '+.coqnu.com'
   - '+.corbinfisher.com'
@@ -3327,6 +3328,7 @@ payload:
   - '+.housing.com'
   - '+.housingcdn.com'
   - '+.howfuck.me'
+  - '+.hoy.tv'
   - '+.hpayshop.com'
   - '+.hpjav.tv'
   - '+.hptv.fun'
@@ -3429,6 +3431,7 @@ payload:
   - '+.hypnotube.com'
   - '+.hzmn.net'
   - '+.i-cable.com'
+  - '+.i-cablecomm.com'
   - '+.i-scmp.com'
   - '+.i91dz.com'
   - '+.iafd.com'

@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-27 00:21:40 (UTC+8)
+# UPDATED: 2025-08-27 09:58:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 2403
+# TOTAL: 2404
 payload:
   - '+.playstation'
   - '+.sohu'
@@ -2388,6 +2388,7 @@ payload:
   - 'pl1.cloud.dayang.com.cn'
   - 'prodforza.blob.core.windows.net'
   - 'shbu.live.bestvcdn.com.cn'
+  - 'steamcommunity-a.akamaihd.net.edgesuite.net'
   - 'store.ovp.wsrtv.com.cn'
   - 'tvfile.jy.lsrm.org.cn'
   - 'tvfile.mb.lsrm.org.cn'

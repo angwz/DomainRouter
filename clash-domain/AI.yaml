@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-27 00:12:00 (UTC+8)
+# UPDATED: 2025-08-27 09:48:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 135
+# TOTAL: 138
 payload:
   - '+.bing'
   - '+.ai.com'
@@ -51,6 +51,7 @@ payload:
   - '+.intercomcdn.com'
   - '+.jasper.ai'
   - '+.jules.google'
+  - '+.labs.google'
   - '+.launchdarkly.com'
   - '+.masalladeloslimites.com'
   - '+.meta.ai'
@@ -72,6 +73,7 @@ payload:
   - '+.openart.ai'
   - '+.openrouter.ai'
   - '+.perplexity.ai'
+  - '+.perplexity.com'
   - '+.poe.com'
   - '+.poecdn.net'
   - '+.pplx.ai'
@@ -82,6 +84,7 @@ payload:
   - '+.sprinklesapp.com'
   - '+.stripe.com'
   - '+.x.ai'
+  - '+.aisandbox-pa.googleapis.com'
   - '+.aistudio.google.com'
   - '+.api.microsoftapp.net'
   - '+.api.statsig.com'
