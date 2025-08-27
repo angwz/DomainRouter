@@ -2,9 +2,9 @@
 name = "🌠 节点选择"
 rule = [
   "[]🐦‍🔥 香港专线",
+  "[]🥝 新加坡高速",
   "[]🥗 美利坚高速",
   "[]🫒 日本高速",
-  "[]🥝 新加坡高速",
   "[]🌳 德意志帝国",
   "[]✈️ 手动切换",
   "[]DIRECT",
@@ -28,7 +28,7 @@ type = "select"
 
 [[custom_groups]]
 name = "📱 TikTok"
-rule = ["[]🫒 日本高速", "[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]🫒 日本高速", "[]🥗 美利坚高速", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -43,12 +43,12 @@ type = "select"
 
 [[custom_groups]]
 name = "⛅ OneDrive"
-rule = ["[]🥗 美利坚高速", "[]🌠 节点选择", "[]🌳 德意志帝国", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌳 德意志帝国", "[]🥗 美利坚高速", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
 name = "🎬 Netflix"
-rule = ["[]🐦‍🔥 香港专线", "[]🫒 日本高速", "[]🥝 新加坡高速", "[]🥗 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]🥗 美利坚高速", "[]🐦‍🔥 香港专线", "[]🫒 日本高速", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -70,7 +70,11 @@ type = "select"
 interval = 97
 lazy = false
 name = "🐦‍🔥 香港专线"
-rule = ["[]🌺 香港高速", "[]🥗 美利坚高速"]
+rule = [
+  "[]🌺 香港高速",
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*IEPL)(?!.*菲律宾).*$)",
+  "[]🥗 美利坚高速",
+]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
