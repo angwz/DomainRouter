@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-28 00:11:23 (UTC+8)
+# UPDATED: 2025-08-29 00:11:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 3804
+# TOTAL: 3803
 payload:
   - '+.citic'
   - '+.icbc'
@@ -2010,7 +2010,6 @@ payload:
   - 'a5.mzstatic.com'
   - 'abclive2-lh.akamaihd.net'
   - 'adcdownload.apple.com'
-  - 'admin.52ywp.com'
   - 'agsj.appcoo.com'
   - 'ahhs.chinashadt.com'
   - 'ahhsdb.chinashadt.com'
@@ -3023,6 +3022,7 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tp01.videocc.net'
+  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -3030,6 +3030,7 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
+  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -3049,7 +3050,6 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -3085,9 +3085,9 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
-  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
@@ -3158,7 +3158,6 @@ payload:
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
   - 'trackers.ptlsp.com'
-  - 'trl-zhuqiy.dgj055.icu'
   - 'trtcanlitv-lh.akamaihd.net'
   - 'trts.baishancdnx.cn'
   - 'ts1.ijntv.cn'
