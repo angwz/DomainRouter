@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-30 00:11:00 (UTC+8)
+# UPDATED: 2025-08-31 00:09:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 3803
+# TOTAL: 3804
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1957,7 +1957,6 @@ payload:
   - 'explodie.org'
   - 'finbytes.org'
   - 'gayotv.net'
-  - 'hificode.in'
   - 'highteahop.top'
   - 'jutone.com'
   - 'leet-tracker.moe'
@@ -2010,6 +2009,7 @@ payload:
   - 'a5.mzstatic.com'
   - 'abclive2-lh.akamaihd.net'
   - 'adcdownload.apple.com'
+  - 'admin.52ywp.com'
   - 'agsj.appcoo.com'
   - 'ahhs.chinashadt.com'
   - 'ahhsdb.chinashadt.com'
@@ -3022,7 +3022,6 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tp01.videocc.net'
-  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -3050,6 +3049,7 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -3075,6 +3075,7 @@ payload:
   - 'tracker.fnix.net'
   - 'tracker.foreverpirates.co'
   - 'tracker.gbitt.info'
+  - 'tracker.gcrenwp.top'
   - 'tracker.gcrreen.xyz'
   - 'tracker.ghostchu-services.top'
   - 'tracker.gigantino.net'
@@ -3088,6 +3089,7 @@ payload:
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
+  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
@@ -3105,6 +3107,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -3139,7 +3142,6 @@ payload:
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
-  - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
   - 'tracker.yume-hatsuyuki.moe'
@@ -3647,7 +3649,6 @@ payload:
   - 'taishun.news01.yunshanit.com'
   - 'test5.btzx.com.cn'
   - 'torrent.tracker.durukanbal.com'
-  - 'tracker.home.kmzs123.cn'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
   - 'traffic.jbh.tjbh.com'

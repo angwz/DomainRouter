@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-08-30 00:11:44 (UTC+8)
+# UPDATED: 2025-08-31 00:10:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 32343
+# TOTAL: 32344
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6530,6 +6530,7 @@ payload:
   - '+.download.com'
   - '+.downloadpass.com'
   - '+.downloadsforipod.com'
+  - '+.dpdns.org'
   - '+.dphk.org'
   - '+.dpool.top'
   - '+.dpr.info'
