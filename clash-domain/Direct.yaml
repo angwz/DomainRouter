@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-01 00:09:30 (UTC+8)
+# UPDATED: 2025-09-02 00:10:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 3804
+# TOTAL: 3807
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1957,6 +1957,8 @@ payload:
   - 'explodie.org'
   - 'finbytes.org'
   - 'gayotv.net'
+  - 'glotorrents.pw'
+  - 'hificode.in'
   - 'highteahop.top'
   - 'jutone.com'
   - 'leet-tracker.moe'
@@ -2035,6 +2037,7 @@ payload:
   - 'apache.uniminuto.edu'
   - 'apache.website-solution.net'
   - 'api-updates.orbstack.dev'
+  - 'api.ipv4online.uk'
   - 'aplay.gztv.com'
   - 'app-site-association.cdn-apple.com'
   - 'app-updates.agilebits.com'
@@ -2047,8 +2050,6 @@ payload:
   - 'apps.mzstatic.com'
   - 'artifacts.electronjs.org'
   - 'as-hls-ww-live.akamaized.net'
-  - 'asiatorrent.ddns.net'
-  - 'asiatorrent.giize.com'
   - 'astro1.rastream.com'
   - 'audio-live.radio.cn'
   - 'audiolive.rbc.cn'
@@ -2733,6 +2734,7 @@ payload:
   - 'nlive.zjkgdcs.com'
   - 'nobara-images.nobaraproject.org'
   - 'nprnat-i.akamaihd.net'
+  - 'ns-1.x-fins.com'
   - 'nsszds.f3322.net'
   - 'nyaa.tracker.wf'
   - 'oasisauth.h3c.com'
@@ -3029,8 +3031,8 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
-  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
+  - 'tracker-de-2.cutie.dating'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -3086,7 +3088,6 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -3142,6 +3143,8 @@ payload:
   - 'tracker.tryhackx.org'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
+  - 'tracker.waaa.moe'
+  - 'tracker.wepzone.net'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
   - 'tracker.yume-hatsuyuki.moe'
