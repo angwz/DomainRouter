@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-02 00:10:53 (UTC+8)
+# UPDATED: 2025-09-03 00:11:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 3807
+# TOTAL: 3805
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1945,6 +1945,7 @@ payload:
   - '+.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
   - '0123456789nonexistent.com'
   - '6ahddutb1ucc3cp.ru'
+  - 'aboutbeautifulgallopinghorsesinthegreenpasture.online'
   - 'aegir.sexy'
   - 'amigacity.xyz'
   - 'asusrouter.com'
@@ -2383,7 +2384,6 @@ payload:
   - 'hwapi.yunshicloud.com'
   - 'i18n.prismlauncher.org'
   - 'iadsdk.apple.com'
-  - 'ibksturm.synology.me'
   - 'icecast-ruvr.cdnvideo.ru'
   - 'icloud.cdn-apple.com'
   - 'ihzlh.linker.cc'
@@ -3031,6 +3031,7 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
+  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-de-2.cutie.dating'
   - 'tracker-udp.gbitt.info'
@@ -3051,7 +3052,6 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -3077,7 +3077,6 @@ payload:
   - 'tracker.fnix.net'
   - 'tracker.foreverpirates.co'
   - 'tracker.gbitt.info'
-  - 'tracker.gcrenwp.top'
   - 'tracker.gcrreen.xyz'
   - 'tracker.ghostchu-services.top'
   - 'tracker.gigantino.net'
@@ -3088,6 +3087,7 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -3144,7 +3144,6 @@ payload:
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
   - 'tracker.waaa.moe'
-  - 'tracker.wepzone.net'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
   - 'tracker.yume-hatsuyuki.moe'
@@ -3684,7 +3683,6 @@ payload:
   - 'wuxue.live.cjyun.org'
   - 'www.nxtv.com.cn'
   - 'www.thtv.org.cn'
-  - 'www.torrent.eu.org'
   - 'www.ycen.com.cn'
   - 'xiangyang.live.cjyun.org'
   - 'xianning.live.cjyun.org'
