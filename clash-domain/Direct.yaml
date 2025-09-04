@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-04 00:11:05 (UTC+8)
+# UPDATED: 2025-09-05 00:11:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 3805
+# TOTAL: 3806
 payload:
   - '+.citic'
   - '+.icbc'
@@ -2051,6 +2051,8 @@ payload:
   - 'apps.mzstatic.com'
   - 'artifacts.electronjs.org'
   - 'as-hls-ww-live.akamaized.net'
+  - 'asiatorrent.ddns.net'
+  - 'asiatorrent.giize.com'
   - 'astro1.rastream.com'
   - 'audio-live.radio.cn'
   - 'audiolive.rbc.cn'
@@ -2384,6 +2386,7 @@ payload:
   - 'hwapi.yunshicloud.com'
   - 'i18n.prismlauncher.org'
   - 'iadsdk.apple.com'
+  - 'ibksturm.synology.me'
   - 'icecast-ruvr.cdnvideo.ru'
   - 'icloud.cdn-apple.com'
   - 'ihzlh.linker.cc'
@@ -2734,7 +2737,6 @@ payload:
   - 'nlive.zjkgdcs.com'
   - 'nobara-images.nobaraproject.org'
   - 'nprnat-i.akamaihd.net'
-  - 'ns-1.x-fins.com'
   - 'nsszds.f3322.net'
   - 'nyaa.tracker.wf'
   - 'oasisauth.h3c.com'
@@ -2750,6 +2752,7 @@ payload:
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
+  - 'open.demonii.si'
   - 'open.demonoid.ch'
   - 'open.dstud.io'
   - 'open.free-tracker.ga'
@@ -3048,7 +3051,6 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -3077,6 +3079,7 @@ payload:
   - 'tracker.fnix.net'
   - 'tracker.foreverpirates.co'
   - 'tracker.gbitt.info'
+  - 'tracker.gcrenwp.top'
   - 'tracker.gcrreen.xyz'
   - 'tracker.ghostchu-services.top'
   - 'tracker.gigantino.net'
@@ -3087,7 +3090,6 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -3095,7 +3097,6 @@ payload:
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
   - 'tracker.kamigami.org'
-  - 'tracker.kmzs123.cn'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -3108,7 +3109,6 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -3116,7 +3116,6 @@ payload:
   - 'tracker.pirateparty.gr'
   - 'tracker.plx.im'
   - 'tracker.pmman.tech'
-  - 'tracker.privateseedbox.xyz'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
@@ -3144,6 +3143,7 @@ payload:
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
   - 'tracker.waaa.moe'
+  - 'tracker.wepzone.net'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
   - 'tracker.yume-hatsuyuki.moe'
@@ -3683,6 +3683,7 @@ payload:
   - 'wuxue.live.cjyun.org'
   - 'www.nxtv.com.cn'
   - 'www.thtv.org.cn'
+  - 'www.torrent.eu.org'
   - 'www.ycen.com.cn'
   - 'xiangyang.live.cjyun.org'
   - 'xianning.live.cjyun.org'
