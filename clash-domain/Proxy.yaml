@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-06 00:11:48 (UTC+8)
+# UPDATED: 2025-09-07 00:09:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 32343
+# TOTAL: 32346
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4177,6 +4177,8 @@ payload:
   - '+.bsw.jp'
   - '+.bsxm1213.pro'
   - '+.bt2mag.com'
+  - '+.bt4g.org'
+  - '+.bt4gprx.com'
   - '+.bt95.com'
   - '+.btaia.com'
   - '+.btbit.net'
@@ -20130,6 +20132,7 @@ payload:
   - '+.tanflix.com'
   - '+.tangben.com'
   - '+.tangren.us'
+  - '+.tanks.gg'
   - '+.tantaly.com'
   - '+.taoil-cn.sbs'
   - '+.taoism.net'
