@@ -48,17 +48,17 @@ type = "select"
 
 [[custom_groups]]
 name = "🎬 Netflix"
-rule = ["[]🐦‍🔥 香港专线", "[]🫒 日本高速", "[]🥗 美利坚高速", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
+rule = ["[]🫒 日本高速", "[]🥗 美利坚高速", "[]🐦‍🔥 香港专线", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🪟 Microsoft"
-rule = ["[]DIRECT", "[]🌠 节点选择", "[]🥗 美利坚高速", "[]⛅ OneDrive", "[]✈️ 手动切换"]
+rule = ["[]DIRECT", "[]⛅ OneDrive", "[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🌍 国际流媒体"
-rule = ["[]🥗 美利坚高速", "[]🌠 节点选择", "[]🫒 日本高速", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
+rule = ["[]🫒 日本高速", "[]🥗 美利坚高速", "[]🌠 节点选择", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
