@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-07 00:09:44 (UTC+8)
+# UPDATED: 2025-09-07 23:01:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 32346
+# TOTAL: 32347
 payload:
   - '+.adult'
   - '+.amazon'
@@ -11787,6 +11787,7 @@ payload:
   - '+.iphoto.se'
   - '+.iphoto.wang'
   - '+.ipicture.ru'
+  - '+.ipify.org'
   - '+.ipinfo.io'
   - '+.ipjetable.net'
   - '+.ipleadership.org'
