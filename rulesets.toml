@@ -276,27 +276,27 @@ interval = 21600
 
 [[rulesets]]
 group = "🌠 节点选择"
-ruleset = "[]# GEOIP,CLOUDFLARE"
+ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
 group = "🫒 日本高速"
-ruleset = "[]# GEOIP,JP"
+ruleset = "[]GEOIP,JP,no-resolve"
 
 [[rulesets]]
 group = "🥝 新加坡高速"
-ruleset = "[]# GEOIP,SG"
+ruleset = "[]GEOIP,SG,no-resolve"
 
 [[rulesets]]
 group = "🥗 美利坚高速"
-ruleset = "[]# GEOIP,CA"
+ruleset = "[]GEOIP,CA,no-resolve"
 
 [[rulesets]]
 group = "🥗 美利坚高速"
-ruleset = "[]# GEOIP,US"
+ruleset = "[]GEOIP,US,no-resolve"
 
 [[rulesets]]
 group = "🌠 节点选择"
-ruleset = "[]# GEOIP,HK"
+ruleset = "[]GEOIP,HK,no-resolve"
 
 [[rulesets]]
 group = "🌠 节点选择"
@@ -336,7 +336,7 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "[]# GEOIP,CN"
+ruleset = "[]GEOIP,CN,no-resolve"
 
 [[rulesets]]
 group = "🐳 漏网の鱼"
