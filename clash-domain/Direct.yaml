@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-09 18:29:20 (UTC+8)
+# UPDATED: 2025-09-10 00:11:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 3812
+# TOTAL: 3816
 payload:
   - '+.citic'
   - '+.icbc'
@@ -2065,6 +2065,7 @@ payload:
   - 'bananlive.cbg.cn'
   - 'bandito.byterunner.io'
   - 'bbstv.clouducs.com'
+  - 'bigfiles.virustotal.com'
   - 'bigfoot1942.sektori.org'
   - 'bililive.kksmg.com'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -2228,6 +2229,7 @@ payload:
   - 'download4.epicgames.com'
   - 'downloadr2.apkmirror.com'
   - 'downloads.1password.com'
+  - 'downloads.broadcom.com'
   - 'downloads.cloudflareclient.com'
   - 'downloads.lemonsqueezy.com'
   - 'downloads.majestic.com'
@@ -2236,6 +2238,7 @@ payload:
   - 'downloads.sourceforge.net'
   - 'downloads.wordpress.org'
   - 'downloads.x-wrt.com'
+  - 'downloads2.broadcom.com'
   - 'drive.massgrave.dev'
   - 'dslive.grtn.cn'
   - 'dstpush1.retalltech.com'
@@ -2290,6 +2293,7 @@ payload:
   - 'ftp.tu-chemnitz.de'
   - 'ftp.ubuntu-tw.org'
   - 'ftp.unicamp.br'
+  - 'ftpdownloads.broadcom.com'
   - 'ftpmirror1.infania.net'
   - 'gamedownloads-rockstargames-com.akamaized.net'
   - 'gddb.chinashadt.com'
