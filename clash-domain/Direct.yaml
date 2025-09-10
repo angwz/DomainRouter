@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-10 00:53:17 (UTC+8)
+# UPDATED: 2025-09-11 00:11:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 3816
+# TOTAL: 3814
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1949,7 +1949,6 @@ payload:
   - '+.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
   - '0123456789nonexistent.com'
   - '6ahddutb1ucc3cp.ru'
-  - 'aboutbeautifulgallopinghorsesinthegreenpasture.online'
   - 'aegir.sexy'
   - 'amigacity.xyz'
   - 'asusrouter.com'
@@ -2053,8 +2052,6 @@ payload:
   - 'apps.mzstatic.com'
   - 'artifacts.electronjs.org'
   - 'as-hls-ww-live.akamaized.net'
-  - 'asiatorrent.ddns.net'
-  - 'asiatorrent.giize.com'
   - 'astro1.rastream.com'
   - 'audio-live.radio.cn'
   - 'audiolive.rbc.cn'
@@ -3061,6 +3058,7 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
