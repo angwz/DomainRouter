@@ -1,10 +1,11 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-14 02:10:42 (UTC+8)
+# UPDATED: 2025-09-14 02:29:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 232
+# TOTAL: 233
 payload:
+  - '+.de'
   - '+.anthemgame.com'
   - '+.anthemthegame.com'
   - '+.apexlegends.com'

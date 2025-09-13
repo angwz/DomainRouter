@@ -1,11 +1,11 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-14 02:19:57 (UTC+8)
+# UPDATED: 2025-09-14 02:38:25 (UTC+8)
 # TYPE: classic
-# TOTAL: 48
-# DOMAIN-KEYWORD TOTAL: 31
-# PROCESS-NAME TOTAL: 17
+# TOTAL: 44
+# DOMAIN-KEYWORD TOTAL: 28
+# PROCESS-NAME TOTAL: 16
 payload:
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,anthropic
@@ -35,9 +35,6 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,-tiktokcdn-com
-  - DOMAIN-KEYWORD,emby.wtf
-  - DOMAIN-KEYWORD,jmsooo
-  - DOMAIN-KEYWORD,odysseyplus
 
   - PROCESS-NAME,com.viu.pad
   - PROCESS-NAME,com.viu.phone
@@ -55,4 +52,3 @@ payload:
   - PROCESS-NAME,com.hktve.viutv
   - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
   - PROCESS-NAME,com.disney.disneyplus
-  - PROCESS-NAME,com.mb.android

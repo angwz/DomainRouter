@@ -1,12 +1,13 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-14 02:10:42 (UTC+8)
+# UPDATED: 2025-09-14 02:29:16 (UTC+8)
 # TYPE: classic
-# TOTAL: 8
-# DOMAIN-KEYWORD TOTAL: 6
+# TOTAL: 9
+# DOMAIN-KEYWORD TOTAL: 7
 # IP-ASN TOTAL: 2
 payload:
+  - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,openaicom-api
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com

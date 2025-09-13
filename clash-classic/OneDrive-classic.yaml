@@ -1,15 +1,19 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-14 02:19:52 (UTC+8)
+# UPDATED: 2025-09-14 02:38:24 (UTC+8)
 # TYPE: classic
-# TOTAL: 5
-# DOMAIN-KEYWORD TOTAL: 3
+# TOTAL: 9
+# DOMAIN-KEYWORD TOTAL: 7
 # PROCESS-NAME TOTAL: 2
 payload:
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-KEYWORD,announce
+  - DOMAIN-KEYWORD,chdbits
+  - DOMAIN-KEYWORD,m-team
+  - DOMAIN-KEYWORD,torrent
 
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDriveUpdater
