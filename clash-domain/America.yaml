@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-14 02:29:18 (UTC+8)
+# UPDATED: 2025-09-14 11:27:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 6724
+# TOTAL: 6738
 payload:
   - '+.amazon'
   - '+.aws'
@@ -843,6 +843,17 @@ payload:
   - '+.pypl.tv'
   - '+.readcube.com'
   - '+.reaxys.com'
+  - '+.redd.it'
+  - '+.reddit.com'
+  - '+.redditblog.com'
+  - '+.reddithelp.com'
+  - '+.redditinc.com'
+  - '+.redditmail.com'
+  - '+.redditmedia.com'
+  - '+.redditspace.com'
+  - '+.redditstatic.com'
+  - '+.redditstatus.com'
+  - '+.reddituploads.com'
   - '+.registerhulu.com'
   - '+.researchgate.net'
   - '+.revenue-performance-management.com'
@@ -5068,6 +5079,7 @@ payload:
   - '+.redbridgeinstitute.ac.uk'
   - '+.redcar.ac.uk'
   - '+.redcliffe.ac.uk'
+  - '+.reddit.app.link'
   - '+.reednet.ac.uk'
   - '+.ref.ac.uk'
   - '+.refrain.ac.uk'
@@ -6631,8 +6643,10 @@ payload:
   - '+.cbsservice.aws.syncbak.com'
   - '+.jstage.jst.go.jp'
   - '+.ncbi.nlm.nih.gov'
+  - '+.reddit.map.fastly.net'
   - '+.cbsi.live.ott.irdeto.com'
   - '+.hulu.playback.edge.bamgrid.com'
+  - '+.reddituploads.com.cdn-cf.dropbox.com'
   - 'adobeereg.com'
   - 'practivate.adobe'
   - 'angle.com.tw'

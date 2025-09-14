@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-14 02:29:12 (UTC+8)
+# UPDATED: 2025-09-14 11:27:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 32347
+# TOTAL: 32349
 payload:
   - '+.adult'
   - '+.amazon'
@@ -13729,6 +13729,7 @@ payload:
   - '+.mcrouter.net'
   - '+.mcrouter.org'
   - '+.mcstories.com'
+  - '+.mcusercontent.com'
   - '+.md-t.org'
   - '+.mdbankpublic.com'
   - '+.mdhcdn.com'
@@ -20119,6 +20120,7 @@ payload:
   - '+.talentlens.com'
   - '+.taleofthenight.com'
   - '+.talk853.com'
+  - '+.talkatone.com'
   - '+.talkboxapp.com'
   - '+.talkcc.com'
   - '+.talkonly.net'
