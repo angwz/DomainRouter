@@ -191,6 +191,18 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+group = "🥝 新加坡高速"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🥝 新加坡高速"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Singapore-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
 group = "🌠 节点选择"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Angwz.yaml"
 type = "clash-domain"
@@ -206,18 +218,6 @@ interval = 21600
 group = "🌠 节点选择"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Angwz-classic.yaml"
 type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🥝 新加坡高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🥝 新加坡高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Singapore-ipcidr.yaml"
-type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
