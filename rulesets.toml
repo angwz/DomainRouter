@@ -167,6 +167,12 @@ type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
+group = "🌳 德意志帝国"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Germany-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "🥗 美利坚高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/America.yaml"
 type = "clash-domain"
