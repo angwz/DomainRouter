@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-15 00:09:21 (UTC+8)
+# UPDATED: 2025-09-16 00:12:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 9413
+# TOTAL: 9414
 payload:
   - '+.adult'
   - '+.apple'
@@ -6294,6 +6294,7 @@ payload:
   - '+.pleasurebabe.com'
   - '+.pleasuregirl.net'
   - '+.pleasuremore.com'
+  - '+.plex.tv'
   - '+.plumperpass.com'
   - '+.plusone8.com'
   - '+.plusporn.net'
