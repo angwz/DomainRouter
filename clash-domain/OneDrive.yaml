@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-16 00:22:08 (UTC+8)
+# UPDATED: 2025-09-17 00:21:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 458
+# TOTAL: 460
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -193,7 +193,6 @@ payload:
   - '+.skydrive.wns.windows.com'
   - '0123456789nonexistent.com'
   - '6ahddutb1ucc3cp.ru'
-  - 'aboutbeautifulgallopinghorsesinthegreenpasture.online'
   - 'aegir.sexy'
   - 'amigacity.xyz'
   - 'buny.uk'
@@ -216,7 +215,6 @@ payload:
   - 'ryjer.com'
   - 'seeders-paradise.org'
   - 'servandroidkino.ru'
-  - 'shahidrazi.online'
   - 'shubt.net'
   - 'su-data.com'
   - 'torrentsmd.com'
@@ -233,6 +231,8 @@ payload:
   - '9.rarbg.me'
   - '9.rarbg.to'
   - 'admin.52ywp.com'
+  - 'asiatorrent.ddns.net'
+  - 'asiatorrent.giize.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -251,12 +251,12 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
   - 'home.yxgz.club'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -265,13 +265,13 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
+  - 'open.demonii.si'
   - 'open.demonoid.ch'
   - 'open.dstud.io'
   - 'open.free-tracker.ga'
@@ -317,6 +317,7 @@ payload:
   - 'tracker.0x7c0.com'
   - 'tracker.23794.top'
   - 'tracker.aburaya.live'
+  - 'tracker.alaskantf.com'
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
@@ -366,7 +367,6 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -413,6 +413,7 @@ payload:
   - 'tracker.therarbg.to'
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
+  - 'tracker.tnl.one'
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
@@ -424,6 +425,7 @@ payload:
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
+  - 'tracker.zhuqiy.com'
   - 'tracker.zhuqiy.top'
   - 'tracker.zond.org'
   - 'tracker.zupix.online'
