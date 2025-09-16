@@ -180,12 +180,6 @@ interval = 21600
 
 [[rulesets]]
 group = "🥗 美利坚高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/America-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "🥗 美利坚高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/America-classic.yaml"
 type = "clash-classic"
 interval = 21600
