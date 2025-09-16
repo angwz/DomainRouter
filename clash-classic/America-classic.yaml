@@ -1,17 +1,15 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-17 00:11:55 (UTC+8)
+# UPDATED: 2025-09-17 01:23:39 (UTC+8)
 # TYPE: classic
-# TOTAL: 7
-# DOMAIN-KEYWORD TOTAL: 3
-# PROCESS-NAME TOTAL: 4
+# TOTAL: 5
+# DOMAIN-KEYWORD TOTAL: 2
+# PROCESS-NAME TOTAL: 3
 payload:
-  - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,adobe
 
   - PROCESS-NAME,com.cbs.app
   - PROCESS-NAME,com.hulu.plus
   - PROCESS-NAME,com.showtime.standalone
-  - PROCESS-NAME,com.amazon.avod.thirdpartyclient
