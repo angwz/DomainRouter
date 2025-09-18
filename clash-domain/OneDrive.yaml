@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-18 00:21:10 (UTC+8)
+# UPDATED: 2025-09-19 00:20:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 460
+# TOTAL: 459
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -202,6 +202,8 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
+  - 'glotorrents.pw'
+  - 'hificode.in'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -265,13 +267,13 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
-  - 'open.demonii.si'
   - 'open.demonoid.ch'
   - 'open.dstud.io'
   - 'open.free-tracker.ga'
@@ -303,7 +305,6 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -326,10 +327,10 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -344,7 +345,6 @@ payload:
   - 'tracker.dler.com'
   - 'tracker.dler.org'
   - 'tracker.dmcomic.org'
-  - 'tracker.ducks.party'
   - 'tracker.dump.cl'
   - 'tracker.edkj.club'
   - 'tracker.ex.ua'
@@ -392,7 +392,6 @@ payload:
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.plx.im'
-  - 'tracker.pmman.tech'
   - 'tracker.privateseedbox.xyz'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
