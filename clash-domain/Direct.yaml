@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-19 00:10:47 (UTC+8)
+# UPDATED: 2025-09-20 00:10:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 3496
+# TOTAL: 3499
 payload:
   - '+.citic'
   - '+.icbc'
@@ -2501,6 +2501,8 @@ payload:
   - 'm3u8channel-yj.wuxianyaan.com'
   - 'm3u8channel.wuxianyaan.com'
   - 'maps.apple.com'
+  - 'maven.is-quite.gay'
+  - 'maven.neoforged.net'
   - 'media.bbrtv.com'
   - 'media.fantv.hk'
   - 'media.trrtv.com'
@@ -2725,6 +2727,7 @@ payload:
   - 'repo.debiancn.org'
   - 'repo.nextdns.io'
   - 'repo.powerdns.com'
+  - 'repo.sleeping.town'
   - 'reserve-prime.apple.com'
   - 'rfcmedia.streamguys1.com'
   - 'rfimonde-lh.akamaihd.net'
