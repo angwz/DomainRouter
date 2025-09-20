@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-20 00:11:27 (UTC+8)
+# UPDATED: 2025-09-21 00:10:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 32349
+# TOTAL: 32352
 payload:
   - '+.adult'
   - '+.amazon'
@@ -8985,6 +8985,7 @@ payload:
   - '+.garotaporno.com'
   - '+.garotoesperto.com'
   - '+.gartlive.com'
+  - '+.garudalinux.org'
   - '+.gastrointestinalexam.com'
   - '+.gate-project.com'
   - '+.gate.cc'
@@ -15563,6 +15564,7 @@ payload:
   - '+.ninth.biz'
   - '+.niosii.com'
   - '+.niosii.net'
+  - '+.nirsoft.net'
   - '+.nist.gov'
   - '+.nitter.cc'
   - '+.nitter.net'
@@ -22316,6 +22318,7 @@ payload:
   - '+.vpro.com'
   - '+.vpro.net'
   - '+.vpser.net'
+  - '+.vpsxb.net'
   - '+.vraiesagesse.net'
   - '+.vrbgay.com'
   - '+.vrcams.io'
