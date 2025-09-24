@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-24 00:12:35 (UTC+8)
+# UPDATED: 2025-09-25 00:12:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 32352
+# TOTAL: 32354
 payload:
   - '+.adult'
   - '+.amazon'
@@ -15882,6 +15882,7 @@ payload:
   - '+.ocsp-certum.com'
   - '+.ocsp-responder.com'
   - '+.october-review.org'
+  - '+.octocaptcha.com'
   - '+.ocul.us'
   - '+.oculus-china.com'
   - '+.oculus.com'
@@ -24584,6 +24585,7 @@ payload:
   - '+.aphe.ac.uk'
   - '+.api.mixpanel.com'
   - '+.api.nebula-emby.com'
+  - '+.api.palworldgame.com'
   - '+.apis.ac.uk'
   - '+.aplustraining.ac.uk'
   - '+.apollo.ac.uk'

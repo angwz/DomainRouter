@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-24 00:22:31 (UTC+8)
+# UPDATED: 2025-09-25 00:21:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 458
+# TOTAL: 460
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -196,6 +196,7 @@ payload:
   - 'aegir.sexy'
   - 'amigacity.xyz'
   - 'buny.uk'
+  - 'burmese.app'
   - 'ch3oh.ru'
   - 'concen.org'
   - 'coppersurfer.tk'
@@ -231,6 +232,7 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
+  - 'admin.52ywp.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -248,6 +250,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -261,10 +264,11 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns3109441.mypdns.org'
+  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
+  - 'open-v6.demonoid.ch'
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
@@ -282,6 +286,7 @@ payload:
   - 'p2p.publictracker.xyz'
   - 'p4p.arenabg.com'
   - 'pirate.t-1.org'
+  - 'public.demonoid.ch'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
@@ -304,7 +309,6 @@ payload:
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
-  - 'tr.zukizuki.org'
   - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-de-2.cutie.dating'
@@ -365,7 +369,6 @@ payload:
   - 'tracker.internetwarriors.net'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
-  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
@@ -417,7 +420,6 @@ payload:
   - 'tracker.uraniumhexafluori.de'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
-  - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
