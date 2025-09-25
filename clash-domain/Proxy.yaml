@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-25 00:12:38 (UTC+8)
+# UPDATED: 2025-09-26 00:11:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 32354
+# TOTAL: 32356
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5572,6 +5572,7 @@ payload:
   - '+.ctexcel.us'
   - '+.ctfassets.net'
   - '+.ctfriend.net'
+  - '+.ctinets.com'
   - '+.ctinews.com'
   - '+.ctotires.com'
   - '+.ctowc.org'
@@ -11686,6 +11687,7 @@ payload:
   - '+.internetofeverything.com'
   - '+.internetpopculture.com'
   - '+.interracial-sites.com'
+  - '+.interseclab.org'
   - '+.intescort.com'
   - '+.intgram.com'
   - '+.inthenameofconfuciusmovie.com'
