@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-26 00:11:12 (UTC+8)
+# UPDATED: 2025-09-27 00:11:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 3501
+# TOTAL: 3502
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1164,6 +1164,7 @@ payload:
   - '+.registry.npmjs.org'
   - '+.releases.arc.net'
   - '+.releases.hashicorp.com'
+  - '+.releases.stash.ws'
   - '+.releases.warp.dev'
   - '+.replicate.npmjs.com'
   - '+.repo.anaconda.com'
