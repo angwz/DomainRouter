@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-28 00:19:18 (UTC+8)
+# UPDATED: 2025-09-29 00:18:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 938
+# TOTAL: 939
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -313,6 +313,7 @@ payload:
   - '+.faceu.mobi'
   - '+.faceu.net'
   - '+.falconsending.com'
+  - '+.fanqiecopyright.com'
   - '+.fanqienovel.com'
   - '+.fanqieopen.com'
   - '+.fanqieopenpic.com'

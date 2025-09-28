@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-28 00:19:18 (UTC+8)
+# UPDATED: 2025-09-29 00:18:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 459
+# TOTAL: 461
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -232,7 +232,6 @@ payload:
   - '9.rarbg.me'
   - '9.rarbg.to'
   - 'admin.52ywp.com'
-  - 'asiatorrent.giize.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -255,6 +254,7 @@ payload:
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
   - 'home.yxgz.club'
+  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -263,6 +263,7 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -291,7 +292,9 @@ payload:
   - 'run.publictracker.xyz'
   - 'share.hkg-fansub.info'
   - 't-115.rhcloud.com'
+  - 't.213891.xyz'
   - 't.acg.rip'
+  - 't.al.uy'
   - 't.nyaatracker.com'
   - 't.overflow.biz'
   - 't1.aag.moe'
@@ -301,7 +304,6 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -325,7 +327,6 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -364,6 +365,7 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -409,10 +411,10 @@ payload:
   - 'tracker.therarbg.to'
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
-  - 'tracker.tnl.one'
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
+  - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
   - 'tracker.uraniumhexafluori.de'
   - 'tracker.valete.tf'
