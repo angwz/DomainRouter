@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-09-30 00:19:26 (UTC+8)
+# UPDATED: 2025-10-01 00:21:51 (UTC+8)
 # TYPE: domain
-# TOTAL: 461
+# TOTAL: 462
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -263,7 +263,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -304,6 +303,7 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.kxmp.cf'
@@ -327,6 +327,7 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
+  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -362,6 +363,7 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
+  - 'tracker.hifimarket.in'
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
@@ -419,7 +421,6 @@ payload:
   - 'tracker.uraniumhexafluori.de'
   - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
-  - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
