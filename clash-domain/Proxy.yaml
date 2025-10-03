@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-03 00:11:50 (UTC+8)
+# UPDATED: 2025-10-04 00:11:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 32356
+# TOTAL: 32357
 payload:
   - '+.adult'
   - '+.amazon'
@@ -20151,6 +20151,7 @@ payload:
   - '+.tapatalk.com'
   - '+.tapbots.com'
   - '+.tapbots.net'
+  - '+.taptap.io'
   - '+.taptap.tw'
   - '+.taptotokyo.com'
   - '+.taqunuhai.vip'
