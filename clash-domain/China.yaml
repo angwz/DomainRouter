@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-04 00:20:23 (UTC+8)
+# UPDATED: 2025-10-05 00:19:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 117247
+# TOTAL: 117249
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -55445,6 +55445,7 @@ payload:
   - '+.jiechengcloud.com'
   - '+.jiechikeji.com'
   - '+.jiechuang.com'
+  - '+.jiedaibao.gs'
   - '+.jiediankeji.com'
   - '+.jiefadg.com'
   - '+.jiefanglinli.net'
@@ -91158,7 +91159,6 @@ payload:
   - '+.tapsvc.com'
   - '+.taptap-api.com'
   - '+.taptap.com'
-  - '+.taptap.io'
   - '+.taptapcode.com'
   - '+.taptapdada.com'
   - '+.taraniss.com'
@@ -116995,6 +116995,7 @@ payload:
   - 'cdn.angruo.com'
   - 'cdn.hkdtmb.com'
   - 'cdn.jsdelivr.net'
+  - 'cdn.lilyemby.com'
   - 'cgntv-glive.ofsdelivery.net'
   - 'channellive.leshantv.net'
   - 'clickserve.cc-dt.com'
@@ -117156,6 +117157,7 @@ payload:
   - 'trtcanlitv-lh.akamaihd.net'
   - 'tv.cnbeijing.xyz'
   - 'tv.nknews.org'
+  - 'tx.lilyemby.com'
   - 'uni6rtmp.tulix.tv'
   - 'update.googleapis.com'
   - 'v1.one-tv.com'

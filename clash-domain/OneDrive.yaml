@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-04 00:20:24 (UTC+8)
+# UPDATED: 2025-10-05 00:19:51 (UTC+8)
 # TYPE: domain
-# TOTAL: 465
+# TOTAL: 467
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -193,6 +193,7 @@ payload:
   - '+.skydrive.wns.windows.com'
   - '0123456789nonexistent.com'
   - '6ahddutb1ucc3cp.ru'
+  - 'aboutbeautifulgallopinghorsesinthegreenpasture.online'
   - 'aegir.sexy'
   - 'amigacity.xyz'
   - 'buny.uk'
@@ -203,7 +204,7 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'glotorrents.pw'
+  - 'hificode.in'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -220,6 +221,7 @@ payload:
   - 'shahidrazi.online'
   - 'shubt.net'
   - 'su-data.com'
+  - 'torrentclub.online'
   - 'torrentsmd.com'
   - 'tracker.bz'
   - 'tracker810.xyz'
@@ -233,6 +235,7 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
+  - 'admin.52ywp.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -256,16 +259,13 @@ payload:
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
   - 'home.yxgz.club'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
   - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
-  - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -331,6 +331,7 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
+  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -370,6 +371,7 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -415,8 +417,8 @@ payload:
   - 'tracker.therarbg.to'
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
+  - 'tracker.tnl.one'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
