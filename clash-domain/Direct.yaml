@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-07 00:11:08 (UTC+8)
+# UPDATED: 2025-10-08 00:11:17 (UTC+8)
 # TYPE: domain
-# TOTAL: 3502
+# TOTAL: 3503
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1157,6 +1157,7 @@ payload:
   - '+.publicassets.cdn-apple.com'
   - '+.qianwen.aliyun.com'
   - '+.reactorms.com.cn'
+  - '+.registry-1.docker.io'
   - '+.registry-cdn.wapm.io'
   - '+.registry.bower.io'
   - '+.registry.npmjs.com'
