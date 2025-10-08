@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-08 00:11:59 (UTC+8)
+# UPDATED: 2025-10-09 00:12:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 32358
+# TOTAL: 32359
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19351,6 +19351,7 @@ payload:
   - '+.solidaritetibet.org'
   - '+.solidfiles.com'
   - '+.solostudioksale.com'
+  - '+.solscan.io'
   - '+.solutionstation.com'
   - '+.solv.finance'
   - '+.solveforx.com'
