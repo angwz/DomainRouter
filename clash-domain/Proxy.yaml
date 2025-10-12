@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-12 00:10:18 (UTC+8)
+# UPDATED: 2025-10-13 00:10:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 32359
+# TOTAL: 32361
 payload:
   - '+.adult'
   - '+.amazon'
@@ -8658,6 +8658,8 @@ payload:
   - '+.freegaypornfinder.com'
   - '+.freegaypornhdtube.com'
   - '+.freegaysexgames.com'
+  - '+.freegpt.es'
+  - '+.freegpt.tech'
   - '+.freehdinterracialporn.in'
   - '+.freehdvideos.xxx'
   - '+.freehentaipic.com'

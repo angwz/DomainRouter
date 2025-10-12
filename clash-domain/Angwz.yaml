@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-12 00:10:22 (UTC+8)
+# UPDATED: 2025-10-13 00:10:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 9414
+# TOTAL: 9413
 payload:
   - '+.adult'
   - '+.apple'
@@ -5919,7 +5919,6 @@ payload:
   - '+.nlsexfilmpjes.com'
   - '+.nlt-media.com'
   - '+.nodejs.org'
-  - '+.nodeseek.com'
   - '+.nodesource.com'
   - '+.noisullifb.com'
   - '+.nomadproject.io'
