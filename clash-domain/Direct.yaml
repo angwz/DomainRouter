@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-15 00:11:30 (UTC+8)
+# UPDATED: 2025-10-16 00:09:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 3503
+# TOTAL: 3507
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1403,6 +1403,7 @@ payload:
   - '+.cache.pack.google.com'
   - '+.cds-cdn.v.aaplimg.com'
   - '+.chnroutes2.cdn.skk.moe'
+  - '+.cisco.yuntu.com.tw'
   - '+.cn-ssl.ls.apple.com'
   - '+.cn.ls.apple.com'
   - '+.cn.ntp.org.cn'
@@ -1513,6 +1514,7 @@ payload:
   - '+.mirrors.ucr.ac.cr'
   - '+.mirrors.ukfast.co.uk'
   - '+.mirrors.xtom.com.hk'
+  - '+.mirrors.yuntu.com.tw'
   - '+.ntp.cloud.aliyuncs.com'
   - '+.ntp.sjtu.edu.cn'
   - '+.ntp1.cloud.aliyuncs.com'
@@ -2147,6 +2149,7 @@ payload:
   - 'f24hls-i.akamaihd.net'
   - 'fash1043.cloudycdn.services'
   - 'fastly-download.epicgames.com'
+  - 'fdisk.5play.app'
   - 'fides-pol.apple.com'
   - 'file.hhtv.cc'
   - 'file.lasatv.cn'
@@ -2900,6 +2903,7 @@ payload:
   - 'tvpull.dxhmt.cn'
   - 'tvpull.smartwq.cn'
   - 'uni6rtmp.tulix.tv'
+  - 'update.cyberduck.io'
   - 'update.googleapis.com'
   - 'update.greasyfork.org'
   - 'update.parallels.com'
