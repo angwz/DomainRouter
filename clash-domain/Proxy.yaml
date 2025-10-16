@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-16 00:10:40 (UTC+8)
+# UPDATED: 2025-10-17 00:13:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 32361
+# TOTAL: 32363
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2102,6 +2102,7 @@ payload:
   - '+.asiancamgirllive.com'
   - '+.asiancamly.com'
   - '+.asianews.it'
+  - '+.asianfanfics.com'
   - '+.asianfreeforum.com'
   - '+.asianfreeporn.net'
   - '+.asiangfvideos.com'
@@ -24022,6 +24023,7 @@ payload:
   - '+.z-lib.gl'
   - '+.z-lib.io'
   - '+.z-lib.org'
+  - '+.z-library.ec'
   - '+.z-library.se'
   - '+.z-library.sk'
   - '+.z00.world'

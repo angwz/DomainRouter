@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-16 00:19:45 (UTC+8)
+# UPDATED: 2025-10-17 00:22:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 466
+# TOTAL: 470
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -267,7 +267,6 @@ payload:
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -275,6 +274,7 @@ payload:
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
+  - 'open.demonii.si'
   - 'open.demonoid.ch'
   - 'open.dstud.io'
   - 'open.free-tracker.ga'
@@ -307,6 +307,7 @@ payload:
   - 't1.aag.moe'
   - 't1.hloli.org'
   - 'tamas3.ynh.fr'
+  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
@@ -336,10 +337,11 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
+  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.chaoz.li'
+  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -375,7 +377,6 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -401,7 +402,6 @@ payload:
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.plx.im'
-  - 'tracker.pmman.tech'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
   - 'tracker.qu.ax'
@@ -431,7 +431,6 @@ payload:
   - 'tracker.vanitycore.co'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
-  - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
@@ -458,6 +457,10 @@ payload:
   - 'www.torrentsnipe.info'
   - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
+  - '1.tracker.eu.org'
+  - '2.tracker.eu.org'
+  - '3.tracker.eu.org'
+  - '4.tracker.eu.org'
   - 'anna.bt.bontal.net'
   - 'd40969.acod.regrucolo.ru'
   - 'h4.trakx.nibba.trade'
@@ -465,6 +468,7 @@ payload:
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
+  - 'tracker.guguan.us.kg'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
