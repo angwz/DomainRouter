@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-17 00:13:14 (UTC+8)
+# UPDATED: 2025-10-18 00:11:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 32363
+# TOTAL: 32365
 payload:
   - '+.adult'
   - '+.amazon'
@@ -22534,6 +22534,7 @@ payload:
   - '+.webrtc.org'
   - '+.webrush.net'
   - '+.webs-tv.net'
+  - '+.websdr.org'
   - '+.website.new'
   - '+.websitepulse.com'
   - '+.websnapr.com'
@@ -23228,6 +23229,7 @@ payload:
   - '+.xn--sgt856gbjl.cc'
   - '+.xn--sjqr38j.com'
   - '+.xn--tkry91n.com'
+  - '+.xn--u2u927b.com'
   - '+.xn--ubt498knmf.com'
   - '+.xn--uis17aj9kmuf.com'
   - '+.xn--urs05q.jp'
