@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-18 00:11:56 (UTC+8)
+# UPDATED: 2025-10-19 00:10:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 562
+# TOTAL: 563
 payload:
   - '+.de'
   - '+.1inch.io'
@@ -361,6 +361,7 @@ payload:
   - '+.nftcalendar.io'
   - '+.nftgo.io'
   - '+.nftscan.com'
+  - '+.nftstatic.com'
   - '+.nonfungible.com'
   - '+.nyctale.io'
   - '+.okex.com'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-18 00:11:52 (UTC+8)
+# UPDATED: 2025-10-19 00:10:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 32365
+# TOTAL: 32374
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3932,6 +3932,7 @@ payload:
   - '+.bnews.co'
   - '+.bnn.co'
   - '+.bnrmetal.com'
+  - '+.bntrace.com'
   - '+.boardreader.com'
   - '+.boboporn.com'
   - '+.boboporn.net'
@@ -4727,6 +4728,7 @@ payload:
   - '+.cepacol.com'
   - '+.ceramics-cadcam.com'
   - '+.cerdas.com'
+  - '+.cerebras.ai'
   - '+.cern.ch'
   - '+.certificat2.com'
   - '+.certificate-transparency.org'
@@ -5106,6 +5108,8 @@ payload:
   - '+.classicnike.com'
   - '+.classymomsex.com'
   - '+.claude.ai'
+  - '+.claude.com'
+  - '+.claudemcpclient.com'
   - '+.claudeusercontent.com'
   - '+.clco.cc'
   - '+.cleansite.biz'
@@ -12046,6 +12050,7 @@ payload:
   - '+.jav-legend.com'
   - '+.jav-subtitles.com'
   - '+.jav-vr.net'
+  - '+.jav.app'
   - '+.jav.com'
   - '+.jav.dog'
   - '+.jav.gallery'
@@ -13544,6 +13549,7 @@ payload:
   - '+.markingmenus.com'
   - '+.markzuckerberg.com'
   - '+.marranazas.com'
+  - '+.marscode.com'
   - '+.martau.com'
   - '+.martincartoons.com'
   - '+.martinoei.com'
@@ -15332,6 +15338,7 @@ payload:
   - '+.nfscdict.com'
   - '+.nfscofficial.com'
   - '+.nfsworld.com'
+  - '+.nftstatic.com'
   - '+.nftstorage.link'
   - '+.ng.mil'
   - '+.nga.mil'
@@ -20888,6 +20895,7 @@ payload:
   - '+.tracking-location.com'
   - '+.tradevip1.com'
   - '+.tradingview.com'
+  - '+.trae.ai'
   - '+.traffichaus.com'
   - '+.trafficmanager.net'
   - '+.trakt.tv'
@@ -32308,6 +32316,7 @@ payload:
   - 'dl.begellhouse.com'
   - 'faronics.kayako.com'
   - 'firstsearch.oclc.org'
+  - 'github-api.arkoselabs.com'
   - 'gog.qtlglb.com'
   - 'holoxx.f5.si'
   - 'hpstore.corpmerchandise.com'

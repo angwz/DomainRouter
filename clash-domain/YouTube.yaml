@@ -1,9 +1,9 @@
 # NAME: YouTube
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-18 00:21:04 (UTC+8)
+# UPDATED: 2025-10-19 00:20:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 179
+# TOTAL: 180
 payload:
   - '+.youtube'
   - '+.ggpht.cn'
@@ -184,3 +184,4 @@ payload:
   - '+.youtubei.googleapis.com'
   - '+.wide-youtube.l.google.com'
   - '+.youtube-ui.l.google.com'
+  - 'yt3.googleusercontent.com'

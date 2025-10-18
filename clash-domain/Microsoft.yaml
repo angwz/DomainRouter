@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-18 00:21:04 (UTC+8)
+# UPDATED: 2025-10-19 00:20:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 747
+# TOTAL: 749
 payload:
   - '+.azure'
   - '+.bing'
@@ -527,6 +527,7 @@ payload:
   - '+.o365weve-ppe.com'
   - '+.o365weve.com'
   - '+.oaspapps.com'
+  - '+.octocaptcha.com'
   - '+.office.com'
   - '+.office.net'
   - '+.office365-net.cn'
@@ -743,6 +744,7 @@ payload:
   - '+.msn.com.nsatc.net'
   - '+.vip5.afdorigin-prod-am02.afdogw.com'
   - '+.livetileedge.dsx.mp.microsoft.com.edgekey.net'
+  - 'github-api.arkoselabs.com'
   - 'img-prod-cms-rt-microsoft-com.akamaized.net'
   - 'img-s-msn-com.akamaized.net'
   - 'mwf-service.akamaized.net'

@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-18 00:11:56 (UTC+8)
+# UPDATED: 2025-10-19 00:10:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 9413
+# TOTAL: 9416
 payload:
   - '+.adult'
   - '+.apple'
@@ -4664,6 +4664,7 @@ payload:
   - '+.jav-angel.net'
   - '+.jav-subtitles.com'
   - '+.jav-vr.net'
+  - '+.jav.app'
   - '+.jav.dog'
   - '+.jav.gallery'
   - '+.jav.guru'
@@ -6017,6 +6018,7 @@ payload:
   - '+.nym97.net'
   - '+.obutsumania.com'
   - '+.obutu.com'
+  - '+.octocaptcha.com'
   - '+.ocul.us'
   - '+.oculus-china.com'
   - '+.oculus.com'
@@ -9353,6 +9355,7 @@ payload:
   - 'firebaselogging.googleapis.com'
   - 'firebaseperusertopics-pa.googleapis.com'
   - 'firebaseremoteconfig.googleapis.com'
+  - 'github-api.arkoselabs.com'
   - 'i.233py.com'
   - 'ibksturm.synology.me'
   - 'ibuki.cgnat.net'

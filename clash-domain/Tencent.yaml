@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-18 00:21:03 (UTC+8)
+# UPDATED: 2025-10-19 00:20:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 1746
+# TOTAL: 1747
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -1285,6 +1285,7 @@ payload:
   - '+.tlivednsv1.com'
   - '+.tlivegslb.cn'
   - '+.tlivegslb.com'
+  - '+.tlivemcdn.com'
   - '+.tliveplay.com'
   - '+.tlivepush.cn'
   - '+.tlivepush.com'

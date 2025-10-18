@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-18 00:21:04 (UTC+8)
+# UPDATED: 2025-10-19 00:20:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 470
+# TOTAL: 468
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -204,7 +204,6 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'hificode.in'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -254,6 +253,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
@@ -267,6 +267,7 @@ payload:
   - 'isk.richardsw.club'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -274,7 +275,6 @@ payload:
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
-  - 'open.demonii.si'
   - 'open.demonoid.ch'
   - 'open.dstud.io'
   - 'open.free-tracker.ga'
@@ -325,7 +325,6 @@ payload:
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
-  - 'tracker.23794.top'
   - 'tracker.aburaya.live'
   - 'tracker.alaskantf.com'
   - 'tracker.anima.nz'
@@ -341,7 +340,6 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -396,6 +394,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -468,7 +467,6 @@ payload:
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
-  - 'tracker.guguan.us.kg'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
