@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-19 00:10:52 (UTC+8)
+# UPDATED: 2025-10-20 00:10:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 32374
+# TOTAL: 32389
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3995,6 +3995,7 @@ payload:
   - '+.boomssr.com'
   - '+.boomtrain.com'
   - '+.booru.org'
+  - '+.boosty.to'
   - '+.booth.pm'
   - '+.bootstrapcdn.com'
   - '+.bootyliciousmag.com'
@@ -4678,6 +4679,7 @@ payload:
   - '+.cdn-apple.com'
   - '+.cdn-telegram.org'
   - '+.cdn-terapeak.com'
+  - '+.cdn-vk.ru'
   - '+.cdn77.com'
   - '+.cdn77.org'
   - '+.cdninstagram.com'
@@ -6099,6 +6101,7 @@ payload:
   - '+.dhcp.biz'
   - '+.diablo3.com'
   - '+.diabloimmortal.com'
+  - '+.diabrowser.com'
   - '+.dialga.com'
   - '+.dialogflow.com'
   - '+.diamantewebcam.com'
@@ -6472,6 +6475,7 @@ payload:
   - '+.dolphiners.com'
   - '+.domywife.com'
   - '+.donatecarsoh.org'
+  - '+.donationalerts.com'
   - '+.donga.com'
   - '+.dongtaiwang.com'
   - '+.dongtaiwang.net'
@@ -9793,6 +9797,7 @@ payload:
   - '+.guangming.org'
   - '+.guangnianvpn.com'
   - '+.guaranitermal.com'
+  - '+.guardarian.com'
   - '+.guardianapis.com'
   - '+.guardianproject.info'
   - '+.guardster.com'
@@ -13821,6 +13826,7 @@ payload:
   - '+.melonstube.com'
   - '+.meltoday.com'
   - '+.meme111.com'
+  - '+.memealerts.com'
   - '+.memehk.com'
   - '+.memes.tw'
   - '+.memorybbs.com'
@@ -15952,6 +15958,7 @@ payload:
   - '+.okaapps.com'
   - '+.okayfreedom.com'
   - '+.okazudouga.tokyo'
+  - '+.okcdn.ru'
   - '+.okex.com'
   - '+.okk.tw'
   - '+.okkisokuho.com'
@@ -18386,10 +18393,15 @@ payload:
   - '+.samsung.com'
   - '+.samsungapps.com'
   - '+.samsungcloud.com'
+  - '+.samsungconsent.com'
   - '+.samsungdm.com'
   - '+.samsunggalaxyfriends.com'
+  - '+.samsunghealth.com'
+  - '+.samsungiotcloud.com'
   - '+.samsungknox.com'
+  - '+.samsungosp.com'
   - '+.samsungqbe.com'
+  - '+.samsungrs.com'
   - '+.sandisk.ae'
   - '+.sandisk.com'
   - '+.sandisk.de'
@@ -19754,6 +19766,7 @@ payload:
   - '+.stc-server.com'
   - '+.stcroixmosquito.com'
   - '+.stcroixmosquitoproject.com'
+  - '+.stealthex.io'
   - '+.steam-api.com'
   - '+.steam-chat.com'
   - '+.steam.tv'
@@ -21713,6 +21726,7 @@ payload:
   - '+.vercel.app'
   - '+.vercel.blog'
   - '+.vercel.com'
+  - '+.vercel.dev'
   - '+.vercel.events'
   - '+.vercel.live'
   - '+.vercel.pub'
@@ -22036,6 +22050,7 @@ payload:
   - '+.vk.ru'
   - '+.vk.team'
   - '+.vkcache.com'
+  - '+.vkcloud-static.ru'
   - '+.vkgo.app'
   - '+.vklive.app'
   - '+.vkmessenger.app'

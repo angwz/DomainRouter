@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-19 00:10:56 (UTC+8)
+# UPDATED: 2025-10-20 00:10:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 563
+# TOTAL: 565
 payload:
   - '+.de'
   - '+.1inch.io'
@@ -270,6 +270,7 @@ payload:
   - '+.glassnode.com'
   - '+.gog-statics.com'
   - '+.gog.com'
+  - '+.guardarian.com'
   - '+.hashflow.com'
   - '+.hbabit.com'
   - '+.hbfile.net'
@@ -425,6 +426,7 @@ payload:
   - '+.starwarsjedifallenorder.com'
   - '+.starwarstheoldrepublic.com'
   - '+.stateofthedapps.com'
+  - '+.stealthex.io'
   - '+.sunswap.com'
   - '+.sushi.com'
   - '+.swjedifallenorder.com'
