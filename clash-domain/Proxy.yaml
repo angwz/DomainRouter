@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-20 00:10:36 (UTC+8)
+# UPDATED: 2025-10-21 00:11:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 32389
+# TOTAL: 32392
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16753,6 +16753,7 @@ payload:
   - '+.picjs.xyz'
   - '+.pickinguppussy.com'
   - '+.picknicekicks.net'
+  - '+.pickpackapp.com'
   - '+.pickshoesclothes.com'
   - '+.picnik.com'
   - '+.picpost.com'
@@ -16769,6 +16770,7 @@ payload:
   - '+.pifpafarabia.com'
   - '+.pigav.com'
   - '+.pikabu.monster'
+  - '+.pikpak.io'
   - '+.pikpak.me'
   - '+.pikpakdrive.com'
   - '+.pillbeatsblackfridaysale.com'
@@ -20875,6 +20877,7 @@ payload:
   - '+.tortoisesvn.net'
   - '+.torvpn.com'
   - '+.tospo-keiba.jp'
+  - '+.tospotify.com'
   - '+.totalmateria.com'
   - '+.totalvpn.com'
   - '+.totoleak.com'

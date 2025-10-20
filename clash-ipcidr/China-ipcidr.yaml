@@ -1,11 +1,11 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-20 00:19:41 (UTC+8)
+# UPDATED: 2025-10-21 00:21:07 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 19199
+# TOTAL: 19200
 # IP-CIDR TOTAL: 8108
-# IP-CIDR6 TOTAL: 11091
+# IP-CIDR6 TOTAL: 11092
 payload:
   - '0.0.0.0/32'
   - '1.0.1.0/24'
@@ -19050,6 +19050,7 @@ payload:
   - '2a13:a5c7:3301::/48'
   - '2a13:a5c7:3304::/48'
   - '2a13:a5c7:3306::/48'
+  - '2a13:a5c7:3400::/44'
   - '2a13:aac4::/32'
   - '2a13:b487:1b86::/47'
   - '2a13:b487:1b88::/47'
