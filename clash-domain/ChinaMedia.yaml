@@ -1,7 +1,7 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-21 00:21:09 (UTC+8)
+# UPDATED: 2025-10-22 00:22:13 (UTC+8)
 # TYPE: domain
 # TOTAL: 2415
 payload:
@@ -478,6 +478,7 @@ payload:
   - '+.jrjimg.cn'
   - '+.jstucdn.com'
   - '+.juequling.com'
+  - '+.jxpp.com'
   - '+.jztvnews.com'
   - '+.kankanews.com'
   - '+.kankannews.com'
@@ -878,7 +879,6 @@ payload:
   - '+.steamdeck.com'
   - '+.steamgames.com'
   - '+.steampowered.com'
-  - '+.steampp.net'
   - '+.steamserver.net'
   - '+.steamstat.us'
   - '+.steamstatic.com'
