@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-22 00:13:06 (UTC+8)
+# UPDATED: 2025-10-23 00:13:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 6504
+# TOTAL: 6510
 payload:
   - '+.mit'
   - '+.us'
@@ -85,6 +85,7 @@ payload:
   - '+.airiti.com'
   - '+.airitilibrary.com'
   - '+.alexanderstreet.com'
+  - '+.alphaxiv.org'
   - '+.altmetric.com'
   - '+.amamanualofstyle.com'
   - '+.amlg.io'
@@ -306,6 +307,7 @@ payload:
   - '+.hooloo.tv'
   - '+.hoolu.com'
   - '+.hoolu.tv'
+  - '+.hotcrp.com'
   - '+.hu1u.com'
   - '+.huloo.cc'
   - '+.huloo.tv'
@@ -466,6 +468,7 @@ payload:
   - '+.omniture.com'
   - '+.omscr.com'
   - '+.omtrdc.net'
+  - '+.openreview.net'
   - '+.optica.org'
   - '+.originalhulu.com'
   - '+.osapublishing.org'
@@ -707,8 +710,10 @@ payload:
   - '+.sharif.ir'
   - '+.showtime.com'
   - '+.siam.org'
+  - '+.sigcomm.org'
   - '+.sign.new'
   - '+.signalprocessingsociety.org'
+  - '+.sigops.org'
   - '+.silverchair-cdn.com'
   - '+.simility.com'
   - '+.singlelogin.app'
@@ -763,6 +768,7 @@ payload:
   - '+.uni-bielefeld.de'
   - '+.universitypressscholarship.com'
   - '+.usaco.org'
+  - '+.usenix.org'
   - '+.venmo-touch.com'
   - '+.venmo.com'
   - '+.venmo.info'
