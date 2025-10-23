@@ -1,9 +1,9 @@
 # NAME: Germany
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-23 00:13:48 (UTC+8)
+# UPDATED: 2025-10-24 00:12:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 565
+# TOTAL: 568
 payload:
   - '+.de'
   - '+.1inch.io'
@@ -427,6 +427,7 @@ payload:
   - '+.starwarstheoldrepublic.com'
   - '+.stateofthedapps.com'
   - '+.stealthex.io'
+  - '+.straitsx.com'
   - '+.sunswap.com'
   - '+.sushi.com'
   - '+.swjedifallenorder.com'
@@ -554,6 +555,7 @@ payload:
   - 'bnetshopus.akamaized.net'
   - 'bybit-exchange.github.io'
   - 'bybit.ada.support'
+  - 'd3r7nsslvs6aaf.cloudfront.net'
   - 'eaasserts-a.akamaihd.net'
   - 'eaassets-a.akamaihd.net'
   - 'gog-cdn.akamaized.net'
@@ -562,6 +564,7 @@ payload:
   - 'onekey.zendesk.com'
   - 'origin-a.akamaihd.net'
   - 'originasserts.akamaized.net'
+  - 'straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
   - 'ubistatic3-a.akamaihd.net'
   - 'blizzard.nefficient.co.kr'
   - 'cloudsync-prod.s3.amazonaws.com'

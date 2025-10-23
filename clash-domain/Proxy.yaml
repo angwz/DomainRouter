@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-23 00:13:44 (UTC+8)
+# UPDATED: 2025-10-24 00:12:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 32423
+# TOTAL: 32434
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6087,6 +6087,7 @@ payload:
   - '+.deviantclip.com'
   - '+.device-manager.us'
   - '+.devilsfilm.com'
+  - '+.devin.ai'
   - '+.devio.us'
   - '+.devm2m.com'
   - '+.devopsassessment.net'
@@ -6444,6 +6445,7 @@ payload:
   - '+.dockerhub.com'
   - '+.dockerizer.com'
   - '+.dockerstatic.com'
+  - '+.dockerstatus.com'
   - '+.docleradn.com'
   - '+.doclercdn.com'
   - '+.docs.com'
@@ -12694,6 +12696,7 @@ payload:
   - '+.kinkypeepz.com'
   - '+.kinmen.travel'
   - '+.kinokuniya.com'
+  - '+.kinopoisk.ru'
   - '+.kir.jp'
   - '+.kir2kos.net'
   - '+.kirbysepicyarn.com'
@@ -19861,6 +19864,7 @@ payload:
   - '+.straightouttasomewhere.com'
   - '+.straightpornstuds.com'
   - '+.straitstimes.com'
+  - '+.straitsx.com'
   - '+.stranabg.com'
   - '+.straplessdildo.com'
   - '+.stream-mydirtyhobby.biz'
@@ -20510,6 +20514,7 @@ payload:
   - '+.thepiratebay.ee'
   - '+.thepiratebay.org'
   - '+.theplatform.com'
+  - '+.thepoizon.ru'
   - '+.theporn.cc'
   - '+.thepornarea.com'
   - '+.thepornbest.com'
@@ -22496,6 +22501,7 @@ payload:
   - '+.warehouse333.com'
   - '+.wariolandshakeit.com'
   - '+.wariowarediy.com'
+  - '+.warnerbrosgames.com'
   - '+.warp.plus'
   - '+.warroom.org'
   - '+.wasdj.com'
@@ -22535,9 +22541,12 @@ payload:
   - '+.waybig.com'
   - '+.waymo.com'
   - '+.waze.com'
+  - '+.wbagora.com'
   - '+.wballiance.com'
   - '+.wbd.ms'
   - '+.wbdnbo.net'
+  - '+.wbgames.com'
+  - '+.wbinsights.com'
   - '+.wbrks.com'
   - '+.wbvm4s.com'
   - '+.wd.bible'
@@ -32409,6 +32418,7 @@ payload:
   - 'rsshub2.asailor.org'
   - 'scholar.google.cn'
   - 'servd-anthropic-website.b-cdn.net'
+  - 'straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
   - 'tesla-cdn.thron.com'
   - 'tmdb-image-prod.b-cdn.net'
   - 'translomatic.foxfortmobile.com'
@@ -32422,6 +32432,7 @@ payload:
   - 'blizzard.nefficient.co.kr'
   - 'cbsplaylistserver.aws.syncbak.com'
   - 'cbsservice.aws.syncbak.com'
+  - 'datarouter.apps.netherrealm.com'
   - 'deribit.cdn.prismic.io'
   - 'elib.maruzen.co.jp'
   - 'licdn.cn.cdn20.com'

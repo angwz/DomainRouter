@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-23 00:22:57 (UTC+8)
+# UPDATED: 2025-10-24 00:21:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 2415
+# TOTAL: 2421
 payload:
   - '+.playstation'
   - '+.sohu'
@@ -991,8 +991,12 @@ payload:
   - '+.wanwan4399.com'
   - '+.wariolandshakeit.com'
   - '+.wariowarediy.com'
+  - '+.warnerbrosgames.com'
+  - '+.wbagora.com'
+  - '+.wbgames.com'
   - '+.wbimg.cn'
   - '+.wbimg.com'
+  - '+.wbinsights.com'
   - '+.wcbygame.com'
   - '+.wcdn.cn'
   - '+.we4399.com'
@@ -2138,6 +2142,7 @@ payload:
   - 'ctt.rgd.com.cn'
   - 'cztv.wshls.homecdn.com'
   - 'dafeng-tv-hls.cm.jstv.com'
+  - 'datarouter.apps.netherrealm.com'
   - 'dbiptv.sn.chinamobile.com'
   - 'devpgclive.cmc.dyrmt.com'
   - 'dlhls.cdn.zhanqi.tv'
@@ -2339,6 +2344,7 @@ payload:
   - 'video-search-1258344701.shiply-cdn.qq.com'
   - 'video-vip-1258344701.shiply-cdn.qq.com'
   - 'video.hannews.com.cn'
+  - 'wb-agora-hydra-file-storage-k1.s3.amazonaws.com'
   - 'womlive.cloud.wo.cn'
   - 'wowza.montevideo.com.uy'
   - 'wowza.ner.gov.tw'
