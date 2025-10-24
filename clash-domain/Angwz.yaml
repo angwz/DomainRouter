@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-24 00:12:44 (UTC+8)
+# UPDATED: 2025-10-25 00:12:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 9416
+# TOTAL: 9430
 payload:
   - '+.adult'
   - '+.apple'
@@ -1978,6 +1978,7 @@ payload:
   - '+.centos.org'
   - '+.cerdas.com'
   - '+.ceskeporno.cz'
+  - '+.cf-china.info'
   - '+.cf-ipfs.com'
   - '+.cf-ns.com'
   - '+.cf-ns.net'
@@ -2155,6 +2156,7 @@ payload:
   - '+.cloudflareportal.com'
   - '+.cloudflarepreview.com'
   - '+.cloudflareprod.com'
+  - '+.cloudflareregistrar.com'
   - '+.cloudflareresolve.com'
   - '+.cloudflaressl.com'
   - '+.cloudflarestaging.com'
@@ -3334,6 +3336,11 @@ payload:
   - '+.fr-beatsbydrestore.com'
   - '+.fracebook.com'
   - '+.fragment.com'
+  - '+.framer.com'
+  - '+.framer.website'
+  - '+.framercanvas.com'
+  - '+.framerstatic.com'
+  - '+.framerusercontent.com'
   - '+.francecasquebeatssolde.com'
   - '+.frcasquesbeats.com'
   - '+.free-3d-porn.com'
@@ -6069,6 +6076,7 @@ payload:
   - '+.onbeatsbydresale.com'
   - '+.one889.app'
   - '+.oneapi.com'
+  - '+.oneapi.io'
   - '+.onejapanese.com'
   - '+.onejav.com'
   - '+.onepornlist.com'
@@ -6111,7 +6119,9 @@ payload:
   - '+.onxxxvideo.com'
   - '+.op7979.com'
   - '+.openai.com'
+  - '+.opencas.io'
   - '+.opencreate.org'
+  - '+.opendroneid.org'
   - '+.opengraphprotocol.com'
   - '+.opengraphprotocol.org'
   - '+.openjsf.org'
@@ -6122,6 +6132,7 @@ payload:
   - '+.opensuse.org'
   - '+.opentgc.com'
   - '+.opentranslatorstothings.org'
+  - '+.openvino.ai'
   - '+.openvinotoolkit.org'
   - '+.openwrt.org'
   - '+.oppai-doga.info'
@@ -6856,6 +6867,7 @@ payload:
   - '+.regex101.com'
   - '+.reiporno.com'
   - '+.remirepo.net'
+  - '+.renderingtoolkit.org'
   - '+.renderos.com'
   - '+.reneerossvideos.com'
   - '+.repe21.com'
@@ -7977,6 +7989,7 @@ payload:
   - '+.unity.com'
   - '+.unity3d.com'
   - '+.unity3dcloud.cn'
+  - '+.universalscalablefirmware.org'
   - '+.unkoscene.com'
   - '+.unpkg.com'
   - '+.unstyle.us'
@@ -8839,6 +8852,7 @@ payload:
   - '+.zazzybabes.com'
   - '+.zbporn.com'
   - '+.zctb.buzz'
+  - '+.zed.dev'
   - '+.zeenite.com'
   - '+.zen8ok.xyz'
   - '+.zerochan.net'

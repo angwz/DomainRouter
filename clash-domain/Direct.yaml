@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-24 00:11:57 (UTC+8)
+# UPDATED: 2025-10-25 00:11:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 3537
+# TOTAL: 3548
 payload:
   - '+.citic'
   - '+.icbc'
@@ -14,10 +14,13 @@ payload:
   - '+.1fichier.info'
   - '+.3dmjiasu.com'
   - '+.51ccd.com'
+  - '+.51changxie.com'
+  - '+.51jianxie.cn'
   - '+.596743944.top'
   - '+.5read.com'
   - '+.8008205555.cn'
   - '+.8008205555.com'
+  - '+.91changxie.com'
   - '+.95516.com'
   - '+.95516.net'
   - '+.95588.com'
@@ -143,6 +146,7 @@ payload:
   - '+.ccspeed.cn'
   - '+.cdn77-storage.com'
   - '+.cebbank.com'
+  - '+.cf-china.info'
   - '+.cf-ns.com'
   - '+.cf-ns.net'
   - '+.cf-ns.site'
@@ -153,6 +157,7 @@ payload:
   - '+.cftest8.com'
   - '+.cftsupport.com'
   - '+.chainedbox.com'
+  - '+.changxie.com'
   - '+.chaoxing.cc'
   - '+.chaoxing.com'
   - '+.chaoxingv.com'
@@ -421,6 +426,7 @@ payload:
   - '+.lenovoprinter.com'
   - '+.lenovoprinter.net'
   - '+.liblib.art'
+  - '+.linglong.space'
   - '+.linodeobjects.com'
   - '+.lip6.fr'
   - '+.liuxing.com'
@@ -546,6 +552,7 @@ payload:
   - '+.shidianbaike.com'
   - '+.shrbank.com'
   - '+.sifou.com'
+  - '+.sndu.cn'
   - '+.sotirov-bg.net'
   - '+.sslawy.com'
   - '+.sslibrary.com'
@@ -610,6 +617,7 @@ payload:
   - '+.unionpayintl.cn'
   - '+.unionpayintl.com'
   - '+.unionpaysecure.com'
+  - '+.uniontech.cn'
   - '+.uniontech.com'
   - '+.uonline-sh.com'
   - '+.uonline-sh.net'
@@ -839,6 +847,7 @@ payload:
   - '+.data.pharmacodia.com'
   - '+.dccnet.com.cn'
   - '+.deb.debian.org'
+  - '+.deepin.org.cn'
   - '+.dejavu.apple.com'
   - '+.desktop.docker.com'
   - '+.devblogs.microsoft.com'
@@ -879,6 +888,7 @@ payload:
   - '+.download.beeper.com'
   - '+.download.cnet.com'
   - '+.download.cpuid.com'
+  - '+.download.delta.chat'
   - '+.download.dlsite.com'
   - '+.download.docker.com'
   - '+.download.eassos.com'
@@ -1027,6 +1037,7 @@ payload:
   - '+.lenovovip.com.cn'
   - '+.lib.ugent.be'
   - '+.linorg.usp.br'
+  - '+.linyaps.org.cn'
   - '+.livephotos.com.cn'
   - '+.lysator.liu.se'
   - '+.mac-release-static.stash.ws'
