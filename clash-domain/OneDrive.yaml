@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-26 00:20:07 (UTC+8)
+# UPDATED: 2025-10-27 00:20:11 (UTC+8)
 # TYPE: domain
 # TOTAL: 471
 payload:
@@ -205,7 +205,6 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'glotorrents.pw'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -255,7 +254,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
@@ -270,6 +268,7 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -313,7 +312,6 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.highstar.shop'
@@ -377,6 +375,7 @@ payload:
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -414,6 +413,7 @@ payload:
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
   - 'tracker.startwork.cv'
+  - 'tracker.t-1.org'
   - 'tracker.t-rb.org'
   - 'tracker.tamersunion.org'
   - 'tracker.tfile.me'
@@ -422,7 +422,6 @@ payload:
   - 'tracker.therarbg.to'
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
-  - 'tracker.tnl.one'
   - 'tracker.token.ro'
   - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
@@ -433,6 +432,7 @@ payload:
   - 'tracker.vanitycore.co'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
+  - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
