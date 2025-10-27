@@ -477,7 +477,7 @@ Tencent: DIRECT
 Netflix: 🎬 Netflix
 YouTube: 🖥️ YouTube
 Google: 📧 Google
-Japan: 🫒 日本高速
+Japan: 🍙 日本专线
 Germany: 🌳 德意志帝国
 America: 🥗 美利坚高速
 Singapore: 🥝 新加坡高速
@@ -487,7 +487,7 @@ OneDrive: ⛅ OneDrive
 Microsoft: 🪟 Microsoft
 Media: 🌍 国际流媒体
 GEOIP,CLOUDFLARE: 🌠 节点选择,no-resolve
-GEOIP,JP: 🫒 日本高速,no-resolve
+GEOIP,JP: 🍙 日本专线,no-resolve
 GEOIP,SG: 🥝 新加坡高速,no-resolve
 GEOIP,CA: 🥗 美利坚高速,no-resolve
 GEOIP,US: 🥗 美利坚高速,no-resolve
