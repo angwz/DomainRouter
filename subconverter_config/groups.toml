@@ -1,11 +1,11 @@
 [[custom_groups]]
 name = "🌠 节点选择"
 rule = [
-  "[]🐦‍🔥 香港专线",
-  "[]🥗 美利坚高速",
-  "[]🍙 日本专线",
-  "[]🥝 新加坡高速",
-  "[]🌳 德意志帝国",
+  "[]🛫 香港专线",
+  "[]🏞️ 美利坚高速",
+  "[]🌺 日本专线",
+  "[]🛳️ 新加坡高速",
+  "[]🍺 德意志帝国",
   "[]✈️ 手动切换",
   "[]DIRECT",
 ]
@@ -13,67 +13,67 @@ type = "select"
 
 [[custom_groups]]
 name = "✈️ 手动切换"
-rule = ["[]🥗 美利坚高速", "(.*)"]
+rule = ["[]🏞️ 美利坚高速", "(.*)"]
 type = "select"
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
-rule = ["[]🥗 美利坚高速", "[]🍙 日本专线", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
+rule = ["[]🏞️ 美利坚高速", "[]🌺 日本专线", "[]🍺 德意志帝国", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🍰 哔哩哔哩"
-rule = ["[]DIRECT", "[]🐦‍🔥 香港专线", "[]✈️ 手动切换"]
+rule = ["[]DIRECT", "[]🛫 香港专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "📱 TikTok"
-rule = ["[]🍙 日本专线", "[]🥗 美利坚高速", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
+rule = ["[]🌺 日本专线", "[]🏞️ 美利坚高速", "[]🛳️ 新加坡高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🖥️ YouTube"
-rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]🌳 德意志帝国", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]🍺 德意志帝国", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "📧 Google"
-rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "⛅ OneDrive"
-rule = ["[]🌳 德意志帝国", "[]🥗 美利坚高速", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🍺 德意志帝国", "[]🏞️ 美利坚高速", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
 name = "🎬 Netflix"
-rule = ["[]🍙 日本专线", "[]🥗 美利坚高速", "[]🐦‍🔥 香港专线", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
+rule = ["[]🌺 日本专线", "[]🏞️ 美利坚高速", "[]🛫 香港专线", "[]🛳️ 新加坡高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🪟 Microsoft"
-rule = ["[]DIRECT", "[]⛅ OneDrive", "[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]DIRECT", "[]⛅ OneDrive", "[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🌍 国际流媒体"
-rule = ["[]🥗 美利坚高速", "[]🍙 日本专线", "[]🌠 节点选择", "[]🥝 新加坡高速", "[]✈️ 手动切换"]
+rule = ["[]🏞️ 美利坚高速", "[]🌺 日本专线", "[]🌠 节点选择", "[]🛳️ 新加坡高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🐳 漏网の鱼"
-rule = ["[]🌠 节点选择", "[]🥗 美利坚高速", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
 interval = 97
 lazy = false
-name = "🐦‍🔥 香港专线"
+name = "🛫 香港专线"
 rule = [
-  "[]🌺 香港高速",
+  "[]💵 香港高速",
   "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*(IEPL|IPLC)).*$)",
-  "[]🥗 美利坚高速",
+  "[]🏞️ 美利坚高速",
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
@@ -81,47 +81,47 @@ url = "https://www.gstatic.com/generate_204"
 [[custom_groups]]
 interval = 127
 lazy = false
-name = "🍙 日本专线"
+name = "🌺 日本专线"
 rule = [
-  "[]🫒 日本高速",
-  "🐦‍🔥 香港专线",
+  "[]🍜 日本高速",
+  "[]🛫 香港专线",
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
-name = "🌺 香港高速"
+name = "💵 香港高速"
 rule = ["!!GROUPID=0!!(港|HK|hk|Hong Kong|HongKong|hongkong)"]
 type = "select"
 
 [[custom_groups]]
-name = "🫒 日本高速"
+name = "🍜 日本高速"
 rule = ["!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*$)"]
 type = "select"
 
 [[custom_groups]]
 interval = 397
 lazy = false
-name = "🥝 新加坡高速"
-rule = ["!!GROUPID=0!!(新加坡|新|坡|狮城|SG|sg|Singapore)", "[]🌺 香港高速"]
+name = "🛳️ 新加坡高速"
+rule = ["!!GROUPID=0!!(新加坡|新|坡|狮城|SG|sg|Singapore)", "[]💵 香港高速"]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
 interval = 297
 lazy = false
-name = "🌳 德意志帝国"
-rule = ["!!GROUPID=0!!(Germany|法兰克福|德(国|意志)|中德|^德$)", "[]🌺 香港高速"]
+name = "🍺 德意志帝国"
+rule = ["!!GROUPID=0!!(Germany|法兰克福|德(国|意志)|中德|^德$)", "[]💵 香港高速"]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
 interval = 197
 lazy = false
-name = "🥗 美利坚高速"
+name = "🏞️ 美利坚高速"
 rule = [
   "!!GROUPID=0!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
-  "[]🌺 香港高速",
+  "[]💵 香港高速",
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"

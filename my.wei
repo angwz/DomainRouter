@@ -34,8 +34,6 @@ SRC-PORT,9993
 8.212.183.0/24
 240b:4007:e:500::/64
 
-47.100.160.0/24
-
 # 鸡仔
 106.75.157.0/24
 2602:ffe4:1:96::/64
@@ -477,20 +475,20 @@ Tencent: DIRECT
 Netflix: 🎬 Netflix
 YouTube: 🖥️ YouTube
 Google: 📧 Google
-Japan: 🍙 日本专线
-Germany: 🌳 德意志帝国
-America: 🥗 美利坚高速
-Singapore: 🥝 新加坡高速
+Japan: 🌺 日本专线
+Germany: 🍺 德意志帝国
+America: 🏞️ 美利坚高速
+Singapore: 🛳️ 新加坡高速
 Angwz: 🌠 节点选择
 ChinaMedia: DIRECT
 OneDrive: ⛅ OneDrive
 Microsoft: 🪟 Microsoft
 Media: 🌍 国际流媒体
 GEOIP,CLOUDFLARE: 🌠 节点选择,no-resolve
-GEOIP,JP: 🍙 日本专线,no-resolve
-GEOIP,SG: 🥝 新加坡高速,no-resolve
-GEOIP,CA: 🥗 美利坚高速,no-resolve
-GEOIP,US: 🥗 美利坚高速,no-resolve
+GEOIP,JP: 🌺 日本专线,no-resolve
+GEOIP,SG: 🛳️ 新加坡高速,no-resolve
+GEOIP,CA: 🏞️ 美利坚高速,no-resolve
+GEOIP,US: 🏞️ 美利坚高速,no-resolve
 GEOIP,HK: 🌠 节点选择,no-resolve
 Proxy: 🌠 节点选择
 China: DIRECT
