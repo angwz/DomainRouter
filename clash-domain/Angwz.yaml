@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-27 11:30:22 (UTC+8)
+# UPDATED: 2025-10-28 00:13:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 9436
+# TOTAL: 9437
 payload:
   - '+.adult'
   - '+.apple'
@@ -8549,6 +8549,7 @@ payload:
   - '+.xshaker.net'
   - '+.xshr.online'
   - '+.xsijishe.com'
+  - '+.xsijishe.net'
   - '+.xslist.org'
   - '+.xstas.biz'
   - '+.xsvod.xyz'
