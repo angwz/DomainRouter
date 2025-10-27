@@ -137,19 +137,19 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🫒 日本高速"
+group = "🍙 日本专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Japan.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🫒 日本高速"
+group = "🍙 日本专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Japan-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🫒 日本高速"
+group = "🍙 日本专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Japan-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -285,7 +285,7 @@ group = "🌠 节点选择"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
-group = "🫒 日本高速"
+group = "🍙 日本专线"
 ruleset = "[]GEOIP,JP,no-resolve"
 
 [[rulesets]]
