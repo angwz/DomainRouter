@@ -137,61 +137,61 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🍙 日本专线"
+group = "🌺 日本专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Japan.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🍙 日本专线"
+group = "🌺 日本专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Japan-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🍙 日本专线"
+group = "🌺 日本专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Japan-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🌳 德意志帝国"
+group = "🍺 德意志帝国"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Germany.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌳 德意志帝国"
+group = "🍺 德意志帝国"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Germany-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🌳 德意志帝国"
+group = "🍺 德意志帝国"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Germany-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🥗 美利坚高速"
+group = "🏞️ 美利坚高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/America.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🥗 美利坚高速"
+group = "🏞️ 美利坚高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/America-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🥝 新加坡高速"
+group = "🛳️ 新加坡高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🥝 新加坡高速"
+group = "🛳️ 新加坡高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Singapore-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
@@ -285,19 +285,19 @@ group = "🌠 节点选择"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
-group = "🍙 日本专线"
+group = "🌺 日本专线"
 ruleset = "[]GEOIP,JP,no-resolve"
 
 [[rulesets]]
-group = "🥝 新加坡高速"
+group = "🛳️ 新加坡高速"
 ruleset = "[]GEOIP,SG,no-resolve"
 
 [[rulesets]]
-group = "🥗 美利坚高速"
+group = "🏞️ 美利坚高速"
 ruleset = "[]GEOIP,CA,no-resolve"
 
 [[rulesets]]
-group = "🥗 美利坚高速"
+group = "🏞️ 美利坚高速"
 ruleset = "[]GEOIP,US,no-resolve"
 
 [[rulesets]]
