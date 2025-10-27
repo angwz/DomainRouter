@@ -103,7 +103,7 @@ type = "select"
 interval = 397
 lazy = false
 name = "🥝 新加坡高速"
-rule = ["!!GROUPID=0!!(新加坡|新|坡|狮城|SG|sg|Singapore)", "[]🐦‍🔥 香港专线"]
+rule = ["!!GROUPID=0!!(新加坡|新|坡|狮城|SG|sg|Singapore)", "[]🌺 香港高速"]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
@@ -111,7 +111,7 @@ url = "https://www.gstatic.com/generate_204"
 interval = 297
 lazy = false
 name = "🌳 德意志帝国"
-rule = ["!!GROUPID=0!!(Germany|法兰克福|德(国|意志)|中德|^德$)", "[]🐦‍🔥 香港专线"]
+rule = ["!!GROUPID=0!!(Germany|法兰克福|德(国|意志)|中德|^德$)", "[]🌺 香港高速"]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
@@ -121,7 +121,7 @@ lazy = false
 name = "🥗 美利坚高速"
 rule = [
   "!!GROUPID=0!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
-  "[]🐦‍🔥 香港专线",
+  "[]🌺 香港高速",
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
