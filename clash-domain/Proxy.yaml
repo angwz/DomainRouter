@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-28 00:13:12 (UTC+8)
+# UPDATED: 2025-10-29 00:13:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 32489
+# TOTAL: 32491
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5889,6 +5889,7 @@ payload:
   - '+.deeper.com'
   - '+.deepfake-porn.com'
   - '+.deepfakeporn.net'
+  - '+.deepflood.com'
   - '+.deepfreeze.com'
   - '+.deepfreeze.eu'
   - '+.deepfreeze.net'
@@ -23431,6 +23432,7 @@ payload:
   - '+.xshaker.net'
   - '+.xshr.online'
   - '+.xsijishe.com'
+  - '+.xsijishe.net'
   - '+.xskywalker.com'
   - '+.xskywalker.net'
   - '+.xslist.org'

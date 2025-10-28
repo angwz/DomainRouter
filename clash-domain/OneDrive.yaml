@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-28 00:22:23 (UTC+8)
+# UPDATED: 2025-10-29 00:22:32 (UTC+8)
 # TYPE: domain
 # TOTAL: 471
 payload:
@@ -205,6 +205,7 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
+  - 'hificode.in'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -254,6 +255,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'cn.pcfreetime.com'
   - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
@@ -312,12 +314,12 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.highstar.shop'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
-  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-de-2.cutie.dating'
   - 'tracker-udp.gbitt.info'
@@ -340,6 +342,7 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -408,7 +411,6 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
-  - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
@@ -428,11 +430,9 @@ payload:
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
   - 'tracker.uraniumhexafluori.de'
-  - 'tracker.valete.tf'
   - 'tracker.vanitycore.co'
   - 'tracker.waaa.moe'
   - 'tracker.xiaoduola.xyz'
-  - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
