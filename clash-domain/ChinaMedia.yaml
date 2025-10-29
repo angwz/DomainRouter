@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-29 00:22:33 (UTC+8)
+# UPDATED: 2025-10-30 00:22:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 2421
+# TOTAL: 2431
 payload:
   - '+.playstation'
   - '+.sohu'
@@ -407,8 +407,11 @@ payload:
   - '+.hdyxgame.com'
   - '+.heavenlywind.cc'
   - '+.helpshift.com'
+  - '+.hero.com'
   - '+.heroesofdragonage.com'
   - '+.heroesofthestorm.com'
+  - '+.heroesports.com'
+  - '+.herogame.com'
   - '+.hexun.com'
   - '+.hifuntv.com'
   - '+.historyofdota.com'
@@ -474,6 +477,7 @@ payload:
   - '+.jiemian.com'
   - '+.jike.city'
   - '+.jikecdn.com'
+  - '+.joinsquad.com'
   - '+.joyjoy.net'
   - '+.jrjimg.cn'
   - '+.jstucdn.com'
@@ -544,6 +548,7 @@ payload:
   - '+.mahjongcup.com'
   - '+.mahjongcup.net'
   - '+.mail4399.com'
+  - '+.maimai.cn'
   - '+.maoercdn.com'
   - '+.marioandluigidreamteam.com'
   - '+.mariobroswii.com'
@@ -671,6 +676,8 @@ payload:
   - '+.nintendowii.com'
   - '+.ns6mitkxo.cn'
   - '+.nzsiteres.com'
+  - '+.offworldindustries.com'
+  - '+.offworldindustries.net'
   - '+.okjike.com'
   - '+.okjk.co'
   - '+.olympicchannelchina.cn'
@@ -809,6 +816,7 @@ payload:
   - '+.shadowcomplex.com'
   - '+.sharejoytech.com'
   - '+.shihuo.cn'
+  - '+.shyxhy.com'
   - '+.simcity-buildit.com'
   - '+.simcity.com'
   - '+.sina.cn'
@@ -911,6 +919,7 @@ payload:
   - '+.taihe.com'
   - '+.take2games.com'
   - '+.takungpao.com'
+  - '+.taou.com'
   - '+.tapimg.com'
   - '+.tapimg.net'
   - '+.taptap.cn'
@@ -1078,6 +1087,7 @@ payload:
   - '+.yicai.com'
   - '+.yidianliulan.cn'
   - '+.yidianliulan.com'
+  - '+.yingxiong.com'
   - '+.ykimg.com'
   - '+.ynet.cn'
   - '+.ynet.com'
