@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-30 00:22:51 (UTC+8)
+# UPDATED: 2025-10-31 00:26:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 117738
+# TOTAL: 117742
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -46159,7 +46159,10 @@ payload:
   - '+.herllamo.com'
   - '+.hermod1.com'
   - '+.hero-geek.com'
+  - '+.hero.com'
   - '+.herocoming.com'
+  - '+.heroesports.com'
+  - '+.herogame.com'
   - '+.herohr.net'
   - '+.heroic-ltd.com'
   - '+.heroje.com'
@@ -85926,6 +85929,7 @@ payload:
   - '+.shyuzhai.com'
   - '+.shywly.com'
   - '+.shyx-bio.com'
+  - '+.shyxhy.com'
   - '+.shyxi5.com'
   - '+.shyxwz.com'
   - '+.shyy6688.com'

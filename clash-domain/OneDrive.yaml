@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-10-30 00:22:51 (UTC+8)
+# UPDATED: 2025-10-31 00:26:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 471
+# TOTAL: 472
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -205,7 +205,7 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'hificode.in'
+  - 'glotorrents.pw'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -255,7 +255,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'cn.pcfreetime.com'
+  - 'discord.heihachi.pw'
   - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
@@ -270,6 +270,7 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -303,7 +304,6 @@ payload:
   - 't-backup.213891.xyz'
   - 't.213891.xyz'
   - 't.acg.rip'
-  - 't.al.uy'
   - 't.nyaatracker.com'
   - 't.overflow.biz'
   - 't1.aag.moe'
@@ -320,6 +320,7 @@ payload:
   - 'tr.highstar.shop'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
+  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-de-2.cutie.dating'
   - 'tracker-udp.gbitt.info'
@@ -327,7 +328,6 @@ payload:
   - 'tracker.0x7c0.com'
   - 'tracker.1h.is'
   - 'tracker.23794.top'
-  - 'tracker.aburaya.live'
   - 'tracker.alaskantf.com'
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
@@ -381,11 +381,10 @@ payload:
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
-  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
-  - 'tracker.jdx3.org'
   - 'tracker.kamigami.org'
+  - 'tracker.kmzs123.cn'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -411,6 +410,7 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
+  - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
@@ -449,6 +449,7 @@ payload:
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
   - 'trackers.ptlsp.com'
+  - 'trl-zhuqiy.dgj055.icu'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'v74853.hosted-by-vdsina.com'
