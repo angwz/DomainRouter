@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-01 00:12:30 (UTC+8)
+# UPDATED: 2025-11-02 00:10:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 32494
+# TOTAL: 32495
 payload:
   - '+.adult'
   - '+.amazon'
@@ -18699,6 +18699,7 @@ payload:
   - '+.sensualgirls.org'
   - '+.sensualmothers.com'
   - '+.sensueel.net'
+  - '+.sentry.io'
   - '+.senzuritv.net'
   - '+.seqing.one'
   - '+.seqingwangzhan.pro'
@@ -26427,6 +26428,7 @@ payload:
   - '+.dl4d.ac.uk'
   - '+.dlhe.ac.uk'
   - '+.dlib.eastview.com'
+  - '+.dln1.ncdn.ec'
   - '+.dls.ac.uk'
   - '+.dlsite.com.tw'
   - '+.dmgmediaprivacy.co.uk'
@@ -32359,7 +32361,6 @@ payload:
   - '+.ats1.e-timing.ne.jp'
   - '+.bisyoujyogyaruge.topaz.ne.jp'
   - '+.ca.file.myqcloud.com'
-  - '+.disney.my.sentry.io'
   - '+.docs.cfw.lbyczf.com'
   - '+.eq.ccu.edu.tw'
   - '+.gen.lib.rus.ec'

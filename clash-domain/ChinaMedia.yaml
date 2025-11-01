@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-01 00:21:25 (UTC+8)
+# UPDATED: 2025-11-02 00:19:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 2431
+# TOTAL: 2432
 payload:
   - '+.playstation'
   - '+.sohu'
@@ -1128,6 +1128,7 @@ payload:
   - '+.zmzapi.net'
   - '+.zmzfile.com'
   - '+.zqrb.cn'
+  - '+.zuihuimai.com'
   - '+.1.letvlive.com'
   - '+.10jqka.com.cn'
   - '+.2.letvlive.com'
