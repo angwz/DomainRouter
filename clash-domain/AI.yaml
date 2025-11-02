@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-02 00:10:20 (UTC+8)
+# UPDATED: 2025-11-03 00:10:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 172
+# TOTAL: 174
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -125,6 +125,7 @@ payload:
   - '+.challenges.cloudflare.com'
   - '+.chatgpt.livekit.cloud'
   - '+.client-api.arkoselabs.com'
+  - '+.cloudcode-pa.googleapis.com'
   - '+.copilot.microsoft.com'
   - '+.ditu.live.com'
   - '+.events.statsigapi.net'
@@ -146,6 +147,7 @@ payload:
   - '+.openai.com.cdn.cloudflare.net'
   - 'browser-intake-datadoghq.com'
   - 'ai.google.dev'
+  - 'aida.googleapis.com'
   - 'aisandbox-pa.googleapis.com'
   - 'api.github.com'
   - 'api.jetbrains.ai'
