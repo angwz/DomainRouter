@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-04 00:21:56 (UTC+8)
+# UPDATED: 2025-11-05 00:22:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 471
+# TOTAL: 470
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -205,7 +205,6 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'glotorrents.pw'
   - 'hificode.in'
   - 'jutone.com'
   - 'leet-tracker.moe'
@@ -270,8 +269,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
-  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -314,6 +311,7 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.highstar.shop'
@@ -395,10 +393,10 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
+  - 'tracker.pcfreetime.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.playground.ru'
@@ -470,6 +468,7 @@ payload:
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
+  - 'tracker.guguan.dpdns.org'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'

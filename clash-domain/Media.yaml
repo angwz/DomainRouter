@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-04 00:21:57 (UTC+8)
+# UPDATED: 2025-11-05 00:22:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 4414
+# TOTAL: 4416
 payload:
   - '+.bbc'
   - '+.bloomberg'
@@ -497,6 +497,7 @@ payload:
   - '+.falundafamuseum.org'
   - '+.falungong.club'
   - '+.faluninfo.net'
+  - '+.fanfox.net'
   - '+.fantv.hk'
   - '+.fast.com'
   - '+.fawanghuihui.org'
@@ -941,6 +942,7 @@ payload:
   - '+.makaan.com'
   - '+.malayalamanorama.com'
   - '+.mandatewire.com'
+  - '+.mangafox.me'
   - '+.manorama.com'
   - '+.manoramanews.com'
   - '+.manoramaonline.com'
