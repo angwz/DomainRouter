@@ -55,7 +55,7 @@ https://ruleset.skk.moe/Clash/non_ip/apple_cn.txt
 
 https://ruleset.skk.moe/Clash/non_ip/microsoft_cdn.txt
 
-https://ruleset.skk.moe/Clash/domainset/download.txt
+# https://ruleset.skk.moe/Clash/domainset/download.txt
 https://ruleset.skk.moe/Clash/domainset/game-download.txt
 https://ruleset.skk.moe/Clash/non_ip/download.txt
 https://ruleset.skk.moe/Clash/ip/download.txt
