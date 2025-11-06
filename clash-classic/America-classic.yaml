@@ -1,12 +1,13 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-07 00:13:35 (UTC+8)
+# UPDATED: 2025-11-07 00:36:18 (UTC+8)
 # TYPE: classic
-# TOTAL: 5
-# DOMAIN-KEYWORD TOTAL: 2
+# TOTAL: 6
+# DOMAIN-KEYWORD TOTAL: 3
 # PROCESS-NAME TOTAL: 3
 payload:
+  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,adobe
 

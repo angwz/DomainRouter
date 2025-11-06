@@ -1,14 +1,13 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-07 00:13:33 (UTC+8)
+# UPDATED: 2025-11-07 00:36:16 (UTC+8)
 # TYPE: classic
-# TOTAL: 39
-# DOMAIN-KEYWORD TOTAL: 14
+# TOTAL: 38
+# DOMAIN-KEYWORD TOTAL: 13
 # IP-ASN TOTAL: 6
 # PROCESS-NAME TOTAL: 19
 payload:
-  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,nicegram
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
