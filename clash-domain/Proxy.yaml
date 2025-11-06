@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-06 00:13:32 (UTC+8)
+# UPDATED: 2025-11-06 22:02:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 32497
+# TOTAL: 32500
 payload:
   - '+.adult'
   - '+.amazon'
@@ -8170,6 +8170,7 @@ payload:
   - '+.fi11av1.com'
   - '+.fi11tv1.com'
   - '+.fibank.bg'
+  - '+.ficbook.net'
   - '+.ficeboock.com'
   - '+.fictionmania.tv'
   - '+.fifastreet.com'
@@ -9264,6 +9265,8 @@ payload:
   - '+.ggoogle.com'
   - '+.ggpds.com'
   - '+.ggpht.com'
+  - '+.ggsel.com'
+  - '+.ggsel.net'
   - '+.ggsrv.com'
   - '+.ggssl.com'
   - '+.gh.io'
