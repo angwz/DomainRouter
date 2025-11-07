@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-07 00:36:16 (UTC+8)
+# UPDATED: 2025-11-08 00:10:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 181
+# TOTAL: 184
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -27,6 +27,9 @@ payload:
   - '+.chat.com'
   - '+.chatgpt.com'
   - '+.chutes.ai'
+  - '+.cici.com'
+  - '+.ciciai.com'
+  - '+.ciciaicdn.com'
   - '+.claude.ai'
   - '+.claude.com'
   - '+.claudemcpclient.com'
@@ -45,6 +48,9 @@ payload:
   - '+.diabrowser.com'
   - '+.dictate.ms'
   - '+.dify.ai'
+  - '+.dola.com'
+  - '+.elevenlabs.com'
+  - '+.elevenlabs.io'
   - '+.featuregates.org'
   - '+.flipwithsurface.com'
   - '+.gemini.google'
@@ -140,7 +146,6 @@ payload:
   - '+.openaicom.imgix.net'
   - '+.proactivebackend-pa.googleapis.com'
   - '+.robinfrontend-pa.googleapis.com'
-  - '+.smoot.apple.com'
   - '+.turn.livekit.cloud'
   - '+.coderabbit.gallery.vsassets.io'
   - '+.gateway.ai.cloudflare.com'
@@ -161,9 +166,7 @@ payload:
   - 'assets.msn.com'
   - 'cdn.usefathom.com'
   - 'copilot.microsoft.com'
-  - 'cp2.cloudflare.com'
   - 'cp4.cloudflare.com'
-  - 'guzzoni.apple.com'
   - 'in.appcenter.ms'
   - 'jules.google.com'
   - 'location.microsoft.com'
