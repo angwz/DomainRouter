@@ -1,11 +1,11 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-09 00:19:45 (UTC+8)
+# UPDATED: 2025-11-09 03:29:05 (UTC+8)
 # TYPE: classic
-# TOTAL: 12
+# TOTAL: 15
 # DOMAIN-KEYWORD TOTAL: 6
-# PROCESS-NAME TOTAL: 6
+# PROCESS-NAME TOTAL: 9
 payload:
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,qiyi
@@ -20,3 +20,6 @@ payload:
   - PROCESS-NAME,com.bilibili.comic.intl
   - PROCESS-NAME,tv.danmaku.bili
   - PROCESS-NAME,tv.danmaku.bilibilihd
+  - PROCESS-NAME,com.taobao.taobao
+  - PROCESS-NAME,com.xiaomi.mibrain.speech
+  - PROCESS-NAME,小米云服务.exe

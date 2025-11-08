@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-09 00:19:43 (UTC+8)
+# UPDATED: 2025-11-09 03:29:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 282
+# TOTAL: 267
 payload:
   - '+.amazon'
   - '+.aws'
@@ -198,17 +198,6 @@ payload:
   - '+.primevideo.tv'
   - '+.pscdn.co'
   - '+.pv-cdn.net'
-  - '+.redd.it'
-  - '+.reddit.com'
-  - '+.redditblog.com'
-  - '+.reddithelp.com'
-  - '+.redditinc.com'
-  - '+.redditmail.com'
-  - '+.redditmedia.com'
-  - '+.redditspace.com'
-  - '+.redditstatic.com'
-  - '+.redditstatus.com'
-  - '+.reddituploads.com'
   - '+.route53.cn'
   - '+.scdn.co'
   - '+.seattlespheres.com'
@@ -273,14 +262,10 @@ payload:
   - '+.kindleoasis.com.cn'
   - '+.nwcdcloud.com.cn'
   - '+.primeday.com.cn'
-  - '+.reddit.app.link'
   - '+.sagemaker.com.cn'
   - '+.spotify-com.akamaized.net'
   - '+.spotify.app.link'
   - '+.wholefoodsmarket.co.uk'
-  - '+.reddit.map.fastly.net'
-  - '+.reddituploads.com.cdn-cf.behance.net'
-  - '+.reddituploads.com.cdn-cf.dropbox.com'
   - 'audio4-ak-spotify-com.akamaized.net'
   - 'cdn-spotify-experiments.conductrics.com'
   - 'heads-ak-spotify-com.akamaized.net'

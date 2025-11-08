@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-09 00:10:53 (UTC+8)
+# UPDATED: 2025-11-09 03:20:09 (UTC+8)
 # TYPE: domain
-# TOTAL: 8981
+# TOTAL: 8996
 payload:
   - '+.adult'
   - '+.apple'
@@ -6536,6 +6536,17 @@ payload:
   - '+.recelebrity.com'
   - '+.recoiljs.org'
   - '+.redamateurtube.com'
+  - '+.redd.it'
+  - '+.reddit.com'
+  - '+.redditblog.com'
+  - '+.reddithelp.com'
+  - '+.redditinc.com'
+  - '+.redditmail.com'
+  - '+.redditmedia.com'
+  - '+.redditspace.com'
+  - '+.redditstatic.com'
+  - '+.redditstatus.com'
+  - '+.reddituploads.com'
   - '+.redfaptube.com'
   - '+.redgifs.com'
   - '+.redhdtube.xxx'
@@ -8782,6 +8793,7 @@ payload:
   - '+.quicktime.com.au'
   - '+.r-new-sale.blog.jp'
   - '+.r18.clickme.net'
+  - '+.reddit.app.link'
   - '+.redtube.com.br'
   - '+.researchkit.com.cn'
   - '+.secretbabes.co.uk'
@@ -8841,6 +8853,7 @@ payload:
   - '+.gstore.val.manlaxy.com'
   - '+.ip6.static.sl-reverse.com'
   - '+.itunes.com.edgekey.net'
+  - '+.reddit.map.fastly.net'
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'
   - '+.st.dl.pinyuncloud.com'
@@ -8854,6 +8867,8 @@ payload:
   - '+.steamstatic.com.8686c.com'
   - '+.edge.steam-dns.top.comcast.net'
   - '+.ls.apple.com.edgesuite.net'
+  - '+.reddituploads.com.cdn-cf.behance.net'
+  - '+.reddituploads.com.cdn-cf.dropbox.com'
   - '+.steam.cdn.orcon.net.nz'
   - '+.steam.cdn.slingshot.co.nz'
   - '+.store.apple.com.edgekey.net'
