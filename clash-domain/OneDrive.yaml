@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-08 00:19:47 (UTC+8)
+# UPDATED: 2025-11-09 00:19:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 473
+# TOTAL: 467
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -268,7 +268,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -299,7 +298,6 @@ payload:
   - 'run.publictracker.xyz'
   - 'share.hkg-fansub.info'
   - 't-115.rhcloud.com'
-  - 't-backup.213891.xyz'
   - 't.213891.xyz'
   - 't.acg.rip'
   - 't.nyaatracker.com'
@@ -311,9 +309,6 @@ payload:
   - 'tk.greedland.net'
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
-  - 'tr-rh-zhuqiy.dgj055.icu'
-  - 'tr-zhuqiy-1.dgj055.icu'
-  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -322,6 +317,7 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr4ck3r.duckdns.org'
+  - 'tracker-de-2.cutie.dating'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
@@ -341,6 +337,7 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -383,7 +380,6 @@ payload:
   - 'tracker.istole.it'
   - 'tracker.jamesthebard.net'
   - 'tracker.kamigami.org'
-  - 'tracker.kmzs123.cn'
   - 'tracker.ktxp.com'
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
@@ -396,7 +392,6 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -471,7 +466,6 @@ payload:
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
-  - 'tracker.home.kmzs123.cn'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-08 00:10:55 (UTC+8)
+# UPDATED: 2025-11-09 00:10:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 32527
+# TOTAL: 32528
 payload:
   - '+.adult'
   - '+.amazon'
@@ -27923,6 +27923,7 @@ payload:
   - '+.ilthe.ac.uk'
   - '+.imac.co.nz'
   - '+.image-guided-therapies.ac.uk'
+  - '+.images.prismic.io'
   - '+.imageworkshop.ac.uk'
   - '+.imems.ac.uk'
   - '+.imet.ac.uk'
