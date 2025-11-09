@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-09 03:29:05 (UTC+8)
+# UPDATED: 2025-11-10 00:19:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 5034
+# TOTAL: 5036
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -3714,6 +3714,7 @@ payload:
   - '+.e-engine.com.cn'
   - '+.eaassets-a.akamaihd.net'
   - '+.eakorea.co.kr'
+  - '+.egdownload.fastly-edge.com'
   - '+.ewindcloud.com.cn'
   - '+.fe-cdn.huami.com'
   - '+.fe-static.huami.com'
@@ -3835,6 +3836,7 @@ payload:
   - '+.ppstream.net.cn'
   - '+.prd-priconne-redive.akamaized.net'
   - '+.prestodb.net.cn'
+  - '+.qiyukf.net.cn'
   - '+.qqmusic.qq.com'
   - '+.qqvideo.gtimg.com'
   - '+.riotgames.co.kr'
