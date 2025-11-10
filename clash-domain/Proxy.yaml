@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-10 00:10:31 (UTC+8)
+# UPDATED: 2025-11-11 00:13:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 32528
+# TOTAL: 32530
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5301,6 +5301,8 @@ payload:
   - '+.coedcherry.com'
   - '+.cofacts.tw'
   - '+.coffeemanga.to'
+  - '+.cohere.ai'
+  - '+.cohere.com'
   - '+.coin2co.in'
   - '+.coinalyze.net'
   - '+.coinbase.com'

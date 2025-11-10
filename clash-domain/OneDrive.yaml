@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-10 00:19:33 (UTC+8)
+# UPDATED: 2025-11-11 00:22:29 (UTC+8)
 # TYPE: domain
 # TOTAL: 467
 payload:
@@ -260,6 +260,7 @@ payload:
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
   - 'home.yxgz.club'
+  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -268,7 +269,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -298,6 +298,7 @@ payload:
   - 'run.publictracker.xyz'
   - 'share.hkg-fansub.info'
   - 't-115.rhcloud.com'
+  - 't-backup.213891.xyz'
   - 't.213891.xyz'
   - 't.acg.rip'
   - 't.nyaatracker.com'
@@ -316,6 +317,7 @@ payload:
   - 'tr.highstar.shop'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
+  - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-de-2.cutie.dating'
   - 'tracker-udp.gbitt.info'
@@ -337,7 +339,6 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -392,6 +393,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -421,7 +423,6 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
@@ -470,5 +471,4 @@ payload:
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
-  - 'yuki.bt.bontal.net'
   - 'tracker1.bt.moack.co.kr'

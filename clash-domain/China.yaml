@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-10 00:19:32 (UTC+8)
+# UPDATED: 2025-11-11 00:22:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 117742
+# TOTAL: 117740
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -52721,7 +52721,6 @@ payload:
   - '+.infertilitybridge.com'
   - '+.infimotion.com'
   - '+.infineon-autoeco.com'
-  - '+.infineon.com'
   - '+.infini-ai.com'
   - '+.infinisign.com'
   - '+.infinitescript.com'
@@ -92519,7 +92518,6 @@ payload:
   - '+.thzu.cc'
   - '+.ti-node.com'
   - '+.ti-solar.com'
-  - '+.ti.com'
   - '+.ti0s.com'
   - '+.tiamaes.com'
   - '+.tian-gang.com'

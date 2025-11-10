@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-10 00:10:35 (UTC+8)
+# UPDATED: 2025-11-11 00:13:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 185
+# TOTAL: 187
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -38,6 +38,8 @@ payload:
   - '+.cloudflareinsights.com'
   - '+.cms-twdigitalassets.com'
   - '+.coderabbit.ai'
+  - '+.cohere.ai'
+  - '+.cohere.com'
   - '+.cursor-cdn.com'
   - '+.cursor.com'
   - '+.cursor.sh'
