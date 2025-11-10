@@ -17,6 +17,18 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+group = "🐰 兔"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Speed.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🐰 兔"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Speed-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
 group = "🗨️ ChatGPT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/AI.yaml"
 type = "clash-domain"
