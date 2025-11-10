@@ -38,7 +38,7 @@ type = "select"
 
 [[custom_groups]]
 name = "📧 Google"
-rule = ["[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]🚀 香港极速", "[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -65,6 +65,17 @@ type = "select"
 name = "🐳 漏网の鱼"
 rule = ["[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
+
+[[custom_groups]]
+interval = 77
+lazy = false
+name = "🚀 香港极速"
+rule = [
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*(IEPL|IPLC)).*$)",
+  "[]🌺 日本专线",
+]
+type = "fallback"
+url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
 interval = 97

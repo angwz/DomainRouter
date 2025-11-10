@@ -28,13 +28,14 @@ SRC-PORT,9993
 2607:8700:5500:7f2a::/64
 
 # Aliyun
+8.137.63.0/24
+2408:4006:113a:e000::/64
+
 47.83.31.0/24
 240b:4001:15c:5900::/64
 
 8.212.183.0/24
 240b:4007:e:500::/64
-
-106.15.89.0/24
 
 # Tencent Cloud
 101.35.79.0/24
@@ -147,8 +148,6 @@ https://ruleset.skk.moe/Clash/ip/telegram.txt
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloud/CloudGlobal/CloudGlobal.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/azure.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/DNS/DNS.list
-
 
 # Meta
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/facebook.yaml
@@ -177,6 +176,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 # Reddit
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/reddit.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Reddit/Reddit.list
+
+
+
+[Speed]
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/DNS/DNS.list
+
 
 
 [AI]
@@ -516,6 +522,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 [Rules]
 Direct: DIRECT
+Speed: 🚀 香港极速
 AI: 🗨️ ChatGPT
 TikTok: 📱 TikTok
 Bilibili: 🍰 哔哩哔哩
