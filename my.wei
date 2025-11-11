@@ -1,7 +1,10 @@
 [Direct]
+bandwagonhost.com
 infini-cloud.net
 teracloud.jp
 ai-yyds.com
+bigchick.io
+dmit.io
 lala.gg
 
 
@@ -107,6 +110,11 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-game-platforms-download%40cn.yaml
 
+# Oracle
+
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/oracle.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Oracle/Oracle.list
+
 
 
 [Proxy]
@@ -126,12 +134,9 @@ plex.tv
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/alibaba%40!cn.yaml
 
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-porn.yaml
 
-
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-bank-cn%40!cn.yaml
 
 # Cloudflare
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.yaml
@@ -182,6 +187,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 [Speed]
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/DNS/DNS.list
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-bank-cn%40!cn.yaml
 
 
 
