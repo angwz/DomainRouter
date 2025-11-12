@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-12 00:44:16 (UTC+8)
+# UPDATED: 2025-11-13 00:13:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 2220
+# TOTAL: 2225
 payload:
   - '+.citic'
   - '+.icbc'
@@ -257,6 +257,7 @@ payload:
   - '+.frontjs.com'
   - '+.funjsq.com'
   - '+.gamepass.com'
+  - '+.geforce.cn'
   - '+.ggkuai.com'
   - '+.gijsq.com'
   - '+.gitbook.cn'
@@ -274,6 +275,7 @@ payload:
   - '+.golinkcn.com'
   - '+.goproxy.cn'
   - '+.goproxy.io'
+  - '+.gputechconf.cn'
   - '+.gtarsc.com'
   - '+.guaiku.com'
   - '+.hailuoai.com'
@@ -332,6 +334,7 @@ payload:
   - '+.icbkus.com'
   - '+.incopat.com'
   - '+.infini-cloud.net'
+  - '+.intel.cn'
   - '+.iteye.com'
   - '+.java.com'
   - '+.java.net'
@@ -398,6 +401,7 @@ payload:
   - '+.noi.cn'
   - '+.nomachine.com'
   - '+.nssd.cn'
+  - '+.nvidia.cn'
   - '+.nwcdcloud.cn'
   - '+.nwcddns.cn'
   - '+.nwcdinfosec.cn'
@@ -1912,6 +1916,7 @@ payload:
   - 'changyang.live.cjyun.org'
   - 'client.hikarifield.co.jp'
   - 'cm.wshls.homecdn.com'
+  - 'cn.download.nvidia.com'
   - 'cstv.live.wscdns.com'
   - 'cstvpull.live.wscdns.com'
   - 'ctt.rgd.com.cn'

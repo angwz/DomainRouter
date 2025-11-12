@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-12 00:53:43 (UTC+8)
+# UPDATED: 2025-11-13 00:23:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 2522
+# TOTAL: 2521
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -1186,7 +1186,6 @@ payload:
   - '+.starlakelab.com'
   - '+.stor-helper.com'
   - '+.sundaydragon.com'
-  - '+.supercell.com'
   - '+.supercellcommunity.cn'
   - '+.supercellsupport.cn'
   - '+.superfix.cn'

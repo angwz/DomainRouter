@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-12 00:44:57 (UTC+8)
+# UPDATED: 2025-11-13 00:14:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 32530
+# TOTAL: 32563
 payload:
   - '+.adult'
   - '+.amazon'
@@ -12622,7 +12622,27 @@ payload:
   - '+.karupsha.com'
   - '+.karupspc.com'
   - '+.kaspersky-labs.com'
+  - '+.kaspersky.be'
+  - '+.kaspersky.ca'
   - '+.kaspersky.com'
+  - '+.kaspersky.cz'
+  - '+.kaspersky.de'
+  - '+.kaspersky.dk'
+  - '+.kaspersky.dz'
+  - '+.kaspersky.es'
+  - '+.kaspersky.fi'
+  - '+.kaspersky.fr'
+  - '+.kaspersky.gr'
+  - '+.kaspersky.it'
+  - '+.kaspersky.kz'
+  - '+.kaspersky.ma'
+  - '+.kaspersky.my'
+  - '+.kaspersky.nl'
+  - '+.kaspersky.pt'
+  - '+.kaspersky.ro'
+  - '+.kaspersky.rs'
+  - '+.kaspersky.ru'
+  - '+.kaspersky.se'
   - '+.kastatic.org'
   - '+.kat.cr'
   - '+.katestube.com'
@@ -28187,6 +28207,19 @@ payload:
   - '+.kagyuoffice.org.tw'
   - '+.kakao.co.kr'
   - '+.kanald.com.tr'
+  - '+.kaspersky.co.in'
+  - '+.kaspersky.co.jp'
+  - '+.kaspersky.co.kr'
+  - '+.kaspersky.co.th'
+  - '+.kaspersky.co.uk'
+  - '+.kaspersky.co.za'
+  - '+.kaspersky.com.au'
+  - '+.kaspersky.com.br'
+  - '+.kaspersky.com.hk'
+  - '+.kaspersky.com.pl'
+  - '+.kaspersky.com.tr'
+  - '+.kaspersky.com.tw'
+  - '+.kaspersky.com.vn'
   - '+.kbplus.ac.uk'
   - '+.kcb.ac.uk'
   - '+.kcc.ac.uk'

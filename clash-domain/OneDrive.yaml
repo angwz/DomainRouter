@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-12 00:53:43 (UTC+8)
+# UPDATED: 2025-11-13 00:23:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 467
+# TOTAL: 464
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -260,7 +260,6 @@ payload:
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
   - 'home.yxgz.club'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -269,6 +268,7 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -310,6 +310,9 @@ payload:
   - 'tk.greedland.net'
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
+  - 'tr-rh-zhuqiy.dgj055.icu'
+  - 'tr-zhuqiy-1.dgj055.icu'
+  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -371,7 +374,6 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.hifimarket.in'
-  - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -393,7 +395,6 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -408,12 +409,10 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
-  - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
   - 'tracker.startwork.cv'
-  - 'tracker.t-1.org'
   - 'tracker.t-rb.org'
   - 'tracker.tamersunion.org'
   - 'tracker.tfile.me'
@@ -423,6 +422,7 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
+  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
@@ -456,10 +456,6 @@ payload:
   - 'www.torrentsnipe.info'
   - 'www.wareztorrent.com'
   - 'yolo.liberbear.com'
-  - '1.tracker.eu.org'
-  - '2.tracker.eu.org'
-  - '3.tracker.eu.org'
-  - '4.tracker.eu.org'
   - 'anna.bt.bontal.net'
   - 'd40969.acod.regrucolo.ru'
   - 'h4.trakx.nibba.trade'
@@ -469,6 +465,7 @@ payload:
   - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
+  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
   - 'tracker1.bt.moack.co.kr'

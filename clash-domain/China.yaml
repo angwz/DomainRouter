@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-12 00:53:43 (UTC+8)
+# UPDATED: 2025-11-13 00:23:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 117740
+# TOTAL: 117739
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -73798,7 +73798,6 @@ payload:
   - '+.oohdear.com'
   - '+.ooiii.com'
   - '+.oojsq.com'
-  - '+.ooklaserver.net'
   - '+.oolap.com'
   - '+.oomake.com'
   - '+.oonne.com'

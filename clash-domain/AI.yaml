@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-12 00:45:01 (UTC+8)
+# UPDATED: 2025-11-13 00:14:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 187
+# TOTAL: 183
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -163,13 +163,9 @@ payload:
   - 'api.msn.com'
   - 'api.revenuecat.com'
   - 'api.statsig.com'
-  - 'apple-relay.apple.com'
-  - 'apple-relay.cloudflare.com'
-  - 'apple-relay.fastly-edge.com'
   - 'assets.msn.com'
   - 'cdn.usefathom.com'
   - 'copilot.microsoft.com'
-  - 'cp4.cloudflare.com'
   - 'in.appcenter.ms'
   - 'jules.google.com'
   - 'location.microsoft.com'
