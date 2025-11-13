@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-13 00:23:01 (UTC+8)
+# UPDATED: 2025-11-14 00:22:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 967
+# TOTAL: 964
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -261,7 +261,6 @@ payload:
   - '+.cookicut.com'
   - '+.corari.com'
   - '+.coze.cn'
-  - '+.coze.com'
   - '+.coze.site'
   - '+.cozebaas.cn'
   - '+.cozefn.cn'
@@ -527,7 +526,6 @@ payload:
   - '+.maoercdn.com'
   - '+.maoxiangai.com'
   - '+.marscode.cn'
-  - '+.marscode.com'
   - '+.mcbaas.work'
   - '+.mcbbs.net'
   - '+.mcdemo.show'
@@ -701,7 +699,6 @@ payload:
   - '+.tr-test-ali.net'
   - '+.tr-test.net'
   - '+.tr-testboe.net'
-  - '+.trae.ai'
   - '+.trae.cn'
   - '+.trae.guru'
   - '+.ttbyte.cn'

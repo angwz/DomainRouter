@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-13 00:14:14 (UTC+8)
+# UPDATED: 2025-11-14 00:13:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 8911
+# TOTAL: 8898
 payload:
   - '+.adult'
   - '+.apple'
@@ -1269,6 +1269,7 @@ payload:
   - '+.bbwyoyo.info'
   - '+.bcicdn.com'
   - '+.bcrncdn.com'
+  - '+.bcvcdn.com'
   - '+.bcy01.com'
   - '+.bdsm-mov.net'
   - '+.bdsm.com'
@@ -1611,6 +1612,7 @@ payload:
   - '+.between-legs.com'
   - '+.beurettesvideo.com'
   - '+.bffshd.com'
+  - '+.bgicdn.com'
   - '+.bhggn.xyz'
   - '+.bhzyk.buzz'
   - '+.bhzyw2.top'
@@ -6536,17 +6538,6 @@ payload:
   - '+.recelebrity.com'
   - '+.recoiljs.org'
   - '+.redamateurtube.com'
-  - '+.redd.it'
-  - '+.reddit.com'
-  - '+.redditblog.com'
-  - '+.reddithelp.com'
-  - '+.redditinc.com'
-  - '+.redditmail.com'
-  - '+.redditmedia.com'
-  - '+.redditspace.com'
-  - '+.redditstatic.com'
-  - '+.redditstatus.com'
-  - '+.reddituploads.com'
   - '+.redfaptube.com'
   - '+.redgifs.com'
   - '+.redhdtube.xxx'
@@ -8793,7 +8784,6 @@ payload:
   - '+.quicktime.com.au'
   - '+.r-new-sale.blog.jp'
   - '+.r18.clickme.net'
-  - '+.reddit.app.link'
   - '+.redtube.com.br'
   - '+.researchkit.com.cn'
   - '+.secretbabes.co.uk'
@@ -8853,7 +8843,6 @@ payload:
   - '+.gstore.val.manlaxy.com'
   - '+.ip6.static.sl-reverse.com'
   - '+.itunes.com.edgekey.net'
-  - '+.reddit.map.fastly.net'
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'
   - '+.st.dl.pinyuncloud.com'
@@ -8867,8 +8856,6 @@ payload:
   - '+.steamstatic.com.8686c.com'
   - '+.edge.steam-dns.top.comcast.net'
   - '+.ls.apple.com.edgesuite.net'
-  - '+.reddituploads.com.cdn-cf.behance.net'
-  - '+.reddituploads.com.cdn-cf.dropbox.com'
   - '+.steam.cdn.orcon.net.nz'
   - '+.steam.cdn.slingshot.co.nz'
   - '+.store.apple.com.edgekey.net'

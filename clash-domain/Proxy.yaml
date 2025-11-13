@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-13 00:14:10 (UTC+8)
+# UPDATED: 2025-11-14 00:13:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 32563
+# TOTAL: 32571
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1018,6 +1018,7 @@ payload:
   - '+.afappyending.com'
   - '+.afewmomentswith.com'
   - '+.affect3dstore.com'
+  - '+.affinity.studio'
   - '+.affirmtrust.com'
   - '+.afkv28.com'
   - '+.aflamporn.com'
@@ -3225,6 +3226,7 @@ payload:
   - '+.bffshd.com'
   - '+.bfnn.org'
   - '+.bfsh.hk'
+  - '+.bgicdn.com'
   - '+.bgm.tv'
   - '+.bgme.me'
   - '+.bgov.com'
@@ -4536,6 +4538,7 @@ payload:
   - '+.canonical.com'
   - '+.canonproprinters.com'
   - '+.cantonese.asia'
+  - '+.canva.com'
   - '+.canyu.org'
   - '+.cao.im'
   - '+.caobian.info'
@@ -9669,6 +9672,7 @@ payload:
   - '+.googleblog.com'
   - '+.googlebot.com'
   - '+.googlecapital.com'
+  - '+.googlecensorship.org'
   - '+.googlecert.net'
   - '+.googlechinawebmaster.com'
   - '+.googlecode.com'
@@ -9798,6 +9802,7 @@ payload:
   - '+.great-roc.org'
   - '+.greatergothammini.com'
   - '+.greatfire.org'
+  - '+.greatfirevpn.com'
   - '+.greatfirewall.biz'
   - '+.greatfirewallofchina.net'
   - '+.greatfirewallofchina.org'
@@ -15263,6 +15268,7 @@ payload:
   - '+.nentindo.net'
   - '+.neo-miracle.com'
   - '+.neoforged.net'
+  - '+.neovim.io'
   - '+.neow.in'
   - '+.neowin.net'
   - '+.nepusoku.com'
@@ -24253,6 +24259,7 @@ payload:
   - '+.zeit.sh'
   - '+.zeitworld.com'
   - '+.zello.com'
+  - '+.zen-browser.app'
   - '+.zen8ok.xyz'
   - '+.zencdn.net'
   - '+.zencoder.com'
@@ -32426,6 +32433,7 @@ payload:
   - '+.zoho.com.au'
   - '+.zoonoses.ac.uk'
   - '+.zoonosis.ac.uk'
+  - '+.affinity.api.serifservices.com'
   - '+.ats1.e-timing.ne.jp'
   - '+.bisyoujyogyaruge.topaz.ne.jp'
   - '+.ca.file.myqcloud.com'

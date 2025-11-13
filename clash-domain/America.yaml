@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-13 00:14:16 (UTC+8)
+# UPDATED: 2025-11-14 00:13:51 (UTC+8)
 # TYPE: domain
-# TOTAL: 7336
+# TOTAL: 7337
 payload:
   - '+.intel'
   - '+.java'
@@ -945,6 +945,7 @@ payload:
   - '+.nature.com'
   - '+.naturemag.org'
   - '+.nejm.org'
+  - '+.neovim.io'
   - '+.nervanasys.com'
   - '+.neurology.org'
   - '+.nevex.com'

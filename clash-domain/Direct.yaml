@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-13 00:13:29 (UTC+8)
+# UPDATED: 2025-11-14 00:13:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 2225
+# TOTAL: 2221
 payload:
   - '+.citic'
   - '+.icbc'
@@ -196,7 +196,6 @@ payload:
   - '+.covid19-rx.org'
   - '+.covid19rx.org'
   - '+.coze.cn'
-  - '+.coze.com'
   - '+.coze.site'
   - '+.cozebaas.cn'
   - '+.cozefn.cn'
@@ -362,7 +361,6 @@ payload:
   - '+.lxjiasu.com'
   - '+.maoxiangai.com'
   - '+.marscode.cn'
-  - '+.marscode.com'
   - '+.mbalib.com'
   - '+.mcbaas.work'
   - '+.mcdemo.show'
@@ -500,7 +498,7 @@ payload:
   - '+.tidb.net'
   - '+.tidbcloud.com'
   - '+.tikv.org'
-  - '+.tipdim.org'
+  - '+.tipdm.org'
   - '+.tjstats.com'
   - '+.tmjiasuqi.com'
   - '+.tokyotrial.cn'
@@ -509,7 +507,6 @@ payload:
   - '+.tplinkwifi.net'
   - '+.tplogin.cn'
   - '+.tracup.com'
-  - '+.trae.ai'
   - '+.trae.cn'
   - '+.trae.guru'
   - '+.ts.net'
@@ -566,7 +563,6 @@ payload:
   - '+.xitu.io'
   - '+.xuexi365.com'
   - '+.xuexi365.net'
-  - '+.xueyuanjun.com'
   - '+.xunyou.com'
   - '+.xwbank.com'
   - '+.xxtmail.com'
