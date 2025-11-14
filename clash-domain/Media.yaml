@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-14 00:22:44 (UTC+8)
+# UPDATED: 2025-11-15 00:22:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 4416
+# TOTAL: 4419
 payload:
   - '+.bbc'
   - '+.bloomberg'
@@ -1623,7 +1623,6 @@ payload:
   - '+.voxmedia.com'
   - '+.voxops.net'
   - '+.vtvan.com'
-  - '+.vudu.com'
   - '+.waa.tw'
   - '+.wanokokorosoh.com'
   - '+.want-media.com'
@@ -2324,12 +2323,15 @@ payload:
   - 'thtg.vn'
   - 'tiquiciatv.com'
   - 'trk555.tv'
+  - 'tubi.tv'
+  - 'tubitv.com'
   - 'tv7plus.com'
   - 'tvdatta.com'
   - 'tvretropalmares.com'
   - 'tvstreaming.cl'
   - 'ventdelnord.tv'
   - 'videohd.live'
+  - 'vudu.com'
   - 'webtvmonacoinfo.mc'
   - 'wowzacontrol.com'
   - 'wpso.com'
@@ -2527,6 +2529,7 @@ payload:
   - 'appletree-mytimespain-rakuten.amagi.tv'
   - 'asdiuhiu12.myvodu.app'
   - 'asylum-stirr.amagi.tv'
+  - 'athome.fandango.com'
   - 'audiolive.rbc.cn'
   - 'autopilot.catcast.tv'
   - 'ax.micaesoft.com'

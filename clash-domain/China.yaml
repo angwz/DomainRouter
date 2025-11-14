@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-14 00:22:42 (UTC+8)
+# UPDATED: 2025-11-15 00:21:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 117739
+# TOTAL: 117754
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -27021,6 +27021,7 @@ payload:
   - '+.cztv.cc'
   - '+.cztv.com'
   - '+.cztv.tv'
+  - '+.cztvcdn.com'
   - '+.cztvcloud.com'
   - '+.cztzkg.com'
   - '+.czur.com'
@@ -117691,6 +117692,7 @@ payload:
   - '19183.live.streamtheworld.com'
   - '22283.live.streamtheworld.com'
   - '22393.live.streamtheworld.com'
+  - 'activate.activation-v2.kaspersky.com'
   - 'antvlive.ab5c6921.cdnviet.com'
   - 'beacons.gcp.gvt2.com'
   - 'cast.news98.com.tw'
@@ -117701,6 +117703,18 @@ payload:
   - 'file.mb.leshantv.net'
   - 'httpdvb.slave.ttcatv.tv'
   - 'init.ess.apple.com'
+  - 'ksn-cinfo.geoksn.kaspersky.com'
+  - 'ksn-crypto-wifiplus.geoksn.kaspersky.com'
+  - 'ksn-dc1-cert.geoksn.kaspersky.com'
+  - 'ksn-dc1-file.geoksn.kaspersky.com'
+  - 'ksn-dc1.geoksn.kaspersky.com'
+  - 'ksn-file.geoksn.kaspersky.com'
+  - 'ksn-info.geoksn.kaspersky.com'
+  - 'ksn-kas.geoksn.kaspersky.com'
+  - 'ksn-mdr.geoksn.kaspersky.com'
+  - 'ksn-tcert.geoksn.kaspersky.com'
+  - 'ksn-url.geoksn.kaspersky.com'
+  - 'ksn-verdict.geoksn.kaspersky.com'
   - 'live.ugratv.cdnvideo.ru'
   - 'm3u8.channel.luzhoubs.com'
   - 'm3u8.channel.yatv.tv'
@@ -117720,6 +117734,7 @@ payload:
   - 'redirector.gcpcdn.gvt1.com'
   - 'redirector.offline-maps.gvt1.com'
   - 'redirector.snap.gvt1.com'
+  - 'refresh-bkg.activation-v2.kaspersky.com'
   - 'si.cdn.dell.com'
   - 'slive.ytn.co.kr'
   - 'snp.cdn.dell.com'
