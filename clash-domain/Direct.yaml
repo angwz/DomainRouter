@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-15 00:12:21 (UTC+8)
+# UPDATED: 2025-11-16 00:09:44 (UTC+8)
 # TYPE: domain
 # TOTAL: 2221
 payload:
@@ -72,7 +72,6 @@ payload:
   - '+.baltamatica.cn'
   - '+.baltamatica.com'
   - '+.baltamatica.net'
-  - '+.bandwagonhost.com'
   - '+.bank-of-china.com'
   - '+.bankcomm.com'
   - '+.bankofchina.com'
@@ -1364,6 +1363,7 @@ payload:
   - 'jzlive.jztvnews.com'
   - 'kaixianlive.cbg.cn'
   - 'kcrw.streamguys1.com'
+  - 'kiwivm.64clouds.com'
   - 'kjzz.streamguys1.com'
   - 'klmyyun.chinavas.com'
   - 'klmyzb.rcsxzx.com'

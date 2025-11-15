@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-15 00:13:08 (UTC+8)
+# UPDATED: 2025-11-16 00:10:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 7337
+# TOTAL: 7339
 payload:
   - '+.intel'
   - '+.java'
@@ -613,6 +613,7 @@ payload:
   - '+.ieeeusa.org'
   - '+.igi-global.com'
   - '+.igpublish.com'
+  - '+.imageglass.org'
   - '+.imagineecommerce.com'
   - '+.imf.org'
   - '+.imperialbusiness.school'
@@ -927,6 +928,7 @@ payload:
   - '+.movidius.net'
   - '+.movidius.org'
   - '+.mpg.de'
+  - '+.mpv.io'
   - '+.msdn.com'
   - '+.msinnovationchallenge.com'
   - '+.mspairlift.com'

@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-15 00:13:06 (UTC+8)
+# UPDATED: 2025-11-16 00:10:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 8898
+# TOTAL: 8899
 payload:
   - '+.adult'
   - '+.apple'
@@ -1243,6 +1243,7 @@ payload:
   - '+.banan.tv'
   - '+.banatfun.com'
   - '+.bandgirlz.com'
+  - '+.bandwagonhost.com'
   - '+.bang-movies.com'
   - '+.bangbros.com'
   - '+.bangbrosnetwork.com'
