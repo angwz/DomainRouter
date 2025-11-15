@@ -1,10 +1,8 @@
 [Direct]
 infini-cloud.net
 teracloud.jp
-ai-yyds.com
 bigchick.io
 dmit.io
-lala.gg
 
 
 DST-PORT,9993
@@ -52,6 +50,9 @@ SRC-PORT,9993
 2a12:bec0:165:8016::/64
 
 
+kiwivm.64clouds.com
+ai-yyds.com
+lala.gg
 596743944.top
 
 
