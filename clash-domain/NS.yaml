@@ -1,0 +1,8 @@
+# NAME: NS
+# AUTHOR: Angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2025-11-16 14:14:22 (UTC+8)
+# TYPE: domain
+# TOTAL: 1
+payload:
+  - '+.nodeseek.com'

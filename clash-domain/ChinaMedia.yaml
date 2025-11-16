@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-16 00:19:21 (UTC+8)
+# UPDATED: 2025-11-16 14:23:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 5020
+# TOTAL: 5022
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -2171,6 +2171,7 @@ payload:
   - '+.jomodns.cn'
   - '+.jomodns.com'
   - '+.jomodns.net'
+  - '+.jomoxc.com'
   - '+.joybuy.com'
   - '+.joybuy.es'
   - '+.joyjoy.net'
@@ -3604,6 +3605,7 @@ payload:
   - '+.zealer.com'
   - '+.zenlesszonezero.com'
   - '+.zggbdszt.cn'
+  - '+.zhichanli.com'
   - '+.zhihu.com'
   - '+.zhimg.com'
   - '+.zhinvnetwork.com'
