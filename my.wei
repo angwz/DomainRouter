@@ -37,6 +37,8 @@ SRC-PORT,9993
 8.212.183.0/24
 240b:4007:e:500::/64
 
+106.15.89.0/24
+
 # Tencent Cloud
 101.35.79.0/24
 2402:4e00:c032:8500::/64
@@ -129,12 +131,21 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 
 
+[NS]
+nodeseek.com
+
+
+
 [Angwz]
 '+.hk'
 bandwagonhost.com
 zerotier.com
 plex.tv
 
+nodequality.com
+nodehatch.com
+
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nodeseek.yaml
 
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/alibaba%40!cn.yaml
@@ -294,7 +305,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 [America]
 '+.us'
-nodeseek.com
 
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/USMedia/USMedia.list
@@ -547,25 +557,26 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 [Rules]
 Direct: DIRECT
 Speed: 🐰 兔
+NS: 🏖️ Community
 AI: 🗨️ ChatGPT
 TikTok: 📱 TikTok
-Bilibili: 🍰 哔哩哔哩
+Bilibili: 📺 哔哩哔哩
 Tencent: DIRECT
 Netflix: 🎬 Netflix
-YouTube: 🖥️ YouTube
-Google: 📧 Google
+YouTube: 💻 YouTube
+Google: 📩 Google
 Japan: 🌺 日本专线
-Germany: 🍺 德意志帝国
+Germany: 🏗️ 德意志帝国
 Angwz: 🌠 节点选择
 America: 🏞️ 美利坚高速
-Singapore: 🛳️ 新加坡高速
+Singapore: 🎡 新加坡高速
 ChinaMedia: DIRECT
 OneDrive: ⛅ OneDrive
 Microsoft: 🪟 Microsoft
-Media: 🌍 国际流媒体
+Media: 🌌 国际流媒体
 GEOIP,CLOUDFLARE: 🌠 节点选择,no-resolve
 GEOIP,JP: 🌺 日本专线,no-resolve
-GEOIP,SG: 🛳️ 新加坡高速,no-resolve
+GEOIP,SG: 🎡 新加坡高速,no-resolve
 GEOIP,CA: 🏞️ 美利坚高速,no-resolve
 GEOIP,US: 🏞️ 美利坚高速,no-resolve
 GEOIP,HK: 🌠 节点选择,no-resolve
