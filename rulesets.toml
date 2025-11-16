@@ -29,6 +29,12 @@ type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
+group = "🏖️ Community"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/NS.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
 group = "🗨️ ChatGPT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/AI.yaml"
 type = "clash-domain"
@@ -59,19 +65,19 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🍰 哔哩哔哩"
+group = "📺 哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Bilibili.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🍰 哔哩哔哩"
+group = "📺 哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Bilibili-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🍰 哔哩哔哩"
+group = "📺 哔哩哔哩"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Bilibili-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -113,37 +119,37 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🖥️ YouTube"
+group = "💻 YouTube"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/YouTube.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🖥️ YouTube"
+group = "💻 YouTube"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/YouTube-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🖥️ YouTube"
+group = "💻 YouTube"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/YouTube-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "📧 Google"
+group = "📩 Google"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Google.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "📧 Google"
+group = "📩 Google"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Google-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "📧 Google"
+group = "📩 Google"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Google-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -167,19 +173,19 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🍺 德意志帝国"
+group = "🏗️ 德意志帝国"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Germany.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🍺 德意志帝国"
+group = "🏗️ 德意志帝国"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Germany-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🍺 德意志帝国"
+group = "🏗️ 德意志帝国"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Germany-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -215,13 +221,13 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🛳️ 新加坡高速"
+group = "🎡 新加坡高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🛳️ 新加坡高速"
+group = "🎡 新加坡高速"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Singapore-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
@@ -275,19 +281,19 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🌍 国际流媒体"
+group = "🌌 国际流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Media.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌍 国际流媒体"
+group = "🌌 国际流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Media-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🌍 国际流媒体"
+group = "🌌 国际流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Media-classic.yaml"
 type = "clash-classic"
 interval = 21600
@@ -301,7 +307,7 @@ group = "🌺 日本专线"
 ruleset = "[]GEOIP,JP,no-resolve"
 
 [[rulesets]]
-group = "🛳️ 新加坡高速"
+group = "🎡 新加坡高速"
 ruleset = "[]GEOIP,SG,no-resolve"
 
 [[rulesets]]
