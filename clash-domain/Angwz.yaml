@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-16 14:14:26 (UTC+8)
+# UPDATED: 2025-11-17 00:10:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 8924
+# TOTAL: 8926
 payload:
   - '+.adult'
   - '+.apple'
@@ -5607,6 +5607,7 @@ payload:
   - '+.namemybeats.com'
   - '+.namethatporn.com'
   - '+.namethatpornad.com'
+  - '+.nametra.de'
   - '+.nan-net.com'
   - '+.naoconto.com'
   - '+.napiszex.com'
@@ -5706,6 +5707,7 @@ payload:
   - '+.nlsexfilmpjes.com'
   - '+.nlt-media.com'
   - '+.nodehatch.com'
+  - '+.nodeimage.com'
   - '+.nodequality.com'
   - '+.nodeseek.com'
   - '+.noisullifb.com'
