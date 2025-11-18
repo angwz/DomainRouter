@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-18 00:14:07 (UTC+8)
+# UPDATED: 2025-11-19 00:13:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 27090
+# TOTAL: 27091
 payload:
   - '+.adult'
   - '+.amazon'
@@ -14517,6 +14517,7 @@ payload:
   - '+.mixvintagesex.com'
   - '+.mixx.com'
   - '+.mizzmona.com'
+  - '+.mjj.rip'
   - '+.mjv-art.org'
   - '+.mk5000.com'
   - '+.mkt.com'
