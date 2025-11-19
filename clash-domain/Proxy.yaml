@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-19 00:13:53 (UTC+8)
+# UPDATED: 2025-11-20 00:13:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 27091
+# TOTAL: 27092
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1079,6 +1079,7 @@ payload:
   - '+.ahxxx.club'
   - '+.ai-kan.net'
   - '+.ai-wen.net'
+  - '+.ai.dev'
   - '+.ai7995.site'
   - '+.ai91porn.cc'
   - '+.aiaa.org'
