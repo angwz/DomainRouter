@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-20 00:22:44 (UTC+8)
+# UPDATED: 2025-11-21 00:22:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 473
+# TOTAL: 468
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -235,7 +235,6 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
-  - 'admin.52ywp.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -254,7 +253,6 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
@@ -269,6 +267,8 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns-1.x-fins.com'
+  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -311,6 +311,7 @@ payload:
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
   - 'tr-rh-zhuqiy.dgj055.icu'
+  - 'tr-zhuqiy-1.dgj055.icu'
   - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
@@ -338,12 +339,9 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.cangku.moe'
-  - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.corpscorp.online'
@@ -375,7 +373,6 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.hifimarket.in'
-  - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -397,7 +394,6 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
-  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -476,5 +472,4 @@ payload:
   - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
-  - 'yuki.bt.bontal.net'
   - 'tracker1.bt.moack.co.kr'

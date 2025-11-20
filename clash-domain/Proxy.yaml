@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-20 00:13:53 (UTC+8)
+# UPDATED: 2025-11-21 00:13:17 (UTC+8)
 # TYPE: domain
-# TOTAL: 27092
+# TOTAL: 27096
 payload:
   - '+.adult'
   - '+.amazon'
@@ -13131,6 +13131,7 @@ payload:
   - '+.libgen.rs'
   - '+.libgen.st'
   - '+.liboggirls.net'
+  - '+.library-access.sk'
   - '+.library.lol'
   - '+.libraryinformationtechnology.com'
   - '+.librarylovefest.com'
@@ -14184,6 +14185,7 @@ payload:
   - '+.mihua.org'
   - '+.miitomo.com'
   - '+.miiverse.com'
+  - '+.mij.rip'
   - '+.mikanani.me'
   - '+.mikesoltys.com'
   - '+.mikocon.com'
@@ -14518,6 +14520,7 @@ payload:
   - '+.mixvintagesex.com'
   - '+.mixx.com'
   - '+.mizzmona.com'
+  - '+.mji.rip'
   - '+.mjj.rip'
   - '+.mjv-art.org'
   - '+.mk5000.com'
@@ -23439,6 +23442,7 @@ payload:
   - '+.xn--80aaazx1an0a.lol'
   - '+.xn--8uq428d76d.tokyo'
   - '+.xn--90wwvt03e.com'
+  - '+.xn--9iqy04a7fi01l.com'
   - '+.xn--9kr7l.com'
   - '+.xn--9pr62r24a.com'
   - '+.xn--9trs65b.com'
