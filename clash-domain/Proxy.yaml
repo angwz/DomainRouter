@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-21 00:13:17 (UTC+8)
+# UPDATED: 2025-11-22 00:12:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 27096
+# TOTAL: 27099
 payload:
   - '+.adult'
   - '+.amazon'
@@ -311,6 +311,7 @@ payload:
   - '+.21pron.com'
   - '+.21sextury.com'
   - '+.21vv.cc'
+  - '+.22112211.xyz'
   - '+.233abc.com'
   - '+.233v2.com'
   - '+.2371tom.com'
@@ -15775,7 +15776,9 @@ payload:
   - '+.nobel.se'
   - '+.nobelprize.org'
   - '+.nobodycanstop.us'
+  - '+.nodeimage.com'
   - '+.nodejs.org'
+  - '+.nodequality.com'
   - '+.nodeseek.com'
   - '+.nodesnoop.com'
   - '+.nodesource.com'
