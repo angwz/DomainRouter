@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-22 00:21:46 (UTC+8)
+# UPDATED: 2025-11-23 00:19:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 468
+# TOTAL: 470
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -199,12 +199,12 @@ payload:
   - 'buny.uk'
   - 'burmese.app'
   - 'ch3oh.ru'
-  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
+  - 'hificode.in'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -235,6 +235,8 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
+  - 'admin.52ywp.com'
+  - 'asiatorrent.giize.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -320,7 +322,6 @@ payload:
   - 'tr.highstar.shop'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
-  - 'tr.zukizuki.org'
   - 'tr3.ysagin.top'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-de-2.cutie.dating'
@@ -342,6 +343,7 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
+  - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.corpscorp.online'
@@ -373,6 +375,7 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.hifimarket.in'
+  - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -472,4 +475,3 @@ payload:
   - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
-  - 'tracker1.bt.moack.co.kr'
