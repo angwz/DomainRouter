@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-23 00:10:57 (UTC+8)
+# UPDATED: 2025-11-24 00:11:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 27099
+# TOTAL: 27111
 payload:
   - '+.adult'
   - '+.amazon'
@@ -857,6 +857,7 @@ payload:
   - '+.addtoany.com'
   - '+.addyoutube.com'
   - '+.adelaidebbs.com'
+  - '+.adfox.ru'
   - '+.adgoogle.net'
   - '+.adguard-dns.com'
   - '+.adguard-dns.io'
@@ -887,6 +888,7 @@ payload:
   - '+.adidas.se'
   - '+.adinst.com'
   - '+.admeld.com'
+  - '+.admetrica.ru'
   - '+.admob-cn.com'
   - '+.admob.com'
   - '+.adobe-aemassets-value.com'
@@ -10347,6 +10349,7 @@ payload:
   - '+.heyzo.com'
   - '+.hf-iphone.com'
   - '+.hf.co'
+  - '+.hf.space'
   - '+.hg.cool'
   - '+.hgamer.pro'
   - '+.hgsacx.com'
@@ -15206,6 +15209,7 @@ payload:
   - '+.namgyal.org'
   - '+.namgyalmonastery.org'
   - '+.namsisi.com'
+  - '+.namu.wiki'
   - '+.nan-net.com'
   - '+.nanonamad.com'
   - '+.nanopool.org'
@@ -16935,6 +16939,7 @@ payload:
   - '+.picpost.com'
   - '+.pics.ee'
   - '+.pics.vc'
+  - '+.picsart.com'
   - '+.picsee.co'
   - '+.picsee.pro'
   - '+.pictoa.com'
@@ -22797,6 +22802,8 @@ payload:
   - '+.webtoons.com'
   - '+.webtoonscorp.com'
   - '+.webtype.com'
+  - '+.webvisor.com'
+  - '+.webvisor.org'
   - '+.webwarper.net'
   - '+.webworkerdaily.com'
   - '+.wechatlawsuit.com'
@@ -23788,6 +23795,7 @@ payload:
   - '+.yaddal.tv'
   - '+.yadi.sk'
   - '+.yadori.club'
+  - '+.yads.tech'
   - '+.yaeby.info'
   - '+.yaeby.pro'
   - '+.yahoo.ae'
@@ -23890,6 +23898,7 @@ payload:
   - '+.yamoon.club'
   - '+.yande.re'
   - '+.yandex-bank.net'
+  - '+.yandex-team.ru'
   - '+.yandex.aero'
   - '+.yandex.az'
   - '+.yandex.by'
@@ -23919,6 +23928,7 @@ payload:
   - '+.yandexadexchange.net'
   - '+.yandexcloud.net'
   - '+.yandexcom.net'
+  - '+.yandexmetrica.com'
   - '+.yandexwebcache.org'
   - '+.yanghengjun.com'
   - '+.yangjianli.com'
@@ -23934,6 +23944,7 @@ payload:
   - '+.yarininsuyu.com'
   - '+.yarnpkg.com'
   - '+.yasarang.net'
+  - '+.yastat.net'
   - '+.yastatic.net'
   - '+.yatong.info'
   - '+.yavtube.com'
@@ -25780,6 +25791,7 @@ payload:
   - '+.kingstone.com.tw'
   - '+.kinki.co.jp'
   - '+.kinmen.org.tw'
+  - '+.kinopoisk-ru.clstorage.net'
   - '+.kitakyushubank.co.jp'
   - '+.kiyobank.co.jp'
   - '+.kk-whys.co.jp'
