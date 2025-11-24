@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-24 00:11:03 (UTC+8)
+# UPDATED: 2025-11-25 00:11:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 27111
+# TOTAL: 27113
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1081,6 +1081,7 @@ payload:
   - '+.ahvideosexe.com'
   - '+.ahxxx.club'
   - '+.ai-kan.net'
+  - '+.ai-sdk.dev'
   - '+.ai-wen.net'
   - '+.ai.dev'
   - '+.ai7995.site'
@@ -16366,6 +16367,7 @@ payload:
   - '+.origin.tv'
   - '+.originalhulu.com'
   - '+.originalindianporn.com'
+  - '+.originlab.com'
   - '+.orithegame.com'
   - '+.orkut.com'
   - '+.orl.ly'
