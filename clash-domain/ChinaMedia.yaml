@@ -1,14 +1,13 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-25 00:20:18 (UTC+8)
+# UPDATED: 2025-11-26 00:22:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 5023
+# TOTAL: 5031
 payload:
   - '+.alibaba'
   - '+.alipay'
   - '+.baidu'
-  - '+.geekpark'
   - '+.playstation'
   - '+.sohu'
   - '+.taobao'
@@ -838,6 +837,7 @@ payload:
   - '+.cheng.xin'
   - '+.chicalot.cn'
   - '+.chillingo.com'
+  - '+.chinaaet.com'
   - '+.chinabnet.cn'
   - '+.chinaepg.cn'
   - '+.chinalive.com'
@@ -974,6 +974,7 @@ payload:
   - '+.cooldock.com'
   - '+.corari.com'
   - '+.cowlevel.net'
+  - '+.cqcb.com'
   - '+.cqhimalayanky.com'
   - '+.crysis.jp'
   - '+.cs-eval.com'
@@ -1269,6 +1270,7 @@ payload:
   - '+.forzaracingchampionship.com'
   - '+.forzarc.com'
   - '+.fpxyo.cn'
+  - '+.freebuf.com'
   - '+.freshhema.com'
   - '+.freshippo.com'
   - '+.frostbite.com'
@@ -1315,6 +1317,7 @@ payload:
   - '+.gdbnet.cn'
   - '+.gdtianshanoa.com'
   - '+.gdtimg.com'
+  - '+.geekpark.net'
   - '+.genshinimpact.com'
   - '+.gfdwsx.com'
   - '+.gfnormal00aa.com'
@@ -1834,6 +1837,7 @@ payload:
   - '+.hitv.com'
   - '+.hiu58.cn'
   - '+.hkgcloudcs.com'
+  - '+.hntv.tv'
   - '+.hongmeiti.cn'
   - '+.hongmeiti.com'
   - '+.hongmeiti.net'
@@ -2015,6 +2019,7 @@ payload:
   - '+.iqiyiedge.net'
   - '+.iqiyipic.com'
   - '+.iqtianshanmw.com'
+  - '+.iresearch.cn'
   - '+.isvjcloud.com'
   - '+.isvjd.com'
   - '+.iswg.cn'
@@ -2778,6 +2783,7 @@ payload:
   - '+.qiandunvpn.com'
   - '+.qianqian.com'
   - '+.qianxun.com'
+  - '+.qianzhan.com'
   - '+.qingdaonews.com'
   - '+.qingtingtrip.com'
   - '+.qingzhouip.com'
@@ -2961,6 +2967,7 @@ payload:
   - '+.seaofsolitude.com'
   - '+.searchcraft.cn'
   - '+.searchtb.com'
+  - '+.secrss.com'
   - '+.seeurlpcl.com'
   - '+.sehimalayanqj.com'
   - '+.sg.cn'
@@ -2970,6 +2977,7 @@ payload:
   - '+.sgyeyou.com'
   - '+.sgyouxi.com'
   - '+.shadowcomplex.com'
+  - '+.shangyexinzhi.com'
   - '+.shanhaitujian.com'
   - '+.sharejoytech.com'
   - '+.shenjing.com'

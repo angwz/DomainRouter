@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-25 00:11:20 (UTC+8)
+# UPDATED: 2025-11-26 00:13:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 27113
+# TOTAL: 27108
 payload:
   - '+.adult'
   - '+.amazon'
-  - '+.and'
+  - '+.android'
   - '+.apple'
   - '+.aws'
   - '+.azure'
@@ -17,7 +17,6 @@ payload:
   - '+.bmw'
   - '+.bridgestone'
   - '+.canon'
-  - '+.cbs'
   - '+.cern'
   - '+.chrome'
   - '+.cisco'
@@ -43,8 +42,6 @@ payload:
   - '+.intuit'
   - '+.java'
   - '+.kindle'
-  - '+.mcd'
-  - '+.mcdonalds'
   - '+.microsoft'
   - '+.mini'
   - '+.mit'
@@ -57,13 +54,11 @@ payload:
   - '+.playstation'
   - '+.porn'
   - '+.samsung'
-  - '+.showtime'
   - '+.sky'
   - '+.skype'
   - '+.softbank'
   - '+.sony'
   - '+.target'
-  - '+.theguardian'
   - '+.volvo'
   - '+.walmart'
   - '+.weather'

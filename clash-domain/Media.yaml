@@ -1,17 +1,14 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-25 00:20:16 (UTC+8)
+# UPDATED: 2025-11-26 00:22:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 4419
+# TOTAL: 4416
 payload:
   - '+.bbc'
   - '+.bloomberg'
-  - '+.cbs'
   - '+.fox'
-  - '+.showtime'
   - '+.sky'
-  - '+.theguardian'
   - '+.youtube'
   - '+.112263.com'
   - '+.20thcenturystudios.jp'
