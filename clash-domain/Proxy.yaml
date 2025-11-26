@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-26 00:13:55 (UTC+8)
+# UPDATED: 2025-11-27 00:13:03 (UTC+8)
 # TYPE: domain
 # TOTAL: 27108
 payload:
@@ -14826,7 +14826,6 @@ payload:
   - '+.ms365surfaceoffer.com'
   - '+.ms4dre.com'
   - '+.msa-it.org'
-  - '+.msads.net'
   - '+.msauth.net'
   - '+.mschallenge2018.com'
   - '+.msdn.com'
@@ -18826,6 +18825,7 @@ payload:
   - '+.sensualgirls.org'
   - '+.sensualmothers.com'
   - '+.sensueel.net'
+  - '+.sentry-cdn.com'
   - '+.sentry.io'
   - '+.senzuritv.net'
   - '+.seqing.one'

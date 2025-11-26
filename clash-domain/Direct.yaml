@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-26 00:13:13 (UTC+8)
+# UPDATED: 2025-11-27 00:12:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 2225
+# TOTAL: 2226
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1905,6 +1905,7 @@ payload:
   - 'antvlive.ab5c6921.cdnviet.com'
   - 'aod.xjbs.com.cn'
   - 'api.smoot.apple.cn'
+  - 'appleintelligencefeedback.care.apple.com'
   - 'baidu.live.cqccn.com'
   - 'cast.news98.com.tw'
   - 'cast.uforadio.com.tw'

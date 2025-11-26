@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-26 00:22:36 (UTC+8)
+# UPDATED: 2025-11-27 00:21:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 463
+# TOTAL: 465
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -265,9 +265,9 @@ payload:
   - 'ipv4announce.sktorrent.eu'
   - 'ipv6.rer.lol'
   - 'isk.richardsw.club'
+  - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns-1.x-fins.com'
   - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -305,10 +305,10 @@ payload:
   - 't1.aag.moe'
   - 't1.hloli.org'
   - 'tamas3.ynh.fr'
-  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
+  - 'tr-rh-zhuqiy.dgj055.icu'
   - 'tr-zhuqiy-1.dgj055.icu'
   - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
@@ -318,7 +318,7 @@ payload:
   - 'tr.highstar.shop'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
-  - 'tr3.ysagin.top'
+  - 'tr.zukizuki.org'
   - 'tr4ck3r.duckdns.org'
   - 'tracker-de-2.cutie.dating'
   - 'tracker-udp.gbitt.info'
@@ -333,6 +333,7 @@ payload:
   - 'tracker.beeimg.com'
   - 'tracker.belmult.online'
   - 'tracker.birkenwald.de'
+  - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bt-hash.com'
@@ -406,8 +407,8 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
+  - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
-  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
   - 'tracker.startwork.cv'
@@ -466,5 +467,6 @@ payload:
   - 'torrent.tracker.durukanbal.com'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
+  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'

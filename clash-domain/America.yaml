@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-26 00:13:59 (UTC+8)
+# UPDATED: 2025-11-27 00:13:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 1781
+# TOTAL: 1782
 payload:
   - '+.android'
   - '+.intel'
@@ -1319,6 +1319,7 @@ payload:
   - '+.securepaypal.info'
   - '+.semanticscholar.org'
   - '+.sensorynetworks.com'
+  - '+.sentry-cdn.com'
   - '+.sentry.io'
   - '+.serialssolutions.com'
   - '+.serverfault.com'

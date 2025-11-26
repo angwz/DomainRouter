@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-26 00:22:38 (UTC+8)
+# UPDATED: 2025-11-27 00:21:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 5031
+# TOTAL: 5023
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -3777,9 +3777,6 @@ payload:
   - '+.i.ipinyou.com'
   - '+.i.qq.com'
   - '+.illusion.co.jp'
-  - '+.img.taotaosou.cn'
-  - '+.img01.taotaosou.cn'
-  - '+.imp.optaim.com'
   - '+.ipanda.com.cn'
   - '+.iptv.gd.cn'
   - '+.iqiyi.demo.uwp'
@@ -3912,7 +3909,6 @@ payload:
   - '+.v.qq.com'
   - '+.v.smtcdns.com'
   - '+.v1d.szbdyd.com'
-  - '+.v2.reachmax.cn'
   - '+.vds.com.cn'
   - '+.video.qq.com'
   - '+.videos-rockstargames-com.akamaized.net'
@@ -3942,7 +3938,6 @@ payload:
   - '+.zol.com.cn'
   - '+.zuk.com.cn'
   - '+.zygbdszt.net.cn'
-  - '+.adimages.sina.com.hk'
   - '+.api.game.letvstore.com'
   - '+.blizzard.nefficient.co.kr'
   - '+.cdp.cloud.unity3d.com'
@@ -3954,7 +3949,6 @@ payload:
   - '+.gstore.val.manlaxy.com'
   - '+.hz.tbusergw.taobao.net'
   - '+.music.tc.qq.com'
-  - '+.oascentral.sina.com.hk'
   - '+.qsb.browser.miui.srv'
   - '+.rj.m.taobao.co'
   - '+.st.dl.bscstorage.net'
@@ -3968,11 +3962,9 @@ payload:
   - '+.steam.ru.qtlglb.com'
   - '+.steampowered.com.8686c.com'
   - '+.steamstatic.com.8686c.com'
-  - '+.uat1.bfsspadserver.8le8le.com'
   - '+.ubisoft-orbit-savegames.s3.amazonaws.com'
   - '+.ubisoft-uplay-savegames.s3.amazonaws.com'
   - '+.xiaomi.open.qingting.fm'
-  - '+.dl-vip.pcfaster.baidu.co.th'
   - '+.edge.steam-dns.top.comcast.net'
   - '+.hz.pre.tbusergw.taobao.net'
   - '+.lenovo.com.cdn.cloudflare.net'
