@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-27 00:13:03 (UTC+8)
+# UPDATED: 2025-11-28 00:12:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 27108
+# TOTAL: 27110
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1233,6 +1233,7 @@ payload:
   - '+.akiba-web.com'
   - '+.akinator.com'
   - '+.akow.org'
+  - '+.akstat.io'
   - '+.akthelp.com'
   - '+.al-islam.com'
   - '+.al-qimmah.net'
@@ -23920,6 +23921,7 @@ payload:
   - '+.yandex.sx'
   - '+.yandex.tj'
   - '+.yandex.tm'
+  - '+.yandex.tr'
   - '+.yandex.ua'
   - '+.yandex.uz'
   - '+.yandexadexchange.net'
