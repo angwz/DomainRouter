@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-28 00:21:42 (UTC+8)
+# UPDATED: 2025-11-29 00:20:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 5035
+# TOTAL: 5048
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -193,6 +193,8 @@ payload:
   - '+.adigifactory.com'
   - '+.adl163.com'
   - '+.admin5.com'
+  - '+.ae-rus.net'
+  - '+.aestatic.net'
   - '+.agconnect.link'
   - '+.ahd.so'
   - '+.aianno.cn'
@@ -262,6 +264,7 @@ payload:
   - '+.alidns.com'
   - '+.alidns.net'
   - '+.alidz.net'
+  - '+.aliexpress-media.com'
   - '+.aliexpress.com'
   - '+.aliexpress.ru'
   - '+.alifanyi.com'
@@ -2822,6 +2825,9 @@ payload:
   - '+.qy.net'
   - '+.r8zc9.cn'
   - '+.radgametools.com'
+  - '+.rblx.org'
+  - '+.rbx.com'
+  - '+.rbxcdn.com'
   - '+.rdcnzz.com'
   - '+.realcybertron.com'
   - '+.realityscan.com'
@@ -2844,7 +2850,9 @@ payload:
   - '+.rmwxgame.com'
   - '+.ro.com'
   - '+.roblox.cn'
+  - '+.roblox.com'
   - '+.robloxdev.cn'
+  - '+.robloxlabs.com'
   - '+.roborecall.com'
   - '+.rocketmq.cloud'
   - '+.rockstargames.com'
@@ -3876,6 +3884,7 @@ payload:
   - '+.qqvideo.gtimg.com'
   - '+.riotgames.co.kr'
   - '+.riotgames.zendesk.com'
+  - '+.roblox-api.arkoselabs.co'
   - '+.roblox.qq.com'
   - '+.roco.qq.com'
   - '+.s.zampdsp.com'
@@ -4095,6 +4104,7 @@ payload:
   - 'cinb1.peoplevideo.cn'
   - 'cnpull.sccnfb.com'
   - 'czlive.czgd.tv'
+  - 'd1unuk07s6td74.cloudfront.net'
   - 'd9af5a60.edmonst.net'
   - 'dayeyun-live21.cjyun.org'
   - 'dazulive.cbg.cn'
@@ -4927,6 +4937,7 @@ payload:
   - 'qichun.live.cjyun.org'
   - 'qmmqvzoz.live.sxmty.com'
   - 'r.gslb.lecloud.com'
+  - 'robloxcorp.s.llnwi.net'
   - 'slive.ytn.co.kr'
   - 'stream.fhtv.net.cn'
   - 'stream.gsqytv.com.cn'
@@ -5019,6 +5030,8 @@ payload:
   - 'pili-live-hls.poyang.jxxw.com.cn'
   - 'pl1.cloud.dayang.com.cn'
   - 'prodforza.blob.core.windows.net'
+  - 'roblox-load-generator-configuration.s3.us-east-2.amazonaws.com'
+  - 'roblox-poc.global.ssl.fastly.net'
   - 'shbu.live.bestvcdn.com.cn'
   - 'steamcloudsweden.blob.core.windows.net'
   - 'steamcommunity-a.akamaihd.net.edgesuite.net'

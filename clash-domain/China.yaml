@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-28 00:21:39 (UTC+8)
+# UPDATED: 2025-11-29 00:20:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 117908
+# TOTAL: 117912
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -25585,6 +25585,7 @@ payload:
   - '+.cqshyzx.com'
   - '+.cqsifang.com'
   - '+.cqsj365.com'
+  - '+.cqsjb.com'
   - '+.cqsjbc.com'
   - '+.cqsjky.com'
   - '+.cqsjnzx.com'
@@ -102953,6 +102954,7 @@ payload:
   - '+.xhkt.tv'
   - '+.xhlaowu.com'
   - '+.xhlcsl.com'
+  - '+.xhlsgs.com'
   - '+.xhma.com'
   - '+.xhmedia.com'
   - '+.xhmwxy.com'
@@ -104477,6 +104479,7 @@ payload:
   - '+.xinwenku.com'
   - '+.xinwenlianbo.tv'
   - '+.xinwo.com'
+  - '+.xinwuji.com'
   - '+.xinwulan.com'
   - '+.xinxe.com'
   - '+.xinxi28.com'
@@ -109526,6 +109529,7 @@ payload:
   - '+.yokacdn.com'
   - '+.yokagames.com'
   - '+.yokaimg.com'
+  - '+.yokaverse.com'
   - '+.yokechina.com'
   - '+.yokmob.com'
   - '+.yokong.com'

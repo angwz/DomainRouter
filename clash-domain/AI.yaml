@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-28 00:12:48 (UTC+8)
+# UPDATED: 2025-11-29 00:12:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 188
+# TOTAL: 192
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -40,6 +40,9 @@ payload:
   - '+.coderabbit.ai'
   - '+.cohere.ai'
   - '+.cohere.com'
+  - '+.comfy.org'
+  - '+.comfyci.org'
+  - '+.comfyregistry.org'
   - '+.coze.com'
   - '+.cursor-cdn.com'
   - '+.cursor.com'
@@ -90,6 +93,7 @@ payload:
   - '+.openai.com'
   - '+.openart.ai'
   - '+.openrouter.ai'
+  - '+.oystermercury.top'
   - '+.periscope.tv'
   - '+.perplexity.ai'
   - '+.perplexity.com'

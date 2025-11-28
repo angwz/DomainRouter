@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-28 00:12:44 (UTC+8)
+# UPDATED: 2025-11-29 00:12:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 27110
+# TOTAL: 27122
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1011,6 +1011,7 @@ payload:
   - '+.adwords.com'
   - '+.adwordsexpress.com'
   - '+.adx.promo'
+  - '+.ae-rus.net'
   - '+.ae.org'
   - '+.aeasyshop.com'
   - '+.aebn.com'
@@ -1021,6 +1022,7 @@ payload:
   - '+.aerogardcn.com'
   - '+.aerospace-cadcam.com'
   - '+.aerospace-design.com'
+  - '+.aestatic.net'
   - '+.aesworkshops.com'
   - '+.aex.com'
   - '+.af.mil'
@@ -5374,6 +5376,9 @@ payload:
   - '+.comefromchina.com'
   - '+.cometotheduckside.com'
   - '+.comffvpn.com'
+  - '+.comfy.org'
+  - '+.comfyci.org'
+  - '+.comfyregistry.org'
   - '+.comic-mega.me'
   - '+.comicbox.xyz'
   - '+.comico.tw'
@@ -16452,6 +16457,7 @@ payload:
   - '+.oyax.com'
   - '+.oyeloca.com'
   - '+.oyghan.com'
+  - '+.oystermercury.top'
   - '+.ozchinese.com'
   - '+.ozeex.com'
   - '+.ozodi.org'
@@ -18123,12 +18129,15 @@ payload:
   - '+.rbeuroinfo.com'
   - '+.rbgrads.com'
   - '+.rbgraduates.com'
+  - '+.rblx.org'
   - '+.rbmavericks.com'
   - '+.rbnainternational.com'
   - '+.rbplc.com'
   - '+.rbrandlibrary.com'
   - '+.rbsgr.com'
   - '+.rbspeakup.com'
+  - '+.rbx.com'
+  - '+.rbxcdn.com'
   - '+.rcinet.ca'
   - '+.rcl07.xyz'
   - '+.rclon.com'
@@ -18401,6 +18410,8 @@ payload:
   - '+.ro89.com'
   - '+.road-crew.com'
   - '+.roadshow.hk'
+  - '+.roblox.com'
+  - '+.robloxlabs.com'
   - '+.robobat.com'
   - '+.roboforex.com'
   - '+.roboform.com'
@@ -26290,6 +26301,7 @@ payload:
   - '+.resonabank.co.jp'
   - '+.rimg.com.tw'
   - '+.riotgames.co.kr'
+  - '+.roblox-api.arkoselabs.co'
   - '+.roblox.qq.com'
   - '+.roco.qq.com'
   - '+.rthk.org.hk'

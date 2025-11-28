@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-28 00:12:48 (UTC+8)
+# UPDATED: 2025-11-29 00:12:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 8927
+# TOTAL: 8929
 payload:
   - '+.adult'
   - '+.apple'
@@ -477,8 +477,10 @@ payload:
   - '+.adultvideotop.com'
   - '+.adultvirtualworlds.net'
   - '+.advancediddetection.com'
+  - '+.ae-rus.net'
   - '+.aeasyshop.com'
   - '+.aebn.com'
+  - '+.aestatic.net'
   - '+.afappyending.com'
   - '+.affect3dstore.com'
   - '+.afkv28.com'
