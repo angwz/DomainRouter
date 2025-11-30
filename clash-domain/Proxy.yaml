@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-30 00:11:13 (UTC+8)
+# UPDATED: 2025-12-01 00:11:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 27123
+# TOTAL: 27126
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16137,6 +16137,8 @@ payload:
   - '+.okex.com'
   - '+.okk.tw'
   - '+.okkisokuho.com'
+  - '+.okko.sport'
+  - '+.okko.tv'
   - '+.okpool.me'
   - '+.okx-dns.com'
   - '+.okx-dns1.com'
@@ -17089,6 +17091,7 @@ payload:
   - '+.playerjs.io'
   - '+.playfab.com'
   - '+.playfabapi.com'
+  - '+.playfamily.ru'
   - '+.playforceone.com'
   - '+.playhearthstone.com'
   - '+.playmation.com'

@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-11-30 00:19:53 (UTC+8)
+# UPDATED: 2025-12-01 00:20:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 463
+# TOTAL: 467
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -254,6 +254,7 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
+  - 'discord.heihachi.pw'
   - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
@@ -268,6 +269,7 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -304,6 +306,7 @@ payload:
   - 't1.aag.moe'
   - 't1.hloli.org'
   - 'tamas3.ynh.fr'
+  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
@@ -338,7 +341,6 @@ payload:
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -362,6 +364,7 @@ payload:
   - 'tracker.fatkhoala.org'
   - 'tracker.filemail.com'
   - 'tracker.files.fm'
+  - 'tracker.flatuslifir.is'
   - 'tracker.fnix.net'
   - 'tracker.foreverpirates.co'
   - 'tracker.gbitt.info'
@@ -373,6 +376,7 @@ payload:
   - 'tracker.hifimarket.in'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iochimari.moe'
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
@@ -406,6 +410,7 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
+  - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
@@ -450,7 +455,6 @@ payload:
   - 'u.peer-exchange.download'
   - 'v74853.hosted-by-vdsina.com'
   - 'wg.mortis.me'
-  - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
