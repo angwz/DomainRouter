@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-01 00:10:45 (UTC+8)
+# UPDATED: 2025-12-02 00:14:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 2226
+# TOTAL: 2229
 payload:
   - '+.citic'
   - '+.icbc'
@@ -370,6 +370,8 @@ payload:
   - '+.mcmod.cn'
   - '+.mcprev.cn'
   - '+.medicexam.net'
+  - '+.meta.law'
+  - '+.metaso.cn'
   - '+.miaoyanai.com'
   - '+.microsoftreactor.cn'
   - '+.mindspore.cn'
@@ -562,6 +564,7 @@ payload:
   - '+.xboxservices.com'
   - '+.xboxstudios.com'
   - '+.xbx.lv'
+  - '+.xiezuocat.com'
   - '+.xingyeai.com'
   - '+.xitu.io'
   - '+.xuexi365.com'

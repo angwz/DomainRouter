@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-01 00:11:26 (UTC+8)
+# UPDATED: 2025-12-02 00:15:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 27126
+# TOTAL: 27129
 payload:
   - '+.adult'
   - '+.amazon'
@@ -13289,6 +13289,7 @@ payload:
   - '+.lizhizhuangbi.com'
   - '+.lkcn.net'
   - '+.ll82y2ifdd.top'
+  - '+.llama.com'
   - '+.llbd10.shop'
   - '+.llcaoxm-avi.sbs'
   - '+.lldns.net'
@@ -21378,6 +21379,7 @@ payload:
   - '+.turbobit.net'
   - '+.turbogvideos.com'
   - '+.turbohide.com'
+  - '+.turbopages.org'
   - '+.turborepo.org'
   - '+.turbotax.com'
   - '+.turbotwitter.com'
@@ -24328,6 +24330,7 @@ payload:
   - '+.zannel.com'
   - '+.zaobao.com'
   - '+.zaobao.sg'
+  - '+.zaochenbao.com'
   - '+.zaozon.com'
   - '+.zapper.fi'
   - '+.zapto.org'

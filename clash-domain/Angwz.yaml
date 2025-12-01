@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-01 00:11:30 (UTC+8)
+# UPDATED: 2025-12-02 00:15:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 8929
+# TOTAL: 8930
 payload:
   - '+.adult'
   - '+.apple'
@@ -5011,6 +5011,7 @@ payload:
   - '+.livexxx.me'
   - '+.lizardporn.com'
   - '+.ll82y2ifdd.top'
+  - '+.llama.com'
   - '+.llbd10.shop'
   - '+.llcaoxm-avi.sbs'
   - '+.lliusno.com'
