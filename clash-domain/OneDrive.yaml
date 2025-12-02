@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-02 00:23:49 (UTC+8)
+# UPDATED: 2025-12-03 00:23:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 467
+# TOTAL: 465
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -204,7 +204,6 @@ payload:
   - 'epider.me'
   - 'evan.im'
   - 'explodie.org'
-  - 'hificode.in'
   - 'jutone.com'
   - 'leet-tracker.moe'
   - 'martin-gebhardt.eu'
@@ -254,13 +253,13 @@ payload:
   - 'bubu.mapfactor.com'
   - 'bvarf.tracker.sh'
   - 'canardscitrons.nohost.me'
-  - 'discord.heihachi.pw'
   - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
   - 'home.yxgz.club'
+  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -269,7 +268,6 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
-  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -310,9 +308,6 @@ payload:
   - 'tk.greedland.net'
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
-  - 'tr-rh-zhuqiy.dgj055.icu'
-  - 'tr-zhuqiy-1.dgj055.icu'
-  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -328,6 +323,7 @@ payload:
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker.0x7c0.com'
   - 'tracker.1h.is'
+  - 'tracker.23794.top'
   - 'tracker.alaskantf.com'
   - 'tracker.anima.nz'
   - 'tracker.artixlinux.org'
@@ -335,9 +331,9 @@ payload:
   - 'tracker.beeimg.com'
   - 'tracker.belmult.online'
   - 'tracker.birkenwald.de'
+  - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
-  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -396,6 +392,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
+  - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
@@ -455,6 +452,7 @@ payload:
   - 'u.peer-exchange.download'
   - 'v74853.hosted-by-vdsina.com'
   - 'wg.mortis.me'
+  - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
@@ -467,8 +465,8 @@ payload:
   - 'public.tracker.vraphim.com'
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
+  - 'tracker.guguan.dpdns.org'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
-  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
