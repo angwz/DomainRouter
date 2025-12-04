@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-04 00:24:18 (UTC+8)
+# UPDATED: 2025-12-05 00:23:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 2521
+# TOTAL: 2522
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -1065,6 +1065,7 @@ payload:
   - '+.roblox.cn'
   - '+.robloxdev.cn'
   - '+.romzj.com'
+  - '+.rongshuxia.com'
   - '+.rootjl.com'
   - '+.rtxapp.com'
   - '+.rtxonline.com'

@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-04 00:24:18 (UTC+8)
+# UPDATED: 2025-12-05 00:23:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 465
+# TOTAL: 464
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -234,7 +234,6 @@ payload:
   - '9.rarbg.com'
   - '9.rarbg.me'
   - '9.rarbg.to'
-  - 'admin.52ywp.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
   - 'bittorrent-tracker.e-n-c-r-y-p-t.net'
@@ -259,7 +258,6 @@ payload:
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
   - 'home.yxgz.club'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -268,6 +266,7 @@ payload:
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'movies.zsw.ca'
+  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -308,6 +307,8 @@ payload:
   - 'tk.greedland.net'
   - 'torrent.hificode.in'
   - 'torrents.artixlinux.org'
+  - 'tr-zhuqiy-1.dgj055.icu'
+  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -334,6 +335,7 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
+  - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
@@ -370,9 +372,9 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.hifimarket.in'
+  - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iochimari.moe'
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
@@ -422,7 +424,6 @@ payload:
   - 'tracker.thinelephant.org'
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
-  - 'tracker.torrust-demo.com'
   - 'tracker.trackerfix.com'
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
@@ -444,7 +445,6 @@ payload:
   - 'tracker2.itzmx.com'
   - 'tracker2.torrentino.com'
   - 'tracker3.itzmx.com'
-  - 'tracker3.t-1.org'
   - 'tracker3.torrentino.com'
   - 'tracker4.itzmx.com'
   - 'trackers.ptlsp.com'
@@ -452,7 +452,6 @@ payload:
   - 'u.peer-exchange.download'
   - 'v74853.hosted-by-vdsina.com'
   - 'wg.mortis.me'
-  - 'www.all4nothin.net'
   - 'www.genesis-sp.org'
   - 'www.peckservers.com'
   - 'www.torrentsnipe.info'
