@@ -1,28 +1,19 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-05 00:23:35 (UTC+8)
+# UPDATED: 2025-12-06 00:22:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 21
+# TOTAL: 12
 payload:
   - '+.sg'
   - '+.agkn.com'
-  - '+.atmoatads.com'
-  - '+.bidswitch.net'
   - '+.claw.cloud'
   - '+.cohere.com'
   - '+.crashlytics.com'
-  - '+.gstatic.com'
   - '+.inmobi.com'
-  - '+.inmobicdn.net'
-  - '+.ip-api.com'
+  - '+.inner-active.mobi'
   - '+.kochava.com'
   - '+.mobilefuse.com'
   - '+.talkatone.com'
-  - '+.tenor.com'
   - '+.tktn.at'
   - '+.tktn.be'
-  - '+.cdn-f.adsmoloco.com'
-  - '+.cdn2.inner-active.mobi'
-  - '+.gum.criteo.com'
-  - '+.imgx.jampp.com'
