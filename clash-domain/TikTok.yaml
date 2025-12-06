@@ -1,9 +1,9 @@
 # NAME: TikTok
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-06 00:22:01 (UTC+8)
+# UPDATED: 2025-12-07 00:20:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 38
+# TOTAL: 41
 payload:
   - '+.bytedapm.com'
   - '+.bytegecko-i18n.com'
@@ -20,6 +20,7 @@ payload:
   - '+.sgpstatp.com'
   - '+.snssdk.com'
   - '+.tik-tokapi.com'
+  - '+.tiktok-row.net'
   - '+.tiktok.com'
   - '+.tiktokcdn-eu.com'
   - '+.tiktokcdn-us.com'
@@ -27,6 +28,8 @@ payload:
   - '+.tiktokd.net'
   - '+.tiktokd.org'
   - '+.tiktokeu-cdn.com'
+  - '+.tiktokglobalshopv.com'
+  - '+.tiktokminis.us'
   - '+.tiktokmusic.app'
   - '+.tiktokrow-cdn.com'
   - '+.tiktokv.com'

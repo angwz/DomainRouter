@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-06 00:13:15 (UTC+8)
+# UPDATED: 2025-12-07 00:11:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 27182
+# TOTAL: 27185
 payload:
   - '+.adult'
   - '+.amazon'
@@ -20974,6 +20974,7 @@ payload:
   - '+.tig-ol-bitties.live'
   - '+.tigervpn.com'
   - '+.tik-tokapi.com'
+  - '+.tiktok-row.net'
   - '+.tiktok.com'
   - '+.tiktokcdn-eu.com'
   - '+.tiktokcdn-us.com'
@@ -20981,6 +20982,8 @@ payload:
   - '+.tiktokd.net'
   - '+.tiktokd.org'
   - '+.tiktokeu-cdn.com'
+  - '+.tiktokglobalshopv.com'
+  - '+.tiktokminis.us'
   - '+.tiktokrow-cdn.com'
   - '+.tiktokv.com'
   - '+.tiktokv.eu'
@@ -24545,6 +24548,7 @@ payload:
   - '+.zopim.com'
   - '+.zorglist.com'
   - '+.zorrovpn.com'
+  - '+.zotero.org'
   - '+.zozotown.com'
   - '+.zpn.im'
   - '+.zqqpwz.com'
@@ -26358,7 +26362,6 @@ payload:
   - '+.resonabank.co.jp'
   - '+.rimg.com.tw'
   - '+.riotgames.co.kr'
-  - '+.roblox-api.arkoselabs.co'
   - '+.roblox-api.arkoselabs.com'
   - '+.roblox.co.jp'
   - '+.roblox.co.uk'
