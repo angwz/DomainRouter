@@ -68,7 +68,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🐳 漏网の鱼"
-rule = ["[]🏞️ 美利坚高速", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌺 日本专线", "[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
