@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-08 00:19:07 (UTC+8)
+# UPDATED: 2025-12-09 00:23:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 660
+# TOTAL: 662
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -117,6 +117,7 @@ payload:
   - '+.m-team.cc'
   - '+.m-team.io'
   - '+.madsrevolution.net'
+  - '+.microsoftpersonalcontent.com'
   - '+.moecat.best'
   - '+.morethan.tv'
   - '+.morethantv.me'
@@ -226,7 +227,6 @@ payload:
   - 'freerainbowtables.com'
   - 'funfile.org'
   - 'hdreactor.org'
-  - 'hificode.in'
   - 'jutone.com'
   - 'kaztorka.org'
   - 'kinorun.com'
@@ -326,7 +326,7 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
-  - 'discord.heihachi.pw'
+  - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -344,6 +344,7 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'mvgforumtracker.mvgroup.org'
+  - 'ns3109441.mypdns.org'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -406,7 +407,6 @@ payload:
   - 't2.pow7.com'
   - 't3.leech.ie'
   - 'tamas3.ynh.fr'
-  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'torrent.arjlover.net'
   - 'torrent.fedoraproject.org'
@@ -418,7 +418,7 @@ payload:
   - 'torrents.artixlinux.org'
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
-  - 'tr-zhuqiy-2.dgj055.icu'
+  - 'tr-zhuqiy-1.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
@@ -456,7 +456,6 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
   - 'tracker.btsync.gq'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -534,6 +533,7 @@ payload:
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
   - 'tracker.nighthawk.pw'
+  - 'tracker.ololosh.space'
   - 'tracker.open-internet.nl'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
@@ -585,6 +585,7 @@ payload:
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
+  - 'tracker.wepzone.net'
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'
@@ -663,5 +664,6 @@ payload:
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
+  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'

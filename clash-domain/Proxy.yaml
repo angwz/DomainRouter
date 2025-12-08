@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-08 00:10:59 (UTC+8)
+# UPDATED: 2025-12-09 00:14:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 27191
+# TOTAL: 27190
 payload:
   - '+.adult'
   - '+.amazon'
@@ -11418,6 +11418,7 @@ payload:
   - '+.imagebam.com'
   - '+.imagecurl.com'
   - '+.imagecurl.org'
+  - '+.imagedelivery.net'
   - '+.imagefap.com'
   - '+.imageflea.com'
   - '+.imageglass.org'
@@ -13504,7 +13505,6 @@ payload:
   - '+.lzjscript.com'
   - '+.lzmtnews.org'
   - '+.m-power.com'
-  - '+.m-team.cc'
   - '+.m.me'
   - '+.m12.vc'
   - '+.m2m.com'
@@ -16540,6 +16540,7 @@ payload:
   - '+.paljorpublications.com'
   - '+.palmislife.com'
   - '+.paltalk.com'
+  - '+.palworldgame.com'
   - '+.panasonic.com'
   - '+.panasonic.jp'
   - '+.pancakeswap.finance'
@@ -17713,6 +17714,7 @@ payload:
   - '+.printspots.com'
   - '+.printspots.net'
   - '+.prism-break.org'
+  - '+.prismic.io'
   - '+.prismlauncher.org'
   - '+.prismlive.com'
   - '+.prisoneralert.com'
@@ -19592,6 +19594,7 @@ payload:
   - '+.snowcorp.com'
   - '+.snowlionpub.com'
   - '+.snowmiku.com'
+  - '+.sntp.uk'
   - '+.soasta-dswb.com'
   - '+.sobees.com'
   - '+.soc.mil'
@@ -24750,7 +24753,6 @@ payload:
   - '+.apexprint.com.hk'
   - '+.api.mixpanel.com'
   - '+.api.nebula-emby.com'
-  - '+.api.palworldgame.com'
   - '+.appdynamics.co.uk'
   - '+.apple.co.cr'
   - '+.apple.co.hu'
@@ -25741,7 +25743,6 @@ payload:
   - '+.illawarramercury.com.au'
   - '+.illusion.co.jp'
   - '+.imac.co.nz'
-  - '+.images.prismic.io'
   - '+.impact.org.au'
   - '+.incesto.blog.br'
   - '+.independent.co.uk'
@@ -25913,7 +25914,6 @@ payload:
   - '+.love-sextoys.co.uk'
   - '+.loveminiso.com.br'
   - '+.lsd.org.hk'
-  - '+.lt.sntp.uk'
   - '+.ltn.com.tw'
   - '+.ltsports.com.tw'
   - '+.lysol.co.cr'
@@ -27190,7 +27190,6 @@ payload:
   - 'cbsplaylistserver.aws.syncbak.com'
   - 'cbsservice.aws.syncbak.com'
   - 'datarouter.apps.netherrealm.com'
-  - 'deribit.cdn.prismic.io'
   - 'elib.maruzen.co.jp'
   - 'licdn.cn.cdn20.com'
   - 'public-us-pingsx.api.clonoth.com'

@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-08 00:11:02 (UTC+8)
+# UPDATED: 2025-12-09 00:14:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 8930
+# TOTAL: 8931
 payload:
   - '+.adult'
   - '+.apple'
@@ -4225,6 +4225,7 @@ payload:
   - '+.imacapple.com'
   - '+.imacapplecomputer.com'
   - '+.imacsources.com'
+  - '+.imagedelivery.net'
   - '+.imagefap.com'
   - '+.imagepost.com'
   - '+.imagetwist.com'

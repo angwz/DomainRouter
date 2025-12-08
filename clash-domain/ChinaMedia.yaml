@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-08 00:19:09 (UTC+8)
+# UPDATED: 2025-12-09 00:23:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 5079
+# TOTAL: 5082
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1326,6 +1326,7 @@ payload:
   - '+.gcloudcstestonly.com'
   - '+.gclouddolphin.com'
   - '+.gcloudsdk.com'
+  - '+.gcloudsvcs.com'
   - '+.gcores.com'
   - '+.gctianshanxh.com'
   - '+.gctwds.com'
@@ -2289,6 +2290,7 @@ payload:
   - '+.langrenclub.com'
   - '+.lapin365.com'
   - '+.lasmasas.com'
+  - '+.latepost.com'
   - '+.lazada.com'
   - '+.lcsmerch.com'
   - '+.le.com'
@@ -2680,6 +2682,7 @@ payload:
   - '+.ocwms.com'
   - '+.offworldindustries.com'
   - '+.offworldindustries.net'
+  - '+.ofweek.com'
   - '+.okhimalayanzi.com'
   - '+.okjike.com'
   - '+.okjk.co'

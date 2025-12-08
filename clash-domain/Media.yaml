@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-08 00:19:08 (UTC+8)
+# UPDATED: 2025-12-09 00:23:09 (UTC+8)
 # TYPE: domain
-# TOTAL: 4416
+# TOTAL: 4420
 payload:
   - '+.bbc'
   - '+.bloomberg'
@@ -244,6 +244,7 @@ payload:
   - '+.cinemax.com'
   - '+.citylab.com'
   - '+.claude.ai'
+  - '+.claude.com'
   - '+.claudeusercontent.com'
   - '+.cloudfront.net'
   - '+.cnbc.com'
@@ -879,6 +880,7 @@ payload:
   - '+.japronx.net'
   - '+.japronx.tv'
   - '+.japronx.vip'
+  - '+.jetbrains.ai'
   - '+.jfengtime.com'
   - '+.joeswall.com'
   - '+.joinmaidez.com'
@@ -1657,6 +1659,7 @@ payload:
   - '+.wsjwine.com'
   - '+.wujieliulan.com'
   - '+.wwwhuluplus.com'
+  - '+.x.ai'
   - '+.xinsheng.net'
   - '+.xwbo.com'
   - '+.ycombinator.com'
@@ -3330,6 +3333,7 @@ payload:
   - 'nicls1-lh.akamaihd.net'
   - 'njzb.scnj.tv'
   - 'nlive.zjkgdcs.com'
+  - 'notebooklm.google.com'
   - 'ns8.indexforce.com'
   - 'ntv-hls-orig.cdnvideo.ru'
   - 'ntv-st01-vod01-bts10-stage.orange.sk'
