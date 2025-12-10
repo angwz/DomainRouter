@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-10 00:23:46 (UTC+8)
+# UPDATED: 2025-12-11 00:24:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 117887
+# TOTAL: 117889
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -37003,6 +37003,7 @@ payload:
   - '+.gametea.net'
   - '+.gamethk.com'
   - '+.gamett.net'
+  - '+.gameviewer.com'
   - '+.gameweibo.com'
   - '+.gamewifi.net'
   - '+.gamexdd.com'
@@ -52794,6 +52795,7 @@ payload:
   - '+.infineon-autoeco.com'
   - '+.infini-ai.com'
   - '+.infinisign.com'
+  - '+.infiniteborders3kingdoms.com'
   - '+.infinitescript.com'
   - '+.infinity8ball.com'
   - '+.infinitynewtab.com'

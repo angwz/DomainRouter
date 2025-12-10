@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-10 00:23:47 (UTC+8)
+# UPDATED: 2025-12-11 00:24:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 282
+# TOTAL: 302
 payload:
   - '+.amazon'
   - '+.aws'
@@ -182,6 +182,7 @@ payload:
   - '+.llnwd.net'
   - '+.media-amazon.com'
   - '+.media-imdb.com'
+  - '+.mediawiki.org'
   - '+.minori.ph'
   - '+.navismithapis-cdn.com'
   - '+.niconico.com'
@@ -230,8 +231,10 @@ payload:
   - '+.ssl-images-amazon.com'
   - '+.tenco.cc'
   - '+.thinkboxsoftware.com'
+  - '+.toolforge.org'
   - '+.tospotify.com'
   - '+.ueberamazon.de'
+  - '+.w.wiki'
   - '+.wfm.com'
   - '+.wheel-soft.com'
   - '+.wholecitiesfoundation.org'
@@ -239,6 +242,23 @@ payload:
   - '+.wholefoodsmarket.com'
   - '+.wholekidsfoundation.org'
   - '+.wholeplanetfoundation.org'
+  - '+.wikibooks.org'
+  - '+.wikidata.org'
+  - '+.wikileaks.org'
+  - '+.wikimedia.org'
+  - '+.wikimediacloud.org'
+  - '+.wikimediafoundation.org'
+  - '+.wikinews.org'
+  - '+.wikipedia.com'
+  - '+.wikipedia.org'
+  - '+.wikiquote.org'
+  - '+.wikisource.org'
+  - '+.wikiversity.org'
+  - '+.wikivoyage.org'
+  - '+.wiktionary.org'
+  - '+.wmcloud.org'
+  - '+.wmflabs.org'
+  - '+.wmfusercontent.org'
   - '+.yamaxun.cn'
   - '+.yamaxun.com'
   - '+.z.cn'
