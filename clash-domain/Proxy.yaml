@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-11 00:15:39 (UTC+8)
+# UPDATED: 2025-12-12 00:15:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 27192
+# TOTAL: 27196
 payload:
   - '+.adult'
   - '+.amazon'
@@ -17174,7 +17174,10 @@ payload:
   - '+.poecdn.net'
   - '+.pogo.com'
   - '+.pogobeta.com'
+  - '+.poi.icu'
   - '+.poi.moe'
+  - '+.poi6.net'
+  - '+.poihub.com'
   - '+.points-media.com'
   - '+.poisontube.com'
   - '+.pojapp.cfd'
@@ -17743,6 +17746,7 @@ payload:
   - '+.prodrive-japan.com'
   - '+.profilemaster.com'
   - '+.profreeporno.com'
+  - '+.project-poi.com'
   - '+.project-syndicate.org'
   - '+.projectapex.com'
   - '+.projectara.com'

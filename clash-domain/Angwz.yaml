@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-11 00:15:43 (UTC+8)
+# UPDATED: 2025-12-12 00:15:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 8932
+# TOTAL: 8936
 payload:
   - '+.adult'
   - '+.apple'
@@ -6067,6 +6067,9 @@ payload:
   - '+.plzpf.com'
   - '+.pmatehunter.com'
   - '+.pocketbiketrader.com'
+  - '+.poi.icu'
+  - '+.poi6.net'
+  - '+.poihub.com'
   - '+.poisontube.com'
   - '+.pojapp.cfd'
   - '+.pojbayj1030.top'
@@ -6442,6 +6445,7 @@ payload:
   - '+.privatevoyeurvideos.com'
   - '+.proctoscopeexam.com'
   - '+.profreeporno.com'
+  - '+.project-poi.com'
   - '+.projectjav.com'
   - '+.projectvoyeur.com'
   - '+.promonsterbeatsbydre.com'
