@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-12 00:15:49 (UTC+8)
+# UPDATED: 2025-12-13 00:12:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 27196
+# TOTAL: 27203
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4380,6 +4380,7 @@ payload:
   - '+.bypasscensorship.org'
   - '+.byrut.org'
   - '+.byspotify.com'
+  - '+.bytedapm.com'
   - '+.byteglb.com'
   - '+.byteoversea.com'
   - '+.byteoversea.net'
@@ -15518,6 +15519,7 @@ payload:
   - '+.nextstop.com'
   - '+.nextwork.hk'
   - '+.nextwork.tw'
+  - '+.nexus-cdn.com'
   - '+.nexusmods.com'
   - '+.nfjtyd.com'
   - '+.nflhotsalejerseys.com'
@@ -20989,6 +20991,7 @@ payload:
   - '+.tig-ol-bitties.live'
   - '+.tigervpn.com'
   - '+.tik-tokapi.com'
+  - '+.tiktok-minis.com'
   - '+.tiktok-row.net'
   - '+.tiktok.com'
   - '+.tiktokcdn-eu.com'
@@ -27163,6 +27166,7 @@ payload:
   - 'practivate.adobe.ipp'
   - 'practivate.adobe.newoa'
   - 'practivate.adobe.ntp'
+  - 'roovza-launches.appsflyersdk.com'
   - 'rss.4040940.xyz'
   - 'rss.datuan.dev'
   - 'rss.littlebaby.life'
@@ -27199,5 +27203,8 @@ payload:
   - 'elib.maruzen.co.jp'
   - 'licdn.cn.cdn20.com'
   - 'public-us-pingsx.api.clonoth.com'
+  - 'roovza.inapps.appsflyersdk.com'
+  - 'roovza.launches.appsflyersdk.com'
+  - 'roovza.skadsdk.appsflyersdk.com'
   - 'wrds-www.wharton.upenn.edu'
   - 'cbsi.live.ott.irdeto.com'

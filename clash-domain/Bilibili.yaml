@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-12 00:24:30 (UTC+8)
+# UPDATED: 2025-12-13 00:21:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 967
+# TOTAL: 972
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -645,6 +645,7 @@ payload:
   - '+.tiapi.cn'
   - '+.tiapi.net'
   - '+.tik-tokapi.com'
+  - '+.tiktok-minis.com'
   - '+.tiktok-row.net'
   - '+.tiktok.com'
   - '+.tiktokcdn-eu.com'
@@ -967,8 +968,12 @@ payload:
   - '4go41hcjtgazdoctqge4o.ourdvsss.com'
   - 'p-bstarstatic.akamaized.net'
   - 'p16-tiktokcdn-com.akamaized.net'
+  - 'roovza-launches.appsflyersdk.com'
   - 'upos-bstar-mirrorakam.akamaized.net'
   - 'upos-bstar1-mirrorakam.akamaized.net'
   - 'upos-hz-mirrorakam.akamaized.net'
   - '112-81-125-43.dhost.00cdn.com'
   - 'bytedance.map.fastly.net'
+  - 'roovza.inapps.appsflyersdk.com'
+  - 'roovza.launches.appsflyersdk.com'
+  - 'roovza.skadsdk.appsflyersdk.com'

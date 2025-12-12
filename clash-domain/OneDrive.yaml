@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-12 00:24:30 (UTC+8)
+# UPDATED: 2025-12-13 00:21:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 661
+# TOTAL: 662
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -327,6 +327,7 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
+  - 'discord.heihachi.pw'
   - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
@@ -340,6 +341,7 @@ payload:
   - 'ipv6.rer.lol'
   - 'irrenhaus.dyndns.dk'
   - 'isk.richardsw.club'
+  - 'laestrygonian.ooguy.com'
   - 'lucke.fenesisu.moe'
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
@@ -408,6 +410,7 @@ payload:
   - 't2.pow7.com'
   - 't3.leech.ie'
   - 'tamas3.ynh.fr'
+  - 'threads.canofsocks.com'
   - 'tk.greedland.net'
   - 'torrent.arjlover.net'
   - 'torrent.fedoraproject.org'
@@ -420,7 +423,6 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -501,7 +503,6 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
-  - 'tracker.hifimarket.in'
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
@@ -534,7 +535,6 @@ payload:
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
   - 'tracker.nighthawk.pw'
-  - 'tracker.ololosh.space'
   - 'tracker.open-internet.nl'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentrackr.org'
@@ -586,6 +586,7 @@ payload:
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
+  - 'tracker.x6c.co'
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'

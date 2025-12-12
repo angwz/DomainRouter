@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-12 00:24:32 (UTC+8)
+# UPDATED: 2025-12-13 00:21:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 5085
+# TOTAL: 5093
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1036,6 +1036,7 @@ payload:
   - '+.curseforge.com'
   - '+.cxzx10086.cn'
   - '+.cygames.jp'
+  - '+.cyzone.cn'
   - '+.cza84.cn'
   - '+.cztv.com'
   - '+.cztvcdn.com'
@@ -1173,6 +1174,8 @@ payload:
   - '+.dxmstatic.com'
   - '+.dxmyqh.com'
   - '+.dyhgames.com'
+  - '+.dzng.com'
+  - '+.dzwww.com'
   - '+.e22a.com'
   - '+.ea-anz-press.com'
   - '+.ea.com'
@@ -2188,6 +2191,7 @@ payload:
   - '+.jingling.cn'
   - '+.jingpinhui.com'
   - '+.jingxi.com'
+  - '+.jiqizhixin.com'
   - '+.jisuqiang.cn'
   - '+.jisuqiang.com'
   - '+.jisuqiang.net'
@@ -2618,6 +2622,7 @@ payload:
   - '+.nexon.io'
   - '+.nextstudios.com'
   - '+.nextworkshop.net'
+  - '+.nexus-cdn.com'
   - '+.nexusmods.com'
   - '+.nfsworld.com'
   - '+.nghmesc.com'
@@ -2816,6 +2821,7 @@ payload:
   - '+.qianqian.com'
   - '+.qianxun.com'
   - '+.qianzhan.com'
+  - '+.qiluyidian.net'
   - '+.qingdaonews.com'
   - '+.qingtingtrip.com'
   - '+.qingzhouip.com'
@@ -2824,6 +2830,7 @@ payload:
   - '+.qiyipic.com'
   - '+.qiyukf.com'
   - '+.qiyukf.net'
+  - '+.ql1d.com'
   - '+.qlhimalayantm.com'
   - '+.qmhimalayanpz.com'
   - '+.qq163.com'
@@ -3031,6 +3038,7 @@ payload:
   - '+.schimalayanuz.com'
   - '+.scid.cn'
   - '+.scsentry.cn'
+  - '+.scsjb.cn'
   - '+.sdffqaz.com'
   - '+.sdfscx.com'
   - '+.seagroup.com'
