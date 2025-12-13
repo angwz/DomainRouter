@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-13 00:21:09 (UTC+8)
+# UPDATED: 2025-12-13 18:05:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 4420
+# TOTAL: 4426
 payload:
   - '+.bbc'
   - '+.bloomberg'
@@ -269,6 +269,7 @@ payload:
   - '+.conviva.com'
   - '+.cookielaw.org'
   - '+.cool18.com'
+  - '+.cool3c.com'
   - '+.corepublishingsolutions.com'
   - '+.coronavirusnow.com'
   - '+.cricketcountry.com'
@@ -405,6 +406,7 @@ payload:
   - '+.dogatch.jp'
   - '+.dokusho-ojikan.jp'
   - '+.donatecarsoh.org'
+  - '+.donga.com'
   - '+.dongtaiwang.com'
   - '+.dowjones.com'
   - '+.dowjones.io'
@@ -698,6 +700,7 @@ payload:
   - '+.gendai.net'
   - '+.geraldoatlarge.com'
   - '+.getblueshift.com'
+  - '+.getnews.jp'
   - '+.gettr.com'
   - '+.gfashion.com'
   - '+.ggpht.cn'
@@ -930,6 +933,7 @@ payload:
   - '+.londonmithraeum.com'
   - '+.londonreal.tv'
   - '+.loveparents.org'
+  - '+.macaodaily.com'
   - '+.machigoto.jp'
   - '+.macrumors.com'
   - '+.mailhealth.com'
@@ -1976,6 +1980,7 @@ payload:
   - '+.investorschronicle.co.uk'
   - '+.iproperty.com.my'
   - '+.iproperty.com.sg'
+  - '+.itmedia.co.jp'
   - '+.iza.ne.jp'
   - '+.jobmarket.com.hk'
   - '+.js-agent.newrelic.com'
@@ -2245,6 +2250,7 @@ payload:
   - '+.netflix.com.edgesuite.net'
   - '+.soundcloud.app.goo.gl'
   - '+.voa-11.akacast.akamaistream.net'
+  - '+.watch.impress.co.jp'
   - '+.wide-youtube.l.google.com'
   - '+.youtube-ui.l.google.com'
   - '+.cbsi.live.ott.irdeto.com'

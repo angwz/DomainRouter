@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-13 00:11:47 (UTC+8)
+# UPDATED: 2025-12-13 17:55:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 2231
+# TOTAL: 2233
 payload:
   - '+.citic'
   - '+.icbc'
@@ -1787,6 +1787,7 @@ payload:
   - 'tvlive.zmdtvw.cn'
   - 'tvpull.dxhmt.cn'
   - 'tvpull.smartwq.cn'
+  - 'ubisoftconnect.eo-edgefunctions7.com'
   - 'uni6rtmp.tulix.tv'
   - 'v.xstv.net'
   - 'v1.one-tv.com'
@@ -2176,6 +2177,7 @@ payload:
   - 'amdlive.ctnd.com.edgesuite.net'
   - 'b.ds.ch.dingtoo.com'
   - 'blizzard.gcdn.cloudn.co.kr'
+  - 'blzdist-d3.necdn.leihuo.netease.com'
   - 'blzdist-di.necdn.leihuo.netease.com'
   - 'blzdist-hs.necdn.leihuo.netease.com'
   - 'blzdist-ow.necdn.leihuo.netease.com'

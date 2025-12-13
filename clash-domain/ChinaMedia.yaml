@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-13 00:21:10 (UTC+8)
+# UPDATED: 2025-12-13 18:05:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 5093
+# TOTAL: 5094
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -158,6 +158,7 @@ payload:
   - '+.72whys.com'
   - '+.7fresh.com'
   - '+.7k2k1.cn'
+  - '+.7k7k.com'
   - '+.8009900800.com'
   - '+.816798.net'
   - '+.8gcdp.cn'
@@ -1332,7 +1333,6 @@ payload:
   - '+.gclouddolphin.com'
   - '+.gcloudsdk.com'
   - '+.gcloudsvcs.com'
-  - '+.gcores.com'
   - '+.gctianshanxh.com'
   - '+.gctwds.com'
   - '+.gd10010.cn'
@@ -1998,6 +1998,7 @@ payload:
   - '+.icourses163.cn'
   - '+.icourses163.com'
   - '+.icourses163.org'
+  - '+.icpcw.com'
   - '+.ics.design'
   - '+.id6.me'
   - '+.idcquan.com'
@@ -2558,6 +2559,7 @@ payload:
   - '+.myalicdn.com'
   - '+.myalirtc.com'
   - '+.mychinaunicom.com'
+  - '+.mydrivers.com'
   - '+.myhichina.cn'
   - '+.myhuaweicloud-custom.cn'
   - '+.myhuaweicloud-custom.com'
@@ -3244,7 +3246,6 @@ payload:
   - '+.texasholdemcup.cn'
   - '+.texasholdemcup.com'
   - '+.texasholdemcup.net'
-  - '+.tgbus.com'
   - '+.tggypn.com'
   - '+.tgpro.top'
   - '+.tgprocs.net'
@@ -3363,7 +3364,6 @@ payload:
   - '+.vg.com'
   - '+.vghimalayandm.com'
   - '+.vghimalayanet.com'
-  - '+.vgtime.com'
   - '+.vgyuhu.com'
   - '+.vhisxs.com'
   - '+.videojj.com'
@@ -4011,6 +4011,7 @@ payload:
   - '+.xiaomicorp.com.cn'
   - '+.xiaomidns.com.cn'
   - '+.xiaomiinc.com.cn'
+  - '+.xkb.com.cn'
   - '+.y.qq.com'
   - '+.yichuangyun.com.cn'
   - '+.yiliao.hupan.com'
