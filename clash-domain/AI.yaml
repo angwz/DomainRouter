@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-14 00:12:23 (UTC+8)
+# UPDATED: 2025-12-14 16:42:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 193
+# TOTAL: 194
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -72,6 +72,7 @@ payload:
   - '+.intercomcdn.com'
   - '+.jasper.ai'
   - '+.jules.google'
+  - '+.kiro.dev'
   - '+.labs.google'
   - '+.launchdarkly.com'
   - '+.marscode.com'
