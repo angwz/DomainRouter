@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-18 00:23:42 (UTC+8)
+# UPDATED: 2025-12-19 00:24:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 659
+# TOTAL: 661
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -228,6 +228,7 @@ payload:
   - 'freerainbowtables.com'
   - 'funfile.org'
   - 'hdreactor.org'
+  - 'hificode.in'
   - 'jutone.com'
   - 'kaztorka.org'
   - 'kinorun.com'
@@ -327,7 +328,6 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
-  - 'discord.heihachi.pw'
   - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
@@ -346,7 +346,8 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'mvgforumtracker.mvgroup.org'
-  - 'ns-1.x-fins.com'
+  - 'node01.trackerstatus.live'
+  - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
@@ -421,6 +422,7 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-18 00:14:39 (UTC+8)
+# UPDATED: 2025-12-19 00:15:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 27301
+# TOTAL: 27303
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3424,6 +3424,7 @@ payload:
   - '+.bit.com'
   - '+.bit.do'
   - '+.bit.ly'
+  - '+.bitbaby.com'
   - '+.bitballoon.com'
   - '+.bitbank.cc'
   - '+.bitbay.net'
@@ -11229,6 +11230,7 @@ payload:
   - '+.icuminside.com'
   - '+.idaiwan.com'
   - '+.idarkdoll.com'
+  - '+.idcflare.com'
   - '+.iddddg.com'
   - '+.idea-server.com'
   - '+.ideal-teens.com'
