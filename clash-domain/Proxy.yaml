@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-19 00:15:21 (UTC+8)
+# UPDATED: 2025-12-20 00:13:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 27303
+# TOTAL: 27304
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2544,6 +2544,7 @@ payload:
   - '+.awjq.cc'
   - '+.aws-iot-hackathon.com'
   - '+.aws.com'
+  - '+.aws.dev'
   - '+.awsapprunner.com'
   - '+.awsapps.com'
   - '+.awsautopilot.com'

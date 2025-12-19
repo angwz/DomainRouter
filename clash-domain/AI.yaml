@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-19 00:15:24 (UTC+8)
+# UPDATED: 2025-12-20 00:13:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 195
+# TOTAL: 197
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -92,6 +92,7 @@ payload:
   - '+.observeit.net'
   - '+.office365love.com'
   - '+.office365tw.com'
+  - '+.opal.google'
   - '+.openai.com'
   - '+.openart.ai'
   - '+.openrouter.ai'
@@ -155,6 +156,7 @@ payload:
   - '+.jules.google.com'
   - '+.makersuite.google.com'
   - '+.notebooklm.google.com'
+  - '+.opal.google.com'
   - '+.openaiapi-site.azureedge.net'
   - '+.openaicom.imgix.net'
   - '+.proactivebackend-pa.googleapis.com'
