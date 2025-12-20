@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-20 00:13:07 (UTC+8)
+# UPDATED: 2025-12-21 00:11:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 27304
+# TOTAL: 27305
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16677,6 +16677,7 @@ payload:
   - '+.parstream.net'
   - '+.parstream.org'
   - '+.partmaker.com'
+  - '+.partnerstack.xyz'
   - '+.partycasino.com'
   - '+.partylikeits1986.org'
   - '+.partypoker.com'

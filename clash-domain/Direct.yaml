@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-20 00:12:24 (UTC+8)
+# UPDATED: 2025-12-21 00:11:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 2237
+# TOTAL: 2236
 payload:
   - '+.citic'
   - '+.icbc'
@@ -702,7 +702,6 @@ payload:
   - '+.devstreaming-cdn.apple.com'
   - '+.dl.playstation.net'
   - '+.dns.alidns.com'
-  - '+.docs.microsoft.com'
   - '+.doh.360.cn'
   - '+.dota2.wmsj.cn'
   - '+.download.epicgames.com'

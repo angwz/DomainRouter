@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-20 00:21:53 (UTC+8)
+# UPDATED: 2025-12-21 00:20:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 661
+# TOTAL: 662
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -228,7 +228,6 @@ payload:
   - 'freerainbowtables.com'
   - 'funfile.org'
   - 'hdreactor.org'
-  - 'hificode.in'
   - 'jutone.com'
   - 'kaztorka.org'
   - 'kinorun.com'
@@ -346,7 +345,9 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'mvgforumtracker.mvgroup.org'
+  - 'node01.torrentonline.cc'
   - 'node01.trackerstatus.live'
+  - 'node02.torrentonline.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -395,7 +396,6 @@ payload:
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
-  - 't-backup.213891.xyz'
   - 't.213891.xyz'
   - 't.acg.rip'
   - 't.btcland.xyz'
@@ -586,6 +586,7 @@ payload:
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
+  - 'tracker.wepzone.net'
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'
