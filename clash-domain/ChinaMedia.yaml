@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-21 00:20:46 (UTC+8)
+# UPDATED: 2025-12-22 00:20:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 5106
+# TOTAL: 5109
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -478,6 +478,7 @@ payload:
   - '+.asczxcefsv.com'
   - '+.asdlkjf.com'
   - '+.ashgdf.com'
+  - '+.askdiandian.com'
   - '+.asmlink.cn'
   - '+.asobostudio.com'
   - '+.astral-vector.com'
@@ -1083,6 +1084,7 @@ payload:
   - '+.diabloimmortal.com'
   - '+.dialga.com'
   - '+.diandianchong.com'
+  - '+.diandianlife.top'
   - '+.dianping.com'
   - '+.dianzhenkeji.com'
   - '+.dice.se'
@@ -3505,6 +3507,7 @@ payload:
   - '+.xhlsgs.com'
   - '+.xhscdn.com'
   - '+.xhscdn.net'
+  - '+.xhslink.com'
   - '+.xiami.com'
   - '+.xiami.fm'
   - '+.xiami.net'

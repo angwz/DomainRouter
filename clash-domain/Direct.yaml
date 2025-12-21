@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-21 00:11:10 (UTC+8)
+# UPDATED: 2025-12-22 00:11:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 2236
+# TOTAL: 2239
 payload:
   - '+.citic'
   - '+.icbc'
@@ -60,6 +60,7 @@ payload:
   - '+.apifox.com'
   - '+.apipost.cn'
   - '+.apipost.net'
+  - '+.askdiandian.com'
   - '+.asktug.com'
   - '+.asobostudio.com'
   - '+.assoc-amazon.cn'
@@ -225,6 +226,7 @@ payload:
   - '+.deepseek.com'
   - '+.dengguobi.com'
   - '+.devui.design'
+  - '+.diandianlife.top'
   - '+.dmit.io'
   - '+.doh.pub'
   - '+.doom.com'
@@ -370,6 +372,7 @@ payload:
   - '+.mchost.guru'
   - '+.mcmod.cn'
   - '+.mcprev.cn'
+  - '+.medalink.cn'
   - '+.medicexam.net'
   - '+.meta.law'
   - '+.metaso.cn'

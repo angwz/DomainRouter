@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-21 00:11:52 (UTC+8)
+# UPDATED: 2025-12-22 00:11:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 27305
+# TOTAL: 27312
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6449,6 +6449,8 @@ payload:
   - '+.dmcdn.net'
   - '+.dmed.technology'
   - '+.dmhy.org'
+  - '+.dmit.io'
+  - '+.dmit.sh'
   - '+.dml-lang.org'
   - '+.dmm-extension.com'
   - '+.dmm.com'
@@ -7361,6 +7363,7 @@ payload:
   - '+.entrust.com'
   - '+.entrust.net'
   - '+.entrustdatacard.com'
+  - '+.eotarchive.org'
   - '+.epac.to'
   - '+.epicbrowser.com'
   - '+.epicgames.com'
@@ -9371,6 +9374,7 @@ payload:
   - '+.ghcr.io'
   - '+.ghettotube.com'
   - '+.ghidra-sre.org'
+  - '+.ghostarchive.org'
   - '+.ghostgames.com'
   - '+.ghostnoteapp.com'
   - '+.ghostpath.com'
@@ -14088,6 +14092,7 @@ payload:
   - '+.meme111.com'
   - '+.memealerts.com'
   - '+.memehk.com'
+  - '+.mementoweb.org'
   - '+.memes.tw'
   - '+.memorybbs.com'
   - '+.memri.org'
@@ -16975,6 +16980,7 @@ payload:
   - '+.perfectvpn.net'
   - '+.periscope.tv'
   - '+.perl.org'
+  - '+.perma.cc'
   - '+.perplexity.ai'
   - '+.perplexity.com'
   - '+.persagg.com'
@@ -22945,6 +22951,7 @@ payload:
   - '+.webcammedellin.co'
   - '+.webcams.tv'
   - '+.webcamtubexxx.com'
+  - '+.webcitation.org'
   - '+.webevader.org'
   - '+.webex.ca'
   - '+.webex.com'
