@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-22 00:20:02 (UTC+8)
+# UPDATED: 2025-12-23 00:22:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 662
+# TOTAL: 660
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -421,6 +421,7 @@ payload:
   - 'torrents.artixlinux.org'
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
+  - 'tr-zhuqiy-1.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -506,7 +507,6 @@ payload:
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iochimari.moe'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -536,9 +536,7 @@ payload:
   - 'tracker.nighthawk.pw'
   - 'tracker.open-internet.nl'
   - 'tracker.openbittorrent.com'
-  - 'tracker.opentorrent.top'
   - 'tracker.opentrackr.org'
-  - 'tracker.openwebtorrent.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.playground.ru'
@@ -617,7 +615,6 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
-  - 'v74853.hosted-by-vdsina.com'
   - 'wg.mortis.me'
   - 'ws.peer.ooo'
   - 'www.all4nothin.net'
@@ -665,5 +662,6 @@ payload:
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
+  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
