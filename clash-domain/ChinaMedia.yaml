@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-23 00:22:05 (UTC+8)
+# UPDATED: 2025-12-24 00:22:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 5109
+# TOTAL: 5112
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -3395,6 +3395,9 @@ payload:
   - '+.vo6z2.cn'
   - '+.vplay8.com'
   - '+.vrbt.mobi'
+  - '+.vrchat.cloud'
+  - '+.vrchat.com'
+  - '+.vrchat.net'
   - '+.vrzwk.cn'
   - '+.vrzwk.com'
   - '+.vrzwk.net'

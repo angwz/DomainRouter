@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-23 00:13:27 (UTC+8)
+# UPDATED: 2025-12-24 00:13:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 27312
+# TOTAL: 27317
 payload:
   - '+.adult'
   - '+.amazon'
@@ -22773,7 +22773,12 @@ payload:
   - '+.vraiesagesse.net'
   - '+.vrbgay.com'
   - '+.vrcams.io'
+  - '+.vrcdn.cloud'
+  - '+.vrcdn.live'
+  - '+.vrcdn.video'
+  - '+.vrchat.cloud'
   - '+.vrchat.com'
+  - '+.vrchat.net'
   - '+.vred-essentials.com'
   - '+.vredessentials.com'
   - '+.vredprofessional.com'
