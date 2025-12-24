@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-24 00:14:02 (UTC+8)
+# UPDATED: 2025-12-25 00:13:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 1782
+# TOTAL: 1785
 payload:
   - '+.android'
   - '+.intel'
@@ -954,6 +954,7 @@ payload:
   - '+.neurology.org'
   - '+.nevex.com'
   - '+.newisiknowledge.com'
+  - '+.newpipe.net'
   - '+.newrelic.com'
   - '+.nextgenerationcenter.com'
   - '+.nginx.com'
@@ -1502,8 +1503,10 @@ payload:
   - '+.wapm.io'
   - '+.wasmer.io'
   - '+.watchespn.com'
+  - '+.webflow.com'
   - '+.webkit.org'
   - '+.webkitgtk.org'
+  - '+.weblate.org'
   - '+.webmoneyinfo.com'
   - '+.webobjects.com'
   - '+.webofknowledge.com'
