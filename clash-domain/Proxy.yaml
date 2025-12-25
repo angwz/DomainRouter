@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-25 00:13:27 (UTC+8)
+# UPDATED: 2025-12-26 00:13:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 27318
+# TOTAL: 27319
 payload:
   - '+.adult'
   - '+.amazon'
@@ -15437,6 +15437,7 @@ payload:
   - '+.neovim.io'
   - '+.neow.in'
   - '+.neowin.net'
+  - '+.nephobox.com'
   - '+.nepusoku.com'
   - '+.nerdnudes.com'
   - '+.nervanasys.com'
