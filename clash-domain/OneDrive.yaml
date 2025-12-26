@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-26 00:21:45 (UTC+8)
+# UPDATED: 2025-12-27 00:21:06 (UTC+8)
 # TYPE: domain
 # TOTAL: 658
 payload:
@@ -327,6 +327,7 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
+  - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -344,7 +345,6 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'mvgforumtracker.mvgroup.org'
-  - 'node02.torrentonline.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -454,7 +454,6 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
   - 'tracker.btsync.gq'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -499,11 +498,11 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
+  - 'tracker.hifimarket.in'
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iochimari.moe'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -616,6 +615,7 @@ payload:
   - 'v74853.hosted-by-vdsina.com'
   - 'wg.mortis.me'
   - 'ws.peer.ooo'
+  - 'www.2600.com'
   - 'www.all4nothin.net'
   - 'www.bit-hdtv.com'
   - 'www.bitseduce.com'
