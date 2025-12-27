@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-27 00:21:08 (UTC+8)
+# UPDATED: 2025-12-28 00:20:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 5114
+# TOTAL: 5121
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -853,6 +853,7 @@ payload:
   - '+.chinamobiledevice.com'
   - '+.chinamobileltd.com'
   - '+.chinanews.com'
+  - '+.chinaott.com'
   - '+.chinatelecom-h.com'
   - '+.chinatelecom.cn'
   - '+.chinatelecomglobal.com'
@@ -959,6 +960,7 @@ payload:
   - '+.cmdcxls.com'
   - '+.cmicrwx.cn'
   - '+.cmpassport.com'
+  - '+.cmread.com'
   - '+.cmvideo.cn'
   - '+.cncrivals.com'
   - '+.cnfol.com'
@@ -1994,6 +1996,7 @@ payload:
   - '+.ibaitiao.com'
   - '+.ibkstore.com'
   - '+.ica-alliance.org'
+  - '+.icntvcdn.com'
   - '+.iconfont.cn'
   - '+.icourse163.cn'
   - '+.icourse163.com'
@@ -2472,6 +2475,7 @@ payload:
   - '+.migucdn.cn'
   - '+.migucloud.com'
   - '+.migufm.com'
+  - '+.migufun.com'
   - '+.migugk.com'
   - '+.migutv.com'
   - '+.miguvideo.com'
@@ -2723,6 +2727,7 @@ payload:
   - '+.origin.tv'
   - '+.orithegame.com'
   - '+.oshield.com'
+  - '+.ottcn.com'
   - '+.ourl.co'
   - '+.owsgo.com'
   - '+.oyxdwx.com'
@@ -2835,6 +2840,7 @@ payload:
   - '+.qianxun.com'
   - '+.qianzhan.com'
   - '+.qiluyidian.net'
+  - '+.qingdaochina.org'
   - '+.qingdaonews.com'
   - '+.qinghedaxue.com'
   - '+.qingtingtrip.com'
@@ -3130,6 +3136,7 @@ payload:
   - '+.sonyentertainmentnetwork.com'
   - '+.soso.com'
   - '+.sososnap.com'
+  - '+.southcn.com'
   - '+.sparenode.com'
   - '+.spdyidea.com'
   - '+.spearhead.kr'
