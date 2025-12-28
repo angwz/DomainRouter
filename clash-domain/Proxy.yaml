@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-28 00:12:22 (UTC+8)
+# UPDATED: 2025-12-29 00:12:27 (UTC+8)
 # TYPE: domain
-# TOTAL: 27320
+# TOTAL: 27322
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9352,6 +9352,7 @@ payload:
   - '+.gfw.press'
   - '+.gfw.report'
   - '+.gfwatch.org'
+  - '+.gfwbao.com'
   - '+.gfwlist.end'
   - '+.gfwlist.start'
   - '+.gfx.ms'
@@ -20167,6 +20168,7 @@ payload:
   - '+.steamdb.info'
   - '+.steamdeck.com'
   - '+.steamgames.com'
+  - '+.steamladder.com'
   - '+.steamofporn.com'
   - '+.steampowered.com'
   - '+.steamserver.net'

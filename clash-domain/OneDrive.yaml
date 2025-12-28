@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-28 00:20:26 (UTC+8)
+# UPDATED: 2025-12-29 00:21:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 658
+# TOTAL: 661
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -210,7 +210,6 @@ payload:
   - 'bt-club.ws'
   - 'btracker.top'
   - 'buny.uk'
-  - 'burmese.app'
   - 'ch3oh.ru'
   - 'cny.fan'
   - 'concen.org'
@@ -345,6 +344,7 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'mvgforumtracker.mvgroup.org'
+  - 'node01.trackerstatus.live'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -419,6 +419,7 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -498,11 +499,11 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
-  - 'tracker.hifimarket.in'
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iochimari.moe'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -550,6 +551,7 @@ payload:
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
+  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.cn'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
@@ -663,3 +665,4 @@ payload:
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
+  - 'yuki.bt.bontal.net'
