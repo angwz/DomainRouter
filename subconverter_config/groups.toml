@@ -60,7 +60,7 @@ rule = ["[]DIRECT", "[]🌠 节点选择", "[]⛅ OneDrive", "[]🏞️ 美利�
 type = "select"
 
 [[custom_groups]]
-name = "🌌 国际流媒体"
+name = "🛖 国际流媒体"
 rule = ["[]🌠 节点选择", "[]🌺 日本专线", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
 type = "select"
 
