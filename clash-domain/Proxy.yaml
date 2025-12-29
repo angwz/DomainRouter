@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-29 00:12:27 (UTC+8)
+# UPDATED: 2025-12-30 00:13:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 27322
+# TOTAL: 27324
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2067,6 +2067,7 @@ payload:
   - '+.archivx.to'
   - '+.archlinux.org'
   - '+.archlinuxarm.org'
+  - '+.archlinuxcn.org'
   - '+.arcraiders.com'
   - '+.arctosia.com'
   - '+.area120.com'
@@ -9547,6 +9548,7 @@ payload:
   - '+.gobuyonlinestore.net'
   - '+.gockhuatviet.com'
   - '+.godaddy.com'
+  - '+.godbolt.org'
   - '+.godfootsteps.org'
   - '+.godns.work'
   - '+.godoc.org'
