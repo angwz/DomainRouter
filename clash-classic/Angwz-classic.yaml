@@ -1,10 +1,10 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-30 00:13:27 (UTC+8)
+# UPDATED: 2025-12-30 02:01:06 (UTC+8)
 # TYPE: classic
-# TOTAL: 38
-# DOMAIN-KEYWORD TOTAL: 13
+# TOTAL: 40
+# DOMAIN-KEYWORD TOTAL: 15
 # IP-ASN TOTAL: 6
 # PROCESS-NAME TOTAL: 19
 payload:
@@ -21,6 +21,8 @@ payload:
   - DOMAIN-KEYWORD,smp-device
   - DOMAIN-KEYWORD,testflight
   - DOMAIN-KEYWORD,icloud.com.akadns.net
+  - DOMAIN-KEYWORD,paypal
+  - DOMAIN-KEYWORD,github
 
   - IP-ASN,211157,no-resolve
   - IP-ASN,44907,no-resolve

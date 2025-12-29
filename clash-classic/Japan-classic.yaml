@@ -1,14 +1,18 @@
 # NAME: Japan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-30 00:21:59 (UTC+8)
+# UPDATED: 2025-12-30 02:09:41 (UTC+8)
 # TYPE: classic
-# TOTAL: 4
-# DOMAIN-KEYWORD TOTAL: 2
+# TOTAL: 8
+# DOMAIN-KEYWORD TOTAL: 6
 # PROCESS-NAME TOTAL: 2
 payload:
   - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,spotify
+  - DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,huobi
+  - DOMAIN-KEYWORD,metamask
+  - DOMAIN-KEYWORD,okx
 
   - PROCESS-NAME,com.amazon.avod.thirdpartyclient
   - PROCESS-NAME,com.spotify.music
