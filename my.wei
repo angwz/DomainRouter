@@ -17,6 +17,10 @@ SRC-PORT,9993
 144.34.235.0/24
 2607:8700:5500:7f2a::/64
 
+# Bage
+103.102.4.0/24
+2a14:4900:2201:e7::/64
+
 # Huawei
 166.108.229.0/24
 
@@ -26,9 +30,6 @@ SRC-PORT,9993
 8.137.63.0/24
 2408:4006:113a:e000::/64
 
-47.83.31.0/24
-240b:4001:15c:5900::/64
-
 8.212.183.0/24
 240b:4007:e:500::/64
 
@@ -36,21 +37,33 @@ SRC-PORT,9993
 101.35.79.0/24
 2402:4e00:c032:8500::/64
 
+# Voll
+103.20.223.0/24
+
 # 鸡仔
 106.75.157.0/24
 2602:ffe4:1:96::/64
-
-# Netcup
-5.45.101.0/24
-2a03:4000:6:16::/64
 
 # GreenCloud
 85.113.70.0/24
 2403:71c0:2000:1433::/64
 
+# Alice
+143.20.204.0/24
+2a14:67c0:308:1b2::/64
+
 # RN
-142.171.55.171
-2607:f130::1dc::/64
+142.171.78.0/24
+2607:f130:0:1dc::/64
+
+148.135.21.0/24
+
+# HostDZire
+23.80.80.0/24
+2607:f5b4:88:103::/64
+
+# 56IDC
+2a01:4f9:6b:4a8f:69::/80
 
 
 
@@ -139,7 +152,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 nodeseek.com
 
 
-
 [Angwz]
 '+.hk'
 bandwagonhost.com
@@ -151,7 +163,18 @@ nodehatch.com
 nametra.de
 nodeimage.com
 
+tktn.be
+https://raw.githubusercontent.com/SIJULY/Rules/main/Surge/talkatone.list
+
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nodeseek.yaml
+
+# Reddit
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/reddit.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Reddit/Reddit.list
+
+# Wikipedia
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/wikimedia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Wikimedia/Wikimedia.list
 
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/alibaba%40!cn.yaml
@@ -201,16 +224,20 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AppleProxy/AppleProxy.list
 
 
-
-
-[Speed]
-
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/DNS/DNS.list
 
 
 # NVIDIA
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nvidia.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list
+
+# PayPal
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/paypal.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/PayPal.list
+
+# GitHub
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
 
 
 [AI]
@@ -275,24 +302,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 
 
-[Germany]
-'+.de'
-
-
-https://raw.githubusercontent.com/bynil/blockchain-domain-rules/refs/heads/master/Surge-List.list
-
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-cryptocurrency.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Crypto/Crypto.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Cryptocurrency/Cryptocurrency.list
-
-# Binance
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/binance.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Binance/Binance.list
-
-# OKX
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/okx.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OKX/OKX.list
-
+[Star]
 
 # Ubisoft
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ubisoft.yaml
@@ -315,18 +325,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/USMedia/USMedia.list
 
-
 # Dev
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-dev.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Developer/Developer.list
 
-# GitHub
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
-
-# PayPal
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/paypal.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/PayPal.list
 
 # Adobe
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/adobe.yaml
@@ -391,22 +393,28 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HuluJP/HuluJP.list
 
-# Reddit
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/reddit.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Reddit/Reddit.list
-
-# Wikipedia
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/wikimedia.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Wikimedia/Wikimedia.list
 
 
+https://raw.githubusercontent.com/bynil/blockchain-domain-rules/refs/heads/master/Surge-List.list
 
-[Singapore]
-'+.sg'
-claw.cloud
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-cryptocurrency.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Crypto/Crypto.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Cryptocurrency/Cryptocurrency.list
 
-tktn.be
-https://raw.githubusercontent.com/SIJULY/Rules/main/Surge/talkatone.list
+# Binance
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/binance.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Binance/Binance.list
+
+# OKX
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/okx.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OKX/OKX.list
+
+
+# [Singapore]
+# '+.sg'
+# claw.cloud
+
+
 
 
 
@@ -566,7 +574,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 [Rules]
 Direct: DIRECT
-Speed: 🐰 兔
 NS: 🏖️ Community
 AI: 🗨️ ChatGPT
 TikTok: 📱 TikTok
@@ -576,20 +583,18 @@ Netflix: 🎬 Netflix
 YouTube: 💻 YouTube
 Google: 📩 Google
 Japan: 🌺 日本专线
-Germany: 🏗️ 德意志帝国
+Star: 🌌 星星啊
 Angwz: 🌠 节点选择
 America: 🏞️ 美利坚高速
-Singapore: 🎡 新加坡高速
 ChinaMedia: DIRECT
 OneDrive: ⛅ OneDrive
 Microsoft: 🪟 Microsoft
 Media: 🌌 国际流媒体
-GEOIP,CLOUDFLARE: 🌠 节点选择,no-resolve
+GEOIP,CLOUDFLARE: 🛫 香港专线,no-resolve
 GEOIP,JP: 🌺 日本专线,no-resolve
-GEOIP,SG: 🎡 新加坡高速,no-resolve
-GEOIP,CA: 🏞️ 美利坚高速,no-resolve
-GEOIP,US: 🏞️ 美利坚高速,no-resolve
-GEOIP,HK: 🌠 节点选择,no-resolve
+GEOIP,CA: ⛳ 美国专线,no-resolve
+GEOIP,US: ⛳ 美国专线,no-resolve
+GEOIP,HK: 🛫 香港专线,no-resolve
 Proxy: 🌠 节点选择
 China: DIRECT
 GEOIP,CN: DIRECT,no-resolve
