@@ -17,18 +17,6 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🐰 兔"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Speed.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🐰 兔"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Speed-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
 group = "🏖️ Community"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/NS.yaml"
 type = "clash-domain"
@@ -173,21 +161,15 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🏗️ 德意志帝国"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Germany.yaml"
+group = "🌌 星星啊"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Star.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🏗️ 德意志帝国"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Germany-ipcidr.yaml"
+group = "🌌 星星啊"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Star-ipcidr.yaml"
 type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "🏗️ 德意志帝国"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Germany-classic.yaml"
-type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
@@ -209,27 +191,15 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🏞️ 美利坚高速"
+group = "⛳ 美国专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/America.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🏞️ 美利坚高速"
+group = "⛳ 美国专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/America-classic.yaml"
 type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
-group = "🎡 新加坡高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🎡 新加坡高速"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Singapore-ipcidr.yaml"
-type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
@@ -281,25 +251,25 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🌌 国际流媒体"
+group = "🛖 国际流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Media.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌌 国际流媒体"
+group = "🛖 国际流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Media-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🌌 国际流媒体"
+group = "🛖 国际流媒体"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Media-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🌠 节点选择"
+group = "🛫 香港专线"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
@@ -307,19 +277,15 @@ group = "🌺 日本专线"
 ruleset = "[]GEOIP,JP,no-resolve"
 
 [[rulesets]]
-group = "🎡 新加坡高速"
-ruleset = "[]GEOIP,SG,no-resolve"
-
-[[rulesets]]
-group = "🏞️ 美利坚高速"
+group = "⛳ 美国专线"
 ruleset = "[]GEOIP,CA,no-resolve"
 
 [[rulesets]]
-group = "🏞️ 美利坚高速"
+group = "⛳ 美国专线"
 ruleset = "[]GEOIP,US,no-resolve"
 
 [[rulesets]]
-group = "🌠 节点选择"
+group = "🛫 香港专线"
 ruleset = "[]GEOIP,HK,no-resolve"
 
 [[rulesets]]
