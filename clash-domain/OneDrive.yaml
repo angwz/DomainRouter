@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-30 02:09:41 (UTC+8)
+# UPDATED: 2025-12-31 00:22:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 661
+# TOTAL: 660
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -210,6 +210,7 @@ payload:
   - 'bt-club.ws'
   - 'btracker.top'
   - 'buny.uk'
+  - 'burmese.app'
   - 'ch3oh.ru'
   - 'cny.fan'
   - 'concen.org'
@@ -326,7 +327,6 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
-  - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -344,7 +344,6 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'mvgforumtracker.mvgroup.org'
-  - 'node01.trackerstatus.live'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -407,7 +406,6 @@ payload:
   - 't2.pow7.com'
   - 't3.leech.ie'
   - 'tamas3.ynh.fr'
-  - 'tk.greedland.net'
   - 'torrent.arjlover.net'
   - 'torrent.fedoraproject.org'
   - 'torrent.hificode.in'
@@ -450,6 +448,7 @@ payload:
   - 'tracker.bitcoinindia.space'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
+  - 'tracker.bluefrog.pw'
   - 'tracker.breizh.pm'
   - 'tracker.bt-hash.com'
   - 'tracker.bt4g.com'
@@ -499,6 +498,7 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
+  - 'tracker.hifimarket.in'
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
@@ -665,4 +665,3 @@ payload:
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
-  - 'yuki.bt.bontal.net'
