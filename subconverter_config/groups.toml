@@ -71,7 +71,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🌌 星星啊"
-rule = ["!!GROUPID=0!!(下载)", "!!GROUPID=0"]
+rule = ["(下载)", "(.*)"]
 type = "select"
 
 [[custom_groups]]
@@ -80,6 +80,7 @@ lazy = false
 name = "🛫 香港专线"
 rule = [
   "[]🎇 香港高速",
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?!.*(IEPL|IPLC)).*$)",
   "[]🏞️ 美利坚高速",
 ]
 type = "fallback"
@@ -109,18 +110,18 @@ url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
 name = "🎇 香港高速"
-rule = ["!!GROUPID=0!!(港|HK|hk|Hong Kong|HongKong|hongkong)", "!!GROUPID=0"]
+rule = ["(港|HK|hk|Hong Kong|HongKong|hongkong)", "(.*)"]
 type = "select"
 
 [[custom_groups]]
 name = "🗾 日本高速"
-rule = ["!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*$)", "!!GROUPID=0"]
+rule = ["!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*$)", "(.*)"]
 type = "select"
 
 [[custom_groups]]
 name = "🏞️ 美利坚高速"
 rule = [
-  "!!GROUPID=0!!(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
-  "!!GROUPID=0",
+  "(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
+  "(.*)",
 ]
 type = "select"
