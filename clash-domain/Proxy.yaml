@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2025-12-31 00:14:18 (UTC+8)
+# UPDATED: 2026-01-01 00:13:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 27324
+# TOTAL: 27325
 payload:
   - '+.adult'
   - '+.amazon'
@@ -10383,6 +10383,7 @@ payload:
   - '+.herokussl.com'
   - '+.herominers.com'
   - '+.herringnetwork.com'
+  - '+.hetzner-cloud.de'
   - '+.hetzner.cloud'
   - '+.hetzner.com'
   - '+.hetzner.company'
