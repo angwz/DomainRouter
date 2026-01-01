@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-01 00:22:23 (UTC+8)
+# UPDATED: 2026-01-02 00:22:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 660
+# TOTAL: 659
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -327,6 +327,7 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
+  - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -344,6 +345,7 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'mvgforumtracker.mvgroup.org'
+  - 'node01.trackerstatus.live'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -498,7 +500,6 @@ payload:
   - 'tracker.gmi.gd'
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
-  - 'tracker.hifimarket.in'
   - 'tracker.hifitechindia.com'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
@@ -551,7 +552,6 @@ payload:
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
-  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.cn'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
@@ -617,7 +617,6 @@ payload:
   - 'v74853.hosted-by-vdsina.com'
   - 'wg.mortis.me'
   - 'ws.peer.ooo'
-  - 'www.2600.com'
   - 'www.all4nothin.net'
   - 'www.bit-hdtv.com'
   - 'www.bitseduce.com'
