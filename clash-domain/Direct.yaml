@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-02 00:13:19 (UTC+8)
+# UPDATED: 2026-01-03 00:12:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 2239
+# TOTAL: 2238
 payload:
   - '+.citic'
   - '+.icbc'
@@ -775,7 +775,6 @@ payload:
   - '+.jiasu.bohe.com'
   - '+.kindleoasis.com.cn'
   - '+.las.ac.cn'
-  - '+.learn.microsoft.com'
   - '+.linyaps.org.cn'
   - '+.marscode.com.cn'
   - '+.mesu.apple.com'
