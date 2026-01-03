@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-03 00:21:54 (UTC+8)
+# UPDATED: 2026-01-04 00:21:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 5122
+# TOTAL: 5126
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1036,8 +1036,10 @@ payload:
   - '+.cubicmotion.com'
   - '+.cuecp.cn'
   - '+.cueme.cn'
+  - '+.cuguplus.com'
   - '+.cunchuhulian-ln.cn'
   - '+.cuniq.com'
+  - '+.cuniq.sg'
   - '+.cupb.cn'
   - '+.curseforge.com'
   - '+.cxzx10086.cn'
@@ -4033,6 +4035,8 @@ payload:
   - '+.weibo.com.cn'
   - '+.werepository.com.cn'
   - '+.wo.com.cn'
+  - '+.wocloud.com.cn'
+  - '+.woread.com.cn'
   - '+.worldflipper.akamaized.net'
   - '+.www.net.cn'
   - '+.xiaoduzaijia.com.cn'

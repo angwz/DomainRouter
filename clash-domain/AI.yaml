@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-03 00:13:19 (UTC+8)
+# UPDATED: 2026-01-04 00:12:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 197
+# TOTAL: 199
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -166,6 +166,7 @@ payload:
   - '+.gateway.ai.cloudflare.com'
   - '+.twitter.map.fastly.net'
   - '+.openai.com.cdn.cloudflare.net'
+  - 'antigravity-unleash.goog'
   - 'antigravity.google'
   - 'browser-intake-datadoghq.com'
   - 'openrouter.ai'
@@ -180,6 +181,7 @@ payload:
   - 'assets.msn.com'
   - 'cdn.usefathom.com'
   - 'copilot.microsoft.com'
+  - 'daily-cloudcode-pa.googleapis.com'
   - 'in.appcenter.ms'
   - 'jules.google.com'
   - 'location.microsoft.com'
