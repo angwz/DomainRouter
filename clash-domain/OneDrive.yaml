@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-04 00:21:08 (UTC+8)
+# UPDATED: 2026-01-05 00:20:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 662
+# TOTAL: 660
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -288,7 +288,6 @@ payload:
   - '9.rarbg.to'
   - 'a.leopard-raws.org'
   - 'academic-p2p.appspot.com'
-  - 'admin.52ywp.com'
   - 'announce.partis.si'
   - 'atrack.pow7.com'
   - 'bandito.byterunner.io'
@@ -345,6 +344,7 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'mvgforumtracker.mvgroup.org'
+  - 'node01.trackerstatus.live'
   - 'node02.torrentonline.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
@@ -419,7 +419,6 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -456,7 +455,6 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
   - 'tracker.btsync.gq'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -556,6 +554,7 @@ payload:
   - 'tracker.skynetcloud.site'
   - 'tracker.skyts.cn'
   - 'tracker.skyts.net'
+  - 'tracker.soshifanclub.com'
   - 'tracker.srv00.com'
   - 'tracker.startwork.cv'
   - 'tracker.t-1.org'
@@ -661,7 +660,6 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
   - 'torrent.unix-ag.uni-kl.de'
-  - 'tracker.guguan.dpdns.org'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.torrent.eu.org'
   - 'tracker.tvunderground.org.ru'
