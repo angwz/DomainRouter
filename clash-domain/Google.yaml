@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-06 00:24:14 (UTC+8)
+# UPDATED: 2026-01-07 00:23:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 930
+# TOTAL: 931
 payload:
   - '+.android'
   - '+.chrome'
@@ -40,6 +40,7 @@ payload:
   - '+.adwords-community.com'
   - '+.adwords.com'
   - '+.adwordsexpress.com'
+  - '+.ai.studio'
   - '+.amp.dev'
   - '+.ampproject.com'
   - '+.ampproject.net'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-06 00:15:34 (UTC+8)
+# UPDATED: 2026-01-07 00:14:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 27469
+# TOTAL: 27473
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1129,6 +1129,7 @@ payload:
   - '+.ai-sdk.dev'
   - '+.ai-wen.net'
   - '+.ai.dev'
+  - '+.ai.studio'
   - '+.ai7995.site'
   - '+.ai91porn.cc'
   - '+.aiaa.org'
@@ -16505,6 +16506,7 @@ payload:
   - '+.onxxxtube.com'
   - '+.onxxxvideo.com'
   - '+.oojj.de'
+  - '+.ooni.io'
   - '+.ooni.org'
   - '+.oopsforum.com'
   - '+.ooyala.com'
@@ -18809,6 +18811,7 @@ payload:
   - '+.rustdesk.com'
   - '+.rustup.rs'
   - '+.rusvpn.com'
+  - '+.rutor.info'
   - '+.rutracker.cc'
   - '+.rutracker.cr'
   - '+.rutracker.me'
@@ -23630,6 +23633,7 @@ payload:
   - '+.xcafe.com'
   - '+.xcafe.in'
   - '+.xcams.com'
+  - '+.xcancel.com'
   - '+.xcg123.com'
   - '+.xchina.co'
   - '+.xchina.fun'

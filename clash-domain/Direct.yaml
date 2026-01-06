@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-06 00:14:51 (UTC+8)
+# UPDATED: 2026-01-07 00:14:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 2238
+# TOTAL: 2239
 payload:
   - '+.citic'
   - '+.icbc'
@@ -129,6 +129,7 @@ payload:
   - '+.cf-ns.net'
   - '+.cf-ns.site'
   - '+.cf-ns.tech'
+  - '+.cfc108.com'
   - '+.cftest5.cn'
   - '+.cftest6.cn'
   - '+.cftest7.com'

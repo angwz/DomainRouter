@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-06 00:24:14 (UTC+8)
+# UPDATED: 2026-01-07 00:23:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 660
+# TOTAL: 662
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -213,6 +213,7 @@ payload:
   - 'burmese.app'
   - 'ch3oh.ru'
   - 'cny.fan'
+  - 'colivioo.com'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -241,6 +242,7 @@ payload:
   - 'music-torrent.net'
   - 'mvgroup.org'
   - 'new-line.net'
+  - 'nnmclub.to'
   - 'odd-hd.fr'
   - 'openbittorrent.com'
   - 'opentor.org'
@@ -288,6 +290,7 @@ payload:
   - '9.rarbg.to'
   - 'a.leopard-raws.org'
   - 'academic-p2p.appspot.com'
+  - 'admin.52ywp.com'
   - 'announce.partis.si'
   - 'atrack.pow7.com'
   - 'bandito.byterunner.io'
@@ -551,7 +554,6 @@ payload:
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
-  - 'tracker.skynetcloud.site'
   - 'tracker.skyts.cn'
   - 'tracker.skyts.net'
   - 'tracker.soshifanclub.com'
@@ -615,6 +617,7 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
+  - 'utracker.ghostchu-services.top'
   - 'v74853.hosted-by-vdsina.com'
   - 'wg.mortis.me'
   - 'ws.peer.ooo'
@@ -651,7 +654,6 @@ payload:
   - 'yggtracker.i2p.rocks'
   - 'yolo.liberbear.com'
   - 'z.paranoid.agency'
-  - 'anna.bt.bontal.net'
   - 'd40969.acod.regrucolo.ru'
   - 'denis.stalker.upeer.me'
   - 'h4.trakx.nibba.trade'
