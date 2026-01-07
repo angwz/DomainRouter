@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-07 00:14:44 (UTC+8)
+# UPDATED: 2026-01-08 00:16:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 27473
+# TOTAL: 27484
 payload:
   - '+.adult'
   - '+.amazon'
@@ -15752,6 +15752,15 @@ payload:
   - '+.nginx.org'
   - '+.nginxconfig.io'
   - '+.ngodupdongchung.com'
+  - '+.ngrok-free.app'
+  - '+.ngrok-free.dev'
+  - '+.ngrok-free.pizza'
+  - '+.ngrok.app'
+  - '+.ngrok.com'
+  - '+.ngrok.dev'
+  - '+.ngrok.io'
+  - '+.ngrok.pizza'
+  - '+.ngrok.pro'
   - '+.nhentai.com'
   - '+.nhentai.io'
   - '+.nhentai.net'
@@ -17208,6 +17217,8 @@ payload:
   - '+.ping.pe'
   - '+.ping.sx'
   - '+.pingguotv.xyz'
+  - '+.pinggy.io'
+  - '+.pinggy.link'
   - '+.pingxiangpuer.com'
   - '+.pinimg.com'
   - '+.pinkcore.com'
