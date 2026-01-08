@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-08 00:16:45 (UTC+8)
+# UPDATED: 2026-01-09 00:16:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 27484
+# TOTAL: 27485
 payload:
   - '+.adult'
   - '+.amazon'
@@ -20694,6 +20694,7 @@ payload:
   - '+.tamiaode.tk'
   - '+.tamilsexvideos.cc'
   - '+.tampabay.com'
+  - '+.tamtam.chat'
   - '+.tanc.org'
   - '+.tandberg-china.com'
   - '+.tandberg.com'

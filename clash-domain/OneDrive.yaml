@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-08 00:25:18 (UTC+8)
+# UPDATED: 2026-01-09 00:24:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 662
+# TOTAL: 659
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -230,6 +230,7 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
+  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -329,7 +330,6 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
-  - 'echostar.ddnsfree.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -347,8 +347,6 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'mvgforumtracker.mvgroup.org'
-  - 'node01.trackerstatus.live'
-  - 'node02.torrentonline.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -422,6 +420,7 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -430,7 +429,6 @@ payload:
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr4ck3r.duckdns.org'
-  - 'tracker-de-2.cutie.dating'
   - 'tracker-de.ololosh.space'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -446,7 +444,6 @@ payload:
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
   - 'tracker.baltracker.net'
-  - 'tracker.beeimg.com'
   - 'tracker.belmult.online'
   - 'tracker.birkenwald.de'
   - 'tracker.bitcoinindia.space'
@@ -506,11 +503,11 @@ payload:
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iochimari.moe'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
+  - 'tracker.ixuexi.click'
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
   - 'tracker.jiesen.life'
@@ -556,7 +553,6 @@ payload:
   - 'tracker.sktorrent.net'
   - 'tracker.skyts.cn'
   - 'tracker.skyts.net'
-  - 'tracker.soshifanclub.com'
   - 'tracker.srv00.com'
   - 'tracker.startwork.cv'
   - 'tracker.t-1.org'
@@ -667,3 +663,4 @@ payload:
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
   - 'www.torrent.eu.org'
+  - 'yuki.bt.bontal.net'

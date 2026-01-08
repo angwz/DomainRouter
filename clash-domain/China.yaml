@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-08 00:25:18 (UTC+8)
+# UPDATED: 2026-01-09 00:24:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 116015
+# TOTAL: 116016
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -19510,6 +19510,7 @@ payload:
   - '+.cfachina.org'
   - '+.cfanlost.com'
   - '+.cfbond.com'
+  - '+.cfc108.com'
   - '+.cfc365.com'
   - '+.cfca-c.org'
   - '+.cfccd.com'
