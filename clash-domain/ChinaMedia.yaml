@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-09 00:24:46 (UTC+8)
+# UPDATED: 2026-01-10 00:22:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 5126
+# TOTAL: 5127
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -3236,6 +3236,7 @@ payload:
   - '+.taotv.com'
   - '+.taotv.net'
   - '+.taou.com'
+  - '+.tapapks.com'
   - '+.tapimg.com'
   - '+.tapimg.net'
   - '+.taptap.cn'

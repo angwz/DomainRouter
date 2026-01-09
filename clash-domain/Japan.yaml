@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-09 00:24:43 (UTC+8)
+# UPDATED: 2026-01-10 00:22:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 599
+# TOTAL: 600
 payload:
   - '+.amazon'
   - '+.aws'
@@ -184,6 +184,7 @@ payload:
   - '+.binancezh.pro'
   - '+.binancezh.sh'
   - '+.binancezh.top'
+  - '+.bingx.com'
   - '+.bisq.io'
   - '+.bisq.network'
   - '+.bitbank.cc'
