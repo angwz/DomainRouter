@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-10 00:22:47 (UTC+8)
+# UPDATED: 2026-01-11 00:20:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 657
+# TOTAL: 661
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -238,7 +238,6 @@ payload:
   - 'bt-club.ws'
   - 'btracker.top'
   - 'buny.uk'
-  - 'burmese.app'
   - 'ch3oh.ru'
   - 'cny.fan'
   - 'colivioo.com'
@@ -374,6 +373,7 @@ payload:
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
+  - 'node02.torrentonline.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -456,6 +456,7 @@ payload:
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr4ck3r.duckdns.org'
+  - 'tracker-de-2.cutie.dating'
   - 'tracker-de.ololosh.space'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -471,6 +472,7 @@ payload:
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
   - 'tracker.baltracker.net'
+  - 'tracker.beeimg.com'
   - 'tracker.belmult.online'
   - 'tracker.birkenwald.de'
   - 'tracker.bitcoinindia.space'
@@ -482,6 +484,7 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
   - 'tracker.btsync.gq'
+  - 'tracker.bug38.com'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -509,6 +512,7 @@ payload:
   - 'tracker.farted.net'
   - 'tracker.fatkhoala.org'
   - 'tracker.fdn.fr'
+  - 'tracker.file09.com'
   - 'tracker.filemail.com'
   - 'tracker.files.fm'
   - 'tracker.flatuslifir.is'
@@ -532,7 +536,6 @@ payload:
   - 'tracker.iochimari.moe'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
-  - 'tracker.ipv6tracker.ru'
   - 'tracker.istole.it'
   - 'tracker.ixuexi.click'
   - 'tracker.jamesthebard.net'
@@ -613,6 +616,7 @@ payload:
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'
+  - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
@@ -638,6 +642,7 @@ payload:
   - 'tracker7.dler.org'
   - 'trackers.mlsub.net'
   - 'trackers.ptlsp.com'
+  - 'trackr.appolon.dev'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'utracker.ghostchu-services.top'
@@ -661,4 +666,3 @@ payload:
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
-  - 'yuki.bt.bontal.net'
