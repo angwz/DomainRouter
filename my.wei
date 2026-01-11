@@ -1,7 +1,12 @@
 [Direct]
 infini-cloud.net
+lightlayer.net
+hostdzire.com
 teracloud.jp
+racknerd.com
 bigchick.io
+bagevm.com
+alice.sh
 dmit.io
 
 
@@ -32,6 +37,11 @@ SRC-PORT,9993
 
 8.212.183.0/24
 240b:4007:e:500::/64
+
+# Lightlayer
+207.56.18.0/24
+
+156.225.76.0/24
 
 # Tencent Cloud
 101.35.79.0/24
@@ -155,6 +165,7 @@ nodeseek.com
 [Angwz]
 '+.hk'
 bandwagonhost.com
+vollcloud.com
 zerotier.com
 plex.tv
 
