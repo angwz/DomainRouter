@@ -80,7 +80,7 @@ interval = 107
 lazy = false
 name = "🚀 维多利亚"
 rule = [
-  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*(IEPL|IPLC))(?!.*菲).*$)",
+  "!!GROUPID=0!!(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*(IEPL|IPLC)).*$)",
   "[]🎇 香港高速",
   "[]🏞️ 美利坚高速",
 ]
