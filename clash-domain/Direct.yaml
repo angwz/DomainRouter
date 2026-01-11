@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-11 00:11:25 (UTC+8)
+# UPDATED: 2026-01-11 20:28:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 2239
+# TOTAL: 2244
 payload:
   - '+.citic'
   - '+.icbc'
@@ -39,6 +39,7 @@ payload:
   - '+.aixcoder.com'
   - '+.akspeedy.com'
   - '+.alexafund.cn'
+  - '+.alice.sh'
   - '+.amazon.cn'
   - '+.amazonaws.cn'
   - '+.amazonbusiness.cn'
@@ -69,6 +70,7 @@ payload:
   - '+.aws-icp-domain-manager.cn'
   - '+.awsapps.cn'
   - '+.awsstatic.cn'
+  - '+.bagevm.com'
   - '+.baichuan-ai.com'
   - '+.baltamatica.cn'
   - '+.baltamatica.com'
@@ -295,6 +297,7 @@ payload:
   - '+.hiwifi.com'
   - '+.home.arpa'
   - '+.hongbo100.com'
+  - '+.hostdzire.com'
   - '+.houyicaiji.com'
   - '+.htcases.com'
   - '+.htjsq.com'
@@ -360,6 +363,7 @@ payload:
   - '+.leigod.com'
   - '+.leike.cc'
   - '+.liblib.art'
+  - '+.lightlayer.net'
   - '+.linglong.space'
   - '+.liuxing.com'
   - '+.lnlib.net'
@@ -449,6 +453,7 @@ payload:
   - '+.qqgamedesign.com'
   - '+.qwen.ai'
   - '+.qwenlm.ai'
+  - '+.racknerd.com'
   - '+.rails.cn'
   - '+.rdfybk.com'
   - '+.renovacionxboxlive.com'

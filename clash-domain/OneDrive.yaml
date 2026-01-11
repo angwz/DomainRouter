@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-11 00:20:34 (UTC+8)
+# UPDATED: 2026-01-11 20:38:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 661
+# TOTAL: 662
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -139,6 +139,7 @@ payload:
   - '+.nanyangpt.com'
   - '+.ncore.cc'
   - '+.nebulance.io'
+  - '+.nexushd.org'
   - '+.nicept.net'
   - '+.npupt.com'
   - '+.onedrive.com'

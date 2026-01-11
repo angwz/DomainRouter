@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-11 00:12:12 (UTC+8)
+# UPDATED: 2026-01-11 20:29:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 9457
+# TOTAL: 9458
 payload:
   - '+.adult'
   - '+.apple'
@@ -8146,6 +8146,7 @@ payload:
   - '+.vl4x.net'
   - '+.vmwxw.com'
   - '+.vnanchoi.ca'
+  - '+.vollcloud.com'
   - '+.vomitkings.com'
   - '+.voyeureye.com'
   - '+.voyeurhit.com'

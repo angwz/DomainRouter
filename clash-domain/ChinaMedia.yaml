@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-11 00:20:36 (UTC+8)
+# UPDATED: 2026-01-11 20:38:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 5127
+# TOTAL: 5135
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -451,6 +451,7 @@ payload:
   - '+.andfx.cn'
   - '+.andfx.net'
   - '+.androidga.com'
+  - '+.anhuinews.com'
   - '+.animetamashi.cn'
   - '+.animetamashi.com'
   - '+.anitama.cn'
@@ -956,10 +957,13 @@ payload:
   - '+.cloudzhongshan.com'
   - '+.cloudzhuhai.com'
   - '+.cls.cn'
+  - '+.cmcc-cs.cn'
   - '+.cmccb2b.com'
   - '+.cmdcl.cn'
   - '+.cmdcxls.com'
+  - '+.cmicapm.com'
   - '+.cmicrwx.cn'
+  - '+.cmicvip.cn'
   - '+.cmpassport.com'
   - '+.cmread.com'
   - '+.cmvideo.cn'
@@ -1163,6 +1167,7 @@ payload:
   - '+.dusdn.com'
   - '+.dusdn.net'
   - '+.dushifen.com'
+  - '+.dutenews.com'
   - '+.duurl.cn'
   - '+.duxiaomai.net'
   - '+.duxiaoman-int.com'
@@ -2715,6 +2720,7 @@ payload:
   - '+.okjk.co'
   - '+.oklpoi.com'
   - '+.olympicchannelchina.cn'
+  - '+.online-cmcc.cn'
   - '+.oortos.tech'
   - '+.op.gg'
   - '+.openarkcompiler.cn'
@@ -3209,7 +3215,9 @@ payload:
   - '+.swtor.net'
   - '+.sxhimalayanqd.com'
   - '+.syxlgame.com'
+  - '+.sznews.com'
   - '+.szny189.com'
+  - '+.szpgm.com'
   - '+.t-jh.cn'
   - '+.t.cn'
   - '+.taeapp.com'
@@ -3478,6 +3486,7 @@ payload:
   - '+.worldflipper.jp'
   - '+.worldofwarcraft.com'
   - '+.woshipm.com'
+  - '+.wosms.cn'
   - '+.wowchina.com'
   - '+.wowtb.com'
   - '+.wshifen.com'
@@ -3841,6 +3850,7 @@ payload:
   - '+.ctycdn.net.cn'
   - '+.ctyun.com.cn'
   - '+.cygames.co.jp'
+  - '+.cytxl.com.cn'
   - '+.data-schema.org.cn'
   - '+.dcia.org.cn'
   - '+.dlmobilegarena-a.akamaihd.net'
@@ -4362,7 +4372,6 @@ payload:
   - 'lazer.ppy.sh'
   - 'lb.streaming.sk'
   - 'lbzb.yd-data.com'
-  - 'lglivepull.sznews.com'
   - 'lichuan-live21.cjyun.org'
   - 'linxinbf.fst1994.cn'
   - 'live-350k.streamingfast.net'
@@ -4918,7 +4927,6 @@ payload:
   - 'live-hls.ihzlh.linker.cc'
   - 'live.aiyicheng.com.cn'
   - 'live.cloud.yanews.cn'
-  - 'live.cms.anhuinews.com'
   - 'live.erdszs.org.cn'
   - 'live.g3proxy.lecloud.com'
   - 'live.hannews.com.cn'
