@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-12 00:20:42 (UTC+8)
+# UPDATED: 2026-01-13 00:24:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 116018
+# TOTAL: 116021
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -67856,6 +67856,7 @@ payload:
   - '+.mobotap.com'
   - '+.mobring.co'
   - '+.mobrtb.com'
+  - '+.mobsdks.com'
   - '+.mobsurl.com'
   - '+.mobtou.com'
   - '+.mobvoi.com'
@@ -81135,6 +81136,7 @@ payload:
   - '+.school888.com'
   - '+.schoolinweb.com'
   - '+.schoolpi.net'
+  - '+.schoopia.com'
   - '+.schstv.com'
   - '+.scht.cc'
   - '+.schwarzeni.com'
@@ -92322,6 +92324,7 @@ payload:
   - '+.tongxue.com'
   - '+.tongxue365.com'
   - '+.tongxue8.com'
+  - '+.tongxuepie.com'
   - '+.tongyangship.com'
   - '+.tongyaoplay.com'
   - '+.tongyavisa.com'
