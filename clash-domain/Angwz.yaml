@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-13 00:16:14 (UTC+8)
+# UPDATED: 2026-01-14 00:18:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 9458
+# TOTAL: 9469
 payload:
   - '+.adult'
   - '+.apple'
@@ -1823,6 +1823,7 @@ payload:
   - '+.brokenteens.com'
   - '+.bromo.com'
   - '+.brourou.com'
+  - '+.browser.run'
   - '+.brutalbdsmtube.com'
   - '+.brutalfetish.com'
   - '+.bsxm1213.pro'
@@ -2010,6 +2011,7 @@ payload:
   - '+.cf-ns.tech'
   - '+.cfake.com'
   - '+.cfargotunnel.com'
+  - '+.cfdata.org'
   - '+.cfl.re'
   - '+.cftest5.cn'
   - '+.cftest6.cn'
@@ -2159,16 +2161,21 @@ payload:
   - '+.cloudflare-gateway.com'
   - '+.cloudflare-ipfs.com'
   - '+.cloudflare-quic.com'
+  - '+.cloudflare-terms-of-service-abuse.com'
   - '+.cloudflare.com'
+  - '+.cloudflare.dev'
   - '+.cloudflare.net'
   - '+.cloudflare.tv'
   - '+.cloudflareaccess.com'
   - '+.cloudflareanycast.net'
   - '+.cloudflareapps.com'
   - '+.cloudflarebolt.com'
+  - '+.cloudflarebrowser.com'
+  - '+.cloudflarechallenge.com'
   - '+.cloudflarechina.cn'
   - '+.cloudflareclient.com'
   - '+.cloudflarecn.net'
+  - '+.cloudflarecp.com'
   - '+.cloudflareglobal.net'
   - '+.cloudflareinsights-cn.com'
   - '+.cloudflareinsights.com'
@@ -2179,6 +2186,7 @@ payload:
   - '+.cloudflarepreview.com'
   - '+.cloudflareprod.com'
   - '+.cloudflareregistrar.com'
+  - '+.cloudflareresearch.com'
   - '+.cloudflareresolve.com'
   - '+.cloudflaressl.com'
   - '+.cloudflarestaging.com'
@@ -2186,8 +2194,10 @@ payload:
   - '+.cloudflarestorage.com'
   - '+.cloudflarestoragegw.com'
   - '+.cloudflarestream.com'
+  - '+.cloudflaresupport.com'
   - '+.cloudflaretest.com'
   - '+.cloudflarewarp.com'
+  - '+.cloudflareworkers.com'
   - '+.cloudyzgirl.com'
   - '+.clubseventeen.com'
   - '+.clubsweethearts.com'
@@ -2658,6 +2668,7 @@ payload:
   - '+.empero-right.mom'
   - '+.empflix.com'
   - '+.empornium.site'
+  - '+.encryptedsni.com'
   - '+.encuentroscasualesoecuador.com'
   - '+.enema-porn.com'
   - '+.enema-videos.com'

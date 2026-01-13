@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-13 00:24:41 (UTC+8)
+# UPDATED: 2026-01-14 00:26:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 4426
+# TOTAL: 4428
 payload:
   - '+.bbc'
   - '+.bloomberg'
@@ -857,6 +857,7 @@ payload:
   - '+.init.shop'
   - '+.inmediahk.net'
   - '+.innovations-i.com'
+  - '+.inquirer.net'
   - '+.insider-intelligence.com'
   - '+.insider.com'
   - '+.insiderintelligence.com'
@@ -936,6 +937,7 @@ payload:
   - '+.macaodaily.com'
   - '+.machigoto.jp'
   - '+.macrumors.com'
+  - '+.maidonanews.jp'
   - '+.mailhealth.com'
   - '+.mailonline.com'
   - '+.mailonsunday.ie'
