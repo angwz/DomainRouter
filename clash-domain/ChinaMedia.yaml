@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-14 00:26:35 (UTC+8)
+# UPDATED: 2026-01-15 00:25:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 5135
+# TOTAL: 5149
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -129,6 +129,7 @@ payload:
   - '+.4399biule.com'
   - '+.4399dmw.com'
   - '+.4399er.com'
+  - '+.4399hdhh.com'
   - '+.4399hhh.com'
   - '+.4399inc.com'
   - '+.4399mail.com'
@@ -148,6 +149,7 @@ payload:
   - '+.576nt.cn'
   - '+.5945i.com'
   - '+.59bob.cn'
+  - '+.5wyxi.com'
   - '+.6655.com'
   - '+.6ts7c.cn'
   - '+.6tt.com'
@@ -181,6 +183,7 @@ payload:
   - '+.aadcloud.cn'
   - '+.aadcloud.com'
   - '+.aamyoe.com'
+  - '+.abdf002.com'
   - '+.abhouses.com'
   - '+.ac-pocketcamp.com'
   - '+.acfun.cn'
@@ -693,6 +696,7 @@ payload:
   - '+.brawlstars.com'
   - '+.brawlstarsgame.com'
   - '+.buf35.cn'
+  - '+.buke999.com'
   - '+.buyjingxi.com'
   - '+.bx1k.com'
   - '+.bytianshankd.com'
@@ -1107,6 +1111,7 @@ payload:
   - '+.dingtalkapps.com'
   - '+.dingtalkcloud.com'
   - '+.dingwei.link'
+  - '+.dinopoloclub.com'
   - '+.ditianshanhe.com'
   - '+.djdyqn.com'
   - '+.dkr.com'
@@ -1827,6 +1832,7 @@ payload:
   - '+.hao123img.com'
   - '+.hao222.com'
   - '+.hao222.net'
+  - '+.haohaowan.net'
   - '+.haokan.com'
   - '+.haowu.link'
   - '+.happyhlddz.com'
@@ -2411,6 +2417,7 @@ payload:
   - '+.mahjongcup.net'
   - '+.mail4399.com'
   - '+.maimai.cn'
+  - '+.maindown4399.com'
   - '+.maitix.com'
   - '+.maoercdn.com'
   - '+.maoyan.com'
@@ -2698,6 +2705,7 @@ payload:
   - '+.nndz3xu7.com'
   - '+.nnjioko.com'
   - '+.noxnny.com'
+  - '+.noxygames.com'
   - '+.npmmirror.com'
   - '+.nqiief.com'
   - '+.nqmoui.com'
@@ -2756,6 +2764,7 @@ payload:
   - '+.personaltrainermath.com'
   - '+.pftianshanno.com'
   - '+.philanthropy.xin'
+  - '+.phira.cn'
   - '+.phoenixcenter.cn'
   - '+.phpwind.com'
   - '+.phpwind.net'
@@ -2881,6 +2890,8 @@ payload:
   - '+.qy.net'
   - '+.r8zc9.cn'
   - '+.radgametools.com'
+  - '+.rayark.download'
+  - '+.rayark.net'
   - '+.rblx.co'
   - '+.rblx.com'
   - '+.rblx.org'
@@ -3725,7 +3736,9 @@ payload:
   - '+.yushanfang.com'
   - '+.yuweikuijianzhan.com'
   - '+.yxdmgame.com'
+  - '+.yxhapi.com'
   - '+.yxhhdl.com'
+  - '+.yxhimg.com'
   - '+.yximg.cn'
   - '+.yxwsgame.com'
   - '+.yy.com'
@@ -3951,6 +3964,7 @@ payload:
   - '+.mios.com.cn'
   - '+.misrm.com.cn'
   - '+.miui-fxcse.avlyun.com'
+  - '+.mobimon.com.tw'
   - '+.music.qq.com'
   - '+.mygds.com.cn'
   - '+.myhwclouds.com.cn'

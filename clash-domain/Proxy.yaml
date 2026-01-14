@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-14 00:18:08 (UTC+8)
+# UPDATED: 2026-01-15 00:16:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 27534
+# TOTAL: 27539
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6315,6 +6315,7 @@ payload:
   - '+.diigo.com'
   - '+.dilber.se'
   - '+.dilcdn.com'
+  - '+.dinopoloclub.com'
   - '+.dinotube.com'
   - '+.dipity.com'
   - '+.dirctv.com'
@@ -16103,6 +16104,7 @@ payload:
   - '+.nownews.com'
   - '+.nowtorrents.com'
   - '+.noxinfluencer.com'
+  - '+.noxygames.com'
   - '+.noypf.com'
   - '+.nozomi.la'
   - '+.npm.community'
@@ -18398,6 +18400,8 @@ payload:
   - '+.rawgit.com'
   - '+.rawgithub.com'
   - '+.raxcdn.com'
+  - '+.rayark.download'
+  - '+.rayark.net'
   - '+.razer.com'
   - '+.razerofficial.com'
   - '+.razersupport.com'
@@ -26413,6 +26417,7 @@ payload:
   - '+.mmbbank.com.mm'
   - '+.mmftb.gov.mm'
   - '+.mminsurance.gov.mm'
+  - '+.mobimon.com.tw'
   - '+.mof.kemomi.me'
   - '+.momami18.livedoor.blog'
   - '+.momomall.com.tw'
