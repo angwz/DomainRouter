@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-15 00:16:31 (UTC+8)
+# UPDATED: 2026-01-16 00:21:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 27539
+# TOTAL: 27542
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19631,6 +19631,8 @@ payload:
   - '+.signalusers.org'
   - '+.sigops.org'
   - '+.sigopt.com'
+  - '+.sih-db.com'
+  - '+.sih.app'
   - '+.sijihuisuo.club'
   - '+.sijihuisuo.com'
   - '+.sikiswap.com'
@@ -20341,6 +20343,7 @@ payload:
   - '+.steamdb.info'
   - '+.steamdeck.com'
   - '+.steamgames.com'
+  - '+.steaminventoryhelper.com'
   - '+.steamladder.com'
   - '+.steamofporn.com'
   - '+.steampowered.com'

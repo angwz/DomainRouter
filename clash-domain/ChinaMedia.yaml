@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-15 00:25:14 (UTC+8)
+# UPDATED: 2026-01-16 00:29:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 5149
+# TOTAL: 5154
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -3111,6 +3111,8 @@ payload:
   - '+.shuqireader.com'
   - '+.shyhhema.com'
   - '+.shyxhy.com'
+  - '+.sih-db.com'
+  - '+.sih.app'
   - '+.simcity-buildit.com'
   - '+.simcity.com'
   - '+.sina.cn'
@@ -3191,6 +3193,7 @@ payload:
   - '+.steamdb.info'
   - '+.steamdeck.com'
   - '+.steamgames.com'
+  - '+.steaminventoryhelper.com'
   - '+.steampowered.com'
   - '+.steamserver.net'
   - '+.steamstat.us'
@@ -3773,6 +3776,7 @@ payload:
   - '+.zmzapi.net'
   - '+.zmzfile.com'
   - '+.zqrb.cn'
+  - '+.zsxq.com'
   - '+.ztcexam.com'
   - '+.ztna-dingtalk.com'
   - '+.zui.cn'
@@ -3851,6 +3855,7 @@ payload:
   - '+.cloudnet-ecloud.com.cn'
   - '+.cm.fancyapi.com'
   - '+.cm.ipinyou.com'
+  - '+.cmft.com.cn'
   - '+.cnms.net.cn'
   - '+.cns.com.cn'
   - '+.cntv.com.cn'

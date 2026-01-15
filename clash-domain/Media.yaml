@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-15 00:25:13 (UTC+8)
+# UPDATED: 2026-01-16 00:29:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 4428
+# TOTAL: 4429
 payload:
   - '+.bbc'
   - '+.bloomberg'
@@ -1533,6 +1533,7 @@ payload:
   - '+.twitchcdn.net'
   - '+.twitchsvc.net'
   - '+.twnextdigital.com'
+  - '+.twreporter.org'
   - '+.tynt.com'
   - '+.typeisbeautiful.com'
   - '+.udn.com'
