@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-16 00:29:56 (UTC+8)
+# UPDATED: 2026-01-17 00:23:09 (UTC+8)
 # TYPE: domain
-# TOTAL: 977
+# TOTAL: 978
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -810,6 +810,7 @@ payload:
   - '+.volcfcdnsc.com'
   - '+.volcfxgjrtm.com'
   - '+.volcgroup.com'
+  - '+.volcgslb-mlt.com'
   - '+.volcgslb.com'
   - '+.volcgtm.com'
   - '+.volciad.com'

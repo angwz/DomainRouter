@@ -1,9 +1,9 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-16 00:21:27 (UTC+8)
+# UPDATED: 2026-01-17 00:15:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 9469
+# TOTAL: 9472
 payload:
   - '+.adult'
   - '+.apple'
@@ -8597,6 +8597,7 @@ payload:
   - '+.xtubezoo.com'
   - '+.xu97.vip'
   - '+.xujan.com'
+  - '+.xv-ru.com'
   - '+.xv1.monster'
   - '+.xvds.tv'
   - '+.xvedo.net'
@@ -8607,8 +8608,10 @@ payload:
   - '+.xvideo1.org'
   - '+.xvideo2.org'
   - '+.xvideoporno.tv'
+  - '+.xvideos-ar.com'
   - '+.xvideos-cdn.com'
   - '+.xvideos-dl.top'
+  - '+.xvideos-india.com'
   - '+.xvideos-porn-video.com'
   - '+.xvideos-xxxx.com'
   - '+.xvideos.blog'

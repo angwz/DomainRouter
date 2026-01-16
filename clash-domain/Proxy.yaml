@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-16 00:21:23 (UTC+8)
+# UPDATED: 2026-01-17 00:15:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 27542
+# TOTAL: 27545
 payload:
   - '+.adult'
   - '+.amazon'
@@ -23993,6 +23993,7 @@ payload:
   - '+.xuite.net'
   - '+.xujan.com'
   - '+.xuzhiyong.net'
+  - '+.xv-ru.com'
   - '+.xv1.monster'
   - '+.xvbelink.com'
   - '+.xvds.tv'
@@ -24005,8 +24006,10 @@ payload:
   - '+.xvideo1.org'
   - '+.xvideo2.org'
   - '+.xvideoporno.tv'
+  - '+.xvideos-ar.com'
   - '+.xvideos-cdn.com'
   - '+.xvideos-dl.top'
+  - '+.xvideos-india.com'
   - '+.xvideos-porn-video.com'
   - '+.xvideos-xxxx.com'
   - '+.xvideos.blog'
