@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-17 00:15:14 (UTC+8)
+# UPDATED: 2026-01-18 00:11:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 27545
+# TOTAL: 27549
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16144,11 +16144,14 @@ payload:
   - '+.ntdtv.ca'
   - '+.ntdtv.com'
   - '+.ntdtv.cz'
+  - '+.ntdtv.fr'
   - '+.ntdtv.jp'
   - '+.ntdtv.kr'
   - '+.ntdtv.org'
   - '+.ntdtv.ru'
+  - '+.ntdtv.se'
   - '+.ntdtvla.com'
+  - '+.ntdvideo.tw'
   - '+.ntdvn.com'
   - '+.ntp.se'
   - '+.ntrfun.com'
@@ -26536,6 +26539,7 @@ payload:
   - '+.njpw.co.jp'
   - '+.nochubank.or.jp'
   - '+.now.com.hk'
+  - '+.ntdtv.co.il'
   - '+.ntdtv.co.kr'
   - '+.ntdtv.com.tw'
   - '+.ntnews.com.au'
