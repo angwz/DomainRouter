@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-18 00:20:15 (UTC+8)
+# UPDATED: 2026-01-19 00:20:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 5154
+# TOTAL: 5158
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -2276,6 +2276,7 @@ payload:
   - '+.kmop-cn-north-4.cn'
   - '+.koowo.com'
   - '+.koubei.com'
+  - '+.kraftonde.com'
   - '+.kugou.com'
   - '+.kuhimalayandp.com'
   - '+.kuku123.com'
@@ -2779,6 +2780,7 @@ payload:
   - '+.play4free.com'
   - '+.playapex.com'
   - '+.playartifact.com'
+  - '+.playbattlegrounds.com'
   - '+.playdisorder.com'
   - '+.playfab.cn'
   - '+.playhearthstone.com'
@@ -2840,6 +2842,7 @@ payload:
   - '+.proximabeta.com'
   - '+.puata.info'
   - '+.pubbcsapp.com'
+  - '+.pubg.com'
   - '+.pubghelper.com'
   - '+.pubgno1.cn'
   - '+.pubgtool.com'
@@ -4621,6 +4624,7 @@ payload:
   - 'pluslive.zhxww.net'
   - 'pluslive1.sjzntv.cn'
   - 'prd-priconne-redive.akamaized.net'
+  - 'pubg1.battleye.com'
   - 'pull.dayuntongzhou.com'
   - 'pull.hnedutv.com'
   - 'pull.hrbtv.net'
