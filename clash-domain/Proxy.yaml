@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-20 00:15:52 (UTC+8)
+# UPDATED: 2026-01-21 00:21:17 (UTC+8)
 # TYPE: domain
-# TOTAL: 27556
+# TOTAL: 27560
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4725,6 +4725,7 @@ payload:
   - '+.castingcouch-x.com'
   - '+.castro.fm'
   - '+.casualhomemadesex.com'
+  - '+.cataboom.com'
   - '+.catalina.hk'
   - '+.catalinacruz.com'
   - '+.catbox.moe'
@@ -5544,6 +5545,7 @@ payload:
   - '+.conquerwithcharacter.com'
   - '+.conscrypt.com'
   - '+.conscrypt.org'
+  - '+.consentpro.com'
   - '+.constitutionalism.solutions'
   - '+.constructware.com'
   - '+.consul.io'
@@ -16658,6 +16660,7 @@ payload:
   - '+.orzistic.org'
   - '+.orzqwq.com'
   - '+.osakamotion.net'
+  - '+.osano.com'
   - '+.osapublishing.org'
   - '+.osdn.net'
   - '+.osfoora.com'
@@ -22138,6 +22141,7 @@ payload:
   - '+.usenix.org'
   - '+.useplannr.com'
   - '+.userapi.com'
+  - '+.usercentrics.eu'
   - '+.usercontent.dev'
   - '+.userpxt.io'
   - '+.usertrust.com'

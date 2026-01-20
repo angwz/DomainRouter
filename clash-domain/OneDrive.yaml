@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-20 00:23:47 (UTC+8)
+# UPDATED: 2026-01-21 00:29:46 (UTC+8)
 # TYPE: domain
-# TOTAL: 663
+# TOTAL: 664
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -239,8 +239,10 @@ payload:
   - 'bt-club.ws'
   - 'btracker.top'
   - 'buny.uk'
+  - 'burmese.app'
   - 'ch3oh.ru'
   - 'cny.fan'
+  - 'colivioo.com'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -257,7 +259,6 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -448,6 +449,7 @@ payload:
   - 'torrents.artixlinux.org'
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
+  - 'tr-rh-zhuqiy.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
@@ -485,7 +487,6 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
   - 'tracker.btsync.gq'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -534,6 +535,7 @@ payload:
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iochimari.moe'
+  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.ipv6tracker.ru'
@@ -567,7 +569,6 @@ payload:
   - 'tracker.opentorrent.top'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
-  - 'tracker.orsvarn.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.playground.ru'
