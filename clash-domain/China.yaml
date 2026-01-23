@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-24 00:25:05 (UTC+8)
+# UPDATED: 2026-01-24 02:40:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 115612
+# TOTAL: 115615
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -13281,6 +13281,7 @@ payload:
   - '+.baimda.com'
   - '+.baimei.com'
   - '+.baimeidashu.com'
+  - '+.baimiao.tech'
   - '+.baimiaoapp.com'
   - '+.baimin.com'
   - '+.baina.com'
@@ -78726,6 +78727,7 @@ payload:
   - '+.redmart.com'
   - '+.redmou.com'
   - '+.rednetdns.com'
+  - '+.rednotecdn.com'
   - '+.redocn.com'
   - '+.redodopower.com'
   - '+.redoop.com'
@@ -83357,6 +83359,7 @@ payload:
   - '+.shineoptics.com'
   - '+.shineray-motors.com'
   - '+.shinerayad.com'
+  - '+.shinescan.tech'
   - '+.shinetsu.shop'
   - '+.shineu.com'
   - '+.shineway.com'

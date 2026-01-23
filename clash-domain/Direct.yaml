@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-24 00:15:57 (UTC+8)
+# UPDATED: 2026-01-24 02:31:14 (UTC+8)
 # TYPE: domain
 # TOTAL: 2096
 payload:
@@ -12,7 +12,6 @@ payload:
   - '+.16q.cn'
   - '+.3dmjiasu.com'
   - '+.51ccd.com'
-  - '+.596743944.top'
   - '+.5read.com'
   - '+.95306.cn'
   - '+.95516.com'
@@ -434,6 +433,7 @@ payload:
   - '+.uonline-sh.net'
   - '+.vipexam.org'
   - '+.virtualbox.org'
+  - '+.vps.town'
   - '+.webank.com'
   - '+.webankcdn.net'
   - '+.wegamedeveloper.com'
