@@ -6,6 +6,7 @@ teracloud.jp
 racknerd.com
 bigchick.io
 bagevm.com
+vps.town
 alice.sh
 dmit.io
 
@@ -15,7 +16,7 @@ SRC-PORT,9993
 
 
 # DMIT
-154.26.181.0/24
+64.186.238.0/24
 2605:52c0:2:18df::/64
 
 # BWG
@@ -37,6 +38,12 @@ SRC-PORT,9993
 
 8.212.183.0/24
 240b:4007:e:500::/64
+
+# HostDZire
+163.61.31.0/24
+
+23.80.80.0/24
+2607:f5b4:88:103::/64
 
 # Lightlayer
 207.56.18.0/24
@@ -68,12 +75,12 @@ SRC-PORT,9993
 
 148.135.21.0/24
 
-# HostDZire
-23.80.80.0/24
-2607:f5b4:88:103::/64
+# 老乡鸡
+154.19.43.0/24
 
-# 56IDC
-2a01:4f9:6b:4a8f:69::/80
+84.54.3.0/24
+2a14:67c1:a040:1::/64
+
 
 
 
@@ -82,7 +89,6 @@ greencloudvps.com
 green.cloud
 ai-yyds.com
 lala.gg
-596743944.top
 
 
 223.5.5.5
