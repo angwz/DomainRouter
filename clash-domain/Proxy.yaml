@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-23 00:20:33 (UTC+8)
+# UPDATED: 2026-01-24 00:16:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 27418
+# TOTAL: 27421
 payload:
   - '+.adult'
   - '+.amazon'
@@ -7376,6 +7376,8 @@ payload:
   - '+.encryptedsni.com'
   - '+.encuentroscasualesoecuador.com'
   - '+.encyclopedia.com'
+  - '+.eneba.com'
+  - '+.eneba.games'
   - '+.enema-porn.com'
   - '+.enema-videos.com'
   - '+.enemabasics.com'
@@ -16352,6 +16354,7 @@ payload:
   - '+.okx-dns.com'
   - '+.okx-dns1.com'
   - '+.okx-dns2.com'
+  - '+.okx.cab'
   - '+.okx.com'
   - '+.olabloga.pl'
   - '+.old-cat.net'
