@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-26 00:21:30 (UTC+8)
+# UPDATED: 2026-01-27 00:28:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 660
+# TOTAL: 661
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -241,7 +241,6 @@ payload:
   - 'buny.uk'
   - 'ch3oh.ru'
   - 'cny.fan'
-  - 'colivioo.com'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -447,6 +446,7 @@ payload:
   - 'torrents.artixlinux.org'
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
+  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
@@ -618,6 +618,7 @@ payload:
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
+  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -642,7 +643,6 @@ payload:
   - 'tracker7.dler.org'
   - 'trackers.mlsub.net'
   - 'trackers.ptlsp.com'
-  - 'trackr.appolon.dev'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'utracker.ghostchu-services.top'
@@ -654,6 +654,7 @@ payload:
   - 'yggtracker.i2p.rocks'
   - 'yolo.liberbear.com'
   - 'z.paranoid.agency'
+  - 'anna.bt.bontal.net'
   - 'd40969.acod.regrucolo.ru'
   - 'denis.stalker.upeer.me'
   - 'h4.trakx.nibba.trade'
