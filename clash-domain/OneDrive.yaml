@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-28 00:26:44 (UTC+8)
+# UPDATED: 2026-01-29 00:31:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 661
+# TOTAL: 658
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -240,7 +240,6 @@ payload:
   - 'btracker.top'
   - 'buny.uk'
   - 'ch3oh.ru'
-  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -257,6 +256,7 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
+  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -365,7 +365,6 @@ payload:
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
-  - 'ipv6.rer.lol'
   - 'irrenhaus.dyndns.dk'
   - 'isk.richardsw.club'
   - 'lucke.fenesisu.moe'
@@ -373,7 +372,6 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'node01.trackerstatus.live'
-  - 'node02.torrentonline.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -446,8 +444,8 @@ payload:
   - 'torrents.artixlinux.org'
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
-  - 'tr-zhuqiy-2.dgj055.icu'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -456,6 +454,7 @@ payload:
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr4ck3r.duckdns.org'
+  - 'tracker-de-2.cutie.dating'
   - 'tracker-de.ololosh.space'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -482,7 +481,6 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
   - 'tracker.btsync.gq'
-  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -654,7 +652,6 @@ payload:
   - 'yggtracker.i2p.rocks'
   - 'yolo.liberbear.com'
   - 'z.paranoid.agency'
-  - 'anna.bt.bontal.net'
   - 'd40969.acod.regrucolo.ru'
   - 'denis.stalker.upeer.me'
   - 'h4.trakx.nibba.trade'

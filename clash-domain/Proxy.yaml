@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-28 00:18:13 (UTC+8)
+# UPDATED: 2026-01-29 00:22:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 27422
+# TOTAL: 27427
 payload:
   - '+.adult'
   - '+.amazon'
@@ -97,6 +97,7 @@ payload:
   - '+.101boyvideos.com'
   - '+.101tubeporn.com'
   - '+.101xxx.xyz'
+  - '+.1024terabox.com'
   - '+.10beasts.net'
   - '+.10bet.com'
   - '+.10c10qoo.one'
@@ -3232,6 +3233,7 @@ payload:
   - '+.bestbuytradein.com'
   - '+.bestbuyus.com'
   - '+.bestcamsites.net'
+  - '+.bestclouddrive.com'
   - '+.besterpornos.com'
   - '+.bestescortgirls.nl'
   - '+.bestforchina.org'
@@ -8903,6 +8905,7 @@ payload:
   - '+.freessh.us'
   - '+.freessl.com'
   - '+.freetcp.com'
+  - '+.freeterabox.com'
   - '+.freetibet.net'
   - '+.freetibet.org'
   - '+.freetibetanheroes.org'
@@ -16609,6 +16612,7 @@ payload:
   - '+.osmfoundation.org'
   - '+.ospray.net'
   - '+.ospray.org'
+  - '+.ospserver.net'
   - '+.osxdaily.com'
   - '+.otaku-168.com'
   - '+.otaku18a.info'
@@ -20847,6 +20851,7 @@ payload:
   - '+.tensorflow.org'
   - '+.tenzinpalmo.com'
   - '+.terabox.com'
+  - '+.terabox1024.com'
   - '+.teraboxcdn.com'
   - '+.terapeack.com'
   - '+.terapeak.ca'
