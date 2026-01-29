@@ -162,19 +162,19 @@ interval = 21600
 
 [[rulesets]]
 group = "🛫 香港专线"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/HongKong.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/HK.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
 group = "🛫 香港专线"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/HongKong-ipcidr.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/HK-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
 group = "🛫 香港专线"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/HongKong-classic.yaml"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/HK-classic.yaml"
 type = "clash-classic"
 interval = 21600
 
@@ -197,18 +197,6 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌠 节点选择"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Angwz-ipcidr.yaml"
-type = "clash-ipcidr"
-interval = 21600
-
-[[rulesets]]
-group = "🌠 节点选择"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Angwz-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
 group = "⛳ 美国专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/America.yaml"
 type = "clash-domain"
@@ -224,6 +212,12 @@ interval = 21600
 group = "🧊 台湾专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Taiwan.yaml"
 type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🧊 台湾专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Taiwan-classic.yaml"
+type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
