@@ -161,6 +161,24 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+group = "🛫 香港专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/HongKong.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🛫 香港专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/HongKong-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "🛫 香港专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/HongKong-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "🌌 星星啊"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Star.yaml"
 type = "clash-domain"
@@ -200,6 +218,12 @@ interval = 21600
 group = "⛳ 美国专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/America-classic.yaml"
 type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
+group = "🧊 台湾专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Taiwan.yaml"
+type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
@@ -271,6 +295,10 @@ interval = 21600
 [[rulesets]]
 group = "🛫 香港专线"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
+
+[[rulesets]]
+group = "🧊 台湾专线"
+ruleset = "[]GEOIP,TW,no-resolve"
 
 [[rulesets]]
 group = "🌺 日本专线"
