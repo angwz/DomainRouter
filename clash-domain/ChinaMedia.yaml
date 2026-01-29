@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-29 00:31:45 (UTC+8)
+# UPDATED: 2026-01-29 21:31:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 5128
+# TOTAL: 5137
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -478,6 +478,8 @@ payload:
   - '+.aqviwv.com'
   - '+.arcaea.cn'
   - '+.arcraiders.com'
+  - '+.arma3.com'
+  - '+.armaplatform.com'
   - '+.artstation.com'
   - '+.asczwa.com'
   - '+.asczxcefsv.com'
@@ -675,6 +677,7 @@ payload:
   - '+.biowarestore.com'
   - '+.bisheng.cn'
   - '+.bishengcompiler.cn'
+  - '+.bistudio.com'
   - '+.bkiije.com'
   - '+.blackboxgames.com'
   - '+.blackdragon.com'
@@ -689,6 +692,7 @@ payload:
   - '+.blz-contentstack.com'
   - '+.blzstatic.cn'
   - '+.bnet.cn'
+  - '+.bohemia.net'
   - '+.bohu.co'
   - '+.boombeach.com'
   - '+.bowsersinsidestory.com'
@@ -1075,6 +1079,7 @@ payload:
   - '+.dayin8.com'
   - '+.dayu.com'
   - '+.dayu.work'
+  - '+.dayz.com'
   - '+.dbank.com'
   - '+.dbankcdn.cn'
   - '+.dbankcdn.com'
@@ -2422,6 +2427,7 @@ payload:
   - '+.maimai.cn'
   - '+.maindown4399.com'
   - '+.maitix.com'
+  - '+.makearmanotwar.com'
   - '+.maoercdn.com'
   - '+.maoyan.com'
   - '+.marioandluigidreamteam.com'
@@ -3117,6 +3123,7 @@ payload:
   - '+.shyxhy.com'
   - '+.sih-db.com'
   - '+.sih.app'
+  - '+.silicagame.com'
   - '+.simcity-buildit.com'
   - '+.simcity.com'
   - '+.siteapp-static.com'
@@ -3405,6 +3412,7 @@ payload:
   - '+.videomind.cn'
   - '+.videomind.net'
   - '+.videoxiaoyouxi.com'
+  - '+.vigorgame.com'
   - '+.vipmro.com'
   - '+.vipmro.net'
   - '+.visceralgames.com'
@@ -3646,6 +3654,7 @@ payload:
   - '+.yjs-cdn9.com'
   - '+.yjsops.com'
   - '+.ykimg.com'
+  - '+.ylands.com'
   - '+.ynet.cn'
   - '+.ynet.com'
   - '+.ynoproject.net'

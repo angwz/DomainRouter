@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-29 00:31:42 (UTC+8)
+# UPDATED: 2026-01-29 21:31:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 602
+# TOTAL: 600
 payload:
   - '+.amazon'
   - '+.aws'
@@ -168,7 +168,6 @@ payload:
   - '+.binance.vision'
   - '+.binanceapi.com'
   - '+.binancecnt.com'
-  - '+.binancefuture.com'
   - '+.binanceru.net'
   - '+.binancezh.be'
   - '+.binancezh.biz'
@@ -215,7 +214,6 @@ payload:
   - '+.bnappzh.com'
   - '+.bnappzh.mobi'
   - '+.bnbstatic.com'
-  - '+.bnbzh.ac'
   - '+.bntrace.com'
   - '+.boba.network'
   - '+.boxofficemojo.com'

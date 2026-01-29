@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-29 00:22:56 (UTC+8)
+# UPDATED: 2026-01-29 21:22:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 27427
+# TOTAL: 27437
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2127,6 +2127,8 @@ payload:
   - '+.arirangmeari.com'
   - '+.ark.to'
   - '+.arlingtoncemetery.mil'
+  - '+.arma3.com'
+  - '+.armaplatform.com'
   - '+.armorgames.com'
   - '+.armovs.com'
   - '+.army.mil'
@@ -2809,6 +2811,7 @@ payload:
   - '+.battlefrontii.com'
   - '+.battlelog.com'
   - '+.battlenet.com'
+  - '+.battleye.com'
   - '+.baxsound.com'
   - '+.bayareabmw.com'
   - '+.bayvoice.net'
@@ -3472,6 +3475,7 @@ payload:
   - '+.bird.so'
   - '+.bisq.io'
   - '+.bisq.network'
+  - '+.bistudio.com'
   - '+.bit-z.com'
   - '+.bit.com'
   - '+.bit.do'
@@ -4043,6 +4047,7 @@ payload:
   - '+.bodgirls.com'
   - '+.bodog88.com'
   - '+.bodyfluids-jav.com'
+  - '+.bohemia.net'
   - '+.bokep.net'
   - '+.bokepseks.org'
   - '+.bokepvidz.com'
@@ -5671,6 +5676,7 @@ payload:
   - '+.crit-staging.com'
   - '+.critiquebrainz.org'
   - '+.crittercism.com'
+  - '+.crixet.com'
   - '+.crmdynint-gcc.com'
   - '+.crmdynint.com'
   - '+.crocotube.com'
@@ -5958,6 +5964,7 @@ payload:
   - '+.dayone.me'
   - '+.daytonbmw.com'
   - '+.daytontrucktires.com'
+  - '+.dayz.com'
   - '+.dazn-api.com'
   - '+.dazn.com'
   - '+.dazndn.com'
@@ -13795,6 +13802,7 @@ payload:
   - '+.maizhong.org'
   - '+.makaan.com'
   - '+.makeanything.com'
+  - '+.makearmanotwar.com'
   - '+.makebettercode.com'
   - '+.makecode.org'
   - '+.makeeu.com'
@@ -19589,6 +19597,7 @@ payload:
   - '+.sijihuisuo.club'
   - '+.sijihuisuo.com'
   - '+.sikiswap.com'
+  - '+.silicagame.com'
   - '+.silicon-mobility.com'
   - '+.siliconmobility.com'
   - '+.silkbook.com'
@@ -22439,6 +22448,7 @@ payload:
   - '+.viewerswives.net'
   - '+.viewgals.com'
   - '+.viewpointsfromfacebook.com'
+  - '+.vigorgame.com'
   - '+.vijayatemple.org'
   - '+.vikacg.com'
   - '+.vikiporn.com'
@@ -24355,6 +24365,7 @@ payload:
   - '+.yiyechat.com'
   - '+.yizhihongxing.com'
   - '+.yjcontentdelivery.com'
+  - '+.ylands.com'
   - '+.ymail.com'
   - '+.ymhsf.top'
   - '+.ymhsf1.top'
@@ -27391,7 +27402,6 @@ payload:
   - 'practivate.adobe.ipp'
   - 'practivate.adobe.newoa'
   - 'practivate.adobe.ntp'
-  - 'pubg1.battleye.com'
   - 'roovza-launches.appsflyersdk.com'
   - 'rss.4040940.xyz'
   - 'rss.datuan.dev'

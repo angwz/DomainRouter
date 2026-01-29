@@ -1,10 +1,10 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-29 00:23:00 (UTC+8)
+# UPDATED: 2026-01-29 21:23:01 (UTC+8)
 # TYPE: classic
-# TOTAL: 41
-# DOMAIN-KEYWORD TOTAL: 16
+# TOTAL: 38
+# DOMAIN-KEYWORD TOTAL: 13
 # IP-ASN TOTAL: 6
 # PROCESS-NAME TOTAL: 19
 payload:
@@ -12,9 +12,6 @@ payload:
   - DOMAIN-KEYWORD,nicegram
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
-  - DOMAIN-KEYWORD,steambroadcast
-  - DOMAIN-KEYWORD,steamstore
-  - DOMAIN-KEYWORD,steamuserimages
   - DOMAIN-KEYWORD,apple-support.akadns.net
   - DOMAIN-KEYWORD,apple.com.akadns.net
   - DOMAIN-KEYWORD,apple.com.edgekey.net
