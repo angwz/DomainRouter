@@ -1,11 +1,28 @@
 # NAME: HongKong
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-29 21:22:57 (UTC+8)
+# UPDATED: 2026-01-29 22:12:42 (UTC+8)
 # TYPE: classic
-# TOTAL: 3
-# DOMAIN-KEYWORD TOTAL: 3
+# TOTAL: 16
+# DOMAIN-KEYWORD TOTAL: 5
+# IP-ASN TOTAL: 5
+# PROCESS-NAME TOTAL: 6
 payload:
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
+  - DOMAIN-KEYWORD,nicegram
+  - DOMAIN-KEYWORD,paypal
+
+  - IP-ASN,211157,no-resolve
+  - IP-ASN,44907,no-resolve
+  - IP-ASN,59930,no-resolve
+  - IP-ASN,62014,no-resolve
+  - IP-ASN,62041,no-resolve
+
+  - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,nekox.messenger
+  - PROCESS-NAME,org.telegram.messenger
+  - PROCESS-NAME,telegram-desktop
+  - PROCESS-NAME,tw.nekomimi.nekogram
+  - PROCESS-NAME,xyz.nextalone.nagram

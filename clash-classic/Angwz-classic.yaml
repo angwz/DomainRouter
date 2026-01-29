@@ -1,15 +1,14 @@
 # NAME: Angwz
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-29 21:23:01 (UTC+8)
+# UPDATED: 2026-01-29 22:12:46 (UTC+8)
 # TYPE: classic
-# TOTAL: 38
-# DOMAIN-KEYWORD TOTAL: 13
-# IP-ASN TOTAL: 6
-# PROCESS-NAME TOTAL: 19
+# TOTAL: 25
+# DOMAIN-KEYWORD TOTAL: 11
+# IP-ASN TOTAL: 1
+# PROCESS-NAME TOTAL: 13
 payload:
   - DOMAIN-KEYWORD,annas-archive
-  - DOMAIN-KEYWORD,nicegram
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
   - DOMAIN-KEYWORD,apple-support.akadns.net
@@ -19,22 +18,10 @@ payload:
   - DOMAIN-KEYWORD,smp-device
   - DOMAIN-KEYWORD,testflight
   - DOMAIN-KEYWORD,icloud.com.akadns.net
-  - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,github
 
-  - IP-ASN,211157,no-resolve
-  - IP-ASN,44907,no-resolve
-  - IP-ASN,59930,no-resolve
-  - IP-ASN,62014,no-resolve
-  - IP-ASN,62041,no-resolve
   - IP-ASN,32934,no-resolve
 
-  - PROCESS-NAME,Telegram.exe
-  - PROCESS-NAME,nekox.messenger
-  - PROCESS-NAME,org.telegram.messenger
-  - PROCESS-NAME,telegram-desktop
-  - PROCESS-NAME,tw.nekomimi.nekogram
-  - PROCESS-NAME,xyz.nextalone.nagram
   - PROCESS-NAME,CoreLocationAgent
   - PROCESS-NAME,WeatherWidget
   - PROCESS-NAME,apsd

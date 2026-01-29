@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-29 21:22:15 (UTC+8)
+# UPDATED: 2026-01-29 22:12:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 2095
+# TOTAL: 2096
 payload:
   - '+.java'
   - '+.oracle'
@@ -1952,6 +1952,7 @@ payload:
   - 'qmmqvzoz.live.sxmty.com'
   - 'r.gslb.lecloud.com'
   - 'res-1.cdn.office.net'
+  - 'res-2.cdn.office.net'
   - 'res.cdn.office.net'
   - 'rudong-tv-hls.cm.jstv.com'
   - 'sc.rrs.169ol.com'
