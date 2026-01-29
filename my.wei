@@ -168,12 +168,31 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 nodeseek.com
 
 
-[Angwz]
+[HongKong]
 '+.hk'
 bandwagonhost.com
 vollcloud.com
-zerotier.com
 plex.tv
+
+
+tktn.be
+https://raw.githubusercontent.com/SIJULY/Rules/main/Surge/talkatone.list
+
+# Cloudflare
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloudflare/Cloudflare.list
+
+
+# Steam
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
+
+
+
+
+[Angwz]
+zerotier.com
+
 
 nodequality.com
 nodehatch.com
@@ -182,8 +201,7 @@ nodeimage.com
 
 DOMAIN-KEYWORD,annas-archive
 
-tktn.be
-https://raw.githubusercontent.com/SIJULY/Rules/main/Surge/talkatone.list
+
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nodeseek.yaml
 
@@ -202,10 +220,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-porn.yaml
 
-
-# Cloudflare
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Cloudflare/Cloudflare.list
 
 # Telegram
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml
@@ -230,10 +244,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meta
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/linkedin.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LinkedIn/LinkedIn.list
 
-
-# Steam
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
 
 
 # Apple
@@ -420,13 +430,7 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Crypto/Crypto.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Cryptocurrency/Cryptocurrency.list
 
-# Binance
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/binance.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Binance/Binance.list
 
-# OKX
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/okx.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OKX/OKX.list
 
 
 # [Singapore]
@@ -435,11 +439,17 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 
 
+[Taiwan]
+'+.tw'
 
 
-# [Taiwan]
-# '+.tw'
+# Binance
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/binance.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Binance/Binance.list
 
+# OKX
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/okx.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OKX/OKX.list
 
 
 [TikTok]
@@ -602,14 +612,17 @@ Netflix: 🎬 Netflix
 YouTube: 💻 YouTube
 Google: 📩 Google
 Japan: 🌺 日本专线
+HongKong: 🛫 香港专线
 Star: 🌌 星星啊
 Angwz: 🌠 节点选择
 America: ⛳ 美国专线
+Taiwan: 🧊 台湾专线
 ChinaMedia: DIRECT
 OneDrive: ⛅ OneDrive
 Microsoft: 🪟 Microsoft
 Media: 🛖 国际流媒体
 GEOIP,CLOUDFLARE: 🛫 香港专线,no-resolve
+GEOIP,TW: 🧊 台湾专线,no-resolve
 GEOIP,JP: 🌺 日本专线,no-resolve
 GEOIP,CA: ⛳ 美国专线,no-resolve
 GEOIP,US: ⛳ 美国专线,no-resolve
