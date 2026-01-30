@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-30 00:29:32 (UTC+8)
+# UPDATED: 2026-01-31 00:24:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 27437
+# TOTAL: 27444
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2259,11 +2259,13 @@ payload:
   - '+.atgfw.org'
   - '+.athenaeizou.com'
   - '+.atkgallery.com'
+  - '+.atl-paas.net'
   - '+.atlanta168.com'
   - '+.atlantaminidealers.com'
   - '+.atlasdmt.com'
   - '+.atlasonepoint.com'
   - '+.atlaspost.com'
+  - '+.atlassian-dev.net'
   - '+.atlassian.com'
   - '+.atlassian.net'
   - '+.atnext.com'
@@ -8607,6 +8609,9 @@ payload:
   - '+.fotolja.com'
   - '+.fotoscaserasx.com'
   - '+.foundationdb.org'
+  - '+.foundationdns.com'
+  - '+.foundationdns.net'
+  - '+.foundationdns.org'
   - '+.fountmedia.io'
   - '+.fourthinternational.org'
   - '+.fourthns.systems'
@@ -12577,6 +12582,7 @@ payload:
   - '+.jinsilubanzhao.com'
   - '+.jintian.net'
   - '+.jinx.com'
+  - '+.jira.com'
   - '+.jiruan.net'
   - '+.jitouch.com'
   - '+.jitpack.io'
@@ -20141,6 +20147,7 @@ payload:
   - '+.srtcdn.net'
   - '+.srttu.edu'
   - '+.srwwu.uno'
+  - '+.ss-inf.net'
   - '+.ss-link.com'
   - '+.ss2.us'
   - '+.ss7.app'

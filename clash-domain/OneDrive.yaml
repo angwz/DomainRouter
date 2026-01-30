@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-30 00:38:05 (UTC+8)
+# UPDATED: 2026-01-31 00:33:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 658
+# TOTAL: 660
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -365,6 +365,7 @@ payload:
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
+  - 'ipv6.rer.lol'
   - 'irrenhaus.dyndns.dk'
   - 'isk.richardsw.club'
   - 'lucke.fenesisu.moe'
@@ -372,6 +373,7 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'node01.trackerstatus.live'
+  - 'node02.torrentonline.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'

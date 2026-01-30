@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-30 00:29:36 (UTC+8)
+# UPDATED: 2026-01-31 00:25:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 9362
+# TOTAL: 9365
 payload:
   - '+.adult'
   - '+.apple'
@@ -3307,6 +3307,9 @@ payload:
   - '+.fosebook.com'
   - '+.fotoscaserasx.com'
   - '+.foundationdb.org'
+  - '+.foundationdns.com'
+  - '+.foundationdns.net'
+  - '+.foundationdns.org'
   - '+.foxgay.com'
   - '+.foxhq.com'
   - '+.foxporns.com'
