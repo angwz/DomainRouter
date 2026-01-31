@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-31 00:24:16 (UTC+8)
+# UPDATED: 2026-02-01 00:13:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 2096
+# TOTAL: 2099
 payload:
   - '+.java'
   - '+.oracle'
@@ -422,6 +422,7 @@ payload:
   - '+.trae.guru'
   - '+.ts.net'
   - '+.twscholar.com'
+  - '+.u3d.cn'
   - '+.ubuntukylin.com'
   - '+.umajor.net'
   - '+.unionpay.com'
@@ -429,6 +430,8 @@ payload:
   - '+.unionpayintl.cn'
   - '+.unionpayintl.com'
   - '+.unionpaysecure.com'
+  - '+.unity.cn'
+  - '+.unitychina.cn'
   - '+.uonline-sh.com'
   - '+.uonline-sh.net'
   - '+.vipexam.org'

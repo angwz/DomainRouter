@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-31 00:25:03 (UTC+8)
+# UPDATED: 2026-02-01 00:14:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 1545
+# TOTAL: 1540
 payload:
   - '+.android'
   - '+.intel'
@@ -1330,7 +1330,6 @@ payload:
   - '+.zsh.org'
   - '+.academic.eb.com'
   - '+.acaric.co.jp'
-  - '+.ads.unitychina.cn'
   - '+.altera.co.jp'
   - '+.amdigital.co.uk'
   - '+.assetshuluimcom-a.akamaihd.net'
@@ -1390,12 +1389,9 @@ payload:
   - '+.sci-hub.it.nf'
   - '+.sci-hub.mksa.top'
   - '+.sci.hubg.org'
-  - '+.splash-ads.unitychina.cn'
   - '+.swiftui.com.cn'
   - '+.tandf.co.uk'
   - '+.timestamp.apple.com'
-  - '+.unityads.unity.cn'
-  - '+.unityads.unitychina.cn'
   - '+.uq.edu.au'
   - '+.uq.h5p.com'
   - '+.visualstudio.co.uk'
@@ -1410,7 +1406,6 @@ payload:
   - '+.ncbi.nlm.nih.gov'
   - '+.notary-submissions-prod.s3-accelerate.amazonaws.com'
   - '+.push-apple.com.akadns.net'
-  - '+.splash-ads.cdn.unity.cn'
   - '+.cbsi.live.ott.irdeto.com'
   - '+.hulu.playback.edge.bamgrid.com'
   - '+.notary-submissions-prod.s3.us-west-2.amazonaws.com'

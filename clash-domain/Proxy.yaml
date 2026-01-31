@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-01-31 00:24:59 (UTC+8)
+# UPDATED: 2026-02-01 00:14:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 27444
+# TOTAL: 27445
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19616,6 +19616,7 @@ payload:
   - '+.simcity.com'
   - '+.simg.jp'
   - '+.simgbb.com'
+  - '+.simianx.ai'
   - '+.similar-porn.fun'
   - '+.simility.com'
   - '+.simonsgirls.com'
