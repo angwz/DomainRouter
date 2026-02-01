@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-01 00:23:08 (UTC+8)
+# UPDATED: 2026-02-02 00:24:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 116594
+# TOTAL: 116591
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -5171,7 +5171,6 @@ payload:
   - '+.51870.com'
   - '+.5187g.com'
   - '+.5188.com'
-  - '+.518ad.com'
   - '+.518doc.com'
   - '+.518h48fwg6.com'
   - '+.518yp.com'
@@ -9732,7 +9731,6 @@ payload:
   - '+.acmturc.com'
   - '+.acnow.net'
   - '+.aco-musical.com'
-  - '+.acobt.tech'
   - '+.acofork.com'
   - '+.acoloo.com'
   - '+.acoolread.com'
@@ -12509,6 +12507,7 @@ payload:
   - '+.aqviwv.com'
   - '+.aqvx8mcr392mv7.com'
   - '+.aqxx.org'
+  - '+.aqyad.com'
   - '+.aqyqqy.com'
   - '+.aqyun.com'
   - '+.aqyzm.com'
@@ -23140,6 +23139,7 @@ payload:
   - '+.clloz.com'
   - '+.clmpg.com'
   - '+.clngaa.com'
+  - '+.cloooud.com'
   - '+.cloopen.com'
   - '+.cloopen.net'
   - '+.cloopm.com'
@@ -29911,7 +29911,6 @@ payload:
   - '+.dnzhuti.com'
   - '+.dnzjds.com'
   - '+.dnzp.com'
-  - '+.do-global.com'
   - '+.do-won.com'
   - '+.do123.net'
   - '+.do1618.com'
@@ -59615,7 +59614,6 @@ payload:
   - '+.kiana.love'
   - '+.kiapmyf.xyz'
   - '+.kibinggroup.com'
-  - '+.kickoffo.site'
   - '+.kicontech.com'
   - '+.kid17.com'
   - '+.kiddopal.com'
@@ -66737,6 +66735,7 @@ payload:
   - '+.medme.net'
   - '+.medmeeting.org'
   - '+.mednovogroup.com'
+  - '+.medproad.com'
   - '+.medrc.net'
   - '+.medreading.com'
   - '+.medris-china.com'
@@ -69809,7 +69808,6 @@ payload:
   - '+.n459.com'
   - '+.n5w.com'
   - '+.n63.com'
-  - '+.n69.com'
   - '+.n802.com'
   - '+.n8soft.com'
   - '+.n9z.net'
@@ -81393,7 +81391,6 @@ payload:
   - '+.sbf56.com'
   - '+.sbh15.com'
   - '+.sbhimalayanml.com'
-  - '+.sbird.xyz'
   - '+.sbjd88.com'
   - '+.sbjxyq.com'
   - '+.sbk-h5.com'

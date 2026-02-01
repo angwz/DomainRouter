@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-01 00:23:08 (UTC+8)
+# UPDATED: 2026-02-02 00:24:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 660
+# TOTAL: 661
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -240,6 +240,7 @@ payload:
   - 'btracker.top'
   - 'buny.uk'
   - 'ch3oh.ru'
+  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -253,10 +254,10 @@ payload:
   - 'explodie.org'
   - 'finbytes.org'
   - 'freerainbowtables.com'
+  - 'ftp.pet'
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -301,6 +302,7 @@ payload:
   - 'wepzone.net'
   - 'xbtrutor.com'
   - 'xtremewrestlingtorrents.net'
+  - 'zer0day.ch'
   - 'zupix.online'
   - '0d.kebhana.mx'
   - '10.rarbg.com'
@@ -372,8 +374,6 @@ payload:
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
-  - 'node01.trackerstatus.live'
-  - 'node02.torrentonline.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -411,6 +411,7 @@ payload:
   - 'public.demonoid.ch'
   - 'qg.lorzl.gq'
   - 'qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p'
+  - 'rekcart.duckdns.org'
   - 'retracker.hotplug.ru'
   - 'retracker.lanta.me'
   - 'retracker.spark-rostov.ru'
@@ -447,7 +448,6 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -577,6 +577,7 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
+  - 'tracker.sharebro.in'
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
@@ -607,12 +608,12 @@ payload:
   - 'tracker.tricitytorrents.com'
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
+  - 'tracker.umunu.ru'
   - 'tracker.uraniumhexafluori.de'
   - 'tracker.vanitycore.co'
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
-  - 'tracker.wepzone.net'
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'

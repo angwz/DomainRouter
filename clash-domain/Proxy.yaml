@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-01 00:14:36 (UTC+8)
+# UPDATED: 2026-02-02 00:16:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 27445
+# TOTAL: 27447
 payload:
   - '+.adult'
   - '+.amazon'
@@ -13577,6 +13577,7 @@ payload:
   - '+.lostbetsgames.com'
   - '+.lotcrap.com'
   - '+.lotsawahouse.org'
+  - '+.louisvuitton.com'
   - '+.lovart.ai'
   - '+.love4porn.com'
   - '+.love6.tv'
@@ -27308,6 +27309,7 @@ payload:
   - '+.zoho.com.au'
   - '+.affinity.api.serifservices.com'
   - '+.ats1.e-timing.ne.jp'
+  - '+.bbc.pdn.tritondigital.com'
   - '+.bisyoujyogyaruge.topaz.ne.jp'
   - '+.ca.file.myqcloud.com'
   - '+.docs.cfw.lbyczf.com'

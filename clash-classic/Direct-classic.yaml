@@ -1,15 +1,14 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-01 00:13:54 (UTC+8)
+# UPDATED: 2026-02-02 00:15:35 (UTC+8)
 # TYPE: classic
-# TOTAL: 45
-# DOMAIN-KEYWORD TOTAL: 6
+# TOTAL: 44
+# DOMAIN-KEYWORD TOTAL: 5
 # DST-PORT TOTAL: 1
 # SRC-PORT TOTAL: 1
 # PROCESS-NAME TOTAL: 37
 payload:
-  - DOMAIN-KEYWORD,lazycat
   - DOMAIN-KEYWORD,aria2
   - DOMAIN-KEYWORD,thunder
   - DOMAIN-KEYWORD,xlliveud
