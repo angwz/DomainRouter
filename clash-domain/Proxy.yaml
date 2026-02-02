@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-02 00:16:16 (UTC+8)
+# UPDATED: 2026-02-03 00:23:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 27447
+# TOTAL: 27450
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4278,6 +4278,7 @@ payload:
   - '+.brutalfetish.com'
   - '+.brutaltgp.com'
   - '+.bs-adreview.com'
+  - '+.bsappapi.com'
   - '+.bsersd.xyz'
   - '+.bsi.ir'
   - '+.bsky.app'
@@ -20665,6 +20666,7 @@ payload:
   - '+.taiav.com'
   - '+.tail-f.com'
   - '+.tailf.com'
+  - '+.tails.net'
   - '+.tailscale.com'
   - '+.tailscale.io'
   - '+.tailwindtraders.com'
@@ -26552,6 +26554,7 @@ payload:
   - '+.pinterest.com.vn'
   - '+.pixinsight.com.tw'
   - '+.pixiv.co.jp'
+  - '+.pjsekai.sega.jp'
   - '+.placemyad.com.au'
   - '+.plays.com.tw'
   - '+.playstation.com.hk'

@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-02 00:16:20 (UTC+8)
+# UPDATED: 2026-02-03 00:23:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 1540
+# TOTAL: 1541
 payload:
   - '+.android'
   - '+.intel'
@@ -1444,6 +1444,7 @@ payload:
   - 'medone-education.thieme.com'
   - 'ood.opsource.net'
   - 'p-events-delivery.akamaized.net'
+  - 'packages.microsoft.com'
   - 'poshtestgallery.cloudapp.net'
   - 'practivate.adobe.ipp'
   - 'practivate.adobe.newoa'
