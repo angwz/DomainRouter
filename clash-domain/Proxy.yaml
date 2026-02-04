@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-04 00:39:40 (UTC+8)
+# UPDATED: 2026-02-05 00:33:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 27450
+# TOTAL: 27451
 payload:
   - '+.adult'
   - '+.amazon'
@@ -18892,6 +18892,7 @@ payload:
   - '+.salebeatslasteststyle4you.com'
   - '+.saleblackfridaydrebeats.com'
   - '+.salecheaphandbags.com'
+  - '+.salesforce-setup.com'
   - '+.salesforce.com'
   - '+.salesforce.org'
   - '+.salesforceiq.com'

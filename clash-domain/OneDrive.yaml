@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-04 00:48:18 (UTC+8)
+# UPDATED: 2026-02-05 00:41:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 660
+# TOTAL: 659
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -303,7 +303,6 @@ payload:
   - 'wepzone.net'
   - 'xbtrutor.com'
   - 'xtremewrestlingtorrents.net'
-  - 'zer0day.ch'
   - 'zupix.online'
   - '0d.kebhana.mx'
   - '10.rarbg.com'
@@ -449,7 +448,6 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -621,6 +619,7 @@ payload:
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
+  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
