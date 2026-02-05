@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-05 00:33:05 (UTC+8)
+# UPDATED: 2026-02-06 00:33:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 27451
+# TOTAL: 27453
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16625,6 +16625,7 @@ payload:
   - '+.osiri-suki-club.com'
   - '+.osl.com'
   - '+.osm.org'
+  - '+.osmand.net'
   - '+.osmfoundation.org'
   - '+.ospray.net'
   - '+.ospray.org'
@@ -26676,6 +26677,7 @@ payload:
   - '+.sci.hubg.org'
   - '+.secom.co.jp'
   - '+.secretbabes.co.uk'
+  - '+.sef.org.tw'
   - '+.sekai.colorfulpalette.org'
   - '+.sena.co.kr'
   - '+.settv.com.tw'
