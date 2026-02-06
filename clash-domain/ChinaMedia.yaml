@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-06 00:41:28 (UTC+8)
+# UPDATED: 2026-02-07 00:39:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 5138
+# TOTAL: 5142
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1277,6 +1277,7 @@ payload:
   - '+.faceit.com'
   - '+.facephoto.com'
   - '+.fanatical.com'
+  - '+.fanfou.com'
   - '+.fastidea.cc'
   - '+.fastidea.me'
   - '+.fcapp.run'
@@ -1825,6 +1826,7 @@ payload:
   - '+.gtm-a6b3.com'
   - '+.gtm-a6b4.com'
   - '+.gts.work'
+  - '+.guigu.org'
   - '+.guoguo-app.com'
   - '+.guoping123.com'
   - '+.gxic.club'
@@ -2767,6 +2769,8 @@ payload:
   - '+.papermc.io'
   - '+.paragon.com'
   - '+.paydxm.com'
+  - '+.pchome.net'
+  - '+.pchpic.net'
   - '+.peijian.com'
   - '+.people.cn'
   - '+.pepsitmall.com'

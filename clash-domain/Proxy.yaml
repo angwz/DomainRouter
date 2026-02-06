@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-06 00:33:26 (UTC+8)
+# UPDATED: 2026-02-07 00:31:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 27453
+# TOTAL: 27456
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9993,6 +9993,7 @@ payload:
   - '+.gridaware.app'
   - '+.grindr.com'
   - '+.grok.com'
+  - '+.grokipedia.com'
   - '+.grooby.com'
   - '+.groq.com'
   - '+.grotty-monday.com'
@@ -18299,6 +18300,7 @@ payload:
   - '+.radgametools.com'
   - '+.radian6.com'
   - '+.radicalparty.org'
+  - '+.radiko-cf.com'
   - '+.radiko.jp'
   - '+.radio-canada.ca'
   - '+.radio-en-ligne.fr'
@@ -26712,6 +26714,7 @@ payload:
   - '+.slime.com.tw'
   - '+.smartline.com.au'
   - '+.smartonesolutions.com.hk'
+  - '+.smartstream.ne.jp'
   - '+.smbc.co.jp'
   - '+.smbctb.co.jp'
   - '+.smedevelopmentbank.com.mm'
