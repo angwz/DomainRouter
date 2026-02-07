@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-07 00:31:16 (UTC+8)
+# UPDATED: 2026-02-08 00:16:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 217
+# TOTAL: 219
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -83,6 +83,8 @@ payload:
   - '+.launchdarkly.com'
   - '+.liveperson.net'
   - '+.lpsnmedia.net'
+  - '+.manus.im'
+  - '+.manuscdn.com'
   - '+.marscode.com'
   - '+.masalladeloslimites.com'
   - '+.meta.ai'

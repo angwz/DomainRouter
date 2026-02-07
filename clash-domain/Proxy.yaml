@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-07 00:31:12 (UTC+8)
+# UPDATED: 2026-02-08 00:16:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 27456
+# TOTAL: 27462
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3514,6 +3514,7 @@ payload:
   - '+.bitstamp.net'
   - '+.bitstream.com'
   - '+.bitterwinter.org'
+  - '+.bittorrent.com'
   - '+.bittrex.com'
   - '+.bitvise.com'
   - '+.bitwarden.com'
@@ -10336,6 +10337,7 @@ payload:
   - '+.helpster.de'
   - '+.helpuyghursnow.org'
   - '+.helpzhuling.org'
+  - '+.hembed.com'
   - '+.hentai-ani.me'
   - '+.hentai-archive.com'
   - '+.hentai-books.com'
@@ -13882,6 +13884,8 @@ payload:
   - '+.mantan-web.jp'
   - '+.mantochichi.com'
   - '+.manurefetish.com'
+  - '+.manus.im'
+  - '+.manuscdn.com'
   - '+.manytoon.com'
   - '+.manyvids.com'
   - '+.manyvoices.news'
@@ -19712,6 +19716,7 @@ payload:
   - '+.sketchbooknews.com'
   - '+.sketchbookpro.com'
   - '+.sketchfab.com'
+  - '+.skills.sh'
   - '+.skillshare.com'
   - '+.skimtube.com'
   - '+.skinstrip.net'
@@ -26951,6 +26956,7 @@ payload:
   - '+.us.weibo.com'
   - '+.uyghur.co.uk'
   - '+.uyghurensemble.co.uk'
+  - '+.v2.hysteria.network'
   - '+.vanish.co.id'
   - '+.vanish.co.il'
   - '+.vanish.co.in'
