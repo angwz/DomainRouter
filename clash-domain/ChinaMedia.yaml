@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-08 00:24:39 (UTC+8)
+# UPDATED: 2026-02-09 00:26:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 5142
+# TOTAL: 5145
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -15,6 +15,7 @@ payload:
   - '+.unicom'
   - '+.xbox'
   - '+.xn--8y0a063a'
+  - '+.0033.cn'
   - '+.01058511989.com'
   - '+.0co3geye.cn'
   - '+.10010.cn'
@@ -1868,6 +1869,7 @@ payload:
   - '+.heroesofthestorm.com'
   - '+.heroesports.com'
   - '+.herogame.com'
+  - '+.hexin.cn'
   - '+.hexun.com'
   - '+.hgfdrf.com'
   - '+.hiapk.com'
@@ -2217,6 +2219,7 @@ payload:
   - '+.jiemian.com'
   - '+.jike.city'
   - '+.jikecdn.com'
+  - '+.jin10.com'
   - '+.jingdong.com'
   - '+.jingdongjinrong.com'
   - '+.jingling.cn'
@@ -3896,6 +3899,7 @@ payload:
   - '+.growth.ai.srv'
   - '+.guangzhou.gd.cn'
   - '+.gw.com.cn'
+  - '+.hexin.com.cn'
   - '+.hichina.com.cn'
   - '+.hikunpeng.com.cn'
   - '+.hisilicon.com.cn'
@@ -4254,7 +4258,6 @@ payload:
   - 'fm929.cityfm.tw'
   - 'fm971.cityfm.tw'
   - 'fm983.cityfm.tw'
-  - 'fmcdn.jin10.com'
   - 'fms.yyrtv.com'
   - 'gamedownloads-rockstargames-com.akamaized.net'
   - 'gddb.chinashadt.com'

@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-08 00:24:37 (UTC+8)
+# UPDATED: 2026-02-09 00:26:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 662
+# TOTAL: 661
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -240,7 +240,6 @@ payload:
   - 'btracker.top'
   - 'buny.uk'
   - 'ch3oh.ru'
-  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -254,6 +253,7 @@ payload:
   - 'explodie.org'
   - 'finbytes.org'
   - 'freerainbowtables.com'
+  - 'ftp.pet'
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
@@ -363,6 +363,7 @@ payload:
   - 'free.publictracker.xyz'
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
+  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -448,16 +449,15 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
+  - 'tr.cili001.com'
   - 'tr.fuckbitcoin.xyz'
   - 'tr.highstar.shop'
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr4ck3r.duckdns.org'
-  - 'tracker-de-2.cutie.dating'
   - 'tracker-de.ololosh.space'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -473,7 +473,6 @@ payload:
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
   - 'tracker.baltracker.net'
-  - 'tracker.beeimg.com'
   - 'tracker.belmult.online'
   - 'tracker.birkenwald.de'
   - 'tracker.bitcoinindia.space'

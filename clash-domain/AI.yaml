@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-08 00:16:29 (UTC+8)
+# UPDATED: 2026-02-09 00:17:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 219
+# TOTAL: 223
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -40,6 +40,8 @@ payload:
   - '+.clipdrop.co'
   - '+.cloudflareinsights.com'
   - '+.cms-twdigitalassets.com'
+  - '+.codeium.com'
+  - '+.codeiumdata.com'
   - '+.coderabbit.ai'
   - '+.cohere.ai'
   - '+.cohere.com'
@@ -141,6 +143,8 @@ payload:
   - '+.twttr.net'
   - '+.twvid.com'
   - '+.vine.co'
+  - '+.windsurf.build'
+  - '+.windsurf.com'
   - '+.x.ai'
   - '+.x.com'
   - '+.youmind.ai'

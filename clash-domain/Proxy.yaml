@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-08 00:16:26 (UTC+8)
+# UPDATED: 2026-02-09 00:17:27 (UTC+8)
 # TYPE: domain
-# TOTAL: 27462
+# TOTAL: 27468
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5418,6 +5418,8 @@ payload:
   - '+.codei.sh'
   - '+.codeish.co'
   - '+.codeish.io'
+  - '+.codeium.com'
+  - '+.codeiumdata.com'
   - '+.codeplex.com'
   - '+.coderabbit.ai'
   - '+.codeshare.io'
@@ -23347,6 +23349,7 @@ payload:
   - '+.wikipedia.org'
   - '+.wikiporn.tv'
   - '+.wikiquote.org'
+  - '+.wikis.tw'
   - '+.wikisexguide.com'
   - '+.wikisource.org'
   - '+.wikiunblocked.org'
@@ -23382,6 +23385,8 @@ payload:
   - '+.windowsuem.com'
   - '+.windowsupdate.com'
   - '+.windscribe.com'
+  - '+.windsurf.build'
+  - '+.windsurf.com'
   - '+.windy.com'
   - '+.wingamestore.com'
   - '+.wingy.site'
@@ -27455,6 +27460,7 @@ payload:
   - 'vsmarketplacebadge.apphb.com'
   - 'wetv.qq.com'
   - 'widgets.stripst.com'
+  - 'yandex-pogoda.static-storage.net'
   - 'blizzard.nefficient.co.kr'
   - 'cbsplaylistserver.aws.syncbak.com'
   - 'cbsservice.aws.syncbak.com'
