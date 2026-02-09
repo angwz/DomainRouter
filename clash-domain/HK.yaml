@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-09 00:17:30 (UTC+8)
+# UPDATED: 2026-02-09 20:20:46 (UTC+8)
 # TYPE: domain
-# TOTAL: 9365
+# TOTAL: 9367
 payload:
   - '+.adult'
   - '+.apple'
@@ -2599,6 +2599,8 @@ payload:
   - '+.dumpxxx.net'
   - '+.duolaapian126.xyz'
   - '+.duolaapian127.xyz'
+  - '+.duolingo.cn'
+  - '+.duolingo.com'
   - '+.duoweiweek.com'
   - '+.dutrai.com'
   - '+.dvdstudiopro.biz'
