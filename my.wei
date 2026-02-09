@@ -30,14 +30,9 @@ SRC-PORT,9993
 # Huawei
 166.108.229.0/24
 
-150.40.180.0/24
-
 # Aliyun
 8.137.63.0/24
 2408:4006:113a:e000::/64
-
-# HostDZire
-163.61.31.0/24
 
 # Lightlayer
 207.56.18.0/24
@@ -56,10 +51,6 @@ SRC-PORT,9993
 # GreenCloud
 85.113.70.0/24
 2403:71c0:2000:1433::/64
-
-# Alice
-143.20.204.0/24
-2a14:67c0:308:1b2::/64
 
 # RN
 148.135.21.0/24
@@ -248,6 +239,16 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meta
 
 
 [Angwz]
+# HostDZire
+163.61.31.0/24
+
+# Huawei
+150.40.180.0/24
+
+# Alice
+143.20.204.0/24
+2a14:67c0:308:1b2::/64
+
 
 # NVIDIA
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nvidia.yaml
