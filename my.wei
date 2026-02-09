@@ -16,7 +16,7 @@ SRC-PORT,9993
 
 # DMIT
 64.186.238.0/24
-2605:52c0:2:18df::/64
+2605:52c0:2:386::/64
 
 # BWG
 144.34.235.0/24
@@ -35,19 +35,11 @@ SRC-PORT,9993
 8.137.63.0/24
 2408:4006:113a:e000::/64
 
-8.212.183.0/24
-240b:4007:e:500::/64
-
 # HostDZire
 163.61.31.0/24
 
-23.80.80.0/24
-2607:f5b4:88:103::/64
-
 # Lightlayer
 207.56.18.0/24
-
-156.225.76.0/24
 
 # Tencent Cloud
 101.35.79.0/24
@@ -69,10 +61,8 @@ SRC-PORT,9993
 2a14:67c0:308:1b2::/64
 
 # RN
-142.171.78.0/24
-2607:f130:0:1dc::/64
-
 148.135.21.0/24
+2607:f130:0:1dc::/64
 
 
 
@@ -182,13 +172,13 @@ DOMAIN-KEYWORD,annas-archive
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nodeseek.yaml
 
-# 老乡鸡
-155.117.188.0/24
-2a14:67c1:a040:1::/64
-
 
 tktn.be
 https://raw.githubusercontent.com/SIJULY/Rules/main/Surge/talkatone.list
+
+# Duolingo
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/duolingo.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Duolingo/Duolingo.list
 
 # Cloudflare
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.yaml

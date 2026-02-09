@@ -79,7 +79,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🌌 星星啊"
-rule = ["(下载)", "(.*)"]
+rule = ["[]🌠 节点选择", "(下载)", "(.*)"]
 type = "select"
 
 [[custom_groups]]
@@ -121,7 +121,7 @@ lazy = false
 name = "⛳ 美国专线"
 rule = [
   "[]🏞️ 美利坚高速",
-  "[]🛵 台湾高速",
+  "[]🗾 日本高速",
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
