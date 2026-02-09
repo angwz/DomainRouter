@@ -47,7 +47,7 @@ type = "select"
 
 [[custom_groups]]
 name = "⛅ OneDrive"
-rule = ["[]🌌 星星啊", "[]🏞️ 美利坚高速", "[]🌠 节点选择", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]DIRECT", "[]🌠 节点选择", "[]🌌 星星啊", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -57,7 +57,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🪟 Microsoft"
-rule = ["[]DIRECT", "[]🌠 节点选择", "[]⛅ OneDrive", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]⛅ OneDrive", "[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
@@ -79,7 +79,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🌌 星星啊"
-rule = ["[]🌠 节点选择", "(下载)", "(.*)"]
+rule = ["(下载)", "(.*)"]
 type = "select"
 
 [[custom_groups]]
