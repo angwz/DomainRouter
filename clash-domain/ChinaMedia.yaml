@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-10 00:02:21 (UTC+8)
+# UPDATED: 2026-02-11 01:01:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 5165
+# TOTAL: 5179
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -18,6 +18,7 @@ payload:
   - '+.0033.cn'
   - '+.01058511989.com'
   - '+.0co3geye.cn'
+  - '+.100.me'
   - '+.10010.cn'
   - '+.10010.com'
   - '+.10010.net'
@@ -1101,8 +1102,15 @@ payload:
   - '+.dbankedge.net'
   - '+.dc-work.cn'
   - '+.ddchong.com'
+  - '+.ddcorp.net'
+  - '+.ddfresh.net'
+  - '+.ddimg.mobi'
   - '+.ddiqbh.com'
+  - '+.ddmaicai.net'
+  - '+.ddmc.mobi'
   - '+.ddurl.to'
+  - '+.dduser.mobi'
+  - '+.ddxq.mobi'
   - '+.deadspacegame.com'
   - '+.devui.design'
   - '+.dfkhgj.com'
@@ -2065,6 +2073,7 @@ payload:
   - '+.ileapcloud.com'
   - '+.illusion.jp'
   - '+.im9.com'
+  - '+.imaicai.mobi'
   - '+.imc-oneaccess.cn'
   - '+.imcapptest.com'
   - '+.imdada.cn'
@@ -2096,6 +2105,7 @@ payload:
   - '+.isvjcloud.com'
   - '+.isvjd.com'
   - '+.iswg.cn'
+  - '+.it168.com'
   - '+.italentclc.com'
   - '+.itc.cn'
   - '+.itch.io'
@@ -2506,6 +2516,7 @@ payload:
   - '+.micro-game-client.com'
   - '+.midasbuy.com'
   - '+.mieco.net'
+  - '+.miercn.com'
   - '+.mifenglife.cn'
   - '+.mifenlife.cn'
   - '+.mifenlife.com'
@@ -2787,6 +2798,7 @@ payload:
   - '+.paydxm.com'
   - '+.pchome.net'
   - '+.pchpic.net'
+  - '+.pcpop.com'
   - '+.peijian.com'
   - '+.people.cn'
   - '+.pepsitmall.com'
@@ -3182,6 +3194,7 @@ payload:
   - '+.soso.com'
   - '+.sososnap.com'
   - '+.southcn.com'
+  - '+.southmoney.com'
   - '+.sparenode.com'
   - '+.spdyidea.com'
   - '+.spearhead.kr'
@@ -3597,6 +3610,7 @@ payload:
   - '+.xiaomiwear.com'
   - '+.xiaomixiaoai.com'
   - '+.xiaomiyoupin.com'
+  - '+.xilu.com'
   - '+.xin.xin'
   - '+.xinhuanet.com'
   - '+.xinhuaxmt.com'

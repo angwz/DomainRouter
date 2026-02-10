@@ -1,7 +1,7 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-09 23:53:50 (UTC+8)
+# UPDATED: 2026-02-11 00:52:46 (UTC+8)
 # TYPE: domain
 # TOTAL: 9367
 payload:
@@ -9234,6 +9234,7 @@ payload:
   - '+.steampowered.com.8686c.com'
   - '+.steamstatic.com.8686c.com'
   - '+.venmo.s3.amazonaws.com'
+  - '+.appldnld.apple.com.edgesuite.net'
   - '+.edge.steam-dns.top.comcast.net'
   - '+.ls.apple.com.edgesuite.net'
   - '+.reddituploads.com.cdn-cf.behance.net'
@@ -9366,7 +9367,6 @@ payload:
   - 'protected.canadianshield.cira.ca'
   - 'venmo.s3.amazonaws.com'
   - 'a4e8s8k3.map2.ssl.hwcdn.net'
-  - 'appldnld.apple.com.edgesuite.net'
   - 'lookup-api.apple.com.edgekey.net'
   - 'misa-prod.s3.ap-northeast-1.amazonaws.com'
   - 'notary-submissions-prod.s3.us-west-2.amazonaws.com'

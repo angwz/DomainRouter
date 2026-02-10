@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-09 23:53:46 (UTC+8)
+# UPDATED: 2026-02-11 00:52:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 27488
+# TOTAL: 27479
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2342,8 +2342,6 @@ payload:
   - '+.auroraoss.com'
   - '+.ausbeatsbydrdre.com'
   - '+.auth0.com'
-  - '+.authorizeddns.net'
-  - '+.authorizeddns.org'
   - '+.authorxml.com'
   - '+.authpass.app'
   - '+.authy.com'
@@ -6006,12 +6004,7 @@ payload:
   - '+.ddhw.info'
   - '+.dditsadn.com'
   - '+.dditscdn.com'
-  - '+.ddns.info'
-  - '+.ddns.mobi'
-  - '+.ddns.ms'
-  - '+.ddns.name'
   - '+.ddns.net'
-  - '+.ddns.us'
   - '+.de-sci.org'
   - '+.de1lib.org'
   - '+.deadhouse.org'
@@ -8858,8 +8851,6 @@ payload:
   - '+.freechinaforum.org'
   - '+.freechinaweibo.com'
   - '+.freecodecamp.org'
-  - '+.freeddns.com'
-  - '+.freeddns.org'
   - '+.freedirecttvspecial.com'
   - '+.freedl.org'
   - '+.freedomchina.info'
@@ -9431,6 +9422,7 @@ payload:
   - '+.gettyimages.no'
   - '+.gettyimages.pt'
   - '+.gettyimages.se'
+  - '+.gettyimages.us'
   - '+.getuploader.com'
   - '+.getws1.com'
   - '+.getwsone.com'
@@ -11179,6 +11171,7 @@ payload:
   - '+.hunk.ws'
   - '+.huobi.co'
   - '+.huobi.com'
+  - '+.huobi.li'
   - '+.huobi.me'
   - '+.huobi.pro'
   - '+.huobi.sc'
@@ -15241,7 +15234,6 @@ payload:
   - '+.mycould.com'
   - '+.mydad.info'
   - '+.mydati.com'
-  - '+.myddns.com'
   - '+.mydirectgroove.com'
   - '+.mydirectvchannels.com'
   - '+.mydirtyhobby.com'
@@ -25461,7 +25453,6 @@ payload:
   - '+.dalailamavisit.org.nz'
   - '+.data.flurry.com'
   - '+.ddc.com.tw'
-  - '+.ddns.me.uk'
   - '+.deepfreeze.co.uk'
   - '+.deepfreeze.com.br'
   - '+.del.com.br'
