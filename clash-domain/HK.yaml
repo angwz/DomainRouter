@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-11 00:52:46 (UTC+8)
+# UPDATED: 2026-02-12 00:51:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 9367
+# TOTAL: 9369
 payload:
   - '+.adult'
   - '+.apple'
@@ -546,6 +546,8 @@ payload:
   - '+.alchemysynth.com'
   - '+.alhs.link'
   - '+.alhs.xyz'
+  - '+.alibabacloud.com'
+  - '+.alicloud.com'
   - '+.aliexpress.ru'
   - '+.alipaymo.com'
   - '+.all-sex-links.com'

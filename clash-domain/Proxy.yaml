@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-11 00:52:42 (UTC+8)
+# UPDATED: 2026-02-12 00:51:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 27479
+# TOTAL: 27489
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6004,7 +6004,6 @@ payload:
   - '+.ddhw.info'
   - '+.dditsadn.com'
   - '+.dditscdn.com'
-  - '+.ddns.net'
   - '+.de-sci.org'
   - '+.de1lib.org'
   - '+.deadhouse.org'
@@ -9717,8 +9716,11 @@ payload:
   - '+.google-analytics-cn.com'
   - '+.google-analytics.com'
   - '+.google-syndication.com'
+  - '+.google.ac'
   - '+.google.ad'
   - '+.google.ae'
+  - '+.google.af'
+  - '+.google.ai'
   - '+.google.al'
   - '+.google.am'
   - '+.google.as'
@@ -9755,6 +9757,7 @@ payload:
   - '+.google.dz'
   - '+.google.ee'
   - '+.google.es'
+  - '+.google.eu'
   - '+.google.fi'
   - '+.google.fm'
   - '+.google.fr'
@@ -9766,6 +9769,7 @@ payload:
   - '+.google.gp'
   - '+.google.gr'
   - '+.google.gy'
+  - '+.google.hk'
   - '+.google.hn'
   - '+.google.hr'
   - '+.google.ht'
@@ -9796,6 +9800,7 @@ payload:
   - '+.google.mu'
   - '+.google.mv'
   - '+.google.mw'
+  - '+.google.mx'
   - '+.google.ne'
   - '+.google.net'
   - '+.google.nl'
@@ -9829,8 +9834,10 @@ payload:
   - '+.google.tn'
   - '+.google.to'
   - '+.google.tt'
+  - '+.google.us'
   - '+.google.ventures'
   - '+.google.vg'
+  - '+.google.vn'
   - '+.google.vu'
   - '+.google.ws'
   - '+.googleacquisitionmigration.com'
@@ -18001,6 +18008,7 @@ payload:
   - '+.projectvasari.com'
   - '+.projectvoyeur.com'
   - '+.promonsterbeatsbydre.com'
+  - '+.prompthero.com'
   - '+.pron.guru'
   - '+.propertysex.com'
   - '+.proporn.com'
@@ -18087,6 +18095,7 @@ payload:
   - '+.pugpig-dev.com'
   - '+.pugpig-stage.com'
   - '+.pugpig.com'
+  - '+.pullfolio.co'
   - '+.pullfolio.com'
   - '+.pullstring.net'
   - '+.pulsebrowser.app'
@@ -25865,6 +25874,7 @@ payload:
   - '+.google.com.uy'
   - '+.google.com.vc'
   - '+.google.com.vn'
+  - '+.google.it.ao'
   - '+.googlecompare.co.uk'
   - '+.gouhuo.qq.com'
   - '+.gputechconf.co.kr'

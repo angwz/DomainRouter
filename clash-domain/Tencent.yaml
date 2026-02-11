@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-11 01:01:19 (UTC+8)
+# UPDATED: 2026-02-12 01:00:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 2522
+# TOTAL: 2523
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -2107,6 +2107,7 @@ payload:
   - '+.we-park.cn'
   - '+.we-pass.com'
   - '+.webacc.net'
+  - '+.webnovel.com'
   - '+.websec1.com'
   - '+.websec1.net'
   - '+.wechat.com'

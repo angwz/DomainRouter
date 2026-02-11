@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-11 01:01:19 (UTC+8)
+# UPDATED: 2026-02-12 01:00:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 978
+# TOTAL: 985
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -257,10 +257,14 @@ payload:
   - '+.cdndns1.com'
   - '+.cdndns2.com'
   - '+.changdunovel.com'
+  - '+.cici.com'
+  - '+.ciciai.com'
+  - '+.ciciaicdn.com'
   - '+.cloudendpoint.cn'
   - '+.cookicut.com'
   - '+.corari.com'
   - '+.coze.cn'
+  - '+.coze.com'
   - '+.coze.site'
   - '+.cozebaas.cn'
   - '+.cozefn.cn'
@@ -274,6 +278,7 @@ payload:
   - '+.dcarstatic.com'
   - '+.dcarvod.com'
   - '+.dcdapp.com'
+  - '+.dola.com'
   - '+.dongchedi.com'
   - '+.dongchediapp.com'
   - '+.dou.top'
@@ -526,6 +531,7 @@ payload:
   - '+.maoercdn.com'
   - '+.maoxiangai.com'
   - '+.marscode.cn'
+  - '+.marscode.com'
   - '+.mcbaas.work'
   - '+.mcbbs.net'
   - '+.mcdemo.show'
@@ -703,6 +709,7 @@ payload:
   - '+.tr-test-ali.net'
   - '+.tr-test.net'
   - '+.tr-testboe.net'
+  - '+.trae.ai'
   - '+.trae.cn'
   - '+.trae.guru'
   - '+.ttbyte.cn'

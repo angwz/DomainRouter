@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-11 01:01:21 (UTC+8)
+# UPDATED: 2026-02-12 01:00:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 5179
+# TOTAL: 5181
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -2946,6 +2946,7 @@ payload:
   - '+.reachthefinals.com'
   - '+.realcybertron.com'
   - '+.realityscan.com'
+  - '+.redelight.cn'
   - '+.rednotecdn.com'
   - '+.renovacionxboxlive.com'
   - '+.rergdfh.com'
@@ -3568,6 +3569,7 @@ payload:
   - '+.xhscdn.com'
   - '+.xhscdn.net'
   - '+.xhslink.com'
+  - '+.xhsrcdn.com'
   - '+.xiami.com'
   - '+.xiami.fm'
   - '+.xiami.net'
