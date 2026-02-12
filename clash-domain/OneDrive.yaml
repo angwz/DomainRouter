@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-12 01:00:31 (UTC+8)
+# UPDATED: 2026-02-13 00:53:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 663
+# TOTAL: 665
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -258,6 +258,7 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
+  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -365,6 +366,7 @@ payload:
   - 'free.publictracker.xyz'
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
+  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -375,6 +377,8 @@ payload:
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
+  - 'node01.torrentonline.cc'
+  - 'node01.trackerstatus.live'
   - 'node02.torrentonline.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
@@ -450,6 +454,7 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.cili001.com'
@@ -475,7 +480,6 @@ payload:
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
   - 'tracker.baltracker.net'
-  - 'tracker.beeimg.com'
   - 'tracker.belmult.online'
   - 'tracker.birkenwald.de'
   - 'tracker.bitcoinindia.space'
@@ -612,7 +616,6 @@ payload:
   - 'tracker.tricitytorrents.com'
   - 'tracker.tritan.gg'
   - 'tracker.tryhackx.org'
-  - 'tracker.umunu.ru'
   - 'tracker.uraniumhexafluori.de'
   - 'tracker.vanitycore.co'
   - 'tracker.vraphim.com'
@@ -623,7 +626,6 @@ payload:
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'

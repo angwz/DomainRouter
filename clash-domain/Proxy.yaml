@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-12 00:51:48 (UTC+8)
+# UPDATED: 2026-02-13 00:44:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 27489
+# TOTAL: 27485
 payload:
   - '+.adult'
   - '+.amazon'
@@ -11029,7 +11029,6 @@ payload:
   - '+.hrichina.org'
   - '+.hrntt.org'
   - '+.hrsaz.com'
-  - '+.hrtsea.com'
   - '+.hrw.org'
   - '+.hrweb.org'
   - '+.hsbc-alternatives.de'
@@ -25192,7 +25191,6 @@ payload:
   - '+.bbc.net.uk'
   - '+.bbci.co.uk'
   - '+.bbcmedia.co.uk'
-  - '+.bbs.sina.com'
   - '+.bbs.tuitui.info'
   - '+.bcast.co.nz'
   - '+.bcc.com.tw'
@@ -25457,7 +25455,6 @@ payload:
   - '+.daiichibank.co.jp'
   - '+.dailymail.co.uk'
   - '+.dailymail.com.au'
-  - '+.dailynews.sina.com'
   - '+.dailytelegraph.com.au'
   - '+.dalailamavisit.org.nz'
   - '+.data.flurry.com'
@@ -25940,7 +25937,6 @@ payload:
   - '+.hokuetsubank.co.jp'
   - '+.hokutobank.co.jp'
   - '+.hokuyobank.co.jp'
-  - '+.home.sina.com'
   - '+.hometrack.com.au'
   - '+.hongkongpost.gov.hk'
   - '+.host.livekit.cloud'

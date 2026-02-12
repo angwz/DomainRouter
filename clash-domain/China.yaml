@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-12 01:00:30 (UTC+8)
+# UPDATED: 2026-02-13 00:53:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 116763
+# TOTAL: 116771
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -28201,6 +28201,7 @@ payload:
   - '+.ddcheshi.com'
   - '+.ddchong.com'
   - '+.ddcits.com'
+  - '+.ddcorp.net'
   - '+.ddcsjw.com'
   - '+.ddcwl.com'
   - '+.ddd-china.com'
@@ -28217,6 +28218,7 @@ payload:
   - '+.ddedush.com'
   - '+.ddfans.com'
   - '+.ddfchina.com'
+  - '+.ddfresh.net'
   - '+.ddfzb.com'
   - '+.ddguanhuai.com'
   - '+.ddhly.com'
@@ -28240,7 +28242,9 @@ payload:
   - '+.ddky.com'
   - '+.ddle.cc'
   - '+.ddlequ.com'
+  - '+.ddmaicai.net'
   - '+.ddmap.com'
+  - '+.ddmc.mobi'
   - '+.ddmer.com'
   - '+.ddmogo.com'
   - '+.ddnddn.com'
@@ -48393,6 +48397,7 @@ payload:
   - '+.hrtechchina.com'
   - '+.hrtfin.com'
   - '+.hrtn.net'
+  - '+.hrtsea.com'
   - '+.hrtx.com'
   - '+.hruikang.com'
   - '+.hrvouge.com'
@@ -52229,6 +52234,7 @@ payload:
   - '+.imagineadtech.com'
   - '+.imahui.com'
   - '+.imaibo.net'
+  - '+.imaicai.mobi'
   - '+.imaijia.com'
   - '+.imaitu.com'
   - '+.imalljoy.com'
@@ -102063,6 +102069,7 @@ payload:
   - '+.xhslink.com'
   - '+.xhslw.com'
   - '+.xhsmlt.com'
+  - '+.xhsrcdn.com'
   - '+.xhsrmyy.com'
   - '+.xhsxmt.com'
   - '+.xhsyqx.com'
@@ -112757,6 +112764,7 @@ payload:
   - '+.zhipianbang.vip'
   - '+.zhipin.com'
   - '+.zhipingke.com'
+  - '+.zhipucn.com'
   - '+.zhipuzi.com'
   - '+.zhiqi.info'
   - '+.zhiqiang.org'
