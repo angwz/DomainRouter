@@ -1,9 +1,9 @@
 # NAME: Star
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-14 00:31:48 (UTC+8)
+# UPDATED: 2026-02-15 00:16:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 232
+# TOTAL: 256
 payload:
   - '+.anthemgame.com'
   - '+.anthemthegame.com'
@@ -231,9 +231,33 @@ payload:
   - 'gog.salesmanago.com'
   - 'origin-a.akamaihd.net'
   - 'originasserts.akamaized.net'
+  - 'ubistatic1-a.akamaihd.net'
+  - 'ubistatic10-a.akamaihd.net'
+  - 'ubistatic11-a.akamaihd.net'
+  - 'ubistatic12-a.akamaihd.net'
+  - 'ubistatic13-a.akamaihd.net'
+  - 'ubistatic14-a.akamaihd.net'
+  - 'ubistatic15-a.akamaihd.net'
+  - 'ubistatic16-a.akamaihd.net'
+  - 'ubistatic17-a.akamaihd.net'
+  - 'ubistatic18-a.akamaihd.net'
+  - 'ubistatic19-a.akamaihd.net'
+  - 'ubistatic2-a.akamaihd.net'
+  - 'ubistatic20-a.akamaihd.net'
+  - 'ubistatic21-a.akamaihd.net'
+  - 'ubistatic22-a.akamaihd.net'
+  - 'ubistatic23-a.akamaihd.net'
+  - 'ubistatic24-a.akamaihd.net'
   - 'ubistatic3-a.akamaihd.net'
+  - 'ubistatic4-a.akamaihd.net'
+  - 'ubistatic5-a.akamaihd.net'
+  - 'ubistatic6-a.akamaihd.net'
+  - 'ubistatic7-a.akamaihd.net'
+  - 'ubistatic8-a.akamaihd.net'
+  - 'ubistatic9-a.akamaihd.net'
   - 'blizzard.nefficient.co.kr'
   - 'cloudsync-prod.s3.amazonaws.com'
   - 'ea.tt.omtrdc.net'
   - 'ubisoft-orbit-savegames.s3.amazonaws.com'
   - 'ubisoft-uplay-savegames.s3.amazonaws.com'
+  - 'ubisoft.siteintercept.qualtrics.com'

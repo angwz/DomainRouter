@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-14 00:31:44 (UTC+8)
+# UPDATED: 2026-02-15 00:16:27 (UTC+8)
 # TYPE: domain
-# TOTAL: 27485
+# TOTAL: 27503
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1796,6 +1796,7 @@ payload:
   - '+.apkplz.com'
   - '+.apkpure.com'
   - '+.apkpure.net'
+  - '+.apkpures.xyz'
   - '+.aple.com'
   - '+.aplestore.com'
   - '+.aplleipods.com'
@@ -2296,6 +2297,7 @@ payload:
   - '+.attcollaborate.com'
   - '+.attdns.com'
   - '+.attdns.net'
+  - '+.attestation.app'
   - '+.attexperts.com'
   - '+.attglobal.net'
   - '+.attic.io'
@@ -9975,6 +9977,19 @@ payload:
   - '+.grannytube.net'
   - '+.granulate.io'
   - '+.graph.org'
+  - '+.grapheneos.app'
+  - '+.grapheneos.ca'
+  - '+.grapheneos.com'
+  - '+.grapheneos.dev'
+  - '+.grapheneos.foundation'
+  - '+.grapheneos.info'
+  - '+.grapheneos.net'
+  - '+.grapheneos.network'
+  - '+.grapheneos.online'
+  - '+.grapheneos.org'
+  - '+.grapheneos.ovh'
+  - '+.grapheneos.page'
+  - '+.grapheneos.social'
   - '+.graphengine.io'
   - '+.graphql.org'
   - '+.gravatar.com'
@@ -19097,6 +19112,7 @@ payload:
   - '+.sdnice.one'
   - '+.sdnitube.buzz'
   - '+.seagroup.com'
+  - '+.seamlessupdate.app'
   - '+.seamonkey-project.org'
   - '+.seancody.com'
   - '+.seaofsolitude.com'
@@ -22222,6 +22238,7 @@ payload:
   - '+.valvesoftware.com'
   - '+.van001.com'
   - '+.van698.com'
+  - '+.vanadium.app'
   - '+.vancouverbmwretailers.ca'
   - '+.vanilla-jp.com'
   - '+.vanish.at'
@@ -27488,5 +27505,6 @@ payload:
   - 'roovza.inapps.appsflyersdk.com'
   - 'roovza.launches.appsflyersdk.com'
   - 'roovza.skadsdk.appsflyersdk.com'
+  - 'ubisoft.siteintercept.qualtrics.com'
   - 'wrds-www.wharton.upenn.edu'
   - 'cbsi.live.ott.irdeto.com'
