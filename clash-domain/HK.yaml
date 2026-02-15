@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-15 00:16:31 (UTC+8)
+# UPDATED: 2026-02-16 00:16:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 9369
+# TOTAL: 9370
 payload:
   - '+.adult'
   - '+.apple'
@@ -7754,6 +7754,7 @@ payload:
   - '+.tokyotosho.info'
   - '+.tokyotosho.se'
   - '+.tomatespodres.com'
+  - '+.ton.org'
   - '+.tonicmovies.com'
   - '+.toolforge.org'
   - '+.toomadporn.pro'

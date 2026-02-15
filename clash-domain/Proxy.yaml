@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-15 00:16:27 (UTC+8)
+# UPDATED: 2026-02-16 00:16:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 27503
+# TOTAL: 27505
 payload:
   - '+.adult'
   - '+.amazon'
@@ -21400,6 +21400,7 @@ payload:
   - '+.tomp3.cc'
   - '+.tomsguide.com'
   - '+.tomshardware.com'
+  - '+.ton.org'
   - '+.tonec.com'
   - '+.tonicmovies.com'
   - '+.tono-oka.jp'
@@ -23053,6 +23054,7 @@ payload:
   - '+.wallpapercasa.com'
   - '+.wallproxy.com'
   - '+.wallsttv.com'
+  - '+.wallzhihu.com'
   - '+.walmart-content.com'
   - '+.walmart.com'
   - '+.walmart.pharmacy'
