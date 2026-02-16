@@ -1,9 +1,9 @@
 # NAME: Taiwan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-16 00:25:24 (UTC+8)
+# UPDATED: 2026-02-17 00:39:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 326
+# TOTAL: 329
 payload:
   - '+.tw'
   - '+.1inch.io'
@@ -184,6 +184,7 @@ payload:
   - '+.gateio.services'
   - '+.gemini.com'
   - '+.glassnode.com'
+  - '+.gmgn.ai'
   - '+.guardarian.com'
   - '+.hashflow.com'
   - '+.hbabit.com'
@@ -297,8 +298,10 @@ payload:
   - '+.viewbase.com'
   - '+.vitalik.ca'
   - '+.walletconnect.com'
+  - '+.walletconnect.org'
   - '+.watchtheburn.com'
   - '+.wbtc.network'
+  - '+.web3modal.org'
   - '+.wintermute.com'
   - '+.wisecoin.com'
   - '+.wiseid.com'

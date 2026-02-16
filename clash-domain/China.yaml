@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-16 00:25:24 (UTC+8)
+# UPDATED: 2026-02-17 00:39:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 116771
+# TOTAL: 116769
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -79674,7 +79674,6 @@ payload:
   - '+.redmart.com'
   - '+.redmou.com'
   - '+.rednetdns.com'
-  - '+.rednotecdn.com'
   - '+.redocn.com'
   - '+.redodopower.com'
   - '+.redoop.com'
@@ -102069,7 +102068,6 @@ payload:
   - '+.xhslink.com'
   - '+.xhslw.com'
   - '+.xhsmlt.com'
-  - '+.xhsrcdn.com'
   - '+.xhsrmyy.com'
   - '+.xhsxmt.com'
   - '+.xhsyqx.com'
