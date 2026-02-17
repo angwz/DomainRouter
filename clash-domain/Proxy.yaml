@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-17 00:30:20 (UTC+8)
+# UPDATED: 2026-02-18 00:43:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 27604
+# TOTAL: 27605
 payload:
   - '+.adult'
   - '+.amazon'
@@ -21876,6 +21876,7 @@ payload:
   - '+.twelve.today'
   - '+.twerkingbutt.com'
   - '+.twftp.org'
+  - '+.twgov.tw'
   - '+.twgreatdaily.com'
   - '+.twgreatnews.com'
   - '+.twhentai.com'
