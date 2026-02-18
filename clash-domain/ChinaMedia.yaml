@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-18 00:52:41 (UTC+8)
+# UPDATED: 2026-02-19 00:58:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 5197
+# TOTAL: 5206
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -3210,6 +3210,7 @@ payload:
   - '+.starcraft.com'
   - '+.starcraft2.com'
   - '+.starfox.com'
+  - '+.stargazer-games.com'
   - '+.starwarsbattlefront.com'
   - '+.starwarsbattlefront2.com'
   - '+.starwarsfallenorder.com'
@@ -3234,6 +3235,8 @@ payload:
   - '+.steamstatic.com'
   - '+.steamunlocked.net'
   - '+.steamusercontent.com'
+  - '+.stellasora.global'
+  - '+.stellasora.jp'
   - '+.stockstar.com'
   - '+.submusic.cn'
   - '+.suike.cn'
@@ -3690,6 +3693,7 @@ payload:
   - '+.ynet.cn'
   - '+.ynet.com'
   - '+.ynoproject.net'
+  - '+.yo-star.com'
   - '+.yo9.com'
   - '+.yodao.cn'
   - '+.yodao.com'
@@ -3704,6 +3708,9 @@ payload:
   - '+.yoqoo.net'
   - '+.yoqoo.tv'
   - '+.yoshisnewisland.com'
+  - '+.yostar.cn'
+  - '+.yostar.net'
+  - '+.yostarplat.com'
   - '+.youba.com'
   - '+.youdao.com'
   - '+.youku.com'
@@ -4100,6 +4107,8 @@ payload:
   - '+.yodao.com.cn'
   - '+.yoku.net.cn'
   - '+.yoqoo.net.cn'
+  - '+.yostar-pictures.co.jp'
+  - '+.yostar.co.jp'
   - '+.youku.com.cn'
   - '+.youpin.com.cn'
   - '+.zggbdszt.com.cn'
