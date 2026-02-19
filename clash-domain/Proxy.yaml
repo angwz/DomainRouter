@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-19 00:49:41 (UTC+8)
+# UPDATED: 2026-02-20 00:39:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 27630
+# TOTAL: 27631
 payload:
   - '+.adult'
   - '+.amazon'
@@ -15056,6 +15056,7 @@ payload:
   - '+.mortein.com'
   - '+.morteincam.com'
   - '+.mos.ru'
+  - '+.mosavi.io'
   - '+.mostly.jp'
   - '+.mostpopularpornsites.com'
   - '+.mosucloud.site'
