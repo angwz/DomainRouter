@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-20 00:39:04 (UTC+8)
+# UPDATED: 2026-02-21 00:24:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 9370
+# TOTAL: 9373
 payload:
   - '+.adult'
   - '+.apple'
@@ -3809,6 +3809,8 @@ payload:
   - '+.hegre.com'
   - '+.heiguab.top'
   - '+.heijidi.life'
+  - '+.heiliao.com'
+  - '+.heiliao88.com'
   - '+.heise360181.buzz'
   - '+.heise360182.buzz'
   - '+.helixstudios.net'
@@ -5441,6 +5443,7 @@ payload:
   - '+.miohentai.com'
   - '+.missav.ai'
   - '+.missav.com'
+  - '+.missav.live'
   - '+.missav.uno'
   - '+.missav.vip'
   - '+.missav.ws'

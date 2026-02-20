@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-20 00:47:50 (UTC+8)
+# UPDATED: 2026-02-21 00:33:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 676
+# TOTAL: 672
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -306,7 +306,6 @@ payload:
   - 'wepzone.net'
   - 'xbtrutor.com'
   - 'xtremewrestlingtorrents.net'
-  - 'zer0day.ch'
   - 'zupix.online'
   - '0d.kebhana.mx'
   - '10.rarbg.com'
@@ -368,7 +367,6 @@ payload:
   - 'free.publictracker.xyz'
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -380,7 +378,7 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'node01.torrentonline.cc'
-  - 'node02.torrentonline.cc'
+  - 'node01.trackerstatus.live'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -427,6 +425,7 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
+  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -455,7 +454,6 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.cili001.com'
@@ -481,7 +479,6 @@ payload:
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
   - 'tracker.baltracker.net'
-  - 'tracker.beeimg.com'
   - 'tracker.belmult.online'
   - 'tracker.birkenwald.de'
   - 'tracker.bitcoinindia.space'
@@ -586,7 +583,6 @@ payload:
   - 'tracker.pow7.com'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
-  - 'tracker.puvvadi.net'
   - 'tracker.qingwapt.org'
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
