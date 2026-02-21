@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-21 00:24:40 (UTC+8)
+# UPDATED: 2026-02-22 00:15:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 27669
+# TOTAL: 27680
 payload:
   - '+.adult'
   - '+.amazon'
@@ -207,6 +207,7 @@ payload:
   - '+.18hmanga.com'
   - '+.18insta.com'
   - '+.18j.tv'
+  - '+.18jav.tv'
   - '+.18jms.com'
   - '+.18mh.co'
   - '+.18mh.me'
@@ -3632,6 +3633,7 @@ payload:
   - '+.blizzard.com'
   - '+.blizzardgearstore.com'
   - '+.blockcast.it'
+  - '+.blockchain.com'
   - '+.blockcn.com'
   - '+.blockedbyhk.com'
   - '+.blockfrost.io'
@@ -12566,6 +12568,7 @@ payload:
   - '+.javpush.com'
   - '+.javqd.com'
   - '+.javrank.com'
+  - '+.javrate.com'
   - '+.javrave.club'
   - '+.javroot.com'
   - '+.javscat.net'
@@ -12592,6 +12595,7 @@ payload:
   - '+.javtube.cc'
   - '+.javtube.com'
   - '+.javtube.net'
+  - '+.javvideoporn.com'
   - '+.javvids.com'
   - '+.javwide.com'
   - '+.javwide.tv'
@@ -14814,6 +14818,7 @@ payload:
   - '+.missav.uno'
   - '+.missav.vip'
   - '+.missav.ws'
+  - '+.missav123.com'
   - '+.misshotgirls.com'
   - '+.misskey-square.net'
   - '+.misskey.art'
@@ -16106,6 +16111,7 @@ payload:
   - '+.niziero.info'
   - '+.njactb.org'
   - '+.njav.tv'
+  - '+.njavtv.com'
   - '+.njpw1972.com'
   - '+.njuice.com'
   - '+.nke6.com'
@@ -19017,6 +19023,7 @@ payload:
   - '+.saleblackfridaydrebeats.com'
   - '+.salecheaphandbags.com'
   - '+.salesforce-setup.com'
+  - '+.salesforce-sites.com'
   - '+.salesforce.com'
   - '+.salesforce.org'
   - '+.salesforceiq.com'
@@ -23878,7 +23885,9 @@ payload:
   - '+.xhamster.xxx'
   - '+.xhamster18.com'
   - '+.xhamster18.desi'
+  - '+.xhamster19.com'
   - '+.xhamster2.com'
+  - '+.xhamster3.com'
   - '+.xhamsterlive.com'
   - '+.xhcdn.com'
   - '+.xhot.pro'
@@ -24475,6 +24484,7 @@ payload:
   - '+.yarnpkg.com'
   - '+.yasarang.net'
   - '+.yastat.net'
+  - '+.yastatic-net.ru'
   - '+.yastatic.net'
   - '+.yatong.info'
   - '+.yavtube.com'
@@ -26305,6 +26315,7 @@ payload:
   - '+.iyobank.co.jp'
   - '+.iza.ne.jp'
   - '+.japantimes.co.jp'
+  - '+.jav.com.co'
   - '+.jessicaturner.co.uk'
   - '+.jibunbank.co.jp'
   - '+.jiuse.com.co'

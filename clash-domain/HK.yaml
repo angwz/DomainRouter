@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-21 00:24:44 (UTC+8)
+# UPDATED: 2026-02-22 00:15:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 9373
+# TOTAL: 9380
 payload:
   - '+.adult'
   - '+.apple'
@@ -89,6 +89,7 @@ payload:
   - '+.18hmanga.com'
   - '+.18insta.com'
   - '+.18j.tv'
+  - '+.18jav.tv'
   - '+.18jms.com'
   - '+.18mh.co'
   - '+.18mh.me'
@@ -4707,6 +4708,7 @@ payload:
   - '+.javpush.com'
   - '+.javqd.com'
   - '+.javrank.com'
+  - '+.javrate.com'
   - '+.javrave.club'
   - '+.javroot.com'
   - '+.javscat.net'
@@ -4731,6 +4733,7 @@ payload:
   - '+.javtube.cc'
   - '+.javtube.com'
   - '+.javtube.net'
+  - '+.javvideoporn.com'
   - '+.javvids.com'
   - '+.javwide.com'
   - '+.javwide.tv'
@@ -5447,6 +5450,7 @@ payload:
   - '+.missav.uno'
   - '+.missav.vip'
   - '+.missav.ws'
+  - '+.missav123.com'
   - '+.misshotgirls.com'
   - '+.mistresskym.com'
   - '+.mitao.bar'
@@ -5820,6 +5824,7 @@ payload:
   - '+.niuc2.com'
   - '+.niziero.info'
   - '+.njav.tv'
+  - '+.njavtv.com'
   - '+.nlsexfilmpjes.com'
   - '+.nlt-media.com'
   - '+.nodehatch.com'
@@ -8392,7 +8397,8 @@ payload:
   - '+.xhamster.xxx'
   - '+.xhamster18.com'
   - '+.xhamster18.desi'
-  - '+.xhamster2.com'
+  - '+.xhamster19.com'
+  - '+.xhamster3.com'
   - '+.xhamsterlive.com'
   - '+.xhcdn.com'
   - '+.xhot.pro'
@@ -9097,6 +9103,7 @@ payload:
   - '+.ipodshop.com.au'
   - '+.itunes.co.th'
   - '+.itunesradio.com.cn'
+  - '+.jav.com.co'
   - '+.jessicaturner.co.uk'
   - '+.jiuse.com.co'
   - '+.jusmynote.wordpress.com'
