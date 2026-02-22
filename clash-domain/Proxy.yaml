@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-22 00:15:32 (UTC+8)
+# UPDATED: 2026-02-23 00:16:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 27680
+# TOTAL: 27684
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1347,6 +1347,7 @@ payload:
   - '+.akiba-online.com'
   - '+.akiba-souken.com'
   - '+.akiba-web.com'
+  - '+.akile.io'
   - '+.akinator.com'
   - '+.akow.org'
   - '+.akstat.io'
@@ -15852,7 +15853,6 @@ payload:
   - '+.nftstorage.link'
   - '+.ng.mil'
   - '+.nga.mil'
-  - '+.ngenix.net'
   - '+.ngensis.com'
   - '+.ngeo.com'
   - '+.ngfiles.com'
@@ -16646,6 +16646,7 @@ payload:
   - '+.opencas.io'
   - '+.opencollective.com'
   - '+.opencreate.org'
+  - '+.opencritic.com'
   - '+.opendemocracy.net'
   - '+.opendesktop.org'
   - '+.opendn.xyz'
@@ -25368,6 +25369,7 @@ payload:
   - '+.ashikagabank.co.jp'
   - '+.aspi.org.au'
   - '+.aspistrategist.org.au'
+  - '+.assets.nxtrace.org'
   - '+.atc.org.au'
   - '+.avail.googleflights.net'
   - '+.awabank.co.jp'
@@ -26485,6 +26487,7 @@ payload:
   - '+.meadjohnson.com.tw'
   - '+.meb.gov.mm'
   - '+.media.org.hk'
+  - '+.meee.com.tw'
   - '+.mega.co.nz'
   - '+.megamon.co.kr'
   - '+.megaporno.com.br'
@@ -27353,6 +27356,7 @@ payload:
   - '+.workerdemo.org.hk'
   - '+.worldcurrencycard.co.za'
   - '+.wufi.org.tw'
+  - '+.www.clashverge.dev'
   - '+.www.destinationurl.com'
   - '+.www.pxcc.com'
   - '+.xhpjc6-cdn-settings.appsflyersdk.com'
