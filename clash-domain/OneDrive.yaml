@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-24 00:50:46 (UTC+8)
+# UPDATED: 2026-02-25 01:02:45 (UTC+8)
 # TYPE: domain
 # TOTAL: 669
 payload:
@@ -424,6 +424,7 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
+  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -461,7 +462,6 @@ payload:
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr4ck3r.duckdns.org'
-  - 'tracker-de-2.cutie.dating'
   - 'tracker-de.ololosh.space'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -573,6 +573,7 @@ payload:
   - 'tracker.opentorrent.top'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
+  - 'tracker.pcfreetime.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.playground.ru'
@@ -628,7 +629,6 @@ payload:
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
