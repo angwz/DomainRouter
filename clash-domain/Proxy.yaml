@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-25 00:53:53 (UTC+8)
+# UPDATED: 2026-02-26 00:57:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 27684
+# TOTAL: 27688
 payload:
   - '+.adult'
   - '+.amazon'
@@ -8925,6 +8925,7 @@ payload:
   - '+.freecodecamp.org'
   - '+.freedirecttvspecial.com'
   - '+.freedl.org'
+  - '+.freedom.gov'
   - '+.freedomchina.info'
   - '+.freedomcollection.org'
   - '+.freedomhongkong.org'
@@ -14845,6 +14846,7 @@ payload:
   - '+.mixasiansex.com'
   - '+.mixero.com'
   - '+.mixi.jp'
+  - '+.mixi.net'
   - '+.mixin.one'
   - '+.mixlr.com'
   - '+.mixmaturesex.com'
@@ -16836,6 +16838,7 @@ payload:
   - '+.pachosting.com'
   - '+.pacifickitchenandhome.com'
   - '+.pacificpoker.com'
+  - '+.packagecloud.io'
   - '+.packaging-cadcam.com'
   - '+.packagingcadcam.com'
   - '+.packagist.org'
@@ -26554,6 +26557,7 @@ payload:
   - '+.misskey.ranranhome.info'
   - '+.misskey.yukineko.me'
   - '+.mitao.com.tw'
+  - '+.mixi.co.jp'
   - '+.miyazakibank.co.jp'
   - '+.mizuhobank.co.jp'
   - '+.mk.shrimpia.network'
