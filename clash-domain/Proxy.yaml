@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-26 00:57:07 (UTC+8)
+# UPDATED: 2026-02-27 00:44:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 27688
+# TOTAL: 27702
 payload:
   - '+.adult'
   - '+.amazon'
@@ -785,6 +785,7 @@ payload:
   - '+.aboutamazon.it'
   - '+.aboutamazon.jp'
   - '+.aboutamazon.pl'
+  - '+.aboutamazon.sg'
   - '+.aboutfacebook.com'
   - '+.aboutgfw.com'
   - '+.aboutmcdonalds.com'
@@ -1585,18 +1586,25 @@ payload:
   - '+.amazon-launchpad.com'
   - '+.amazon.ae'
   - '+.amazon.ca'
+  - '+.amazon.cl'
   - '+.amazon.co'
   - '+.amazon.com'
   - '+.amazon.de'
   - '+.amazon.dev'
+  - '+.amazon.eg'
   - '+.amazon.es'
   - '+.amazon.fr'
+  - '+.amazon.ie'
   - '+.amazon.in'
   - '+.amazon.it'
   - '+.amazon.jobs'
   - '+.amazon.jp'
+  - '+.amazon.lu'
   - '+.amazon.nl'
+  - '+.amazon.pl'
   - '+.amazon.red'
+  - '+.amazon.sa'
+  - '+.amazon.se'
   - '+.amazon.sg'
   - '+.amazonalexavoxcon.com'
   - '+.amazonauthorinsights.com'
@@ -2685,6 +2693,7 @@ payload:
   - '+.awsthinkbox.com'
   - '+.awstrack.me'
   - '+.awstrust.com'
+  - '+.awswaf.com'
   - '+.awwcn.buzz'
   - '+.awwcn.xyz'
   - '+.awxcdn.com'
@@ -19225,6 +19234,7 @@ payload:
   - '+.seasidestory.tokyo'
   - '+.seatguru.com'
   - '+.seattlefdc.com'
+  - '+.seattlespheres.com'
   - '+.secomtrust.net'
   - '+.second-ns.com'
   - '+.second-ns.de'
@@ -25252,9 +25262,13 @@ payload:
   - '+.am730.com.hk'
   - '+.amazon.co.jp'
   - '+.amazon.co.uk'
+  - '+.amazon.co.za'
   - '+.amazon.com.au'
+  - '+.amazon.com.be'
   - '+.amazon.com.br'
+  - '+.amazon.com.co'
   - '+.amazon.com.mx'
+  - '+.amazon.com.ng'
   - '+.amazon.com.tr'
   - '+.amazonaws.co.uk'
   - '+.amdigital.co.uk'

@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-26 01:05:44 (UTC+8)
+# UPDATED: 2026-02-27 00:52:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 669
+# TOTAL: 665
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -257,7 +257,6 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -269,7 +268,6 @@ payload:
   - 'moonburrow.club'
   - 'music-torrent.net'
   - 'mvgroup.org'
-  - 'navegador.click'
   - 'new-line.net'
   - 'nnmclub.to'
   - 'odd-hd.fr'
@@ -366,7 +364,6 @@ payload:
   - 'free.publictracker.xyz'
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -377,7 +374,7 @@ payload:
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
-  - 'node01.trackerstatus.live'
+  - 'node01.madtia.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -477,6 +474,7 @@ payload:
   - 'tracker.artixlinux.org'
   - 'tracker.auctor.tv'
   - 'tracker.baltracker.net'
+  - 'tracker.beeimg.com'
   - 'tracker.belmult.online'
   - 'tracker.birkenwald.de'
   - 'tracker.bitcoinindia.space'
@@ -557,7 +555,6 @@ payload:
   - 'tracker.linkomanija.org'
   - 'tracker.lintk.me'
   - 'tracker.loligirl.cn'
-  - 'tracker.memelords.xyz'
   - 'tracker.minglong.org'
   - 'tracker.mininova.org'
   - 'tracker.moeblog.cn'
@@ -567,13 +564,11 @@ payload:
   - 'tracker.mywaifu.best'
   - 'tracker.netmap.top'
   - 'tracker.nighthawk.pw'
-  - 'tracker.novy.vip'
   - 'tracker.open-internet.nl'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentorrent.top'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
-  - 'tracker.pcfreetime.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.playground.ru'
@@ -624,6 +619,7 @@ payload:
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
+  - 'tracker.wepzone.net'
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'

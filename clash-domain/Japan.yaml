@@ -1,9 +1,9 @@
 # NAME: Japan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-26 01:05:44 (UTC+8)
+# UPDATED: 2026-02-27 00:52:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 268
+# TOTAL: 281
 payload:
   - '+.amazon'
   - '+.aws'
@@ -25,6 +25,7 @@ payload:
   - '+.aboutamazon.in'
   - '+.aboutamazon.it'
   - '+.aboutamazon.pl'
+  - '+.aboutamazon.sg'
   - '+.acmvalidations.com'
   - '+.acmvalidationsaws.com'
   - '+.aesworkshops.com'
@@ -44,17 +45,24 @@ payload:
   - '+.amazon-launchpad.com'
   - '+.amazon.ae'
   - '+.amazon.ca'
+  - '+.amazon.cl'
   - '+.amazon.cn'
   - '+.amazon.com'
   - '+.amazon.de'
   - '+.amazon.dev'
+  - '+.amazon.eg'
   - '+.amazon.es'
   - '+.amazon.fr'
+  - '+.amazon.ie'
   - '+.amazon.in'
   - '+.amazon.it'
   - '+.amazon.jobs'
+  - '+.amazon.lu'
   - '+.amazon.nl'
+  - '+.amazon.pl'
   - '+.amazon.red'
+  - '+.amazon.sa'
+  - '+.amazon.se'
   - '+.amazon.sg'
   - '+.amazonalexavoxcon.com'
   - '+.amazonauthorinsights.com'
@@ -140,6 +148,7 @@ payload:
   - '+.awsthinkbox.com'
   - '+.awstrack.me'
   - '+.awstrust.com'
+  - '+.awswaf.com'
   - '+.bluekai.com'
   - '+.boxofficemojo.com'
   - '+.byspotify.com'
@@ -237,9 +246,13 @@ payload:
   - '+.aboutamazon.com.au'
   - '+.alexafund.com.cn'
   - '+.amazon.co.uk'
+  - '+.amazon.co.za'
   - '+.amazon.com.au'
+  - '+.amazon.com.be'
   - '+.amazon.com.br'
+  - '+.amazon.com.co'
   - '+.amazon.com.mx'
+  - '+.amazon.com.ng'
   - '+.amazon.com.tr'
   - '+.amazonaws.co.uk'
   - '+.amazonaws.com.cn'
