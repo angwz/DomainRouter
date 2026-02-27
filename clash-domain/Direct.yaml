@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-02-27 00:43:24 (UTC+8)
+# UPDATED: 2026-02-28 00:27:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 2107
+# TOTAL: 2110
 payload:
   - '+.java'
   - '+.oracle'
@@ -973,6 +973,7 @@ payload:
   - '+.lex.download.prss.microsoft.com'
   - '+.lexuat.download.prss.microsoft.com'
   - '+.mbs.download.prss.microsoft.com'
+  - '+.mbsuat.download.prss.microsoft.com'
   - '+.mesu-cdn.apple.com.akadns.net'
   - '+.mesu-china.apple.com.akadns.net'
   - '+.mpnbenefits.download.prss.microsoft.com'
@@ -981,7 +982,9 @@ payload:
   - '+.msdn.download.prss.microsoft.com'
   - '+.msdprod-ad.download.prss.microsoft.com'
   - '+.msproduct.download.prss.microsoft.com'
+  - '+.msproductuat.download.prss.microsoft.com'
   - '+.myvs.download.prss.microsoft.com'
+  - '+.myvsuat.download.prss.microsoft.com'
   - '+.ocsp-lb.apple.com.akadns.net'
   - '+.ocsp2-lb.apple.com.akadns.net'
   - '+.oemsoc.download.prss.microsoft.com'
