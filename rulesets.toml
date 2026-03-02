@@ -285,10 +285,6 @@ group = "🛫 香港专线"
 ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
-group = "🧊 台湾专线"
-ruleset = "[]# GEOIP,TW"
-
-[[rulesets]]
 group = "🌺 日本专线"
 ruleset = "[]GEOIP,JP,no-resolve"
 
