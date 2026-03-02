@@ -215,18 +215,6 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🧊 台湾专线"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Taiwan.yaml"
-type = "clash-domain"
-interval = 21600
-
-[[rulesets]]
-group = "🧊 台湾专线"
-ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Taiwan-classic.yaml"
-type = "clash-classic"
-interval = 21600
-
-[[rulesets]]
 group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/ChinaMedia.yaml"
 type = "clash-domain"
@@ -298,7 +286,7 @@ ruleset = "[]GEOIP,CLOUDFLARE,no-resolve"
 
 [[rulesets]]
 group = "🧊 台湾专线"
-ruleset = "[]GEOIP,TW,no-resolve"
+ruleset = "[]# GEOIP,TW"
 
 [[rulesets]]
 group = "🌺 日本专线"
