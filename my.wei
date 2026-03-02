@@ -238,6 +238,23 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meta.yaml
 
 
+# [Taiwan]
+'+.tw'
+
+
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-cryptocurrency.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Crypto/Crypto.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Cryptocurrency/Cryptocurrency.list
+
+# Binance
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/binance.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Binance/Binance.list
+
+# OKX
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/okx.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OKX/OKX.list
+
+
 [Angwz]
 # HostDZire
 163.61.31.0/24
@@ -423,23 +440,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 
 
-[Taiwan]
-'+.tw'
-
-
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-cryptocurrency.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Crypto/Crypto.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Cryptocurrency/Cryptocurrency.list
-
-# Binance
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/binance.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Binance/Binance.list
-
-# OKX
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/okx.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OKX/OKX.list
-
-
 [TikTok]
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
@@ -604,13 +604,13 @@ HK: 🛫 香港专线
 Star: 🌌 星星啊
 Angwz: 🌠 节点选择
 America: ⛳ 美国专线
-Taiwan: 🧊 台湾专线
+# Taiwan: 🧊 台湾专线
 ChinaMedia: DIRECT
 OneDrive: ⛅ OneDrive
 Microsoft: 🪟 Microsoft
 Media: 🛖 国际流媒体
 GEOIP,CLOUDFLARE: 🛫 香港专线,no-resolve
-GEOIP,TW: 🧊 台湾专线,no-resolve
+# GEOIP,TW: 🧊 台湾专线,no-resolve
 GEOIP,JP: 🌺 日本专线,no-resolve
 GEOIP,CA: ⛳ 美国专线,no-resolve
 GEOIP,US: ⛳ 美国专线,no-resolve
