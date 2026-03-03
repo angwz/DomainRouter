@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-03 01:04:24 (UTC+8)
+# UPDATED: 2026-03-03 18:04:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 27703
+# TOTAL: 27706
 payload:
   - '+.adult'
   - '+.amazon'
@@ -12462,6 +12462,7 @@ payload:
   - '+.jav.la'
   - '+.jav.land'
   - '+.jav.place'
+  - '+.jav.sb'
   - '+.jav.si'
   - '+.jav.wine'
   - '+.jav01.cc'
@@ -12539,6 +12540,7 @@ payload:
   - '+.javheroine.com'
   - '+.javhihi.com'
   - '+.javhip.com'
+  - '+.javhub.com'
   - '+.javhub.me'
   - '+.javhub.net'
   - '+.javhuge.com'
@@ -12578,6 +12580,7 @@ payload:
   - '+.javpub.me'
   - '+.javpush.com'
   - '+.javqd.com'
+  - '+.javquick.com'
   - '+.javrank.com'
   - '+.javrate.com'
   - '+.javrave.club'

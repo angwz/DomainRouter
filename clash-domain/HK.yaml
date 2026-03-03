@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-03 01:04:28 (UTC+8)
+# UPDATED: 2026-03-03 18:04:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 9380
+# TOTAL: 9383
 payload:
   - '+.adult'
   - '+.apple'
@@ -4606,6 +4606,7 @@ payload:
   - '+.jav.la'
   - '+.jav.land'
   - '+.jav.place'
+  - '+.jav.sb'
   - '+.jav.si'
   - '+.jav.wine'
   - '+.jav01.cc'
@@ -4674,6 +4675,7 @@ payload:
   - '+.javher.com'
   - '+.javheroine.com'
   - '+.javhihi.com'
+  - '+.javhub.com'
   - '+.javhub.me'
   - '+.javhub.net'
   - '+.javidol.org'
@@ -4707,6 +4709,7 @@ payload:
   - '+.javpub.me'
   - '+.javpush.com'
   - '+.javqd.com'
+  - '+.javquick.com'
   - '+.javrank.com'
   - '+.javrate.com'
   - '+.javrave.club'
