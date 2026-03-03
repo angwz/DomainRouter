@@ -2,7 +2,7 @@
 name = "🌠 节点选择"
 rule = [
   "[]🛫 香港专线",
-  "[]🏞️ 美利坚高速",
+  "[]⛳ 美国专线",
   "[]🌺 日本专线",
   "[]✈️ 手动切换",
   "[]DIRECT",
@@ -11,12 +11,12 @@ type = "select"
 
 [[custom_groups]]
 name = "✈️ 手动切换"
-rule = ["[]🏞️ 美利坚高速", "(.*)"]
+rule = ["[]⛳ 美国专线", "(.*)"]
 type = "select"
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
-rule = ["[]🏞️ 美利坚高速", "[]🌺 日本专线", "[]✈️ 手动切换"]
+rule = ["[]⛳ 美国专线", "[]🌺 日本专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -26,37 +26,37 @@ type = "select"
 
 [[custom_groups]]
 name = "📱 TikTok"
-rule = ["[]🌺 日本专线", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]🌺 日本专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "💻 YouTube"
-rule = ["[]🌠 节点选择", "[]🛫 香港专线", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🛫 香港专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "📩 Google"
-rule = ["[]🌠 节点选择", "[]🗨️ ChatGPT", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🗨️ ChatGPT", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🏖️ Community"
-rule = ["[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]🌺 日本专线", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]⛳ 美国专线", "[]🌺 日本专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "⛅ OneDrive"
-rule = ["[]🪟 Microsoft", "[]🌌 星星啊", "[]DIRECT", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]🪟 Microsoft", "[]🌌 星星啊", "[]DIRECT", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🎬 Netflix"
-rule = ["[]🌺 日本专线", "[]🛫 香港专线", "[]🏞️ 美利坚高速", "[]✈️ 手动切换"]
+rule = ["[]🌺 日本专线", "[]🛫 香港专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🪟 Microsoft"
-rule = ["[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌠 节点选择", "[]⛳ 美国专线", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
@@ -65,14 +65,14 @@ rule = [
   "[]🌠 节点选择",
   "[]🛫 香港专线",
   "[]🌺 日本专线",
-  "[]🏞️ 美利坚高速",
+  "[]⛳ 美国专线",
   "[]✈️ 手动切换",
 ]
 type = "select"
 
 [[custom_groups]]
 name = "🐳 漏网の鱼"
-rule = ["[]🌠 节点选择", "[]🏞️ 美利坚高速", "[]🌺 日本专线", "[]✈️ 手动切换", "[]DIRECT"]
+rule = ["[]🌠 节点选择", "[]⛳ 美国专线", "[]🌺 日本专线", "[]✈️ 手动切换", "[]DIRECT"]
 type = "select"
 
 [[custom_groups]]
