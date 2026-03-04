@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-04 00:42:56 (UTC+8)
+# UPDATED: 2026-03-05 00:39:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 5206
+# TOTAL: 5204
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -2069,7 +2069,6 @@ payload:
   - '+.ikhimalayaniq.com'
   - '+.ikupan.me'
   - '+.ileapcloud.com'
-  - '+.illusion.jp'
   - '+.im9.com'
   - '+.imaicai.mobi'
   - '+.imc-oneaccess.cn'
@@ -3947,7 +3946,6 @@ payload:
   - '+.hwitsm.com.cn'
   - '+.i.ipinyou.com'
   - '+.i.qq.com'
-  - '+.illusion.co.jp'
   - '+.ipanda.com.cn'
   - '+.iptv.gd.cn'
   - '+.iqiyi.demo.uwp'

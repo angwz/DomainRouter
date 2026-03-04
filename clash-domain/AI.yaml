@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-04 00:34:05 (UTC+8)
+# UPDATED: 2026-03-05 00:30:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 224
+# TOTAL: 225
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -58,6 +58,7 @@ payload:
   - '+.deepmind.google'
   - '+.devin.ai'
   - '+.diabrowser.com'
+  - '+.diabrowser.engineering'
   - '+.dictate.ms'
   - '+.dify.ai'
   - '+.dola.com'

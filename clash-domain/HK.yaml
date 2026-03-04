@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-04 00:34:05 (UTC+8)
+# UPDATED: 2026-03-05 00:30:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 9383
+# TOTAL: 9385
 payload:
   - '+.adult'
   - '+.apple'
@@ -2471,6 +2471,7 @@ payload:
   - '+.dkcloud.cc'
   - '+.dkk37.com'
   - '+.dl-iphone.com'
+  - '+.dlaf.jp'
   - '+.dlap001.xyz'
   - '+.dlap301.com'
   - '+.dldlinks.com'
@@ -4195,6 +4196,7 @@ payload:
   - '+.icloud-isupport.com'
   - '+.icloud-sandbox.com'
   - '+.icloud.ch'
+  - '+.icloud.cn'
   - '+.icloud.com'
   - '+.icloud.de'
   - '+.icloud.ee'
@@ -4263,8 +4265,8 @@ payload:
   - '+.ilife.eu'
   - '+.ilife.gr'
   - '+.ilife.wang'
+  - '+.illgames.jp'
   - '+.illianacomputerrecycling.com'
-  - '+.illusion.jp'
   - '+.illusion111.com'
   - '+.illusionas.com'
   - '+.illusionchn.com'
@@ -4580,6 +4582,7 @@ payload:
   - '+.jadult.net'
   - '+.jambotube.com'
   - '+.janor6.net'
+  - '+.japan-illgames.com'
   - '+.japan-whores.com'
   - '+.japan18tube.com'
   - '+.japanbeast.com'
@@ -9079,7 +9082,6 @@ payload:
   - '+.icloud.com.cn'
   - '+.icloud.net.cn'
   - '+.ilecture.co.nz'
-  - '+.illusion.co.jp'
   - '+.imac.co.nz'
   - '+.incesto.blog.br'
   - '+.indies-av.co.jp'
