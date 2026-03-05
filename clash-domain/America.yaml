@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-05 00:30:41 (UTC+8)
+# UPDATED: 2026-03-06 01:52:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 1542
+# TOTAL: 1543
 payload:
   - '+.android'
   - '+.intel'
@@ -769,6 +769,7 @@ payload:
   - '+.jenkins.io'
   - '+.jetbra.in'
   - '+.jetbrains.ai'
+  - '+.jetbrains.cloud'
   - '+.jetbrains.com'
   - '+.jetbrains.net'
   - '+.jetbrains.space'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-05 00:30:37 (UTC+8)
+# UPDATED: 2026-03-06 01:52:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 27714
+# TOTAL: 27715
 payload:
   - '+.adult'
   - '+.amazon'
@@ -12660,6 +12660,7 @@ payload:
   - '+.jessicaturner.com'
   - '+.jetbra.in'
   - '+.jetbrains.ai'
+  - '+.jetbrains.cloud'
   - '+.jetbrains.com'
   - '+.jetbrains.net'
   - '+.jetbrains.space'
