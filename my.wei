@@ -16,7 +16,7 @@ SRC-PORT,9993
 
 
 # DMIT
-64.186.238.0/24
+64.186.234.0/24
 2605:52c0:2:386::/64
 
 # BWG
@@ -150,14 +150,13 @@ zerotier.com
 bandwagonhost.com
 vollcloud.com
 vps.town
-plex.tv
+
 
 nodequality.com
 nodehatch.com
 nametra.de
 nodeimage.com
 
-DOMAIN-KEYWORD,lazycat
 DOMAIN-KEYWORD,annas-archive
 
 
@@ -355,6 +354,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 [America]
 '+.us'
+plex.tv
 
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/USMedia/USMedia.list
