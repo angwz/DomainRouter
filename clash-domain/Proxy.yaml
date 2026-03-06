@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-06 01:52:16 (UTC+8)
+# UPDATED: 2026-03-07 00:26:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 27715
+# TOTAL: 27720
 payload:
   - '+.adult'
   - '+.amazon'
@@ -17509,6 +17509,10 @@ payload:
   - '+.pleasurebabe.com'
   - '+.pleasuregirl.net'
   - '+.pleasuremore.com'
+  - '+.plex.com'
+  - '+.plex.services'
+  - '+.plex.tv'
+  - '+.plexapp.com'
   - '+.plexvpn.pro'
   - '+.plixi.com'
   - '+.plos.org'
@@ -25804,6 +25808,7 @@ payload:
   - '+.domain.club.tw'
   - '+.domaintoday.com.au'
   - '+.dombosco.com.br'
+  - '+.download.dappcdn.com'
   - '+.download.qatp1.net'
   - '+.download.qcpp1.net'
   - '+.download.qpdp1.net'

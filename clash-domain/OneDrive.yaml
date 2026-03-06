@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-06 02:01:22 (UTC+8)
+# UPDATED: 2026-03-07 00:35:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 671
+# TOTAL: 672
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -240,6 +240,7 @@ payload:
   - 'btracker.top'
   - 'buny.uk'
   - 'ch3oh.ru'
+  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -256,7 +257,6 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -625,6 +625,7 @@ payload:
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
+  - 'tracker.wepzone.net'
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'
