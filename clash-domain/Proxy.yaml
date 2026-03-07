@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-07 00:26:49 (UTC+8)
+# UPDATED: 2026-03-08 00:15:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 27720
+# TOTAL: 27727
 payload:
   - '+.adult'
   - '+.amazon'
@@ -15279,6 +15279,7 @@ payload:
   - '+.muslimvideo.com'
   - '+.mut.ch'
   - '+.muthead.com'
+  - '+.muvluv-girls-garden.com'
   - '+.muycerdas.xxx'
   - '+.muyzorras.com'
   - '+.muzi.com'
@@ -16620,6 +16621,7 @@ payload:
   - '+.onlyams.com'
   - '+.onlycartoonsex.com'
   - '+.onlydudes.com'
+  - '+.onlyfans.com'
   - '+.onlyfanspw.com'
   - '+.onlyfreelatinaporn.com'
   - '+.onlygayvideo.com'
@@ -19300,6 +19302,7 @@ payload:
   - '+.semanticscholar.org'
   - '+.sendsmtp.com'
   - '+.sendspace.com'
+  - '+.sendvid.com'
   - '+.seneporno.com'
   - '+.seniortgp.com'
   - '+.senpaiheat.com'
@@ -22300,6 +22303,7 @@ payload:
   - '+.usus.cc'
   - '+.usvimosquito.com'
   - '+.usvimosquitoproject.com'
+  - '+.utdstc.com'
   - '+.utopianpal.com'
   - '+.uu-gg.com'
   - '+.uug22.com'
@@ -24608,6 +24612,8 @@ payload:
   - '+.youjism.com'
   - '+.youjizz.com'
   - '+.youjizz.sex'
+  - '+.youla.io'
+  - '+.youla.ru'
   - '+.youlucky.com'
   - '+.youmaker.com'
   - '+.youmind.ai'
@@ -27712,6 +27718,7 @@ payload:
   - 'wetv.qq.com'
   - 'widgets.stripst.com'
   - 'yandex-pogoda.static-storage.net'
+  - 'youla-web-static.mrgcdn.ru'
   - 'blizzard.nefficient.co.kr'
   - 'cbsplaylistserver.aws.syncbak.com'
   - 'cbsservice.aws.syncbak.com'

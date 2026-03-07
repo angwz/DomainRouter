@@ -1,14 +1,13 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-07 00:26:53 (UTC+8)
+# UPDATED: 2026-03-08 00:15:19 (UTC+8)
 # TYPE: classic
-# TOTAL: 42
-# DOMAIN-KEYWORD TOTAL: 17
+# TOTAL: 41
+# DOMAIN-KEYWORD TOTAL: 16
 # IP-ASN TOTAL: 6
 # PROCESS-NAME TOTAL: 19
 payload:
-  - DOMAIN-KEYWORD,lazycat
   - DOMAIN-KEYWORD,annas-archive
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
