@@ -143,6 +143,24 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+group = "🛸 Telegram"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Telegram.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🛸 Telegram"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Telegram-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "🛸 Telegram"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Telegram-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "🌺 日本专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Japan.yaml"
 type = "clash-domain"
@@ -182,6 +200,12 @@ interval = 21600
 group = "🧊 新加坡专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
 type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🧊 新加坡专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Singapore-classic.yaml"
+type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
