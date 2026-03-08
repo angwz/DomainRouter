@@ -4,6 +4,7 @@ rule = [
   "[]🛫 香港专线",
   "[]⛳ 美国专线",
   "[]🌺 日本专线",
+  "[]🧊 新加坡专线",
   "[]✈️ 手动切换",
   "[]DIRECT",
 ]
@@ -16,7 +17,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🗨️ ChatGPT"
-rule = ["[]⛳ 美国专线", "[]🌺 日本专线", "[]✈️ 手动切换"]
+rule = ["[]⛳ 美国专线", "[]🌺 日本专线", "[]🧊 新加坡专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -26,7 +27,7 @@ type = "select"
 
 [[custom_groups]]
 name = "📱 TikTok"
-rule = ["[]🌺 日本专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
+rule = ["[]🌺 日本专线", "[]🧊 新加坡专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -36,12 +37,12 @@ type = "select"
 
 [[custom_groups]]
 name = "📩 Google"
-rule = ["[]🌠 节点选择", "[]🗨️ ChatGPT", "[]⛳ 美国专线", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🗨️ ChatGPT", "[]🧊 新加坡专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
 name = "🏖️ Community"
-rule = ["[]🌠 节点选择", "[]⛳ 美国专线", "[]🌺 日本专线", "[]✈️ 手动切换"]
+rule = ["[]🌠 节点选择", "[]🧊 新加坡专线", "[]⛳ 美国专线", "[]🌺 日本专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -103,6 +104,17 @@ type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
+interval = 177
+lazy = false
+name = "🧊 新加坡专线"
+rule = [
+  "[]🦁 新加坡高速",
+  "[]🏞️ 美利坚高速",
+]
+type = "fallback"
+url = "https://www.gstatic.com/generate_204"
+
+[[custom_groups]]
 interval = 233
 lazy = false
 name = "⛳ 美国专线"
@@ -121,6 +133,11 @@ type = "select"
 [[custom_groups]]
 name = "🗾 日本高速"
 rule = ["!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*$)", "(.*)"]
+type = "select"
+
+[[custom_groups]]
+name = "🦁 新加坡高速"
+rule = ["(新加坡|新|坡|狮城|SG|sg|Singapore)", "(.*)"]
 type = "select"
 
 [[custom_groups]]
