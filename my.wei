@@ -207,7 +207,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/alibaba%40!cn.yaml
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cnbeta.yaml
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-bank-cn%40!cn.yaml
+
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-porn.yaml
 
@@ -418,10 +418,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 [Singapore]
 '+.sg'
 claw.cloud
-
-
-# [Taiwan]
-# '+.tw'
 
 
 # Telegram
