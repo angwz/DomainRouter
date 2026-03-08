@@ -33,6 +33,7 @@ type = "select"
 [[custom_groups]]
 name = "🛸 Telegram"
 rule = ["[]🌠 节点选择", "[]🧊 新加坡专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
+type = "select"
 
 [[custom_groups]]
 name = "💻 YouTube"
