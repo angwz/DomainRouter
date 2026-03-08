@@ -1,11 +1,10 @@
 # NAME: Taiwan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-08 21:16:55 (UTC+8)
+# UPDATED: 2026-03-08 21:47:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 355
+# TOTAL: 354
 payload:
-  - '+.tw'
   - '+.1inch.io'
   - '+.1ml.com'
   - '+.aave.com'
