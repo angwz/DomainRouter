@@ -1,12 +1,28 @@
 # NAME: Taiwan
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-08 00:15:19 (UTC+8)
+# UPDATED: 2026-03-08 20:51:59 (UTC+8)
 # TYPE: classic
-# TOTAL: 4
-# DOMAIN-KEYWORD TOTAL: 4
+# TOTAL: 16
+# DOMAIN-KEYWORD TOTAL: 5
+# IP-ASN TOTAL: 5
+# PROCESS-NAME TOTAL: 6
 payload:
+  - DOMAIN-KEYWORD,nicegram
   - DOMAIN-KEYWORD,binance
   - DOMAIN-KEYWORD,huobi
   - DOMAIN-KEYWORD,metamask
   - DOMAIN-KEYWORD,okx
+
+  - IP-ASN,211157,no-resolve
+  - IP-ASN,44907,no-resolve
+  - IP-ASN,59930,no-resolve
+  - IP-ASN,62014,no-resolve
+  - IP-ASN,62041,no-resolve
+
+  - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,nekox.messenger
+  - PROCESS-NAME,org.telegram.messenger
+  - PROCESS-NAME,telegram-desktop
+  - PROCESS-NAME,tw.nekomimi.nekogram
+  - PROCESS-NAME,xyz.nextalone.nagram

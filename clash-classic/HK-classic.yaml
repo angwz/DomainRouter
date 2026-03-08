@@ -1,18 +1,17 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-08 00:15:19 (UTC+8)
+# UPDATED: 2026-03-08 20:43:20 (UTC+8)
 # TYPE: classic
-# TOTAL: 41
-# DOMAIN-KEYWORD TOTAL: 16
-# IP-ASN TOTAL: 6
-# PROCESS-NAME TOTAL: 19
+# TOTAL: 29
+# DOMAIN-KEYWORD TOTAL: 15
+# IP-ASN TOTAL: 1
+# PROCESS-NAME TOTAL: 13
 payload:
   - DOMAIN-KEYWORD,annas-archive
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
-  - DOMAIN-KEYWORD,nicegram
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,apple-support.akadns.net
   - DOMAIN-KEYWORD,apple.com.akadns.net
@@ -25,19 +24,8 @@ payload:
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
 
-  - IP-ASN,211157,no-resolve
-  - IP-ASN,44907,no-resolve
-  - IP-ASN,59930,no-resolve
-  - IP-ASN,62014,no-resolve
-  - IP-ASN,62041,no-resolve
   - IP-ASN,32934,no-resolve
 
-  - PROCESS-NAME,Telegram.exe
-  - PROCESS-NAME,nekox.messenger
-  - PROCESS-NAME,org.telegram.messenger
-  - PROCESS-NAME,telegram-desktop
-  - PROCESS-NAME,tw.nekomimi.nekogram
-  - PROCESS-NAME,xyz.nextalone.nagram
   - PROCESS-NAME,CoreLocationAgent
   - PROCESS-NAME,WeatherWidget
   - PROCESS-NAME,apsd

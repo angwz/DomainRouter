@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-08 00:15:15 (UTC+8)
+# UPDATED: 2026-03-08 20:43:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 27727
+# TOTAL: 27730
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1882,6 +1882,7 @@ payload:
   - '+.app-measurement-cn.com'
   - '+.app-measurement.com'
   - '+.app-measurement.net'
+  - '+.app-pay.jp'
   - '+.app-store.wang'
   - '+.app0le.com'
   - '+.app756.com'
@@ -19070,6 +19071,7 @@ payload:
   - '+.samsunggalaxyfriends.com'
   - '+.samsunghealth.com'
   - '+.samsungiotcloud.com'
+  - '+.samsungiots.com'
   - '+.samsungknox.com'
   - '+.samsungosp.com'
   - '+.samsungqbe.com'
@@ -19974,6 +19976,7 @@ payload:
   - '+.smartoneholdings.com'
   - '+.smartonerobotics.com'
   - '+.smartonesolutions.hk'
+  - '+.smartthings.com'
   - '+.smashed.xxx'
   - '+.smchbooks.com'
   - '+.smhric.org'
