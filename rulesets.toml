@@ -179,6 +179,12 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+group = "🧊 新加坡专线"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Singapore.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
 group = "🌌 星星啊"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Star.yaml"
 type = "clash-domain"
