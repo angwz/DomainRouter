@@ -1,18 +1,14 @@
-# NAME: Taiwan
+# NAME: Telegram
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-08 21:47:14 (UTC+8)
+# UPDATED: 2026-03-08 22:25:19 (UTC+8)
 # TYPE: classic
-# TOTAL: 16
-# DOMAIN-KEYWORD TOTAL: 5
+# TOTAL: 12
+# DOMAIN-KEYWORD TOTAL: 1
 # IP-ASN TOTAL: 5
 # PROCESS-NAME TOTAL: 6
 payload:
   - DOMAIN-KEYWORD,nicegram
-  - DOMAIN-KEYWORD,binance
-  - DOMAIN-KEYWORD,huobi
-  - DOMAIN-KEYWORD,metamask
-  - DOMAIN-KEYWORD,okx
 
   - IP-ASN,211157,no-resolve
   - IP-ASN,44907,no-resolve

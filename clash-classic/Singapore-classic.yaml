@@ -1,0 +1,12 @@
+# NAME: Singapore
+# AUTHOR: Angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2026-03-08 22:25:19 (UTC+8)
+# TYPE: classic
+# TOTAL: 4
+# DOMAIN-KEYWORD TOTAL: 4
+payload:
+  - DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,huobi
+  - DOMAIN-KEYWORD,metamask
+  - DOMAIN-KEYWORD,okx
