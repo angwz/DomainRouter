@@ -31,6 +31,10 @@ rule = ["[]🌺 日本专线", "[]🧊 新加坡专线", "[]⛳ 美国专线", "
 type = "select"
 
 [[custom_groups]]
+name = "🛸 Telegram"
+rule = ["[]🌠 节点选择", "[]🧊 新加坡专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
+
+[[custom_groups]]
 name = "💻 YouTube"
 rule = ["[]🌠 节点选择", "[]🛫 香港专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
