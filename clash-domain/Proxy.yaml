@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-09 00:15:22 (UTC+8)
+# UPDATED: 2026-03-10 00:44:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 27730
+# TOTAL: 27733
 payload:
   - '+.adult'
   - '+.amazon'
@@ -7060,6 +7060,7 @@ payload:
   - '+.dynamobuilds.com'
   - '+.dynamopackages.com'
   - '+.dynamoreach.com'
+  - '+.dynatrace.com'
   - '+.dynawebinc.com'
   - '+.dyncdn.me'
   - '+.dyndns-ip.com'
@@ -8142,6 +8143,7 @@ payload:
   - '+.familypies.net'
   - '+.familyporn.tv'
   - '+.familypornhd.com'
+  - '+.familysearch.org'
   - '+.familysexsimulator.com'
   - '+.familysimulator.com'
   - '+.familysimulator.io'
@@ -19662,6 +19664,7 @@ payload:
   - '+.shitaotv.org'
   - '+.shithd.com'
   - '+.shitjav.com'
+  - '+.shitjournal.org'
   - '+.shittytube.com'
   - '+.shixiao.org'
   - '+.shizhao.org'

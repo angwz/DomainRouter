@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-09 00:15:26 (UTC+8)
+# UPDATED: 2026-03-10 00:45:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 1544
+# TOTAL: 1540
 payload:
   - '+.android'
   - '+.intel'
@@ -228,7 +228,6 @@ payload:
   - '+.cbstelevisioncity.com'
   - '+.ccnsite.com'
   - '+.ccpsx.com'
-  - '+.cdnjs.com'
   - '+.ceicdata.com'
   - '+.celeron.com'
   - '+.celeron.net'
@@ -353,7 +352,6 @@ payload:
   - '+.enpirion.com'
   - '+.epigeum.com'
   - '+.erlang.org'
-  - '+.esm.run'
   - '+.espn.com'
   - '+.espn.net'
   - '+.espncdn.com'
@@ -786,8 +784,6 @@ payload:
   - '+.jquerymobile.com'
   - '+.jqueryui.com'
   - '+.js.org'
-  - '+.jsdelivr.com'
-  - '+.jsdelivr.net'
   - '+.jstor.org'
   - '+.jtt.ir'
   - '+.jupyter.org'
