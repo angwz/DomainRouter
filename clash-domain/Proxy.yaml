@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-10 00:44:58 (UTC+8)
+# UPDATED: 2026-03-11 00:44:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 27733
+# TOTAL: 27734
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5896,6 +5896,7 @@ payload:
   - '+.cutout.pro'
   - '+.cutscenes.net'
   - '+.cutt.ly'
+  - '+.cve.org'
   - '+.cwcams.com'
   - '+.cxacg.com'
   - '+.cy22.tv'

@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-10 00:53:47 (UTC+8)
+# UPDATED: 2026-03-11 00:54:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 5203
+# TOTAL: 5206
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -631,6 +631,7 @@ payload:
   - '+.benghuai.com'
   - '+.bescloud.com'
   - '+.besclouds.com'
+  - '+.bestpay.cn'
   - '+.bestrhy.com'
   - '+.beth.games'
   - '+.bethesda.net'
@@ -980,6 +981,7 @@ payload:
   - '+.cmicrwx.cn'
   - '+.cmicvip.cn'
   - '+.cmpassport.com'
+  - '+.cmpay.com'
   - '+.cmread.com'
   - '+.cmvideo.cn'
   - '+.cncrivals.com'
@@ -3852,6 +3854,7 @@ payload:
   - '+.baidupcs.com.cn'
   - '+.baiying.com.cn'
   - '+.battlenet.com.cn'
+  - '+.bestpay.com.cn'
   - '+.blizzcon-a.akamaihd.net'
   - '+.blzddist1-a.akamaihd.net'
   - '+.blzddistkr1-a.akamaihd.net'

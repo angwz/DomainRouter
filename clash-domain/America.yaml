@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-10 00:45:02 (UTC+8)
+# UPDATED: 2026-03-11 00:44:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 1540
+# TOTAL: 1541
 payload:
   - '+.android'
   - '+.intel'
@@ -281,6 +281,7 @@ payload:
   - '+.csiro.au'
   - '+.csrankings.org'
   - '+.cups.org'
+  - '+.cve.org'
   - '+.cygwin.com'
   - '+.cython.org'
   - '+.dart.dev'
