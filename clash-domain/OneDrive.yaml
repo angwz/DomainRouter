@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-12 00:47:33 (UTC+8)
+# UPDATED: 2026-03-13 00:55:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 676
+# TOTAL: 674
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -321,7 +321,6 @@ payload:
   - 'academic-p2p.appspot.com'
   - 'admin.52ywp.com'
   - 'announce.partis.si'
-  - 'asiatorrent.giize.com'
   - 'atrack.pow7.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
@@ -359,7 +358,6 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
-  - 'cn.pcfreetime.com'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -455,6 +453,7 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.cili001.com'
@@ -572,12 +571,12 @@ payload:
   - 'tracker.nekomi.cn'
   - 'tracker.netmap.top'
   - 'tracker.nighthawk.pw'
+  - 'tracker.novy.vip'
   - 'tracker.open-internet.nl'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentorrent.top'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
-  - 'tracker.pcfreetime.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.playground.ru'
@@ -634,7 +633,6 @@ payload:
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.yggleak.top'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -659,6 +657,7 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
+  - 'udp1.torrust-tracker-demo.com'
   - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'ws.peer.ooo'
@@ -680,4 +679,3 @@ payload:
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
-  - 's1124554.ha012.t.mydomain.zone'

@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-12 00:37:38 (UTC+8)
+# UPDATED: 2026-03-13 00:46:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 2108
+# TOTAL: 2110
 payload:
   - '+.java'
   - '+.oracle'
@@ -32,6 +32,7 @@ payload:
   - '+.alexafund.cn'
   - '+.alice.sh'
   - '+.alice.ws'
+  - '+.allhistory.com'
   - '+.amazon.cn'
   - '+.amazonaws.cn'
   - '+.amazonbusiness.cn'
@@ -505,6 +506,7 @@ payload:
   - '+.zhipuai.cn'
   - '+.zhipucn.com'
   - '+.zte.home'
+  - '+.zuidaima.com'
   - '+.10.in-addr.arpa'
   - '+.127.in-addr.arpa'
   - '+.a1.mzstatic.com'

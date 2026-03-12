@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-12 00:38:22 (UTC+8)
+# UPDATED: 2026-03-13 00:46:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 27734
+# TOTAL: 27735
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19839,6 +19839,7 @@ payload:
   - '+.sinonet.ca'
   - '+.sinopitt.info'
   - '+.sinoquebec.com'
+  - '+.sinyalee.com'
   - '+.sipml5.org'
   - '+.siport.com'
   - '+.sipriyearbook.org'
