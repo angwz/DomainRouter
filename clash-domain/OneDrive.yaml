@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-14 00:35:19 (UTC+8)
+# UPDATED: 2026-03-15 00:27:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 674
+# TOTAL: 675
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -221,6 +221,7 @@ payload:
   - '+.hudbt.hust.edu.cn'
   - '+.pt.xauat.edu.cn'
   - '+.skydrive.wns.windows.com'
+  - '004430.xyz'
   - '0123456789nonexistent.com'
   - '60-fps.org'
   - '6ahddutb1ucc3cp.ru'
@@ -364,6 +365,7 @@ payload:
   - 'free.publictracker.xyz'
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
+  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -375,7 +377,6 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'node01.madtia.cc'
-  - 'node01.torrentonline.cc'
   - 'node01.trackerstatus.live'
   - 'node02.madtia.cc'
   - 'ns575949.ip-51-222-82.net'
@@ -468,6 +469,7 @@ payload:
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
   - 'tracker-zhuqiy.xn--1r3au8b.space'
+  - 'tracker.004430.xyz'
   - 'tracker.0x7c0.com'
   - 'tracker.1h.is'
   - 'tracker.23794.top'
@@ -537,10 +539,8 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
-  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iochimari.moe'
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
@@ -633,6 +633,7 @@ payload:
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.yggleak.top'
+  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
