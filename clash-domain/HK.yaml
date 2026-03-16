@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-16 00:18:29 (UTC+8)
+# UPDATED: 2026-03-17 00:51:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 9359
+# TOTAL: 9360
 payload:
   - '+.adult'
   - '+.apple'
@@ -5827,6 +5827,7 @@ payload:
   - '+.njavtv.com'
   - '+.nlsexfilmpjes.com'
   - '+.nlt-media.com'
+  - '+.nodeget.com'
   - '+.nodehatch.com'
   - '+.nodeimage.com'
   - '+.nodequality.com'

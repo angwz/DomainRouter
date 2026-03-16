@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-16 00:17:41 (UTC+8)
+# UPDATED: 2026-03-17 00:50:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 2110
+# TOTAL: 2111
 payload:
   - '+.java'
   - '+.oracle'
@@ -156,6 +156,7 @@ payload:
   - '+.csxbank.com'
   - '+.cueme.cn'
   - '+.cup62.cn'
+  - '+.custhelp.com'
   - '+.cxbiji.com'
   - '+.datasea.cn'
   - '+.dayainfo.com'

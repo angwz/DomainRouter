@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-16 00:27:26 (UTC+8)
+# UPDATED: 2026-03-17 01:00:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 675
+# TOTAL: 679
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -377,8 +377,8 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'node01.madtia.cc'
+  - 'node01.torrentonline.cc'
   - 'node01.trackerstatus.live'
-  - 'node02.madtia.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -539,8 +539,10 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
+  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
+  - 'tracker.iochimari.moe'
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
@@ -571,7 +573,6 @@ payload:
   - 'tracker.nekomi.cn'
   - 'tracker.netmap.top'
   - 'tracker.nighthawk.pw'
-  - 'tracker.novy.vip'
   - 'tracker.open-internet.nl'
   - 'tracker.openbittorrent.com'
   - 'tracker.opentorrent.top'
@@ -662,7 +663,7 @@ payload:
   - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'ws.peer.ooo'
-  - 'www.wareztorrent.com'
+  - 'wsad.run.place'
   - 'y.paranoid.agency'
   - 'y.t-1.org'
   - 'yggtracker.i2p.rocks'
@@ -680,3 +681,6 @@ payload:
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
+  - 's1130638.ha016.t.mydomain.zone'
+  - 's1130639.ha009.t.mydomain.zone'
+  - 's1130642.ha014.t.mydomain.zone'

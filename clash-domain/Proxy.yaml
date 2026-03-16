@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-16 00:18:25 (UTC+8)
+# UPDATED: 2026-03-17 00:51:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 27739
+# TOTAL: 27742
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5882,6 +5882,7 @@ payload:
   - '+.curvybbwwives.com'
   - '+.curvyerotic.com'
   - '+.cusp.hk'
+  - '+.custhelp.com'
   - '+.custom-iphonecase.com'
   - '+.custombeatsbydrebuy.com'
   - '+.custombeatsdeals.com'
@@ -16157,6 +16158,7 @@ payload:
   - '+.nobel.se'
   - '+.nobelprize.org'
   - '+.nobodycanstop.us'
+  - '+.nodeget.com'
   - '+.nodeimage.com'
   - '+.nodejs.org'
   - '+.nodequality.com'
@@ -20263,6 +20265,7 @@ payload:
   - '+.spiceworksstatic.com'
   - '+.spicybigtits.com'
   - '+.spicystory.net'
+  - '+.spicywriter.com'
   - '+.spideroak.com'
   - '+.spiderpool.com'
   - '+.spiedigitallibrary.org'
