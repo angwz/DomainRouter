@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-17 00:51:03 (UTC+8)
+# UPDATED: 2026-03-18 00:53:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 27742
+# TOTAL: 27743
 payload:
   - '+.adult'
   - '+.amazon'
@@ -23678,6 +23678,7 @@ payload:
   - '+.woopie.jp'
   - '+.woopie.tv'
   - '+.wordpress.com'
+  - '+.wordpress.net'
   - '+.wordpress.org'
   - '+.wordpress.tv'
   - '+.work2icu.org'
