@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-18 01:02:59 (UTC+8)
+# UPDATED: 2026-03-19 00:57:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 679
+# TOTAL: 674
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -322,6 +322,7 @@ payload:
   - 'academic-p2p.appspot.com'
   - 'admin.52ywp.com'
   - 'announce.partis.si'
+  - 'asiatorrent.giize.com'
   - 'atrack.pow7.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
@@ -359,6 +360,7 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
+  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -376,7 +378,6 @@ payload:
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
-  - 'node01.madtia.cc'
   - 'node01.torrentonline.cc'
   - 'node01.trackerstatus.live'
   - 'ns575949.ip-51-222-82.net'
@@ -398,6 +399,7 @@ payload:
   - 'open.trackerlist.xyz'
   - 'open.u-p.pw'
   - 'open.xxtor.com'
+  - 'opentracker.91kf.top'
   - 'opentracker.acgnx.com'
   - 'opentracker.acgnx.se'
   - 'opentracker.dg2.i2p'
@@ -425,7 +427,6 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
-  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -454,7 +455,6 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.cili001.com'
@@ -542,7 +542,6 @@ payload:
   - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iochimari.moe'
   - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
@@ -590,7 +589,6 @@ payload:
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
-  - 'tracker.riverarmy.xyz'
   - 'tracker.sbsub.com'
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'
@@ -627,14 +625,12 @@ payload:
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
-  - 'tracker.wepzone.net'
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.yggleak.top'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -662,8 +658,8 @@ payload:
   - 'udp1.torrust-tracker-demo.com'
   - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
+  - 'wolf.parrot.run'
   - 'ws.peer.ooo'
-  - 'wsad.run.place'
   - 'y.paranoid.agency'
   - 'y.t-1.org'
   - 'yggtracker.i2p.rocks'
@@ -681,6 +677,5 @@ payload:
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
-  - 's1130638.ha016.t.mydomain.zone'
   - 's1130639.ha009.t.mydomain.zone'
   - 's1130642.ha014.t.mydomain.zone'
