@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-20 00:44:28 (UTC+8)
+# UPDATED: 2026-03-21 00:30:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 27748
+# TOTAL: 27751
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3247,6 +3247,7 @@ payload:
   - '+.beeg.rest'
   - '+.beegfree.com'
   - '+.beejp.net'
+  - '+.beeline.tv'
   - '+.beepool.com'
   - '+.beepool.org'
   - '+.beevpn.com'
@@ -16516,11 +16517,13 @@ payload:
   - '+.okayfreedom.com'
   - '+.okazudouga.tokyo'
   - '+.okcdn.ru'
+  - '+.okcoin.com'
   - '+.okex.com'
   - '+.okk.tw'
   - '+.okkisokuho.com'
   - '+.okko.sport'
   - '+.okko.tv'
+  - '+.oklink.com'
   - '+.okpool.me'
   - '+.okx-dns.com'
   - '+.okx-dns1.com'
