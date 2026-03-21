@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-21 00:30:01 (UTC+8)
+# UPDATED: 2026-03-22 00:16:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 27751
+# TOTAL: 27754
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3324,6 +3324,7 @@ payload:
   - '+.bestbuyus.com'
   - '+.bestcamsites.net'
   - '+.bestclouddrive.com'
+  - '+.bestdori.com'
   - '+.besterpornos.com'
   - '+.bestescortgirls.nl'
   - '+.bestforchina.org'
@@ -5226,6 +5227,7 @@ payload:
   - '+.chyoa.com'
   - '+.ci-en.jp'
   - '+.ci-en.net'
+  - '+.cia.gov'
   - '+.ciattackers.com'
   - '+.cici.com'
   - '+.ciciai.com'
@@ -25016,6 +25018,7 @@ payload:
   - '+.zi5.me'
   - '+.zibacity.com'
   - '+.ziddu.com'
+  - '+.ziglang.org'
   - '+.zigzag.kr'
   - '+.zillionk.com'
   - '+.zim.vn'
