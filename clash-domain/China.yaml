@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-22 00:25:16 (UTC+8)
+# UPDATED: 2026-03-23 00:25:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 118748
+# TOTAL: 118745
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -34586,13 +34586,11 @@ payload:
   - '+.esoua.com'
   - '+.esound.vip'
   - '+.esouou.com'
-  - '+.esp8266.com'
   - '+.espeedpost.com'
   - '+.esplus.club'
   - '+.espnlol.com'
   - '+.esports-console.com'
   - '+.esportsreg.com'
-  - '+.espressif.com'
   - '+.esr.com'
   - '+.essaystar.com'
   - '+.essca.com'
@@ -74795,7 +74793,6 @@ payload:
   - '+.okki.com'
   - '+.okktee.com'
   - '+.oklaapp.com'
-  - '+.oklink.com'
   - '+.oklinklink.com'
   - '+.oklpoi.com'
   - '+.okmao.com'
