@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-23 00:25:24 (UTC+8)
+# UPDATED: 2026-03-24 00:52:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 5208
+# TOTAL: 5215
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -170,6 +170,7 @@ payload:
   - '+.7k7k.com'
   - '+.8009900800.com'
   - '+.816798.net'
+  - '+.8531.cn'
   - '+.8gcdp.cn'
   - '+.8n82b.cn'
   - '+.91.com'
@@ -2372,6 +2373,8 @@ payload:
   - '+.ledu.com'
   - '+.legendofzelda.cn'
   - '+.leijun.com'
+  - '+.leikeji.com'
+  - '+.leiphone.com'
   - '+.lenauth.com'
   - '+.lenovo.cn'
   - '+.lenovo.com'
@@ -3496,6 +3499,7 @@ payload:
   - '+.webgamehome.com'
   - '+.wegame.com'
   - '+.wegameplus.com'
+  - '+.weiphone.net'
   - '+.wenku.in'
   - '+.wenyupages.com'
   - '+.wfdata.club'
@@ -3567,6 +3571,7 @@ payload:
   - '+.xdsummit.com'
   - '+.xenoblade.com'
   - '+.xevddy.com'
+  - '+.xhby.net'
   - '+.xhlsgs.com'
   - '+.xiami.com'
   - '+.xiami.fm'
@@ -3773,6 +3778,7 @@ payload:
   - '+.yystatic.com'
   - '+.yzlngi.com'
   - '+.yzsnen.com'
+  - '+.yzwb.net'
   - '+.yzyxgame.com'
   - '+.z95rr.cn'
   - '+.zamplus.com'
@@ -4073,6 +4079,7 @@ payload:
   - '+.thumb-yz02.kuaipandata.com'
   - '+.thumb-yz69.kuaipandata.com'
   - '+.thumb-yz96.kuaipandata.com'
+  - '+.tidenews.com.cn'
   - '+.tigeek.net.cn'
   - '+.tmallplay.com.cn'
   - '+.tqiangg.com.cn'
