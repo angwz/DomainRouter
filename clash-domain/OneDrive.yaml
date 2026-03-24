@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-24 00:52:39 (UTC+8)
+# UPDATED: 2026-03-25 00:58:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 677
+# TOTAL: 678
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -239,6 +239,7 @@ payload:
   - 'bluebird-hd.org'
   - 'bt-club.ws'
   - 'btracker.top'
+  - 'bughome.de'
   - 'buny.uk'
   - 'ch3oh.ru'
   - 'cny.fan'
@@ -360,7 +361,6 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
-  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -377,7 +377,7 @@ payload:
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
-  - 'node01.torrentonline.cc'
+  - 'node01.madtia.cc'
   - 'node01.trackerstatus.live'
   - 'node02.madtia.cc'
   - 'ns575949.ip-51-222-82.net'
@@ -427,6 +427,7 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
+  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -455,6 +456,7 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -537,7 +539,6 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
-  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -565,6 +566,7 @@ payload:
   - 'tracker.moeking.me'
   - 'tracker.monikadesign.uk'
   - 'tracker.moxing.party'
+  - 'tracker.mrhei.tech'
   - 'tracker.mywaifu.best'
   - 'tracker.nekomi.cn'
   - 'tracker.netmap.top'
@@ -630,7 +632,6 @@ payload:
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.yggleak.top'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -680,5 +681,5 @@ payload:
   - 'tracker.tvunderground.org.ru'
   - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
+  - 'vps-c1adea63.vps.ovh.net'
   - 's1130639.ha009.t.mydomain.zone'
-  - 's1130642.ha014.t.mydomain.zone'

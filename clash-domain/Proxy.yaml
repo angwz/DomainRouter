@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-24 00:43:45 (UTC+8)
+# UPDATED: 2026-03-25 00:49:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 27754
+# TOTAL: 27756
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16700,6 +16700,7 @@ payload:
   - '+.openlibrary.org'
   - '+.openmaps.org'
   - '+.openreality.com'
+  - '+.openrec.tv'
   - '+.openresty.org'
   - '+.openreview.net'
   - '+.openrouter.ai'
@@ -26936,6 +26937,7 @@ payload:
   - '+.ruten.com.tw'
   - '+.ryokoyomiuri.co.jp'
   - '+.ryukyubank.co.jp'
+  - '+.s.rmimg.com'
   - '+.sa-saopaulo.myqcloud.com'
   - '+.sa-saopaulo.tencentcos.com'
   - '+.sa.hao123.com'
