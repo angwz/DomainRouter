@@ -1,41 +1,19 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-25 00:49:51 (UTC+8)
+# UPDATED: 2026-03-25 22:40:13 (UTC+8)
 # TYPE: classic
-# TOTAL: 29
-# DOMAIN-KEYWORD TOTAL: 15
+# TOTAL: 9
+# DOMAIN-KEYWORD TOTAL: 8
 # IP-ASN TOTAL: 1
-# PROCESS-NAME TOTAL: 13
 payload:
   - DOMAIN-KEYWORD,annas-archive
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
   - DOMAIN-KEYWORD,paypal
-  - DOMAIN-KEYWORD,apple-support.akadns.net
-  - DOMAIN-KEYWORD,apple.com.akadns.net
-  - DOMAIN-KEYWORD,apple.com.edgekey.net
-  - DOMAIN-KEYWORD,buy.itunes.apple.com
-  - DOMAIN-KEYWORD,smp-device
-  - DOMAIN-KEYWORD,testflight
-  - DOMAIN-KEYWORD,icloud.com.akadns.net
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
 
   - IP-ASN,32934,no-resolve
-
-  - PROCESS-NAME,CoreLocationAgent
-  - PROCESS-NAME,WeatherWidget
-  - PROCESS-NAME,apsd
-  - PROCESS-NAME,com.apple.Maps
-  - PROCESS-NAME,findmydevice-user-agent
-  - PROCESS-NAME,fmfd
-  - PROCESS-NAME,mapspushd
-  - PROCESS-NAME,netbiosd
-  - PROCESS-NAME,trustd
-  - PROCESS-NAME,com.apple.geod
-  - PROCESS-NAME,Music
-  - PROCESS-NAME,LookupViewService
-  - PROCESS-NAME,TV

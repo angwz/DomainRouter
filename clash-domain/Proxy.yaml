@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-25 00:49:47 (UTC+8)
+# UPDATED: 2026-03-25 22:40:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 27756
+# TOTAL: 27765
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16863,8 +16863,13 @@ payload:
   - '+.ozeex.com'
   - '+.ozodi.org'
   - '+.ozodlik.org'
+  - '+.ozon.by'
+  - '+.ozon.com'
+  - '+.ozon.kz'
   - '+.ozon.ru'
+  - '+.ozon.tm'
   - '+.ozone.ru'
+  - '+.ozonru.me'
   - '+.ozonusercontent.com'
   - '+.ozvoice.org'
   - '+.ozxw.com'
@@ -23968,6 +23973,7 @@ payload:
   - '+.xiaolan.me'
   - '+.xiaoma.org'
   - '+.xiaomi.eu'
+  - '+.xiaomiflash.com'
   - '+.xiaoou.io'
   - '+.xiaoou.tv'
   - '+.xiaoshuobb.life'
@@ -24029,6 +24035,7 @@ payload:
   - '+.xmoviesforyou.com'
   - '+.xn--096-4g6em5t.com'
   - '+.xn--11xs86f.icu'
+  - '+.xn--1jqvh729avzfcy2d8ummib.com'
   - '+.xn--201-4g6em5t.com'
   - '+.xn--202-4g6em5t.com'
   - '+.xn--203-4g6em5t.com'
@@ -26809,6 +26816,8 @@ payload:
   - '+.oss-us-west-1.aliyuncs.com'
   - '+.oursteps.com.au'
   - '+.overseas.weibo.com'
+  - '+.ozon.com.by'
+  - '+.ozon.com.kz'
   - '+.paypal.com.hk'
   - '+.paypal.com.sg'
   - '+.paypay-bank.co.jp'
