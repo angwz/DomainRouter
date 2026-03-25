@@ -41,6 +41,24 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
+group = "🍎 Apple"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Apple.yaml"
+type = "clash-domain"
+interval = 21600
+
+[[rulesets]]
+group = "🍎 Apple"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Apple-ipcidr.yaml"
+type = "clash-ipcidr"
+interval = 21600
+
+[[rulesets]]
+group = "🍎 Apple"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Apple-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "📱 TikTok"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/TikTok.yaml"
 type = "clash-domain"
@@ -368,7 +386,7 @@ interval = 21600
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "[]GEOIP,CN,no-resolve"
+ruleset = "[]GEOIP,CN"
 
 [[rulesets]]
 group = "🐳 漏网の鱼"
