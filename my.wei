@@ -6,8 +6,6 @@ teracloud.jp
 racknerd.com
 bigchick.io
 bagevm.com
-alice.sh
-alice.ws
 dmit.io
 
 
@@ -76,8 +74,6 @@ lala.gg
 119.29.29.29
 2402:4e00::
 
-https://ruleset.skk.moe/Clash/domainset/apple_cdn.txt
-https://ruleset.skk.moe/Clash/non_ip/apple_cn.txt
 
 https://ruleset.skk.moe/Clash/non_ip/microsoft_cdn.txt
 
@@ -154,6 +150,8 @@ bitget.com
 
 bandwagonhost.com
 vollcloud.com
+alice.sh
+alice.ws
 vps.town
 
 
@@ -216,13 +214,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cate
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/linkedin.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LinkedIn/LinkedIn.list
 
-
-
-# Apple
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AppleProxy/AppleProxy.list
 
 
 # GitHub
@@ -313,6 +304,17 @@ DOMAIN-SUFFIX,stripe.com
 ##- DOMAIN,30vod-adaptive.akamaized.net
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list
+
+
+
+[Apple]
+https://ruleset.skk.moe/Clash/non_ip/apple_cn.txt
+https://ruleset.skk.moe/Clash/domainset/apple_cdn.txt
+
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AppleProxy/AppleProxy.list
 
 
 
@@ -593,6 +595,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 Direct: DIRECT
 NS: 🏖️ Community
 AI: 🗨️ ChatGPT
+Apple: 🍎 Apple
 TikTok: 📱 TikTok
 Bilibili: 📺 哔哩哔哩
 Tencent: DIRECT
@@ -617,5 +620,5 @@ GEOIP,US: ⛳ 美国专线,no-resolve
 GEOIP,HK: 🛫 香港专线,no-resolve
 Proxy: 🌠 节点选择
 China: DIRECT
-GEOIP,CN: DIRECT,no-resolve
+GEOIP,CN: DIRECT
 MATCH: 🐳 漏网の鱼
