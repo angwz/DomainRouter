@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-26 01:01:29 (UTC+8)
+# UPDATED: 2026-03-27 01:00:30 (UTC+8)
 # TYPE: domain
 # TOTAL: 678
 payload:
@@ -256,7 +256,6 @@ payload:
   - 'explodie.org'
   - 'finbytes.org'
   - 'freerainbowtables.com'
-  - 'ftp.pet'
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
@@ -361,6 +360,7 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
+  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -377,9 +377,8 @@ payload:
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
-  - 'node01.madtia.cc'
+  - 'node01.torrentonline.cc'
   - 'node01.trackerstatus.live'
-  - 'node02.madtia.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -499,6 +498,7 @@ payload:
   - 'tracker.coppersurfer.tk'
   - 'tracker.corpscorp.online'
   - 'tracker.cubonegro.lol'
+  - 'tracker.cubonegro.org'
   - 'tracker.cutie.dating'
   - 'tracker.cyberia.is'
   - 'tracker.darkness.services'
@@ -539,6 +539,7 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
+  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -566,7 +567,6 @@ payload:
   - 'tracker.moeking.me'
   - 'tracker.monikadesign.uk'
   - 'tracker.moxing.party'
-  - 'tracker.mrhei.tech'
   - 'tracker.mywaifu.best'
   - 'tracker.nekomi.cn'
   - 'tracker.netmap.top'
@@ -621,7 +621,6 @@ payload:
   - 'tracker.tryhackx.org'
   - 'tracker.uraniumhexafluori.de'
   - 'tracker.vanitycore.co'
-  - 'tracker.vectahosting.eu'
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
@@ -632,6 +631,7 @@ payload:
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.yggleak.top'
+  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -661,6 +661,7 @@ payload:
   - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'ws.peer.ooo'
+  - 'wsad.run.place'
   - 'www.nartlof.com'
   - 'y.paranoid.agency'
   - 'y.t-1.org'
@@ -679,7 +680,6 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
-  - 'vps-c1adea63.vps.ovh.net'
   - 's1130639.ha009.t.mydomain.zone'
+  - 's1130642.ha014.t.mydomain.zone'

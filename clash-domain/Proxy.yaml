@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-26 00:52:30 (UTC+8)
+# UPDATED: 2026-03-27 00:51:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 27765
+# TOTAL: 27774
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5216,6 +5216,7 @@ payload:
   - '+.chuizi.net'
   - '+.chuneo.xyz'
   - '+.chunja19.net'
+  - '+.chunkbase.com'
   - '+.chuokoron.jp'
   - '+.chuporno.com'
   - '+.churchinhongkong.org'
@@ -7583,6 +7584,7 @@ payload:
   - '+.eporner.com'
   - '+.eprintsw.com'
   - '+.equinenow.com'
+  - '+.equinox.io'
   - '+.erabaru.net'
   - '+.eraofconnection.com'
   - '+.erepublik.com'
@@ -14601,6 +14603,7 @@ payload:
   - '+.minecraft-services.net'
   - '+.minecraft.net'
   - '+.minecraft.wiki'
+  - '+.minecraftforge.net'
   - '+.minecraftservices.com'
   - '+.minecraftshop.com'
   - '+.mingdemedia.org'
@@ -15568,6 +15571,7 @@ payload:
   - '+.nalandabodhi.org'
   - '+.nalandawest.org'
   - '+.name.com'
+  - '+.namemc.com'
   - '+.namemybeats.com'
   - '+.namethatporn.com'
   - '+.namethatpornad.com'
@@ -15893,6 +15897,7 @@ payload:
   - '+.nginx.org'
   - '+.nginxconfig.io'
   - '+.ngodupdongchung.com'
+  - '+.ngrok-agent.com'
   - '+.ngrok-free.app'
   - '+.ngrok-free.dev'
   - '+.ngrok-free.pizza'
@@ -16736,6 +16741,7 @@ payload:
   - '+.optica.org'
   - '+.opticore.com'
   - '+.opticsforthecloud.net'
+  - '+.optifine.net'
   - '+.optimumssl.com'
   - '+.opus-gaming.com'
   - '+.oracle.com'
@@ -20281,6 +20287,7 @@ payload:
   - '+.spiderpool.com'
   - '+.spiedigitallibrary.org'
   - '+.spiegel.de'
+  - '+.spigotmc.org'
   - '+.spike.com'
   - '+.spiritclubs.com'
   - '+.spiritofecstasy.com'
@@ -21048,6 +21055,8 @@ payload:
   - '+.tejaratbank.ir'
   - '+.telebay.com'
   - '+.telecomspace.com'
+  - '+.telega.info'
+  - '+.telega.me'
   - '+.telega.one'
   - '+.telegra.ph'
   - '+.telegram-cdn.org'
