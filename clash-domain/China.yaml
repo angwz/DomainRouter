@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-28 00:49:57 (UTC+8)
+# UPDATED: 2026-03-29 00:29:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 118745
+# TOTAL: 118748
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -12791,6 +12791,7 @@ payload:
   - '+.anhuisjx.com'
   - '+.anhuisuya.com'
   - '+.anhuiwine.com'
+  - '+.anhuiyun.com'
   - '+.anhuizk.com'
   - '+.ani-sh.com'
   - '+.aniccw.net'
@@ -118528,6 +118529,7 @@ payload:
   - 'img.liangzipic.com'
   - 'ip.istatmenus.app'
   - 'itunes.apple.com'
+  - 'izattime.qcomgeo2.com'
   - 'jpts.sinovision.net'
   - 'kcrw.streamguys1.com'
   - 'kjzz.streamguys1.com'
@@ -118672,6 +118674,7 @@ payload:
   - 'www.szmgiptv.com'
   - 'www.yxssp.com'
   - 'www4-static.gog-statics.com'
+  - 'xtratime.qcomgeo2.com'
   - 'youku.cdn2-youku.com'
   - 'zb.dehua.tv'
   - 'zb.pzhgd.com'

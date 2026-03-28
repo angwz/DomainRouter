@@ -1,11 +1,10 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-28 00:49:58 (UTC+8)
+# UPDATED: 2026-03-29 00:29:14 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 3
-# IP-CIDR TOTAL: 3
+# TOTAL: 2
+# IP-CIDR TOTAL: 2
 payload:
   - '207.241.226.111/32'
-  - '207.241.231.226/32'
   - '52.58.128.163/32'

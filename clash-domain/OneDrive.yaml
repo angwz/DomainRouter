@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-28 00:49:58 (UTC+8)
+# UPDATED: 2026-03-29 00:29:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 678
+# TOTAL: 674
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -296,7 +296,6 @@ payload:
   - 'torrentclub.online'
   - 'torrents-nn.cn'
   - 'torrentsmd.com'
-  - 'torrentvpn.club'
   - 'torrentzilla.org'
   - 'tracker.bz'
   - 'tracker810.xyz'
@@ -377,7 +376,6 @@ payload:
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
-  - 'node01.torrentonline.cc'
   - 'node01.trackerstatus.live'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
@@ -426,7 +424,6 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
-  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -474,6 +471,7 @@ payload:
   - 'tracker.1h.is'
   - 'tracker.23794.top'
   - 'tracker.36dm.com'
+  - 'tracker.7471.top'
   - 'tracker.acgnx.se'
   - 'tracker.alaskantf.com'
   - 'tracker.ali213.net'
@@ -493,12 +491,12 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
   - 'tracker.btsync.gq'
+  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
   - 'tracker.corpscorp.online'
   - 'tracker.cubonegro.lol'
-  - 'tracker.cubonegro.org'
   - 'tracker.cutie.dating'
   - 'tracker.cyberia.is'
   - 'tracker.darkness.services'
@@ -567,6 +565,7 @@ payload:
   - 'tracker.moeking.me'
   - 'tracker.monikadesign.uk'
   - 'tracker.moxing.party'
+  - 'tracker.mrhei.tech'
   - 'tracker.mywaifu.best'
   - 'tracker.nekomi.cn'
   - 'tracker.netmap.top'
@@ -658,10 +657,9 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'udp1.torrust-tracker-demo.com'
-  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
+  - 'wolf.parrot.run'
   - 'ws.peer.ooo'
-  - 'wsad.run.place'
   - 'www.nartlof.com'
   - 'y.paranoid.agency'
   - 'y.t-1.org'
@@ -681,5 +679,3 @@ payload:
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
-  - 's1130639.ha009.t.mydomain.zone'
-  - 's1130642.ha014.t.mydomain.zone'
