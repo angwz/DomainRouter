@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-03-30 00:31:00 (UTC+8)
+# UPDATED: 2026-03-31 00:53:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 674
+# TOTAL: 675
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -242,7 +242,6 @@ payload:
   - 'bughome.de'
   - 'buny.uk'
   - 'ch3oh.ru'
-  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -284,6 +283,7 @@ payload:
   - 'retracker.local'
   - 'ryjer.com'
   - 'seeders-paradise.org'
+  - 'seedpeer.net'
   - 'servandroidkino.ru'
   - 'shahidrazi.online'
   - 'shubt.net'
@@ -322,6 +322,7 @@ payload:
   - 'academic-p2p.appspot.com'
   - 'admin.52ywp.com'
   - 'announce.partis.si'
+  - 'asiatorrent.giize.com'
   - 'atrack.pow7.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
@@ -359,7 +360,6 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
-  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -376,7 +376,9 @@ payload:
   - 'mail.artixlinux.org'
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
+  - 'node01.madtia.cc'
   - 'node01.trackerstatus.live'
+  - 'node02.madtia.cc'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
@@ -396,6 +398,7 @@ payload:
   - 'open.trackerlist.xyz'
   - 'open.u-p.pw'
   - 'open.xxtor.com'
+  - 'opentracker.8880085.xyz'
   - 'opentracker.acgnx.com'
   - 'opentracker.acgnx.se'
   - 'opentracker.dg2.i2p'
@@ -452,7 +455,6 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -565,7 +567,6 @@ payload:
   - 'tracker.moeking.me'
   - 'tracker.monikadesign.uk'
   - 'tracker.moxing.party'
-  - 'tracker.mrhei.tech'
   - 'tracker.mywaifu.best'
   - 'tracker.nekomi.cn'
   - 'tracker.netmap.top'
@@ -623,7 +624,6 @@ payload:
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
-  - 'tracker.wepzone.net'
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'
@@ -657,10 +657,10 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'udp1.torrust-tracker-demo.com'
+  - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'wolf.parrot.run'
   - 'ws.peer.ooo'
-  - 'www.nartlof.com'
   - 'y.paranoid.agency'
   - 'y.t-1.org'
   - 'yggtracker.i2p.rocks'
@@ -679,3 +679,4 @@ payload:
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'
+  - 's1130642.ha014.t.mydomain.zone'
