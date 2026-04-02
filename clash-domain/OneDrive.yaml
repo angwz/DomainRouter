@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-02 00:52:28 (UTC+8)
+# UPDATED: 2026-04-03 00:52:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 675
+# TOTAL: 679
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -242,6 +242,7 @@ payload:
   - 'bughome.de'
   - 'buny.uk'
   - 'ch3oh.ru'
+  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -377,7 +378,6 @@ payload:
   - 'metal.iplay.ro'
   - 'movies.zsw.ca'
   - 'node01.madtia.cc'
-  - 'node01.torrentonline.cc'
   - 'node01.trackerstatus.live'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
@@ -456,6 +456,7 @@ payload:
   - 'torrents.hikarinokiseki.com'
   - 'torrents.linuxmint.com'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -464,6 +465,7 @@ payload:
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr4ck3r.duckdns.org'
+  - 'tracker-de-2.cutie.dating'
   - 'tracker-de.ololosh.space'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -538,6 +540,7 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
+  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -677,6 +680,7 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
+  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
   - 's1130639.ha009.t.mydomain.zone'
   - 's1130642.ha014.t.mydomain.zone'
