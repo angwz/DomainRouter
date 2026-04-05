@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-05 00:21:53 (UTC+8)
+# UPDATED: 2026-04-06 00:23:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 27953
+# TOTAL: 27956
 payload:
   - '+.adult'
   - '+.amazon'
@@ -7714,6 +7714,7 @@ payload:
   - '+.eskimotube.com'
   - '+.eslite.com'
   - '+.esm.run'
+  - '+.esm.sh'
   - '+.esmarthealth.com'
   - '+.esmatube.com'
   - '+.esmtp.biz'
@@ -17579,6 +17580,7 @@ payload:
   - '+.pjful-app.lol'
   - '+.pjgirls.com'
   - '+.pk.com'
+  - '+.pkgbuild.com'
   - '+.pki-post.ch'
   - '+.pki-posta.ch'
   - '+.pki-poste.ch'
@@ -27943,6 +27945,7 @@ payload:
   - 'vsmarketplacebadge.apphb.com'
   - 'wetv.qq.com'
   - 'widgets.stripst.com'
+  - 'ws.audioscrobbler.com'
   - 'yandex-pogoda.static-storage.net'
   - 'youla-web-static.mrgcdn.ru'
   - 'blizzard.nefficient.co.kr'
