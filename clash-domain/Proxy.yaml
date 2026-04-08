@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-08 00:44:24 (UTC+8)
+# UPDATED: 2026-04-09 00:50:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 28023
+# TOTAL: 28016
 payload:
   - '+.adult'
   - '+.amazon'
@@ -885,7 +885,6 @@ payload:
   - '+.addtoany.com'
   - '+.addyoutube.com'
   - '+.adelaidebbs.com'
-  - '+.adfox.ru'
   - '+.adgoogle.net'
   - '+.adguard-dns.com'
   - '+.adguard-dns.io'
@@ -961,7 +960,6 @@ payload:
   - '+.adidasusnews.com'
   - '+.adinst.com'
   - '+.admeld.com'
-  - '+.admetrica.ru'
   - '+.admob-cn.com'
   - '+.admob.com'
   - '+.adobe-aemassets-value.com'
@@ -5763,6 +5761,7 @@ payload:
   - '+.crackle.com'
   - '+.craigslist.org'
   - '+.crankplayer.com'
+  - '+.crashlytics.com'
   - '+.crates.io'
   - '+.crazy-amateurs.com'
   - '+.crazyav.xyz'
@@ -23592,8 +23591,6 @@ payload:
   - '+.webtoons.com'
   - '+.webtoonscorp.com'
   - '+.webtype.com'
-  - '+.webvisor.com'
-  - '+.webvisor.org'
   - '+.webwarper.net'
   - '+.webworkerdaily.com'
   - '+.wechatlawsuit.com'
@@ -24617,7 +24614,6 @@ payload:
   - '+.yaddal.tv'
   - '+.yadi.sk'
   - '+.yadori.club'
-  - '+.yads.tech'
   - '+.yaeby.info'
   - '+.yaeby.pro'
   - '+.yahoo.ae'
@@ -24754,7 +24750,6 @@ payload:
   - '+.yandexcloud.net'
   - '+.yandexcom.net'
   - '+.yandexlyceum.ru'
-  - '+.yandexmetrica.com'
   - '+.yandexwebcache.net'
   - '+.yandexwebcache.org'
   - '+.yanghengjun.com'
@@ -26214,7 +26209,6 @@ payload:
   - '+.finishbrasil.com.br'
   - '+.finishinfo.com.ar'
   - '+.finishinfo.com.au'
-  - '+.firebase-settings.crashlytics.com'
   - '+.firestone.co.cr'
   - '+.firestone.com.ar'
   - '+.firestone.com.br'
@@ -27501,7 +27495,6 @@ payload:
   - '+.umsoplaneta.com.br'
   - '+.unblock.cn.com'
   - '+.unification.org.tw'
-  - '+.update.crashlytics.com'
   - '+.url.com.tw'
   - '+.us.weibo.com'
   - '+.uyghur.co.uk'
