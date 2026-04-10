@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-10 00:55:39 (UTC+8)
+# UPDATED: 2026-04-11 00:39:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 231
+# TOTAL: 235
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -67,6 +67,9 @@ payload:
   - '+.duck.ai'
   - '+.elevenlabs.com'
   - '+.elevenlabs.io'
+  - '+.envato-static.com'
+  - '+.envato.com'
+  - '+.envatousercontent.com'
   - '+.featuregates.org'
   - '+.flipwithsurface.com'
   - '+.g.ai'
@@ -131,6 +134,7 @@ payload:
   - '+.stripe.com'
   - '+.t.co'
   - '+.tellapart.com'
+  - '+.themeforest.net'
   - '+.trae.ai'
   - '+.tweetdeck.com'
   - '+.twimg.co'

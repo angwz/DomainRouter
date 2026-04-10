@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-10 01:04:05 (UTC+8)
+# UPDATED: 2026-04-11 00:48:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 675
+# TOTAL: 679
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -224,6 +224,7 @@ payload:
   - '004430.xyz'
   - '0123456789nonexistent.com'
   - '60-fps.org'
+  - '66691337.xyz'
   - '6ahddutb1ucc3cp.ru'
   - 'aboutbeautifulgallopinghorsesinthegreenpasture.online'
   - 'aegir.sexy'
@@ -242,6 +243,7 @@ payload:
   - 'bughome.de'
   - 'buny.uk'
   - 'ch3oh.ru'
+  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -538,7 +540,6 @@ payload:
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
   - 'tracker.hismz.cn'
-  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -624,6 +625,7 @@ payload:
   - 'tracker.vraphim.com'
   - 'tracker.vulnix.sh'
   - 'tracker.waaa.moe'
+  - 'tracker.wepzone.net'
   - 'tracker.wildkat.net'
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
@@ -657,9 +659,11 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
+  - 'udp1.torrust-tracker-demo.com'
   - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
   - 'ws.peer.ooo'
+  - 'wsad.run.place'
   - 'www.nartlof.com'
   - 'y.paranoid.agency'
   - 'y.t-1.org'

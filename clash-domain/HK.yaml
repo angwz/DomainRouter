@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-10 00:55:39 (UTC+8)
+# UPDATED: 2026-04-11 00:39:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 7817
+# TOTAL: 7819
 payload:
   - '+.adult'
   - '+.azure'
@@ -452,6 +452,8 @@ payload:
   - '+.advancediddetection.com'
   - '+.ae-rus.net'
   - '+.aebn.com'
+  - '+.aedns.ru'
+  - '+.aeplatform.ru'
   - '+.aestatic.net'
   - '+.afappyending.com'
   - '+.affect3dstore.com'

@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-10 01:04:04 (UTC+8)
+# UPDATED: 2026-04-11 00:48:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 118845
+# TOTAL: 118846
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -27158,7 +27158,6 @@ payload:
   - '+.crane-net.com'
   - '+.cranewh.com'
   - '+.crash.work'
-  - '+.crashlytics.com'
   - '+.cravatar.com'
   - '+.crazepony.com'
   - '+.crazybig.fun'
@@ -118590,6 +118589,7 @@ payload:
   - 'fash1043.cloudycdn.services'
   - 'fcs.dell.com'
   - 'file.hhtv.cc'
+  - 'firebase-settings.crashlytics.com'
   - 'fm901.cityfm.tw'
   - 'fm929.cityfm.tw'
   - 'fm971.cityfm.tw'
@@ -118746,6 +118746,7 @@ payload:
   - 'tv.nknews.org'
   - 'tx.lilyemby.com'
   - 'uni6rtmp.tulix.tv'
+  - 'update.crashlytics.com'
   - 'update.googleapis.com'
   - 'v1.one-tv.com'
   - 'vip.ffzyread.com'
