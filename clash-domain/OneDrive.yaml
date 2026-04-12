@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-12 00:31:08 (UTC+8)
+# UPDATED: 2026-04-13 00:33:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 679
+# TOTAL: 676
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -240,10 +240,8 @@ payload:
   - 'bluebird-hd.org'
   - 'bt-club.ws'
   - 'btracker.top'
-  - 'bughome.de'
   - 'buny.uk'
   - 'ch3oh.ru'
-  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -261,7 +259,6 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -364,12 +361,14 @@ payload:
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
   - 'coeus.torrentonline.cc'
+  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
+  - 'http1.torrust-tracker-demo.com'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -456,7 +455,6 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -662,8 +660,8 @@ payload:
   - 'udp1.torrust-tracker-demo.com'
   - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
+  - 'wolf.parrot.run'
   - 'ws.peer.ooo'
-  - 'wsad.run.place'
   - 'www.nartlof.com'
   - 'y.paranoid.agency'
   - 'y.t-1.org'
@@ -680,7 +678,6 @@ payload:
   - 'torrent.tracker.durukanbal.com'
   - 'torrent.unix-ag.uni-kl.de'
   - 'tracker.exe.in.th'
-  - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
   - 'udp.tracker.projectk.org'

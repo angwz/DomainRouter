@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-12 00:22:49 (UTC+8)
+# UPDATED: 2026-04-13 00:25:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 1548
+# TOTAL: 1549
 payload:
   - '+.android'
   - '+.intel'
@@ -379,6 +379,7 @@ payload:
   - '+.fbredex.com'
   - '+.fbrell.com'
   - '+.fedoraforum.org'
+  - '+.fedorainfracloud.org'
   - '+.fedoramagazine.org'
   - '+.fedorapeople.org'
   - '+.fedoraproject.org'
