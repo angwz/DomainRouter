@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-13 00:33:53 (UTC+8)
+# UPDATED: 2026-04-14 01:01:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 987
+# TOTAL: 990
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -380,6 +380,7 @@ payload:
   - '+.fqnovelstatic.com'
   - '+.fqnovelvod.com'
   - '+.fullluckcalendar.com'
+  - '+.gcloudcache.com'
   - '+.getfeishu.cn'
   - '+.getfeishu.com'
   - '+.getsays.cn'
@@ -409,6 +410,7 @@ payload:
   - '+.hotsoonzb.cn'
   - '+.hotsoonzb.com'
   - '+.hotsoonzb.net'
+  - '+.huasheng.cn'
   - '+.huaxiong.com'
   - '+.huoshan.com'
   - '+.huoshancdn.com'
@@ -470,6 +472,7 @@ payload:
   - '+.ixgvideo.com'
   - '+.ixigua.com'
   - '+.ixiguavideo.com'
+  - '+.jianying.com'
   - '+.jinritemai-inc.com'
   - '+.jinritemai.com'
   - '+.jinritoutiao.com'

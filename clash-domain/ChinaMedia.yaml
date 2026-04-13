@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-13 00:33:55 (UTC+8)
+# UPDATED: 2026-04-14 01:01:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 5252
+# TOTAL: 5255
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1084,6 +1084,8 @@ payload:
   - '+.d10a.com'
   - '+.d11a.com'
   - '+.d22a.com'
+  - '+.daheapp.com'
+  - '+.dahebao.cn'
   - '+.damai.cn'
   - '+.dandan818.com'
   - '+.dandanvoice.com'
@@ -1106,6 +1108,7 @@ payload:
   - '+.dbankcloud.asia'
   - '+.dbankcloud.cn'
   - '+.dbankcloud.com'
+  - '+.dbankcloud.ru'
   - '+.dbankedge.asia'
   - '+.dbankedge.cn'
   - '+.dbankedge.net'
