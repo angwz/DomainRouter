@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-14 01:01:21 (UTC+8)
+# UPDATED: 2026-04-15 01:03:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 676
+# TOTAL: 677
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -224,7 +224,6 @@ payload:
   - '004430.xyz'
   - '0123456789nonexistent.com'
   - '60-fps.org'
-  - '66691337.xyz'
   - '6ahddutb1ucc3cp.ru'
   - 'aboutbeautifulgallopinghorsesinthegreenpasture.online'
   - 'aegir.sexy'
@@ -361,7 +360,6 @@ payload:
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
   - 'coeus.torrentonline.cc'
-  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -455,6 +453,7 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -463,6 +462,7 @@ payload:
   - 'tr.nyacat.pw'
   - 'tr.zukizuki.org'
   - 'tr4ck3r.duckdns.org'
+  - 'tracker-de-2.cutie.dating'
   - 'tracker-de.ololosh.space'
   - 'tracker-udp.gbitt.info'
   - 'tracker-zhuqiy.dgj055.icu'
@@ -492,6 +492,7 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btcake.com'
   - 'tracker.btsync.gq'
+  - 'tracker.cangku.moe'
   - 'tracker.cloudbase.store'
   - 'tracker.cloudit.top'
   - 'tracker.coppersurfer.tk'
@@ -538,9 +539,9 @@ payload:
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
   - 'tracker.hismz.cn'
+  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
-  - 'tracker.iperson.xyz'
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.istole.it'
@@ -575,6 +576,7 @@ payload:
   - 'tracker.opentorrent.top'
   - 'tracker.opentrackr.org'
   - 'tracker.openwebtorrent.com'
+  - 'tracker.pcfreetime.com'
   - 'tracker.picotorrent.one'
   - 'tracker.pirateparty.gr'
   - 'tracker.playground.ru'
@@ -631,7 +633,6 @@ payload:
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.yggleak.top'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -660,7 +661,6 @@ payload:
   - 'udp1.torrust-tracker-demo.com'
   - 'utracker.ghostchu-services.top'
   - 'wg.mortis.me'
-  - 'wolf.parrot.run'
   - 'ws.peer.ooo'
   - 'www.nartlof.com'
   - 'y.paranoid.agency'
@@ -680,4 +680,5 @@ payload:
   - 'tracker.exe.in.th'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
+  - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'

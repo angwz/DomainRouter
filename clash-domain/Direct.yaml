@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-14 00:51:32 (UTC+8)
+# UPDATED: 2026-04-15 00:53:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 1943
+# TOTAL: 1952
 payload:
   - '+.java'
   - '+.oracle'
@@ -197,6 +197,7 @@ payload:
   - '+.frontjs.com'
   - '+.funjsq.com'
   - '+.gamepass.com'
+  - '+.gangwan.com'
   - '+.geforce.cn'
   - '+.ggkuai.com'
   - '+.gijsq.com'
@@ -266,6 +267,7 @@ payload:
   - '+.lawyee.org'
   - '+.leigod.cn'
   - '+.leigod.com'
+  - '+.leigodjsq.com'
   - '+.leike.cc'
   - '+.liblib.art'
   - '+.libvideo.com'
@@ -273,6 +275,7 @@ payload:
   - '+.liuxing.com'
   - '+.lnlib.net'
   - '+.lorhf.com'
+  - '+.ls66.cn'
   - '+.lxjiasu.com'
   - '+.maoxiangai.com'
   - '+.marscode.cn'
@@ -314,6 +317,8 @@ payload:
   - '+.nihaoafrica.org'
   - '+.nihaorwanda.cn'
   - '+.nmrdata.com'
+  - '+.nn.com'
+  - '+.nnbooster.com'
   - '+.nnthink.com'
   - '+.nntlj.com'
   - '+.noi.cn'
@@ -448,6 +453,7 @@ payload:
   - '+.uonline-sh.net'
   - '+.vipexam.org'
   - '+.virtualbox.org'
+  - '+.waifushangcheng.com'
   - '+.webank.com'
   - '+.webankcdn.net'
   - '+.wegamedeveloper.com'
@@ -493,6 +499,7 @@ payload:
   - '+.xunyou.com'
   - '+.xunyou.mobi'
   - '+.xwbank.com'
+  - '+.xxghh.biz'
   - '+.xxtmail.com'
   - '+.yamaxun.cn'
   - '+.yebaojiasu.com'
@@ -827,6 +834,7 @@ payload:
   - '+.dreamsparkuat.download.prss.microsoft.com'
   - '+.itacademy.download.prss.microsoft.com'
   - '+.itacademyuat.download.prss.microsoft.com'
+  - '+.kis.v2.scr.kaspersky-labs.com'
   - '+.lex.download.prss.microsoft.com'
   - '+.lexuat.download.prss.microsoft.com'
   - '+.mbs.download.prss.microsoft.com'
@@ -1242,6 +1250,7 @@ payload:
   - 'lms.csytv.com'
   - 'lmt.kjzx.net'
   - 'lmt.scqstv.com'
+  - 'local.adguard.org'
   - 'login.live.com'
   - 'logincdn.msauth.net'
   - 'ls.qingting.fm'
