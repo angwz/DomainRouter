@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-15 00:54:11 (UTC+8)
+# UPDATED: 2026-04-16 00:51:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 28519
+# TOTAL: 28522
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1790,6 +1790,8 @@ payload:
   - '+.aniscartujo.com'
   - '+.anistreaming.xyz'
   - '+.ankarazirvesi2018.com'
+  - '+.ankiuser.net'
+  - '+.ankiweb.net'
   - '+.annamilk.com'
   - '+.annas-archive.gd'
   - '+.annas-archive.gl'
@@ -2203,6 +2205,7 @@ payload:
   - '+.archiveofourown.org'
   - '+.archives.gov'
   - '+.archivx.to'
+  - '+.archlinux.de'
   - '+.archlinux.org'
   - '+.archlinuxarm.org'
   - '+.archlinuxcn.org'
