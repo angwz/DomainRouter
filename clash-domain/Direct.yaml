@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-16 00:50:58 (UTC+8)
+# UPDATED: 2026-04-17 01:00:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 1952
+# TOTAL: 1953
 payload:
   - '+.java'
   - '+.oracle'
@@ -1820,6 +1820,7 @@ payload:
   - 'st.dl.bscstorage.net'
   - 'st.dl.eccdnx.com'
   - 'st.dl.pinyuncloud.com'
+  - 'static.hikarifield.co.jp'
   - 'steam.eca.qtlglb.com'
   - 'steam.naeu.qtlglb.com'
   - 'steam.ru.qtlglb.com'

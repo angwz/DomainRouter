@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-16 01:00:47 (UTC+8)
+# UPDATED: 2026-04-17 01:10:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 118832
+# TOTAL: 118844
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -11629,6 +11629,7 @@ payload:
   - '+.ailvxing.com'
   - '+.aim-ec.com'
   - '+.aimaker.space'
+  - '+.aimap.com'
   - '+.aimatech.com'
   - '+.aimatrix.ai'
   - '+.aimcx.com'
@@ -17314,6 +17315,7 @@ payload:
   - '+.bjfqy.com'
   - '+.bjfriendshiphotel.com'
   - '+.bjfsali.com'
+  - '+.bjftfy.com'
   - '+.bjfzst.com'
   - '+.bjgas.com'
   - '+.bjgasgh.com'
@@ -21215,6 +21217,7 @@ payload:
   - '+.cetgps.com'
   - '+.cethik.com'
   - '+.cetkmh.com'
+  - '+.cetsteam.com'
   - '+.cetzig.com'
   - '+.ceultimate.com'
   - '+.ceve-market.org'
@@ -34892,6 +34895,7 @@ payload:
   - '+.evpartner.com'
   - '+.evpowergroup.com'
   - '+.evtcn.com'
+  - '+.evtrust.com'
   - '+.evzhidao.com'
   - '+.evznl.org'
   - '+.evzs.com'
@@ -36837,6 +36841,7 @@ payload:
   - '+.fk100.com'
   - '+.fkask.net'
   - '+.fkblog.org'
+  - '+.fkbuff.com'
   - '+.fkcaijing.com'
   - '+.fkdex.com'
   - '+.fkdmg.com'
@@ -38515,6 +38520,7 @@ payload:
   - '+.gangqinxiansheng.com'
   - '+.gangshenglian.com'
   - '+.gangtise.com'
+  - '+.gangwan.com'
   - '+.gangyu.org'
   - '+.gangyuan.com'
   - '+.ganhao.vip'
@@ -48305,6 +48311,7 @@ payload:
   - '+.hivictor.net'
   - '+.hiwafer.com'
   - '+.hiwaysemi.com'
+  - '+.hiwayslaw.com'
   - '+.hiwbb.com'
   - '+.hiwechats.com'
   - '+.hiweixiu.com'
@@ -60043,6 +60050,7 @@ payload:
   - '+.jxxdxy.com'
   - '+.jxxhdn.com'
   - '+.jxxhsd.com'
+  - '+.jxxinzhe.com'
   - '+.jxxnyqc.com'
   - '+.jxxs.net'
   - '+.jxycqy.com'
@@ -63853,6 +63861,7 @@ payload:
   - '+.leidacj.com'
   - '+.leidianip.com'
   - '+.leigod.com'
+  - '+.leigodjsq.com'
   - '+.leihetg.com'
   - '+.leihuo.net'
   - '+.leijue.net'
@@ -73518,6 +73527,7 @@ payload:
   - '+.nnbdfyy.com'
   - '+.nnbnutritionchina.com'
   - '+.nnboao.com'
+  - '+.nnbooster.com'
   - '+.nnboyi.com'
   - '+.nnbsjyk.com'
   - '+.nnbtl.com'
@@ -93117,6 +93127,7 @@ payload:
   - '+.tencentcloudclub.com'
   - '+.tencentcloudcore.com'
   - '+.tencentcloudcr.com'
+  - '+.tencentcloudcs.com'
   - '+.tencentcloudga.com'
   - '+.tencentcloudga001.com'
   - '+.tencentcloudga001.net'
@@ -98999,6 +99010,7 @@ payload:
   - '+.waibao12333.com'
   - '+.waibaodashi.com'
   - '+.waibou.com'
+  - '+.waifushangcheng.com'
   - '+.waig8.com'
   - '+.waigamer.com'
   - '+.waigf.com'
