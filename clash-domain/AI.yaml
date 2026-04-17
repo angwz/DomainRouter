@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-17 01:01:18 (UTC+8)
+# UPDATED: 2026-04-18 00:41:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 235
+# TOTAL: 236
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -190,6 +190,7 @@ payload:
   - '+.openaicom.imgix.net'
   - '+.proactivebackend-pa.googleapis.com'
   - '+.robinfrontend-pa.googleapis.com'
+  - '+.stitch.withgoogle.com'
   - '+.turn.livekit.cloud'
   - '+.coderabbit.gallery.vsassets.io'
   - '+.gateway.ai.cloudflare.com'

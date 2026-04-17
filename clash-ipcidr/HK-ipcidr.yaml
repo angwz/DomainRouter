@@ -1,11 +1,11 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-17 01:01:18 (UTC+8)
+# UPDATED: 2026-04-18 00:41:28 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 2801
+# TOTAL: 2802
 # IP-CIDR TOTAL: 1984
-# IP-CIDR6 TOTAL: 817
+# IP-CIDR6 TOTAL: 818
 payload:
   - '1.0.0.2/31'
   - '1.1.1.1/32'
@@ -2663,6 +2663,7 @@ payload:
   - '2a03:2887:ff22::/47'
   - '2a03:2887:ff28::/46'
   - '2a03:2887:ff2f::/48'
+  - '2a03:2887:ff30::/48'
   - '2a03:2887:ff33::/48'
   - '2a03:2887:ff37::/48'
   - '2a03:2887:ff38::/46'

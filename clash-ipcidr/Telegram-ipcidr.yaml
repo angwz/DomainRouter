@@ -1,16 +1,17 @@
 # NAME: Telegram
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-17 01:10:33 (UTC+8)
+# UPDATED: 2026-04-18 00:47:59 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 13
-# IP-CIDR TOTAL: 9
+# TOTAL: 14
+# IP-CIDR TOTAL: 10
 # IP-CIDR6 TOTAL: 4
 payload:
   - '109.239.140.0/24'
   - '139.59.210.98/32'
   - '149.154.160.0/20'
   - '185.76.151.0/24'
+  - '194.221.61.2/32'
   - '196.55.216.167/32'
   - '5.28.192.0/18'
   - '91.105.192.0/23'
