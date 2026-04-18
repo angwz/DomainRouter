@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-18 00:41:26 (UTC+8)
+# UPDATED: 2026-04-19 00:25:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 28565
+# TOTAL: 28564
 payload:
   - '+.adult'
   - '+.amazon'
@@ -351,7 +351,6 @@ payload:
   - '+.2gis.ru'
   - '+.2gis.tech'
   - '+.2gis.tj'
-  - '+.2gis.ua'
   - '+.2gis.uz'
   - '+.2k.com'
   - '+.2kcoretech.online'

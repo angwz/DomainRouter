@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-18 00:41:28 (UTC+8)
+# UPDATED: 2026-04-19 00:25:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 7819
+# TOTAL: 7821
 payload:
   - '+.adult'
   - '+.azure'
@@ -4172,6 +4172,8 @@ payload:
   - '+.mansurfer.com'
   - '+.mantochichi.com'
   - '+.manurefetish.com'
+  - '+.manus.im'
+  - '+.manuscdn.com'
   - '+.manytoon.com'
   - '+.manyvids.com'
   - '+.maomi-shipin.com'
