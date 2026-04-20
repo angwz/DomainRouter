@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-20 00:26:30 (UTC+8)
+# UPDATED: 2026-04-21 00:52:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 28564
+# TOTAL: 28565
 payload:
   - '+.adult'
   - '+.amazon'
@@ -901,6 +901,7 @@ payload:
   - '+.adguard.io'
   - '+.adguard.org'
   - '+.adguardaccount.com'
+  - '+.adguardcdn.com'
   - '+.adguardvpn.com'
   - '+.adhelpnews.com'
   - '+.adidas-archive.org'

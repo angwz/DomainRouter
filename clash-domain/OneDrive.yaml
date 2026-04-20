@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-20 00:34:42 (UTC+8)
+# UPDATED: 2026-04-21 01:00:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 667
+# TOTAL: 664
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -435,6 +435,7 @@ payload:
   - 't3.leech.ie'
   - 'tamas3.ynh.fr'
   - 'torrent.arjlover.net'
+  - 'torrent.bowed.net'
   - 'torrent.fedoraproject.org'
   - 'torrent.hificode.in'
   - 'torrent.mp3quran.net'
@@ -446,7 +447,6 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -529,7 +529,6 @@ payload:
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
   - 'tracker.hismz.cn'
-  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -646,12 +645,11 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
-  - 'udp1.torrust-tracker-demo.com'
-  - 'utracker.ghostchu-services.top'
   - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
   - 'whybother.torrentonline.cc'
   - 'ws.peer.ooo'
+  - 'wsad.run.place'
   - 'www.nartlof.com'
   - 'y.paranoid.agency'
   - 'y.t-1.org'
@@ -669,6 +667,5 @@ payload:
   - 'tracker.exe.in.th'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'tracker.zhuqiy.dgj055.icu'
   - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'
