@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-21 00:52:22 (UTC+8)
+# UPDATED: 2026-04-22 00:46:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 28565
+# TOTAL: 28567
 payload:
   - '+.adult'
   - '+.amazon'
@@ -15059,6 +15059,7 @@ payload:
   - '+.minilondon.co'
   - '+.minimarkham.ca'
   - '+.minimarkham.com'
+  - '+.minimax.io'
   - '+.minimoncton.ca'
   - '+.minimoncton.com'
   - '+.minimontrealcentre.ca'
@@ -19677,6 +19678,7 @@ payload:
   - '+.scolle.net'
   - '+.scoop.sh'
   - '+.scopus.com'
+  - '+.scorecardresearch.com'
   - '+.scoreclassics.com'
   - '+.scorediscounts.club'
   - '+.scoregroup.com'
