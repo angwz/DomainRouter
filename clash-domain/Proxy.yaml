@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-22 00:46:34 (UTC+8)
+# UPDATED: 2026-04-23 00:48:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 28567
+# TOTAL: 28568
 payload:
   - '+.adult'
   - '+.amazon'
@@ -11988,6 +11988,7 @@ payload:
   - '+.imsrbx.xyz'
   - '+.imstagram.com'
   - '+.imtagram.com'
+  - '+.imtintl.com'
   - '+.imtoken.fans'
   - '+.imzog.com'
   - '+.in-disguise.com'
