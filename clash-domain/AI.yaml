@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-23 00:48:13 (UTC+8)
+# UPDATED: 2026-04-24 01:08:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 237
+# TOTAL: 241
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -51,6 +51,7 @@ payload:
   - '+.comfyci.org'
   - '+.comfyregistry.org'
   - '+.coze.com'
+  - '+.crewai.com'
   - '+.crixet.com'
   - '+.cursor-cdn.com'
   - '+.cursor.com'
@@ -89,8 +90,10 @@ payload:
   - '+.jules.google'
   - '+.kiro.dev'
   - '+.labs.google'
+  - '+.langchain.com'
   - '+.launchdarkly.com'
   - '+.liveperson.net'
+  - '+.lmstudio.ai'
   - '+.lovart.ai'
   - '+.lpsnmedia.net'
   - '+.manus.im'
@@ -113,6 +116,7 @@ payload:
   - '+.observeit.net'
   - '+.office365love.com'
   - '+.office365tw.com'
+  - '+.ollama.com'
   - '+.opal.google'
   - '+.openai.com'
   - '+.openart.ai'

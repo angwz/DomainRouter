@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-23 00:47:26 (UTC+8)
+# UPDATED: 2026-04-24 01:07:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 1956
+# TOTAL: 1958
 payload:
   - '+.java'
   - '+.oracle'
@@ -85,7 +85,6 @@ payload:
   - '+.blyun.com'
   - '+.bohejiasuqi.com'
   - '+.bosc.cn'
-  - '+.botvip.cn'
   - '+.bronto.com'
   - '+.butterfly-static.cn'
   - '+.butterflyai.cn'
@@ -272,6 +271,8 @@ payload:
   - '+.leigodjsq.com'
   - '+.leike.cc'
   - '+.liblib.art'
+  - '+.liblib.cloud'
+  - '+.liblib.tv'
   - '+.libvideo.com'
   - '+.lightlayer.net'
   - '+.liuxing.com'
@@ -409,6 +410,7 @@ payload:
   - '+.swiftui.cn'
   - '+.sxl.cn'
   - '+.sxlcdn.cn'
+  - '+.tapnow.top'
   - '+.tcwqqdy.guru'
   - '+.tdpress.com'
   - '+.teachblog.net'

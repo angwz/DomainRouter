@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-23 00:48:10 (UTC+8)
+# UPDATED: 2026-04-24 01:08:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 28568
+# TOTAL: 28577
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2310,6 +2310,7 @@ payload:
   - '+.asianxxxjoy.com'
   - '+.asianxxxvideos.cc'
   - '+.asiaone.com'
+  - '+.asiasociety.org'
   - '+.asiatgp.com'
   - '+.asiatoday.us'
   - '+.asjmapihost.cc'
@@ -3309,6 +3310,7 @@ payload:
   - '+.bell.wiki'
   - '+.bellebound.com'
   - '+.bellesa.co'
+  - '+.bellingcat.com'
   - '+.bellotube.com'
   - '+.bellsouth.net'
   - '+.bemywife.cc'
@@ -5849,6 +5851,7 @@ payload:
   - '+.crececonebay.com'
   - '+.creditcardsbay.com'
   - '+.creditkarma.com'
+  - '+.crewai.com'
   - '+.cricketcountry.com'
   - '+.crisp.chat'
   - '+.cristyli.com'
@@ -13568,6 +13571,7 @@ payload:
   - '+.lamrim.com'
   - '+.lanasbigboobs.com'
   - '+.landofhope.tv'
+  - '+.langchain.com'
   - '+.langsuirs.com'
   - '+.lanik.us'
   - '+.lanmdh.net'
@@ -13921,6 +13925,7 @@ payload:
   - '+.lmm167.shop'
   - '+.lmmbtc.com'
   - '+.lms01.com'
+  - '+.lmstudio.ai'
   - '+.lmsys.org'
   - '+.lncn.org'
   - '+.lnkd.in'
@@ -16886,6 +16891,7 @@ payload:
   - '+.olevod.tv'
   - '+.olevodtv.com'
   - '+.oli-school.com'
+  - '+.ollama.com'
   - '+.olumpo.com'
   - '+.olympicwatch.org'
   - '+.omafotze.com'
@@ -18943,6 +18949,7 @@ payload:
   - '+.ravm.tv'
   - '+.rawgit.com'
   - '+.rawgithub.com'
+  - '+.rawstory.com'
   - '+.raxcdn.com'
   - '+.rayark.download'
   - '+.rayark.net'
@@ -19081,6 +19088,7 @@ payload:
   - '+.recoiljs.org'
   - '+.reconinstruments.com'
   - '+.reconjet.com'
+  - '+.recordedfuture.com'
   - '+.recordhistory.org'
   - '+.recoveryversion.org'
   - '+.rectovaginalexam.com'
@@ -21843,6 +21851,7 @@ payload:
   - '+.thieme-connect.de'
   - '+.thieme.de'
   - '+.thinkboxsoftware.com'
+  - '+.thinkchina.sg'
   - '+.thinkdifferent.us'
   - '+.thinkgeek.com'
   - '+.thinkingtaiwan.com'
