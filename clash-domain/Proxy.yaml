@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-24 01:08:13 (UTC+8)
+# UPDATED: 2026-04-25 00:43:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 28577
+# TOTAL: 28580
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1131,6 +1131,7 @@ payload:
   - '+.agefans.com'
   - '+.agemys.org'
   - '+.agendaweek.com'
+  - '+.agentclientprotocol.com'
   - '+.agilebits.com'
   - '+.agnesb.fr'
   - '+.agoogleaday.com'
@@ -17866,6 +17867,7 @@ payload:
   - '+.placesdocs.com'
   - '+.planetminecraft.com'
   - '+.planetsuzy.org'
+  - '+.plannotator.ai'
   - '+.plansondemand.com'
   - '+.plantsvszombies2.com'
   - '+.plasticlabs.com'
@@ -22605,6 +22607,7 @@ payload:
   - '+.twitcause.com'
   - '+.twitch.tv'
   - '+.twitchcdn.net'
+  - '+.twitchcon.com'
   - '+.twitchsvc.net'
   - '+.twitcomike.jp'
   - '+.twitgether.com'
