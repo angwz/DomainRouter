@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-25 00:43:36 (UTC+8)
+# UPDATED: 2026-04-26 00:29:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 28580
+# TOTAL: 28581
 payload:
   - '+.adult'
   - '+.amazon'
@@ -21530,6 +21530,7 @@ payload:
   - '+.tech-mail.ru'
   - '+.tech26.de'
   - '+.techatbloomberg.com'
+  - '+.techbang.com'
   - '+.techcrunch.com'
   - '+.techhub.ms'
   - '+.techliquidators.com'
