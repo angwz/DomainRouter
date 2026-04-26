@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-26 00:38:09 (UTC+8)
+# UPDATED: 2026-04-27 00:38:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 666
+# TOTAL: 667
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -244,6 +244,7 @@ payload:
   - 'btracker.top'
   - 'buny.uk'
   - 'ch3oh.ru'
+  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -260,6 +261,7 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
+  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -359,6 +361,7 @@ payload:
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
   - 'coeus.torrentonline.cc'
+  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -395,7 +398,6 @@ payload:
   - 'open.trackerlist.xyz'
   - 'open.u-p.pw'
   - 'open.xxtor.com'
-  - 'opentracker.8880085.xyz'
   - 'opentracker.acgnx.com'
   - 'opentracker.acgnx.se'
   - 'oscar.reyesleon.xyz'
@@ -434,7 +436,6 @@ payload:
   - 't3.leech.ie'
   - 'tamas3.ynh.fr'
   - 'torrent.arjlover.net'
-  - 'torrent.bowed.net'
   - 'torrent.fedoraproject.org'
   - 'torrent.hificode.in'
   - 'torrent.mp3quran.net'
@@ -621,6 +622,7 @@ payload:
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.yggleak.top'
+  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -646,7 +648,6 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'udp1.torrust-tracker-demo.com'
-  - 'utracker.ghostchu-services.top'
   - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
   - 'whybother.torrentonline.cc'
