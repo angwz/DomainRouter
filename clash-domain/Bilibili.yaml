@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-29 01:36:16 (UTC+8)
+# UPDATED: 2026-04-30 01:23:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 990
+# TOTAL: 1007
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -35,6 +35,7 @@ payload:
   - '+.anitama.cn'
   - '+.anitama.net'
   - '+.anycross.com'
+  - '+.api-building.fun'
   - '+.arco.design'
   - '+.artistrylab.net'
   - '+.awemeughun.com'
@@ -120,6 +121,7 @@ payload:
   - '+.bpltm.com'
   - '+.bqtalk.com'
   - '+.bstarstatic.com'
+  - '+.building.fun'
   - '+.butterfly-static.cn'
   - '+.butterflyai.cn'
   - '+.buydouke.com'
@@ -263,15 +265,26 @@ payload:
   - '+.cloudendpoint.cn'
   - '+.cookicut.com'
   - '+.corari.com'
+  - '+.coze-dns-01.com'
   - '+.coze.cn'
   - '+.coze.com'
+  - '+.coze.email'
   - '+.coze.site'
+  - '+.cozeapp.net'
   - '+.cozebaas.cn'
+  - '+.cozebuild.com'
+  - '+.cozecdn.com'
+  - '+.cozedeploy.com'
   - '+.cozefn.cn'
   - '+.cozeide.cn'
+  - '+.cozesdk.com'
+  - '+.cozetest.cn'
+  - '+.cozetest2.cn'
+  - '+.cozetest3.cn'
   - '+.csjplatform.com'
   - '+.ctobsnssdk.com'
   - '+.dailygn.com'
+  - '+.dbbuilding.fun'
   - '+.dcarapi.com'
   - '+.dcarimg.com'
   - '+.dcarlive.com'
@@ -282,6 +295,7 @@ payload:
   - '+.dongchedi.com'
   - '+.dongchediapp.com'
   - '+.dou.top'
+  - '+.doubao-dev.com'
   - '+.doubao.cn'
   - '+.doubao.com'
   - '+.doubaocdn.com'
@@ -465,6 +479,7 @@ payload:
   - '+.inluckcalendar.com'
   - '+.inspirecloud.cn'
   - '+.inspirecloud.com'
+  - '+.instreet.com'
   - '+.isealsuite.com'
   - '+.itmanager.club'
   - '+.itoutiaoliving.com'
@@ -569,6 +584,8 @@ payload:
   - '+.novelfmstatic.com'
   - '+.novelfmvod.com'
   - '+.nvsgames.cn'
+  - '+.obriccloud.com'
+  - '+.obricclouddw.com'
   - '+.oceancloudapi.com'
   - '+.oceanengine.cn'
   - '+.oceanengine.com'

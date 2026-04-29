@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-29 01:27:58 (UTC+8)
+# UPDATED: 2026-04-30 01:14:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 28582
+# TOTAL: 28583
 payload:
   - '+.adult'
   - '+.amazon'
@@ -22888,6 +22888,7 @@ payload:
   - '+.upornia.com'
   - '+.uporno.xxx'
   - '+.uproxy.org'
+  - '+.upsangel.com'
   - '+.uptodown.com'
   - '+.upwill.org'
   - '+.upwork.com'
