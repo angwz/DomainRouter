@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-30 01:14:32 (UTC+8)
+# UPDATED: 2026-05-01 01:07:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 28583
+# TOTAL: 28584
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25624,6 +25624,7 @@ payload:
   - '+.ysmass.com'
   - '+.ysmeal.com'
   - '+.ysmeat.com'
+  - '+.ysmeet.com'
   - '+.ysmelf.com'
   - '+.ysmere.com'
   - '+.ysmuch.com'

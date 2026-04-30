@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-04-30 01:23:18 (UTC+8)
+# UPDATED: 2026-05-01 01:15:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 667
+# TOTAL: 669
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -302,6 +302,7 @@ payload:
   - 'tracker810.xyz'
   - 'uabits.today'
   - 'uatracker.net'
+  - 'vito-tracker.space'
   - 'wepzone.net'
   - 'xbtrutor.com'
   - 'xtremewrestlingtorrents.net'
@@ -368,7 +369,6 @@ payload:
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
   - 'http1.torrust-tracker-demo.com'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -388,7 +388,6 @@ payload:
   - 'open.demonoid.ch'
   - 'open.dstud.io'
   - 'open.free-tracker.ga'
-  - 'open.ftorrent.com'
   - 'open.lolicon.eu'
   - 'open.nyaatorrents.info'
   - 'open.stealth.si'
@@ -448,6 +447,7 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -619,6 +619,7 @@ payload:
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'
+  - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
   - 'tracker.yggleak.top'
   - 'tracker.yume-hatsuyuki.moe'
@@ -647,6 +648,7 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'udp1.torrust-tracker-demo.com'
+  - 'utracker.ghostchu-services.top'
   - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
   - 'whybother.torrentonline.cc'
