@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-02 00:51:29 (UTC+8)
+# UPDATED: 2026-05-03 00:43:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 669
+# TOTAL: 666
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -244,7 +244,6 @@ payload:
   - 'btracker.top'
   - 'buny.uk'
   - 'ch3oh.ru'
-  - 'cny.fan'
   - 'concen.org'
   - 'coppersurfer.tk'
   - 'data-bg.net'
@@ -361,7 +360,6 @@ payload:
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
   - 'coeus.torrentonline.cc'
-  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -369,6 +367,7 @@ payload:
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
   - 'http1.torrust-tracker-demo.com'
+  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -379,7 +378,6 @@ payload:
   - 'movies.zsw.ca'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
-  - 'obey.torrentonline.cc'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
   - 'open.acgnxtracker.com'
@@ -388,6 +386,7 @@ payload:
   - 'open.demonoid.ch'
   - 'open.dstud.io'
   - 'open.free-tracker.ga'
+  - 'open.ftorrent.com'
   - 'open.lolicon.eu'
   - 'open.nyaatorrents.info'
   - 'open.stealth.si'
@@ -447,7 +446,6 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -536,7 +534,6 @@ payload:
   - 'tracker.ipfsscan.io'
   - 'tracker.ipv6tracker.org'
   - 'tracker.istole.it'
-  - 'tracker.ixuexi.click'
   - 'tracker.jamesthebard.net'
   - 'tracker.jdx3.org'
   - 'tracker.jiesen.life'
@@ -668,9 +665,9 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
   - 'torrent.unix-ag.uni-kl.de'
-  - 'tracker.exe.in.th'
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
+  - 'tracker.zhuqiy.dgj055.icu'
   - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'

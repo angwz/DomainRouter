@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-02 00:51:28 (UTC+8)
+# UPDATED: 2026-05-03 00:43:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 116741
+# TOTAL: 116740
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -108587,7 +108587,6 @@ payload:
   - '+.yodao.net'
   - '+.yodao.org'
   - '+.yodiya.com'
-  - '+.yodo1.com'
   - '+.yodo1api.com'
   - '+.yodou.com'
   - '+.yoduzw.com'
