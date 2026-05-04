@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-04 00:43:12 (UTC+8)
+# UPDATED: 2026-05-05 01:27:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 666
+# TOTAL: 663
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -359,7 +359,6 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
-  - 'coeus.torrentonline.cc'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -367,7 +366,6 @@ payload:
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
   - 'http1.torrust-tracker-demo.com'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -446,6 +444,7 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -618,7 +617,6 @@ payload:
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
-  - 'tracker.yggleak.top'
   - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
@@ -668,6 +666,5 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'tracker.zhuqiy.dgj055.icu'
   - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'

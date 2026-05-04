@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-04 00:43:12 (UTC+8)
+# UPDATED: 2026-05-05 01:27:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 331
+# TOTAL: 332
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -328,6 +328,7 @@ payload:
   - '+.redotpay.zendesk.com'
   - '+.wisekey.com.hk'
   - '+.xhpjc6-cdn-settings.appsflyersdk.com'
+  - '+.okx.com.cdn.cloudflare.net'
   - '+.rp-static-apne1.s3.ap-northeast-1.amazonaws.com'
   - 'bybit-exchange.github.io'
   - 'bybit.ada.support'

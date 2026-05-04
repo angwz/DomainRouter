@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-04 00:35:14 (UTC+8)
+# UPDATED: 2026-05-05 01:19:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 28584
+# TOTAL: 28585
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6492,6 +6492,7 @@ payload:
   - '+.digitalhub.com'
   - '+.digitalid.ch'
   - '+.digitalnomadsproject.org'
+  - '+.digitalocean-ui.com'
   - '+.digitalocean.com'
   - '+.digitaloceanspaces.com'
   - '+.digitalpack.com'
