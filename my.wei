@@ -74,6 +74,7 @@ lala.gg
 119.29.29.29
 2402:4e00::
 
+GEOSITE,geolocation-cn
 
 https://ruleset.skk.moe/Clash/non_ip/microsoft_cdn.txt
 
@@ -230,12 +231,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meta
 
 
 [Angwz]
-# Huawei
-150.40.180.0/24
-
-# Alice
-143.20.204.0/24
-2a14:67c0:308:1b2::/64
 
 
 # NVIDIA
@@ -593,6 +588,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 [Rules]
 Direct: DIRECT
+GEOSITE,geolocation-!cn@cn,DIRECT
 NS: 🏖️ Community
 AI: 🗨️ ChatGPT
 Apple: 🍎 Apple
