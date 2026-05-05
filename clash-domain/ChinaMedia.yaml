@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-05 01:27:24 (UTC+8)
+# UPDATED: 2026-05-05 18:06:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 5256
+# TOTAL: 5258
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -3929,6 +3929,7 @@ payload:
   - '+.cnms.net.cn'
   - '+.cns.com.cn'
   - '+.cntv.com.cn'
+  - '+.cqn.com.cn'
   - '+.cs.com.cn'
   - '+.ctcdn.com.cn'
   - '+.ctdns.com.cn'
@@ -4047,6 +4048,7 @@ payload:
   - '+.mygds.com.cn'
   - '+.myhwclouds.com.cn'
   - '+.nbd.com.cn'
+  - '+.neweekly.com.cn'
   - '+.nexon.co.jp'
   - '+.nexoncdn.co.kr'
   - '+.nintendo.co.jp'
