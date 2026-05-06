@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-06 01:11:51 (UTC+8)
+# UPDATED: 2026-05-06 19:32:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 7819
+# TOTAL: 7818
 payload:
   - '+.adult'
   - '+.azure'
@@ -1116,7 +1116,6 @@ payload:
   - '+.biqle.ru'
   - '+.bitchesgirls.com'
   - '+.bitchmomporn.com'
-  - '+.bitget.com'
   - '+.bitporno.com'
   - '+.bizarresexuality.com'
   - '+.bizographics.com'

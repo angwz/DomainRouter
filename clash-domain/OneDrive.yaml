@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-06 01:19:50 (UTC+8)
+# UPDATED: 2026-05-06 19:40:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 663
+# TOTAL: 667
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -359,6 +359,7 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
+  - 'coeus.torrentonline.cc'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -376,6 +377,7 @@ payload:
   - 'movies.zsw.ca'
   - 'ns575949.ip-51-222-82.net'
   - 'nyaa.tracker.wf'
+  - 'obey.torrentonline.cc'
   - 'oh.fuuuuuck.com'
   - 'open-tracker.demonoid.ch'
   - 'open.acgnxtracker.com'
@@ -414,6 +416,7 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
+  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -432,7 +435,6 @@ payload:
   - 't3.leech.ie'
   - 'tamas3.ynh.fr'
   - 'torrent.arjlover.net'
-  - 'torrent.bowed.net'
   - 'torrent.fedoraproject.org'
   - 'torrent.hificode.in'
   - 'torrent.mp3quran.net'
@@ -444,7 +446,6 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -527,6 +528,7 @@ payload:
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
   - 'tracker.hismz.cn'
+  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -542,6 +544,7 @@ payload:
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
   - 'tracker.leechshield.link'
+  - 'tracker.lenition.de'
   - 'tracker.lilithraws.cf'
   - 'tracker.lilithraws.org'
   - 'tracker.linkomanija.org'
@@ -575,6 +578,7 @@ payload:
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
+  - 'tracker.samcze.pl'
   - 'tracker.sbsub.com'
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'

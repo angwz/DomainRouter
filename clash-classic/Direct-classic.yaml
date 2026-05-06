@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-06 01:11:06 (UTC+8)
+# UPDATED: 2026-05-06 19:31:58 (UTC+8)
 # TYPE: classic
 # TOTAL: 45
 # DOMAIN-KEYWORD TOTAL: 5
@@ -16,7 +16,7 @@ payload:
   - DOMAIN-KEYWORD,xunlei
   - DOMAIN-KEYWORD,yunpan
 
-  - GEOSITE,geolocation-cn
+  - GEOSITE,geolocation-!cn@cn
 
   - DST-PORT,9993
 

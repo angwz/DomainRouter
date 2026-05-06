@@ -1,10 +1,11 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-06 01:19:50 (UTC+8)
+# UPDATED: 2026-05-06 19:40:22 (UTC+8)
 # TYPE: classic
-# TOTAL: 100
+# TOTAL: 101
 # DOMAIN-KEYWORD TOTAL: 50
+# GEOSITE TOTAL: 1
 # IP-ASN TOTAL: 1
 # PROCESS-NAME TOTAL: 49
 payload:
@@ -17,10 +18,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
-  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,amp-api.podcasts.apple.com
   - DOMAIN-KEYWORD,anti-ad.net
@@ -58,6 +59,8 @@ payload:
   - DOMAIN-KEYWORD,weather-adge.apple.com
   - DOMAIN-KEYWORD,weather-edge.apple.com
   - DOMAIN-KEYWORD,westlawchina
+
+  - GEOSITE,geolocation-cn
 
   - IP-ASN,132203,no-resolve
 

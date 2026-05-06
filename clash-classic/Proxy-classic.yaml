@@ -1,10 +1,11 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-06 01:11:49 (UTC+8)
+# UPDATED: 2026-05-06 19:32:40 (UTC+8)
 # TYPE: classic
-# TOTAL: 37
+# TOTAL: 38
 # DOMAIN-KEYWORD TOTAL: 36
+# GEOSITE TOTAL: 1
 # PROCESS-NAME TOTAL: 1
 payload:
   - DOMAIN-KEYWORD,1drv
@@ -43,5 +44,7 @@ payload:
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,wikileaks
+
+  - GEOSITE,geolocation-!cn
 
   - PROCESS-NAME,LookupViewService
