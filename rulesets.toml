@@ -245,6 +245,12 @@ type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
+group = "🌠 节点选择"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Angwz-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "⛳ 美国专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/America.yaml"
 type = "clash-domain"
