@@ -57,7 +57,7 @@ type = "select"
 
 [[custom_groups]]
 name = "⛅ OneDrive"
-rule = ["[]🌌 星星啊", "[]🌠 节点选择", "[]⛳ 美国专线", "[]DIRECT"]
+rule = ["[]🪟 Microsoft", "[]🌌 星星啊", "[]DIRECT", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -93,16 +93,24 @@ type = "select"
 
 [[custom_groups]]
 interval = 97
+lazy = false
 name = "🛫 香港专线"
-rule = ["(港|HK|hk|Hong Kong|HongKong|hongkong)"]
-type = "load-balance"
+rule = [
+  "[]🎇 香港高速",
+  "[]🏞️ 美利坚高速",
+]
+type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
 interval = 127
+lazy = false
 name = "🌺 日本专线"
-rule = ["(日|东京|大阪|埼玉|JP|jp|Japan)"]
-type = "load-balance"
+rule = [
+  "[]🗾 日本高速",
+  "[]🏞️ 美利坚高速",
+]
+type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
@@ -122,19 +130,30 @@ lazy = false
 name = "⛳ 美国专线"
 rule = [
   "[]🏞️ 美利坚高速",
-  "(^(?=.*(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States))(?!.*下载).*$)",
+  "(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
+name = "🎇 香港高速"
+rule = ["(港|HK|hk|Hong Kong|HongKong|hongkong)", "(.*)"]
+type = "select"
+
+[[custom_groups]]
+name = "🗾 日本高速"
+rule = ["!!GROUPID=0!!(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*$)", "(.*)"]
+type = "select"
+
+[[custom_groups]]
 name = "🦁 新加坡高速"
-rule = ["(新加坡|新|坡|狮城|SG|sg|Singapore)"]
+rule = ["(新加坡|新|坡|狮城|SG|sg|Singapore)", "(.*)"]
 type = "select"
 
 [[custom_groups]]
 name = "🏞️ 美利坚高速"
 rule = [
   "(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|us|United States)",
+  "(.*)",
 ]
 type = "select"

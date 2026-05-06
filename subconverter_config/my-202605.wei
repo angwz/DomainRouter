@@ -393,7 +393,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/g
 [Japan]
 '+.jp'
 
-bitget.com
 
 # Amazon
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/amazon.yaml
