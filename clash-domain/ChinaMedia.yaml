@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-07 01:28:13 (UTC+8)
+# UPDATED: 2026-05-08 01:38:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 5258
+# TOTAL: 5261
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -3281,6 +3281,7 @@ payload:
   - '+.superpapermario.com'
   - '+.supersmashbros.cn'
   - '+.supet.com'
+  - '+.supr.cl'
   - '+.supremacy.com'
   - '+.supremacy.net'
   - '+.surepush.cn'
@@ -4328,6 +4329,8 @@ payload:
   - 'eaassets-a.akamaihd.net'
   - 'edge2.yntv.cn'
   - 'encoder3.ywcity.cn'
+  - 'end-api.shallow.ink'
+  - 'end.shallow.ink'
   - 'enshi-live21.cjyun.org'
   - 'f24hls-i.akamaihd.net'
   - 'fash1043.cloudycdn.services'

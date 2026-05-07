@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-07 01:20:15 (UTC+8)
+# UPDATED: 2026-05-08 01:30:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 1550
+# TOTAL: 1576
 payload:
   - '+.android'
   - '+.intel'
@@ -1406,7 +1406,6 @@ payload:
   - '+.visualstudio.co.uk'
   - '+.wanfangdata.com.cn'
   - '+.apple.com.akadns.net'
-  - '+.blob.core.windows.net'
   - '+.cbsplaylistserver.aws.syncbak.com'
   - '+.cbsservice.aws.syncbak.com'
   - '+.courier-push-apple.com.akadns.net'
@@ -1506,6 +1505,11 @@ payload:
   - 'download.visualstudio.microsoft.com'
   - 'elib.maruzen.co.jp'
   - 'github-cloud.s3.amazonaws.com'
+  - 'github-production-release-asset-2e65be.s3.amazonaws.com'
+  - 'github-production-repository-file-5c1aeb.s3.amazonaws.com'
+  - 'github-production-repository-image-32fea6.s3.amazonaws.com'
+  - 'github-production-upload-manifest-file-7fdce7.s3.amazonaws.com'
+  - 'github-production-user-asset-6210df.s3.amazonaws.com'
   - 'gitlab-assets.oss-cn-hongkong.aliyuncs.com'
   - 'notary-submissions-prod.s3-accelerate.amazonaws.com'
   - 'scholar.google.co.cr'
@@ -1552,6 +1556,28 @@ payload:
   - 't21ipau.nikkei.co.jp'
   - 'vscode.search.windows.net'
   - 'wrds-www.wharton.upenn.edu'
+  - 'copilotprodattachments.blob.core.windows.net'
   - 'docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com'
   - 'espn.api.edge.bamgrid.com'
   - 'notary-submissions-prod.s3.us-west-2.amazonaws.com'
+  - 'productionresultssa0.blob.core.windows.net'
+  - 'productionresultssa1.blob.core.windows.net'
+  - 'productionresultssa10.blob.core.windows.net'
+  - 'productionresultssa11.blob.core.windows.net'
+  - 'productionresultssa12.blob.core.windows.net'
+  - 'productionresultssa13.blob.core.windows.net'
+  - 'productionresultssa14.blob.core.windows.net'
+  - 'productionresultssa15.blob.core.windows.net'
+  - 'productionresultssa16.blob.core.windows.net'
+  - 'productionresultssa17.blob.core.windows.net'
+  - 'productionresultssa18.blob.core.windows.net'
+  - 'productionresultssa19.blob.core.windows.net'
+  - 'productionresultssa2.blob.core.windows.net'
+  - 'productionresultssa3.blob.core.windows.net'
+  - 'productionresultssa4.blob.core.windows.net'
+  - 'productionresultssa5.blob.core.windows.net'
+  - 'productionresultssa6.blob.core.windows.net'
+  - 'productionresultssa7.blob.core.windows.net'
+  - 'productionresultssa8.blob.core.windows.net'
+  - 'productionresultssa9.blob.core.windows.net'
+  - 'vscode.blob.core.windows.net'

@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-07 01:20:15 (UTC+8)
+# UPDATED: 2026-05-08 01:30:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 7818
+# TOTAL: 7844
 payload:
   - '+.adult'
   - '+.azure'
@@ -7683,7 +7683,6 @@ payload:
   - '+.xxxvideo.blog.br'
   - '+.adult.contents.fc2.com'
   - '+.bisyoujyogyaruge.topaz.ne.jp'
-  - '+.blob.core.windows.net'
   - '+.climateone.blogspot.co.id'
   - '+.dl.steam.clngaa.com'
   - '+.dl.steam.ksyna.com'
@@ -7815,11 +7814,38 @@ payload:
   - 'f3b7q2p3.ssl.hwcdn.net'
   - 'family.canadianshield.cira.ca'
   - 'github-cloud.s3.amazonaws.com'
+  - 'github-production-release-asset-2e65be.s3.amazonaws.com'
+  - 'github-production-repository-file-5c1aeb.s3.amazonaws.com'
+  - 'github-production-repository-image-32fea6.s3.amazonaws.com'
+  - 'github-production-upload-manifest-file-7fdce7.s3.amazonaws.com'
+  - 'github-production-user-asset-6210df.s3.amazonaws.com'
   - 'licdn.cn.cdn20.com'
   - 'linkedin.sc.omtrdc.net'
   - 'private.canadianshield.cira.ca'
   - 'protected.canadianshield.cira.ca'
   - 'venmo.s3.amazonaws.com'
   - 'a4e8s8k3.map2.ssl.hwcdn.net'
+  - 'copilotprodattachments.blob.core.windows.net'
   - 'misa-prod.s3.ap-northeast-1.amazonaws.com'
+  - 'productionresultssa0.blob.core.windows.net'
+  - 'productionresultssa1.blob.core.windows.net'
+  - 'productionresultssa10.blob.core.windows.net'
+  - 'productionresultssa11.blob.core.windows.net'
+  - 'productionresultssa12.blob.core.windows.net'
+  - 'productionresultssa13.blob.core.windows.net'
+  - 'productionresultssa14.blob.core.windows.net'
+  - 'productionresultssa15.blob.core.windows.net'
+  - 'productionresultssa16.blob.core.windows.net'
+  - 'productionresultssa17.blob.core.windows.net'
+  - 'productionresultssa18.blob.core.windows.net'
+  - 'productionresultssa19.blob.core.windows.net'
+  - 'productionresultssa2.blob.core.windows.net'
+  - 'productionresultssa3.blob.core.windows.net'
+  - 'productionresultssa4.blob.core.windows.net'
+  - 'productionresultssa5.blob.core.windows.net'
+  - 'productionresultssa6.blob.core.windows.net'
+  - 'productionresultssa7.blob.core.windows.net'
+  - 'productionresultssa8.blob.core.windows.net'
+  - 'productionresultssa9.blob.core.windows.net'
+  - 'steamcloudsweden.blob.core.windows.net'
   - 'steamcommunity-a.akamaihd.net.edgesuite.net'

@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-07 01:20:15 (UTC+8)
+# UPDATED: 2026-05-08 01:30:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 244
+# TOTAL: 251
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -14,6 +14,7 @@ payload:
   - '+.anthropic.com'
   - '+.antigravity-unleash.goog'
   - '+.antigravity.google'
+  - '+.anythingllm.com'
   - '+.auth0.com'
   - '+.bing.com'
   - '+.bing.net'
@@ -123,6 +124,7 @@ payload:
   - '+.openart.ai'
   - '+.openclaw.ai'
   - '+.openrouter.ai'
+  - '+.openspec.dev'
   - '+.oystermercury.top'
   - '+.periscope.tv'
   - '+.perplexity.ai'
@@ -222,6 +224,10 @@ payload:
   - 'cdn.usefathom.com'
   - 'cloudaicompanion.googleapis.com'
   - 'cloudcode-pa.googleapis.com'
+  - 'copilot-proxy.githubusercontent.com'
+  - 'copilot-telemetry-service.githubusercontent.com'
+  - 'copilot-telemetry.githubusercontent.com'
+  - 'copilot-workspace.githubnext.com'
   - 'copilot.microsoft.com'
   - 'daily-cloudcode-pa.googleapis.com'
   - 'in.appcenter.ms'
@@ -247,5 +253,6 @@ payload:
   - 'openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
   - 'ppl-ai-file-upload.s3.amazonaws.com'
   - 'webchannel-alkalimakersuite-pa.clients6.google.com'
+  - 'copilotprodattachments.blob.core.windows.net'
   - 'openaicomproductionae4b.blob.core.windows.net'
   - 'self.events.data.microsoft.com'
