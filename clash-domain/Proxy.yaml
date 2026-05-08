@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-08 01:29:57 (UTC+8)
+# UPDATED: 2026-05-09 01:00:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 28705
+# TOTAL: 28706
 payload:
   - '+.adult'
   - '+.amazon'
@@ -28175,6 +28175,7 @@ payload:
   - '+.ukliferadio.co.uk'
   - '+.ulifestyle.com.hk'
   - '+.umagazine.com.hk'
+  - '+.umap.openstreetmap.fr'
   - '+.umsoplaneta.com.br'
   - '+.unblock.cn.com'
   - '+.unification.org.tw'

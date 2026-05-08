@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-08 01:38:42 (UTC+8)
+# UPDATED: 2026-05-09 01:08:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 667
+# TOTAL: 669
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -416,7 +416,6 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
-  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -435,6 +434,7 @@ payload:
   - 't3.leech.ie'
   - 'tamas3.ynh.fr'
   - 'torrent.arjlover.net'
+  - 'torrent.bowed.net'
   - 'torrent.fedoraproject.org'
   - 'torrent.hificode.in'
   - 'torrent.mp3quran.net'
@@ -446,6 +446,7 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
@@ -578,7 +579,6 @@ payload:
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
-  - 'tracker.samcze.pl'
   - 'tracker.sbsub.com'
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'
@@ -602,6 +602,7 @@ payload:
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
   - 'tracker.torrentbytes.net'
+  - 'tracker.torrentclaw.com'
   - 'tracker.torrentsnows.com'
   - 'tracker.torrenty.org'
   - 'tracker.torrust-demo.com'
@@ -647,7 +648,6 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'udp1.torrust-tracker-demo.com'
-  - 'utracker.ghostchu-services.top'
   - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
   - 'whybother.torrentonline.cc'
@@ -659,6 +659,7 @@ payload:
   - 'yolo.liberbear.com'
   - 'yuptracker-eu.gaijinent.com'
   - 'z.paranoid.agency'
+  - 'cerf.cs.umd.edu'
   - 'd40969.acod.regrucolo.ru'
   - 'denis.stalker.upeer.me'
   - 'h4.trakx.nibba.trade'
@@ -667,8 +668,9 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
   - 'torrent.unix-ag.uni-kl.de'
+  - 'torrenttracker.nwc.acsalaska.net'
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'trackthis.cyber.pz.it'
+  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'
