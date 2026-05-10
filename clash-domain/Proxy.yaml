@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-10 00:39:31 (UTC+8)
+# UPDATED: 2026-05-11 00:40:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 28707
+# TOTAL: 28719
 payload:
   - '+.adult'
   - '+.amazon'
@@ -13249,6 +13249,7 @@ payload:
   - '+.justswallows.com'
   - '+.justtristan.com'
   - '+.justusboys.com'
+  - '+.justveryok.com'
   - '+.juyangbee.xyz'
   - '+.juyangto.info'
   - '+.juyuange.org'
@@ -13408,6 +13409,7 @@ payload:
   - '+.kex.com'
   - '+.keybase.io'
   - '+.keybaseapi.com'
+  - '+.keyboardmen.com'
   - '+.keycdn.com'
   - '+.keyhole.com'
   - '+.keyporntube.com'
@@ -16898,7 +16900,14 @@ payload:
   - '+.oculusrift.com'
   - '+.oculusvr.com'
   - '+.odkl.ru'
+  - '+.odnoklasniki.by'
+  - '+.odnoklasniki.ua'
+  - '+.odnoklassniki.am'
+  - '+.odnoklassniki.by'
+  - '+.odnoklassniki.eu'
+  - '+.odnoklassniki.lv'
   - '+.odnoklassniki.ru'
+  - '+.odnoklassniki.tj'
   - '+.odysee.com'
   - '+.oecd-ilibrary.org'
   - '+.oed.com'
@@ -18962,6 +18971,7 @@ payload:
   - '+.r2.dev'
   - '+.r34porn.net'
   - '+.ra.gg'
+  - '+.rabbitcounter.com'
   - '+.rabbitscams.com'
   - '+.rabbitscams.sex'
   - '+.rabbitsreviews.com'
@@ -19691,6 +19701,7 @@ payload:
   - '+.savitahd.net'
   - '+.savoycomputing.com'
   - '+.say2.info'
+  - '+.sayeasy.eu'
   - '+.saynow.com'
   - '+.sb-cd.com'
   - '+.sb-mobile.jp'
@@ -27699,6 +27710,7 @@ payload:
   - '+.nxtdig.com.tw'
   - '+.nzchinese.net.nz'
   - '+.o2action.co.kr'
+  - '+.odnoklassniki.co.ee'
   - '+.ogakikyoritsu.co.jp'
   - '+.oghost.com.br'
   - '+.oglobo.com.br'

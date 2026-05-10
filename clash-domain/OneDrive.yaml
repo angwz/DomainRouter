@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-10 00:45:41 (UTC+8)
+# UPDATED: 2026-05-11 00:48:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 669
+# TOTAL: 667
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -324,6 +324,7 @@ payload:
   - 'admin.52ywp.com'
   - 'announce.partis.si'
   - 'archive.torrentonline.cc'
+  - 'asiatorrent.giize.com'
   - 'atrack.pow7.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
@@ -359,7 +360,6 @@ payload:
   - 'bz.tracker.bz'
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
-  - 'coeus.torrentonline.cc'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -416,6 +416,7 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
+  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -434,7 +435,6 @@ payload:
   - 't3.leech.ie'
   - 'tamas3.ynh.fr'
   - 'torrent.arjlover.net'
-  - 'torrent.bowed.net'
   - 'torrent.fedoraproject.org'
   - 'torrent.hificode.in'
   - 'torrent.mp3quran.net'
@@ -545,7 +545,6 @@ payload:
   - 'tracker.kuroy.me'
   - 'tracker.leechers-paradise.org'
   - 'tracker.leechshield.link'
-  - 'tracker.lenition.de'
   - 'tracker.lilithraws.cf'
   - 'tracker.lilithraws.org'
   - 'tracker.linkomanija.org'
@@ -579,6 +578,7 @@ payload:
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
+  - 'tracker.samcze.pl'
   - 'tracker.sbsub.com'
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'
@@ -650,7 +650,6 @@ payload:
   - 'udp1.torrust-tracker-demo.com'
   - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
-  - 'whybother.torrentonline.cc'
   - 'ws.peer.ooo'
   - 'www.nartlof.com'
   - 'www.wareztorrent.com'
@@ -668,9 +667,8 @@ payload:
   - 'retracker.ip.ncnet.ru'
   - 'torrent.tracker.durukanbal.com'
   - 'torrent.unix-ag.uni-kl.de'
-  - 'torrenttracker.nwc.acsalaska.net'
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'tracker.zhuqiy.dgj055.icu'
+  - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'
