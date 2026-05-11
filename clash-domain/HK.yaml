@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-11 00:40:29 (UTC+8)
+# UPDATED: 2026-05-12 01:47:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 7844
+# TOTAL: 7845
 payload:
   - '+.adult'
   - '+.azure'
@@ -3571,6 +3571,7 @@ payload:
   - '+.javdove.com'
   - '+.javdove8.xyz'
   - '+.javextreme.net'
+  - '+.javfc2.xyz'
   - '+.javfilms.com'
   - '+.javfor.me'
   - '+.javforme.ninja'

@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-11 00:48:20 (UTC+8)
+# UPDATED: 2026-05-12 01:55:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 4471
+# TOTAL: 4472
 payload:
   - '+.bbc'
   - '+.bloomberg'
@@ -703,6 +703,7 @@ payload:
   - '+.getblueshift.com'
   - '+.getnews.jp'
   - '+.gettr.com'
+  - '+.getwsj.com'
   - '+.gfashion.com'
   - '+.ggpht.cn'
   - '+.ggpht.com'
