@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-12 01:55:45 (UTC+8)
+# UPDATED: 2026-05-13 01:59:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 931
+# TOTAL: 924
 payload:
   - '+.android'
   - '+.chrome'
@@ -719,7 +719,6 @@ payload:
   - '+.blogspot.com.tr'
   - '+.blogspot.com.uy'
   - '+.clickserve.cc-dt.com'
-  - '+.download.qatp1.net'
   - '+.google.co.ao'
   - '+.google.co.bw'
   - '+.google.co.ck'
@@ -803,13 +802,7 @@ payload:
   - '+.google.com.vn'
   - '+.googlecompare.co.uk'
   - '+.howtogetmo.co.uk'
-  - '+.monitoring.qpdp1.net'
-  - '+.qagpublic.qatp1.net'
-  - '+.qgadmin.qcpp1.net'
   - '+.qpx.googleflights.net'
-  - '+.qualysapi.qatp1.net'
-  - '+.qualysguard.qpdp1.net'
-  - '+.scanservice1.qcpp1.net'
   - '+.thinkquarterly.co.uk'
   - '+.womenwill.com.br'
   - '+.www.destinationurl.com'
