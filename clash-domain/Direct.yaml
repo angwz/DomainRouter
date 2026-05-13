@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-13 01:50:48 (UTC+8)
+# UPDATED: 2026-05-14 01:53:02 (UTC+8)
 # TYPE: domain
 # TOTAL: 1973
 payload:
@@ -17,6 +17,7 @@ payload:
   - '+.95516.com'
   - '+.95516.net'
   - '+.95572.com'
+  - '+.99jiasu.net'
   - '+.aardio.com'
   - '+.abchina.com'
   - '+.aboutamazon.cn'
@@ -833,7 +834,6 @@ payload:
   - '+.time5.cloud.tencent.com'
   - '+.tw.ntp.org.cn'
   - '+.us.ntp.org.cn'
-  - '+.wscont2.apps.microsoft.com'
   - '+.wup.eshop.nintendo.net'
   - '+.wup.shop.nintendo.net'
   - '+.100.51.198.in-addr.arpa'

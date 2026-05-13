@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-13 01:59:49 (UTC+8)
+# UPDATED: 2026-05-14 02:01:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 5262
+# TOTAL: 5263
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -871,6 +871,7 @@ payload:
   - '+.chillingo.com'
   - '+.chinaaet.com'
   - '+.chinabnet.cn'
+  - '+.chinabyte.com'
   - '+.chinaepg.cn'
   - '+.chinalive.com'
   - '+.chinamobile.com'
@@ -1200,7 +1201,6 @@ payload:
   - '+.duokan.com'
   - '+.duokanbox.com'
   - '+.duolabao.com'
-  - '+.duowan.com'
   - '+.dusdn.cn'
   - '+.dusdn.com'
   - '+.dusdn.net'
@@ -1215,7 +1215,6 @@ payload:
   - '+.duxuetang.cn'
   - '+.duxuetang.com'
   - '+.dvkors.com'
-  - '+.dwstatic.com'
   - '+.dwz.cn'
   - '+.dxm-cdn.com'
   - '+.dxm-int.com'
@@ -2821,8 +2820,10 @@ payload:
   - '+.pchome.net'
   - '+.pchpic.net'
   - '+.pcpop.com'
+  - '+.pdnews.cn'
   - '+.peijian.com'
   - '+.people.cn'
+  - '+.peopleapp.com'
   - '+.pepsitmall.com'
   - '+.personaltrainermath.com'
   - '+.pftianshanno.com'
@@ -3373,6 +3374,7 @@ payload:
   - '+.tianchi.com'
   - '+.tiancity.com'
   - '+.tiancitycdn.com'
+  - '+.tianjimedia.com'
   - '+.tianmao.cn'
   - '+.tianmao.com'
   - '+.tiberiumalliances.com'
@@ -3704,6 +3706,7 @@ payload:
   - '+.ydvip00as.com'
   - '+.ydvip00at.com'
   - '+.yeah.net'
+  - '+.yesky.com'
   - '+.yeyingkf.com'
   - '+.yeyousg.com'
   - '+.yhcdn.cn'
@@ -3810,8 +3813,6 @@ payload:
   - '+.yxhimg.com'
   - '+.yximg.cn'
   - '+.yxwsgame.com'
-  - '+.yy.com'
-  - '+.yystatic.com'
   - '+.yzlngi.com'
   - '+.yzsnen.com'
   - '+.yzwb.net'
