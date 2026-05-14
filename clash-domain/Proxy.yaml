@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-14 01:53:45 (UTC+8)
+# UPDATED: 2026-05-14 21:48:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 28811
+# TOTAL: 28812
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5292,6 +5292,7 @@ payload:
   - '+.chocolatey.org'
   - '+.choicereviews.org'
   - '+.chomp.com'
+  - '+.chonglangtv.org'
   - '+.chosun.com'
   - '+.chrdnet.com'
   - '+.christianfreedom.org'
