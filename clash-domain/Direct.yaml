@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-15 01:29:14 (UTC+8)
+# UPDATED: 2026-05-16 01:18:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 1974
+# TOTAL: 1972
 payload:
   - '+.java'
   - '+.oracle'
@@ -249,7 +249,6 @@ payload:
   - '+.hiwifi.com'
   - '+.home.arpa'
   - '+.hongbo100.com'
-  - '+.hostdzire.com'
   - '+.houyicaiji.com'
   - '+.htcases.com'
   - '+.htjsq.com'
@@ -603,7 +602,6 @@ payload:
   - '+.drcnet.com.cn'
   - '+.dyn.riotcdn.net'
   - '+.egdownload.fastly-edge.com'
-  - '+.fs.microsoft.com'
   - '+.gneec.com.cn'
   - '+.gog-cdn-fastly-cp77.gog.com'
   - '+.gog-cdn-fastly.gog.com'
