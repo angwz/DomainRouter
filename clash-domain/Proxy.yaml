@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-16 01:19:40 (UTC+8)
+# UPDATED: 2026-05-17 00:42:46 (UTC+8)
 # TYPE: domain
-# TOTAL: 28812
+# TOTAL: 28813
 payload:
   - '+.adult'
   - '+.amazon'
@@ -24040,6 +24040,7 @@ payload:
   - '+.vultr.com'
   - '+.vultryhw.com'
   - '+.vuvuzela.io'
+  - '+.vv1865.com'
   - '+.vxnbbrs.xyz'
   - '+.vxxsred.xyz'
   - '+.vyprvpn.com'

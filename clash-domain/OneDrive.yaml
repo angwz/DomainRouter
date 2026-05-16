@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-16 01:27:56 (UTC+8)
+# UPDATED: 2026-05-17 00:50:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 664
+# TOTAL: 666
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -260,7 +260,6 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -416,7 +415,6 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
-  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -446,7 +444,9 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
+  - 'tr.btube3.com'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
   - 'tr.highstar.shop'
@@ -527,6 +527,7 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
+  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -576,6 +577,7 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
+  - 'tracker.sharebro.in'
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
@@ -667,5 +669,5 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'tracker.zhuqiy.dgj055.icu'
+  - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'
