@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-17 00:42:46 (UTC+8)
+# UPDATED: 2026-05-18 00:43:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 28813
+# TOTAL: 28814
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2218,6 +2218,7 @@ payload:
   - '+.archivx.to'
   - '+.archlinux.de'
   - '+.archlinux.org'
+  - '+.archlinux.page'
   - '+.archlinuxarm.org'
   - '+.archlinuxcn.org'
   - '+.arcraiders.com'
