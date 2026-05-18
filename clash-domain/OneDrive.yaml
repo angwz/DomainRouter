@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-18 00:51:42 (UTC+8)
+# UPDATED: 2026-05-19 01:58:46 (UTC+8)
 # TYPE: domain
-# TOTAL: 666
+# TOTAL: 665
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -324,6 +324,7 @@ payload:
   - 'admin.52ywp.com'
   - 'announce.partis.si'
   - 'archive.torrentonline.cc'
+  - 'asiatorrent.giize.com'
   - 'atrack.pow7.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
@@ -366,6 +367,7 @@ payload:
   - 'free.publictracker.xyz'
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
+  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -444,7 +446,6 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.btube3.com'
   - 'tr.burnabyhighstar.com'
@@ -527,7 +528,7 @@ payload:
   - 'tracker.grepler.com'
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
-  - 'tracker.huadongblower.xyz'
+  - 'tracker.hismz.cn'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -600,7 +601,6 @@ payload:
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
   - 'tracker.torrentbytes.net'
-  - 'tracker.torrentclaw.com'
   - 'tracker.torrentsnows.com'
   - 'tracker.torrenty.org'
   - 'tracker.torrust-demo.com'
@@ -646,6 +646,7 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'udp.trackarr.org'
+  - 'v6.vito-tracker.space'
   - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
   - 'whybother.torrentonline.cc'
@@ -657,7 +658,6 @@ payload:
   - 'yolo.liberbear.com'
   - 'yuptracker-eu.gaijinent.com'
   - 'z.paranoid.agency'
-  - 'cerf.cs.umd.edu'
   - 'd40969.acod.regrucolo.ru'
   - 'denis.stalker.upeer.me'
   - 'h4.trakx.nibba.trade'
@@ -669,5 +669,4 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'
