@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-19 01:50:53 (UTC+8)
+# UPDATED: 2026-05-20 01:55:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 28816
+# TOTAL: 28836
 payload:
   - '+.adult'
   - '+.amazon'
@@ -44,6 +44,7 @@ payload:
   - '+.intuit'
   - '+.java'
   - '+.kindle'
+  - '+.konami'
   - '+.microsoft'
   - '+.mini'
   - '+.mit'
@@ -524,6 +525,7 @@ payload:
   - '+.55dndn.com'
   - '+.567321.online'
   - '+.568xe.com'
+  - '+.573.jp'
   - '+.58avgo.com'
   - '+.592r.com'
   - '+.59mvmv.com'
@@ -13456,6 +13458,7 @@ payload:
   - '+.keytransparency.foo'
   - '+.keytransparency.org'
   - '+.kfs.io'
+  - '+.kgisystems.com'
   - '+.kgslb.com'
   - '+.khabdha.org'
   - '+.khanacademy.org'
@@ -13544,6 +13547,7 @@ payload:
   - '+.kisscos.net'
   - '+.kissjav.com'
   - '+.kissjav.li'
+  - '+.kiwi.jp'
   - '+.kiwi.kz'
   - '+.kiwibrowser.com'
   - '+.kk.stream'
@@ -13580,6 +13584,18 @@ payload:
   - '+.kompozer.net'
   - '+.konachan.com'
   - '+.konachan.net'
+  - '+.konami-igaming.online'
+  - '+.konami.com'
+  - '+.konami.net'
+  - '+.konami.org'
+  - '+.konamicrossmedia.com'
+  - '+.konamigaming.com'
+  - '+.konamigaming.net'
+  - '+.konamigaming.online'
+  - '+.konamionline.com'
+  - '+.konamiopen.jp'
+  - '+.konamisportsclub.jp'
+  - '+.konamistyle.jp'
   - '+.kone.com'
   - '+.koolsolutions.com'
   - '+.koornk.com'
@@ -19348,6 +19364,8 @@ payload:
   - '+.researchkit.net'
   - '+.researchkit.org'
   - '+.researchkit.tv'
+  - '+.resella.jp'
+  - '+.resellablue.com'
   - '+.resilio.com'
   - '+.resistchina.org'
   - '+.resoubanana.buzz'
@@ -25866,6 +25884,7 @@ payload:
   - '+.yuanzhengtang.org'
   - '+.yuenuge113.xyz'
   - '+.yuenuge18.cc'
+  - '+.yugioh-card.com'
   - '+.yulghun.com'
   - '+.yunchao.net'
   - '+.yunlaopo.cc'
@@ -27461,6 +27480,7 @@ payload:
   - '+.kmuh.org.tw'
   - '+.knowswho.co.jp'
   - '+.konachan.wjcodes.com'
+  - '+.konami.co.jp'
   - '+.korbit.co.kr'
   - '+.krtco.com.tw'
   - '+.ksnews.com.tw'

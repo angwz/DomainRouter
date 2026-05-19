@@ -1,13 +1,14 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-19 01:58:48 (UTC+8)
+# UPDATED: 2026-05-20 02:04:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 5266
+# TOTAL: 5286
 payload:
   - '+.alibaba'
   - '+.alipay'
   - '+.baidu'
+  - '+.konami'
   - '+.playstation'
   - '+.sohu'
   - '+.taobao'
@@ -152,6 +153,7 @@ payload:
   - '+.56.com'
   - '+.56che.com'
   - '+.56img.com'
+  - '+.573.jp'
   - '+.576nt.cn'
   - '+.5945i.com'
   - '+.59bob.cn'
@@ -2305,9 +2307,11 @@ payload:
   - '+.kelude.cn'
   - '+.kewucool.com'
   - '+.kfomn.cn'
+  - '+.kgisystems.com'
   - '+.kirbysepicyarn.com'
   - '+.kirbysuperstarultra.com'
   - '+.kissyui.com'
+  - '+.kiwi.jp'
   - '+.kjdvsg.com'
   - '+.kjtianshanxu.com'
   - '+.kksmg.com'
@@ -2321,6 +2325,18 @@ payload:
   - '+.kmop-cn-east-3.cn'
   - '+.kmop-cn-north-4.cn'
   - '+.knewsmart.com'
+  - '+.konami-igaming.online'
+  - '+.konami.com'
+  - '+.konami.net'
+  - '+.konami.org'
+  - '+.konamicrossmedia.com'
+  - '+.konamigaming.com'
+  - '+.konamigaming.net'
+  - '+.konamigaming.online'
+  - '+.konamionline.com'
+  - '+.konamiopen.jp'
+  - '+.konamisportsclub.jp'
+  - '+.konamistyle.jp'
   - '+.koowo.com'
   - '+.koubei.com'
   - '+.kraftonde.com'
@@ -2971,6 +2987,8 @@ payload:
   - '+.realityscan.com'
   - '+.renovacionxboxlive.com'
   - '+.rergdfh.com'
+  - '+.resella.jp'
+  - '+.resellablue.com'
   - '+.rexpos.cn'
   - '+.rgpub.io'
   - '+.riot-games.com'
@@ -3773,6 +3791,7 @@ payload:
   - '+.ytiao.cn'
   - '+.ytiny.cn'
   - '+.yuanshen.com'
+  - '+.yugioh-card.com'
   - '+.yukhj.com'
   - '+.yun-app.net'
   - '+.yunduncc.com'
@@ -4015,6 +4034,7 @@ payload:
   - '+.jxlog.istreamsche.com'
   - '+.jxnews.com.cn'
   - '+.kanduoduo.com.cn'
+  - '+.konami.co.jp'
   - '+.kssdata-yz1.kuaipandata.com'
   - '+.kssdata-yz2-lt.kuaipandata.com'
   - '+.kssdata-yz2.kuaipandata.com'
