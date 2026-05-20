@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-20 01:55:07 (UTC+8)
+# UPDATED: 2026-05-21 02:07:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 1973
+# TOTAL: 1976
 payload:
   - '+.java'
   - '+.oracle'
@@ -42,12 +42,15 @@ payload:
   - '+.amazonlaunchpad.cn'
   - '+.amazonnow.cn'
   - '+.amazonprimevideo.cn'
+  - '+.amazonwebservices.cn'
   - '+.amazonworkdocs.cn'
   - '+.amzndns-cn.biz'
   - '+.amzndns-cn.cn'
   - '+.amzndns-cn.com'
   - '+.amzndns-cn.net'
   - '+.ancientbooks.cn'
+  - '+.antafu.com'
+  - '+.antaq.com'
   - '+.anydesk.com'
   - '+.apabi.com'
   - '+.api-building.fun'

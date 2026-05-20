@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-20 01:55:52 (UTC+8)
+# UPDATED: 2026-05-21 02:08:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 28836
+# TOTAL: 28839
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1383,6 +1383,7 @@ payload:
   - '+.alexa.com'
   - '+.alexanderstreet.com'
   - '+.alexlur.org'
+  - '+.alfa.me'
   - '+.alfabank.ru'
   - '+.alfabank.st'
   - '+.alfadirect.ru'
@@ -21723,6 +21724,8 @@ payload:
   - '+.teamamericany.com'
   - '+.teamneedforspeed.com'
   - '+.teamskeet.com'
+  - '+.teamspeak-services.com'
+  - '+.teamspeak.com'
   - '+.teamviewer.com'
   - '+.teamviewer.us'
   - '+.tearapeak.com'

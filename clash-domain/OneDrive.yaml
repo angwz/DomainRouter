@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-20 02:03:58 (UTC+8)
+# UPDATED: 2026-05-21 02:16:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 665
+# TOTAL: 670
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -260,6 +260,7 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
+  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -324,7 +325,6 @@ payload:
   - 'admin.52ywp.com'
   - 'announce.partis.si'
   - 'archive.torrentonline.cc'
-  - 'asiatorrent.giize.com'
   - 'atrack.pow7.com'
   - 'bandito.byterunner.io'
   - 'bigfoot1942.sektori.org'
@@ -361,13 +361,13 @@ payload:
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
   - 'coeus.torrentonline.cc'
+  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
   - 'free.publictracker.xyz'
   - 'git.vulnix.sh'
   - 'home.yxgz.club'
-  - 'ibksturm.synology.me'
   - 'inferno.demonoid.is'
   - 'ipv4.rer.lol'
   - 'ipv4announce.sktorrent.eu'
@@ -417,6 +417,7 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
+  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -446,6 +447,7 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.btube3.com'
   - 'tr.burnabyhighstar.com'
@@ -470,6 +472,7 @@ payload:
   - 'tracker.anima.nz'
   - 'tracker.anirena.com'
   - 'tracker.artixlinux.org'
+  - 'tracker.aruku.ovh'
   - 'tracker.auctor.tv'
   - 'tracker.baltracker.net'
   - 'tracker.belmult.online'
@@ -601,6 +604,7 @@ payload:
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
   - 'tracker.torrentbytes.net'
+  - 'tracker.torrentclaw.com'
   - 'tracker.torrentsnows.com'
   - 'tracker.torrenty.org'
   - 'tracker.torrust-demo.com'
@@ -658,6 +662,7 @@ payload:
   - 'yolo.liberbear.com'
   - 'yuptracker-eu.gaijinent.com'
   - 'z.paranoid.agency'
+  - 'anime-tracker.aruku.kro.kr'
   - 'd40969.acod.regrucolo.ru'
   - 'denis.stalker.upeer.me'
   - 'h4.trakx.nibba.trade'
