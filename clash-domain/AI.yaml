@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-21 02:08:17 (UTC+8)
+# UPDATED: 2026-05-22 01:48:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 251
+# TOTAL: 253
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -111,6 +111,7 @@ payload:
   - '+.microsoftpartnersolutions.com'
   - '+.minimax.io'
   - '+.mistral.ai'
+  - '+.mozilla.ai'
   - '+.msunlimitedcloudsummit.com'
   - '+.notebooklm.google'
   - '+.oaistatic.com'
@@ -142,6 +143,7 @@ payload:
   - '+.sprinklesapp.com'
   - '+.stripe.com'
   - '+.t.co'
+  - '+.tapnow.ai'
   - '+.tellapart.com'
   - '+.themeforest.net'
   - '+.trae.ai'
