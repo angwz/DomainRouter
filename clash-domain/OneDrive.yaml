@@ -1,7 +1,7 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-22 01:56:48 (UTC+8)
+# UPDATED: 2026-05-23 01:52:03 (UTC+8)
 # TYPE: domain
 # TOTAL: 670
 payload:
@@ -260,7 +260,6 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -361,7 +360,6 @@ payload:
   - 'canardscitrons.nohost.me'
   - 'carbon-bonsai-621.appspot.com'
   - 'coeus.torrentonline.cc'
-  - 'colibri.parrot.run'
   - 'exodus.desync.com'
   - 'extracker.dahrkael.net'
   - 'fh2.cmp-gaming.com'
@@ -417,7 +415,6 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
-  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -447,7 +444,6 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
-  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
   - 'tr.btube3.com'
   - 'tr.burnabyhighstar.com'
@@ -532,6 +528,7 @@ payload:
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
   - 'tracker.hismz.cn'
+  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -663,6 +660,7 @@ payload:
   - 'yuptracker-eu.gaijinent.com'
   - 'z.paranoid.agency'
   - 'anime-tracker.aruku.kro.kr'
+  - 'cerf.cs.umd.edu'
   - 'd40969.acod.regrucolo.ru'
   - 'denis.stalker.upeer.me'
   - 'h4.trakx.nibba.trade'
@@ -674,4 +672,6 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
+  - 'tracker.zhuqiy.dgj055.icu'
+  - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'
