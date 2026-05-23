@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-23 01:44:13 (UTC+8)
+# UPDATED: 2026-05-24 00:46:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 28848
+# TOTAL: 28851
 payload:
   - '+.adult'
   - '+.amazon'
@@ -318,6 +318,7 @@ payload:
   - '+.233v2.com'
   - '+.2371tom.com'
   - '+.24h.tv'
+  - '+.24hbook.com'
   - '+.24hjav.com'
   - '+.24hrs.ca'
   - '+.24porn.com'
@@ -14503,6 +14504,7 @@ payload:
   - '+.marxist.com'
   - '+.marxist.net'
   - '+.marxists.org'
+  - '+.mas.to'
   - '+.masalabin.com'
   - '+.masaladesi.com'
   - '+.masalaseen.net'
@@ -16176,6 +16178,7 @@ payload:
   - '+.nenitas.club'
   - '+.nentindo.net'
   - '+.neo-miracle.com'
+  - '+.neodb.social'
   - '+.neoforged.net'
   - '+.neovim.io'
   - '+.neow.in'
