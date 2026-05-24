@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-24 00:55:05 (UTC+8)
+# UPDATED: 2026-05-25 00:57:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 670
+# TOTAL: 663
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -260,6 +260,7 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
+  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -301,7 +302,6 @@ payload:
   - 'tracker810.xyz'
   - 'uabits.today'
   - 'uatracker.net'
-  - 'vito-tracker.space'
   - 'wepzone.net'
   - 'xbtrutor.com'
   - 'xtremewrestlingtorrents.net'
@@ -444,8 +444,8 @@ payload:
   - 'torrents.linuxmint.com'
   - 'torrents.tmtime.dev'
   - 'tr.abiir.top'
+  - 'tr.abir.ga'
   - 'tr.bangumi.moe'
-  - 'tr.btube3.com'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
   - 'tr.highstar.shop'
@@ -528,7 +528,6 @@ payload:
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
   - 'tracker.hismz.cn'
-  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -621,7 +620,6 @@ payload:
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -648,11 +646,8 @@ payload:
   - 'u.peer-exchange.download'
   - 'udp.trackarr.org'
   - 'v6.vito-tracker.space'
-  - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
-  - 'whybother.torrentonline.cc'
   - 'ws.peer.ooo'
-  - 'www.nartlof.com'
   - 'www.wareztorrent.com'
   - 'y.paranoid.agency'
   - 'y.t-1.org'
@@ -672,6 +667,4 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'tracker.zhuqiy.dgj055.icu'
-  - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'
