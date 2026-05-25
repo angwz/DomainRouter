@@ -3,7 +3,6 @@ infini-cloud.net
 lightlayer.net
 teracloud.jp
 racknerd.com
-bigchick.io
 bagevm.com
 dmit.io
 
@@ -46,10 +45,6 @@ SRC-PORT,9993
 # Voll
 103.20.223.0/24
 
-# 鸡仔
-106.75.157.0/24
-2602:ffe4:1:96::/64
-
 # GreenCloud
 85.113.70.0/24
 2403:71c0:2000:1433::/64
@@ -75,7 +70,6 @@ lala.gg
 119.29.29.29
 2402:4e00::
 
-GEOSITE,geolocation-!cn@cn
 
 https://ruleset.skk.moe/Clash/non_ip/microsoft_cdn.txt
 
@@ -135,6 +129,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 [Proxy]
 
 GEOSITE,geolocation-!cn
+GEOSITE,geolocation-cn@!cn
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.list
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
@@ -232,8 +227,6 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meta
 
 
 [Angwz]
-
-GEOSITE,geolocation-cn@!cn
 
 # NVIDIA
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nvidia.yaml
