@@ -1,9 +1,0 @@
-# NAME: Angwz
-# AUTHOR: Angwz
-# REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-25 00:49:17 (UTC+8)
-# TYPE: classic
-# TOTAL: 1
-# GEOSITE TOTAL: 1
-payload:
-  - GEOSITE,geolocation-cn@!cn
