@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-26 01:27:14 (UTC+8)
+# UPDATED: 2026-05-27 02:14:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 28851
+# TOTAL: 28852
 payload:
   - '+.adult'
   - '+.amazon'
@@ -14983,6 +14983,7 @@ payload:
   - '+.midatlanticbmwmotorcycles.com'
   - '+.middle-way.net'
   - '+.midentsolutions.com'
+  - '+.midjourney.com'
   - '+.midoushe.com'
   - '+.miexnoviadesnuda.com'
   - '+.mihk.hk'

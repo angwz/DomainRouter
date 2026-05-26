@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-26 01:35:18 (UTC+8)
+# UPDATED: 2026-05-27 02:22:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 663
+# TOTAL: 672
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -260,7 +260,6 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -302,9 +301,11 @@ payload:
   - 'tracker810.xyz'
   - 'uabits.today'
   - 'uatracker.net'
+  - 'vito-tracker.space'
   - 'wepzone.net'
   - 'xbtrutor.com'
   - 'xtremewrestlingtorrents.net'
+  - 'zer0day.ch'
   - 'zupix.online'
   - '0d.kebhana.mx'
   - '10.rarbg.com'
@@ -395,6 +396,7 @@ payload:
   - 'open.trackerlist.xyz'
   - 'open.u-p.pw'
   - 'open.xxtor.com'
+  - 'opentracker.8880085.xyz'
   - 'opentracker.acgnx.com'
   - 'opentracker.acgnx.se'
   - 'oscar.reyesleon.xyz'
@@ -415,6 +417,7 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
+  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -446,6 +449,7 @@ payload:
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
+  - 'tr.btube3.com'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
   - 'tr.highstar.shop'
@@ -465,6 +469,7 @@ payload:
   - 'tracker.acgnx.se'
   - 'tracker.alaskantf.com'
   - 'tracker.ali213.net'
+  - 'tracker.anibt.net'
   - 'tracker.anima.nz'
   - 'tracker.anirena.com'
   - 'tracker.artixlinux.org'
@@ -572,6 +577,7 @@ payload:
   - 'tracker.pow7.com'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
+  - 'tracker.publictracker.xyz'
   - 'tracker.qingwapt.org'
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
@@ -646,7 +652,9 @@ payload:
   - 'u.peer-exchange.download'
   - 'udp.trackarr.org'
   - 'v6.vito-tracker.space'
+  - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
+  - 'whybother.torrentonline.cc'
   - 'ws.peer.ooo'
   - 'www.wareztorrent.com'
   - 'y.paranoid.agency'
@@ -667,4 +675,5 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
+  - 'trackthis.cyber.pz.it'
   - 'udp.tracker.projectk.org'
