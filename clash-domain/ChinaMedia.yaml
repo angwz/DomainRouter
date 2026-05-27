@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-27 02:22:52 (UTC+8)
+# UPDATED: 2026-05-28 02:24:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 5286
+# TOTAL: 5287
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -173,6 +173,7 @@ payload:
   - '+.8009900800.com'
   - '+.816798.net'
   - '+.8531.cn'
+  - '+.88cha.com'
   - '+.8gcdp.cn'
   - '+.8n82b.cn'
   - '+.91.com'

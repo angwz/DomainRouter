@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-27 02:15:00 (UTC+8)
+# UPDATED: 2026-05-28 02:16:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 254
+# TOTAL: 255
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -192,6 +192,7 @@ payload:
   - '+.events.statsigapi.net'
   - '+.geller-pa.googleapis.com'
   - '+.gemini.google.com'
+  - '+.gemini.gstatic.com'
   - '+.generativelanguage.googleapis.com'
   - '+.host.livekit.cloud'
   - '+.jules.google.com'
