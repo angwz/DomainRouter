@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-28 02:24:03 (UTC+8)
+# UPDATED: 2026-05-29 02:36:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 672
+# TOTAL: 667
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -396,7 +396,6 @@ payload:
   - 'open.trackerlist.xyz'
   - 'open.u-p.pw'
   - 'open.xxtor.com'
-  - 'opentracker.8880085.xyz'
   - 'opentracker.acgnx.com'
   - 'opentracker.acgnx.se'
   - 'oscar.reyesleon.xyz'
@@ -417,7 +416,6 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
-  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -449,7 +447,6 @@ payload:
   - 'tr.abiir.top'
   - 'tr.abir.ga'
   - 'tr.bangumi.moe'
-  - 'tr.btube3.com'
   - 'tr.burnabyhighstar.com'
   - 'tr.fuckbitcoin.xyz'
   - 'tr.highstar.shop'
@@ -469,7 +466,6 @@ payload:
   - 'tracker.acgnx.se'
   - 'tracker.alaskantf.com'
   - 'tracker.ali213.net'
-  - 'tracker.anibt.net'
   - 'tracker.anima.nz'
   - 'tracker.anirena.com'
   - 'tracker.artixlinux.org'
@@ -575,6 +571,7 @@ payload:
   - 'tracker.plx.im'
   - 'tracker.pmman.tech'
   - 'tracker.pow7.com'
+  - 'tracker.privateseedbox.xyz'
   - 'tracker.prq.to'
   - 'tracker.publicbt.com'
   - 'tracker.publictracker.xyz'
@@ -626,6 +623,7 @@ payload:
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
+  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -650,11 +648,9 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
-  - 'udp.trackarr.org'
-  - 'v6.vito-tracker.space'
-  - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
   - 'whybother.torrentonline.cc'
+  - 'wolf.parrot.run'
   - 'ws.peer.ooo'
   - 'www.wareztorrent.com'
   - 'y.paranoid.agency'
@@ -663,7 +659,6 @@ payload:
   - 'yuptracker-eu.gaijinent.com'
   - 'z.paranoid.agency'
   - 'anime-tracker.aruku.kro.kr'
-  - 'cerf.cs.umd.edu'
   - 'd40969.acod.regrucolo.ru'
   - 'denis.stalker.upeer.me'
   - 'h4.trakx.nibba.trade'
@@ -675,5 +670,5 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'trackthis.cyber.pz.it'
+  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'

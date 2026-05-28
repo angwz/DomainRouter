@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-28 02:24:05 (UTC+8)
+# UPDATED: 2026-05-29 02:36:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 5287
+# TOTAL: 5295
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1081,6 +1081,8 @@ payload:
   - '+.curseforge.com'
   - '+.cxzx10086.cn'
   - '+.cygames.jp'
+  - '+.cyol.com'
+  - '+.cyol.net'
   - '+.cyzone.cn'
   - '+.cza84.cn'
   - '+.cztv.com'
@@ -1255,6 +1257,7 @@ payload:
   - '+.easportsfootballclub.com'
   - '+.easportsmma.com'
   - '+.easportsworld.com'
+  - '+.eastday.com'
   - '+.eastore.com'
   - '+.easy.ac'
   - '+.easyanticheat.net'
@@ -2530,6 +2533,7 @@ payload:
   - '+.mi-cdn.com'
   - '+.mi-customer.com'
   - '+.mi-dun.com'
+  - '+.mi-fds.com'
   - '+.mi-idc.com'
   - '+.mi-img.com'
   - '+.mi-img1.com'
@@ -3923,6 +3927,7 @@ payload:
   - '+.baidupcs.com.cn'
   - '+.baiying.com.cn'
   - '+.battlenet.com.cn'
+  - '+.bbtnews.com.cn'
   - '+.bestpay.com.cn'
   - '+.blizzcon-a.akamaihd.net'
   - '+.blzddist1-a.akamaihd.net'
@@ -3939,7 +3944,9 @@ payload:
   - '+.cctvpro.com.cn'
   - '+.cdn.zampdsp.com'
   - '+.cdngarenanow-a.akamaihd.net'
+  - '+.cfgw.net.cn'
   - '+.chinabank.com.cn'
+  - '+.chinadevelopment.com.cn'
   - '+.chinanews.com.cn'
   - '+.chinatelecom.com.cn'
   - '+.chinatelecom.net.cn'
@@ -3976,6 +3983,7 @@ payload:
   - '+.e-engine.com.cn'
   - '+.eaassets-a.akamaihd.net'
   - '+.eakorea.co.kr'
+  - '+.eeo.com.cn'
   - '+.egdownload.fastly-edge.com'
   - '+.ewindcloud.com.cn'
   - '+.fe-cdn.huami.com'

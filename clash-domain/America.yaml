@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-28 02:16:25 (UTC+8)
+# UPDATED: 2026-05-29 02:28:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 1577
+# TOTAL: 1585
 payload:
   - '+.android'
   - '+.intel'
@@ -334,6 +334,7 @@ payload:
   - '+.elastic.com'
   - '+.electrochem.org'
   - '+.electronjs.org'
+  - '+.elementary.io'
   - '+.elgaronline.com'
   - '+.elifesciences.org'
   - '+.elixir-lang.org'
@@ -475,6 +476,7 @@ payload:
   - '+.global-sci.org'
   - '+.globalsign.com'
   - '+.globalspec.com'
+  - '+.gnome.org'
   - '+.gnu.org'
   - '+.go-lang.com'
   - '+.go-lang.net'
@@ -795,6 +797,7 @@ payload:
   - '+.k8s.io'
   - '+.kali.org'
   - '+.karger.com'
+  - '+.kde.org'
   - '+.kernel.org'
   - '+.knovel.com'
   - '+.kotlinlang.org'
@@ -821,6 +824,7 @@ payload:
   - '+.literatumonline.com'
   - '+.lookinside.com'
   - '+.lua.org'
+  - '+.lxqt-project.org'
   - '+.ma1lib.org'
   - '+.macosforge.org'
   - '+.macosicons.com'
@@ -847,6 +851,7 @@ payload:
   - '+.marketo.tv'
   - '+.marketodesigner.com'
   - '+.marketolive.com'
+  - '+.mate-desktop.org'
   - '+.mathoverflow.net'
   - '+.maven.org'
   - '+.mcrouter.net'
@@ -1013,6 +1018,7 @@ payload:
   - '+.pkgbuild.com'
   - '+.pkulaw.com'
   - '+.placesdocs.com'
+  - '+.plasma-mobile.org'
   - '+.playerjs.io'
   - '+.plex.tv'
   - '+.plos.org'
@@ -1202,6 +1208,7 @@ payload:
   - '+.symantec.com'
   - '+.symcb.com'
   - '+.symcd.com'
+  - '+.system76.com'
   - '+.tampermonkey.net'
   - '+.tandfonline.com'
   - '+.taylorandfrancis.com'
@@ -1317,6 +1324,7 @@ payload:
   - '+.x.org'
   - '+.xamarin.com'
   - '+.xeon.com'
+  - '+.xfce.org'
   - '+.xn--ztsq84g.cn'
   - '+.xposed.info'
   - '+.xscale.com'
