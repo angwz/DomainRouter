@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-30 02:33:08 (UTC+8)
+# UPDATED: 2026-05-31 00:58:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 667
+# TOTAL: 666
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -260,6 +260,7 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
+  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -301,7 +302,6 @@ payload:
   - 'tracker810.xyz'
   - 'uabits.today'
   - 'uatracker.net'
-  - 'vito-tracker.space'
   - 'wepzone.net'
   - 'xbtrutor.com'
   - 'xtremewrestlingtorrents.net'
@@ -416,6 +416,7 @@ payload:
   - 'secure.pow7.com'
   - 'share.camoe.cn'
   - 'share.hkg-fansub.info'
+  - 'speedtest.iperson.xyz'
   - 'sugoi.pomf.se'
   - 'sukebei.tracker.wf'
   - 't-115.rhcloud.com'
@@ -434,6 +435,7 @@ payload:
   - 't3.leech.ie'
   - 'tamas3.ynh.fr'
   - 'torrent.arjlover.net'
+  - 'torrent.bowed.net'
   - 'torrent.fedoraproject.org'
   - 'torrent.hificode.in'
   - 'torrent.mp3quran.net'
@@ -580,7 +582,6 @@ payload:
   - 'tracker.renfei.net'
   - 'tracker.rescuecrew7.com'
   - 'tracker.sbsub.com'
-  - 'tracker.sharebro.in'
   - 'tracker.shittyurl.org'
   - 'tracker.skillindia.site'
   - 'tracker.sktorrent.net'
@@ -603,7 +604,6 @@ payload:
   - 'tracker.tiny-vps.com'
   - 'tracker.token.ro'
   - 'tracker.torrentbytes.net'
-  - 'tracker.torrentclaw.com'
   - 'tracker.torrentsnows.com'
   - 'tracker.torrenty.org'
   - 'tracker.torrust-demo.com'
@@ -623,7 +623,6 @@ payload:
   - 'tracker.xiaoduola.xyz'
   - 'tracker.xn--djrq4gl4hvoi.top'
   - 'tracker.yemekyedim.com'
-  - 'tracker.yume-hatsuyuki.moe'
   - 'tracker.zer0day.to'
   - 'tracker.zhuqiy.com'
   - 'tracker.zond.org'
@@ -648,9 +647,10 @@ payload:
   - 'trackers.ptlsp.com'
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
+  - 'v6.vito-tracker.space'
+  - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
   - 'whybother.torrentonline.cc'
-  - 'wolf.parrot.run'
   - 'ws.peer.ooo'
   - 'www.wareztorrent.com'
   - 'y.paranoid.agency'
@@ -670,5 +670,4 @@ payload:
   - 'tracker.manager.v6.navy'
   - 'tracker.tntvillage.scambioetico.org'
   - 'tracker.tvunderground.org.ru'
-  - 'tracker.zhuqiy.dgj055.icu'
   - 'udp.tracker.projectk.org'

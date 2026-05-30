@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-30 02:25:20 (UTC+8)
+# UPDATED: 2026-05-31 00:50:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 255
+# TOTAL: 256
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -15,6 +15,7 @@ payload:
   - '+.antigravity-unleash.goog'
   - '+.antigravity.google'
   - '+.anythingllm.com'
+  - '+.arena.ai'
   - '+.auth0.com'
   - '+.bing.com'
   - '+.bing.net'
