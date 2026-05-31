@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-31 00:50:11 (UTC+8)
+# UPDATED: 2026-05-31 22:07:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 28888
+# TOTAL: 28890
 payload:
   - '+.adult'
   - '+.amazon'
@@ -14043,6 +14043,7 @@ payload:
   - '+.livingonline.us'
   - '+.livingstream.com'
   - '+.livingyourambition.com'
+  - '+.livinno.org'
   - '+.liwangyang.com'
   - '+.liyuans.com'
   - '+.lizardporn.com'
@@ -17220,6 +17221,7 @@ payload:
   - '+.ooyala.com'
   - '+.op.gg'
   - '+.op7979.com'
+  - '+.opac-project.eu'
   - '+.openai.com'
   - '+.openallweb.com'
   - '+.openamt.com'

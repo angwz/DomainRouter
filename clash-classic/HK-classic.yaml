@@ -1,10 +1,10 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-31 00:50:14 (UTC+8)
+# UPDATED: 2026-05-31 22:07:22 (UTC+8)
 # TYPE: classic
-# TOTAL: 9
-# DOMAIN-KEYWORD TOTAL: 8
+# TOTAL: 8
+# DOMAIN-KEYWORD TOTAL: 7
 # IP-ASN TOTAL: 1
 payload:
   - DOMAIN-KEYWORD,annas-archive
@@ -12,7 +12,6 @@ payload:
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
   - DOMAIN-KEYWORD,paypal
-  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
 

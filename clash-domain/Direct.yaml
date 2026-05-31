@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-05-31 00:49:25 (UTC+8)
+# UPDATED: 2026-05-31 22:06:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 1975
+# TOTAL: 1976
 payload:
   - '+.java'
   - '+.oracle'
@@ -261,6 +261,7 @@ payload:
   - '+.hwshu.com'
   - '+.hytung.cn'
   - '+.ibcet.org'
+  - '+.ifconfig.me'
   - '+.incopat.com'
   - '+.infini-cloud.net'
   - '+.instreet.com'
