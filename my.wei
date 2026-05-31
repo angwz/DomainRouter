@@ -22,7 +22,7 @@ SRC-PORT,9993
 2607:8700:5500:7f2a::/64
 
 # Bage
-103.102.4.0/24
+209.33.166.0/24
 2a14:4900:2201:e7::/64
 
 # Huawei
@@ -50,8 +50,7 @@ SRC-PORT,9993
 2403:71c0:2000:1433::/64
 
 # RN
-148.135.21.0/24
-2607:f130:0:1dc::/64
+192.129.133.0/24
 
 
 
@@ -70,6 +69,8 @@ lala.gg
 119.29.29.29
 2402:4e00::
 
+
+ifconfig.me
 
 https://ruleset.skk.moe/Clash/non_ip/microsoft_cdn.txt
 
@@ -213,10 +214,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 
 
-# GitHub
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
-
 
 # Meta
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/facebook.yaml
@@ -226,12 +223,8 @@ https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meta
 
 
 
-[Angwz]
-
-# NVIDIA
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nvidia.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list
-
+# [Angwz]
+# Angwz: 🌠 节点选择
 
 
 [AI]
@@ -334,6 +327,14 @@ plex.tv
 
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/USMedia/USMedia.list
+
+# NVIDIA
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nvidia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list
+
+# GitHub
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
 
 # Dev
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-dev.yaml
@@ -599,7 +600,6 @@ Japan: 🌺 日本专线
 HK: 🛫 香港专线
 Singapore: 🧊 新加坡专线
 Star: 🌌 星星啊
-Angwz: 🌠 节点选择
 America: ⛳ 美国专线
 ChinaMedia: DIRECT
 OneDrive: ⛅ OneDrive

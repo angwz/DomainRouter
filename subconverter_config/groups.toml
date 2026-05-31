@@ -42,7 +42,7 @@ type = "select"
 
 [[custom_groups]]
 name = "💻 YouTube"
-rule = ["[]🌠 节点选择", "[]🛫 香港专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
+rule = ["[]🎇 香港高速", "[]🌠 节点选择", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -72,13 +72,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🛖 国际流媒体"
-rule = [
-  "[]🌠 节点选择",
-  "[]🛫 香港专线",
-  "[]🌺 日本专线",
-  "[]⛳ 美国专线",
-  "[]✈️ 手动切换",
-]
+rule = ["[]🎇 香港高速", "[]🌠 节点选择", "[]🌺 日本专线", "[]⛳ 美国专线", "[]✈️ 手动切换"]
 type = "select"
 
 [[custom_groups]]
@@ -88,31 +82,33 @@ type = "select"
 
 [[custom_groups]]
 name = "🌌 星星啊"
-rule = ["(下载)", "[]🌠 节点选择", "(.*)"]
+rule = ["🎇 香港高速", "[]🌠 节点选择", "(.*)"]
 type = "select"
 
 [[custom_groups]]
 interval = 97
+lazy = false
 name = "🛫 香港专线"
-rule = ["(港|HK|hk|Hong Kong|HongKong|hongkong)"]
-type = "load-balance"
+rule = [
+  "(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*Lightlayer).*$)",
+  "🎇 香港高速",
+]
+type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
 interval = 127
+lazy = false
 name = "🌺 日本专线"
-rule = ["(日|东京|大阪|埼玉|JP|jp|Japan)"]
-type = "load-balance"
+rule = ["[]🗾 日本高速", "[]🏞️ 美利坚高速"]
+type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
 [[custom_groups]]
 interval = 177
 lazy = false
 name = "🧊 新加坡专线"
-rule = [
-  "[]🦁 新加坡高速",
-  "[]🏞️ 美利坚高速",
-]
+rule = ["[]🦁 新加坡高速", "[]🏞️ 美利坚高速"]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
@@ -126,6 +122,19 @@ rule = [
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
+
+[[custom_groups]]
+name = "🎇 香港高速"
+rule = [
+  "(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*Cera).*$)",
+  "(港|HK|hk|Hong Kong|HongKong|hongkong)",
+]
+type = "select"
+
+[[custom_groups]]
+name = "🗾 日本高速"
+rule = ["(^(?=.*(日|东京|大阪|埼玉|JP|jp|Japan))(?!.*尼日利亚).*$)"]
+type = "select"
 
 [[custom_groups]]
 name = "🦁 新加坡高速"
