@@ -82,7 +82,7 @@ type = "select"
 
 [[custom_groups]]
 name = "🌌 星星啊"
-rule = ["🎇 香港高速", "[]🌠 节点选择", "(.*)"]
+rule = ["[]🎇 香港高速", "[]🌠 节点选择", "(.*)"]
 type = "select"
 
 [[custom_groups]]
@@ -91,7 +91,7 @@ lazy = false
 name = "🛫 香港专线"
 rule = [
   "(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*Lightlayer).*$)",
-  "🎇 香港高速",
+  "[]🎇 香港高速",
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
