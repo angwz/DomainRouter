@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-01 00:54:02 (UTC+8)
+# UPDATED: 2026-06-01 22:15:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 28890
+# TOTAL: 28893
 payload:
   - '+.adult'
   - '+.amazon'
@@ -24947,7 +24947,10 @@ payload:
   - '+.xhamster3.com'
   - '+.xhamsterlive.com'
   - '+.xhcdn.com'
+  - '+.xhnews.live'
   - '+.xhot.pro'
+  - '+.xhpingcdn.com'
+  - '+.xhreal5.com'
   - '+.xhub.tv'
   - '+.xianba.net'
   - '+.xianchawang.net'
