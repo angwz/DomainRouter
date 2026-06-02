@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-02 04:16:42 (UTC+8)
+# UPDATED: 2026-06-02 12:34:11 (UTC+8)
 # TYPE: domain
-# TOTAL: 5295
+# TOTAL: 5300
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -882,6 +882,7 @@ payload:
   - '+.chinamobileltd.com'
   - '+.chinanews.com'
   - '+.chinaott.com'
+  - '+.chinaqw.com'
   - '+.chinatelecom-h.com'
   - '+.chinatelecom.cn'
   - '+.chinatelecomglobal.com'
@@ -1001,6 +1002,7 @@ payload:
   - '+.cnjsun.com'
   - '+.cnr.cn'
   - '+.cnrdn.com'
+  - '+.cnsimg.net'
   - '+.cnstock.com'
   - '+.cntv.cn'
   - '+.cntvwb.cn'
@@ -2298,6 +2300,7 @@ payload:
   - '+.juwuxian.com'
   - '+.juzone.cc'
   - '+.jvtianshanuu.com'
+  - '+.jwview.com'
   - '+.jxpp.com'
   - '+.jztvnews.com'
   - '+.ka9bv.cn'
@@ -2727,6 +2730,7 @@ payload:
   - '+.netianshannu.com'
   - '+.netstatic.net'
   - '+.news.cn'
+  - '+.newsimg.cn'
   - '+.newsupermariobrosu.com'
   - '+.nexon.com'
   - '+.nexon.io'
@@ -3681,6 +3685,7 @@ payload:
   - '+.xinhuanet.com'
   - '+.xinhuaxmt.com'
   - '+.xinlingshou.cn'
+  - '+.xinmeng.info'
   - '+.xinwuji.com'
   - '+.xinyan.cn'
   - '+.xinzhi.com'

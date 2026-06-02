@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-02 04:08:40 (UTC+8)
+# UPDATED: 2026-06-02 12:26:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 28893
+# TOTAL: 28895
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9724,6 +9724,7 @@ payload:
   - '+.getmdl.io'
   - '+.getnews.jp'
   - '+.getoutline.org'
+  - '+.getpaint.net'
   - '+.getpocket.com'
   - '+.getporn.tv'
   - '+.getpricetag.com'
@@ -17490,6 +17491,7 @@ payload:
   - '+.paimon.moe'
   - '+.painfulpussytortures.com'
   - '+.painnovel.com'
+  - '+.paint.net'
   - '+.paipal.com'
   - '+.paipancon.com'
   - '+.paisapay.cc'

@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-02 04:08:42 (UTC+8)
+# UPDATED: 2026-06-02 12:26:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 1653
+# TOTAL: 1655
 payload:
   - '+.android'
   - '+.intel'
@@ -446,6 +446,7 @@ payload:
   - '+.getbootstrap.com'
   - '+.getcomposer.org'
   - '+.getfedora.org'
+  - '+.getpaint.net'
   - '+.getzola.org'
   - '+.gfotolia.com'
   - '+.ggsrv.com'
@@ -1031,6 +1032,7 @@ payload:
   - '+.packagecloud.io'
   - '+.packagist.org'
   - '+.packer.io'
+  - '+.paint.net'
   - '+.paramount.com'
   - '+.paramountplus.com'
   - '+.parse.com'
