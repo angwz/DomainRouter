@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-03 03:33:46 (UTC+8)
+# UPDATED: 2026-06-04 03:40:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 1976
+# TOTAL: 1977
 payload:
   - '+.java'
   - '+.oracle'
@@ -191,6 +191,7 @@ payload:
   - '+.dui.ai'
   - '+.duiopen.com'
   - '+.duxiu.com'
+  - '+.ejoy.com'
   - '+.elderscrolls.com'
   - '+.eloqua.com'
   - '+.eloquaeditors.com'

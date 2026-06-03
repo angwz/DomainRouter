@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-03 03:42:45 (UTC+8)
+# UPDATED: 2026-06-04 03:49:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 916
+# TOTAL: 917
 payload:
   - '+.android'
   - '+.chrome'
@@ -547,6 +547,7 @@ payload:
   - '+.stxmosquitoproject.org'
   - '+.synergyse.com'
   - '+.teachparentstech.org'
+  - '+.tenor.com'
   - '+.tensorflow.org'
   - '+.tfhub.dev'
   - '+.thecleversense.com'

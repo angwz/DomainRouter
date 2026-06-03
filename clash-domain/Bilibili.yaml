@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-03 03:42:44 (UTC+8)
+# UPDATED: 2026-06-04 03:49:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 1008
+# TOTAL: 1010
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -548,6 +548,7 @@ payload:
   - '+.luckycalendar.cn'
   - '+.luckysf.net'
   - '+.maidouke.com'
+  - '+.maoer.com'
   - '+.maoercdn.com'
   - '+.maoxiangai.com'
   - '+.marscode.cn'
@@ -559,6 +560,7 @@ payload:
   - '+.mcprev.cn'
   - '+.meegobeta.com'
   - '+.mincdn.com'
+  - '+.missevan.com'
   - '+.mobilelegends.com'
   - '+.modernjs.cn'
   - '+.moonton.com'

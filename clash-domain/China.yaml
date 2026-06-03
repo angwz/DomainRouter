@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-03 03:42:43 (UTC+8)
+# UPDATED: 2026-06-04 03:49:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 113663
+# TOTAL: 113677
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -17962,6 +17962,7 @@ payload:
   - '+.btei6pis99.com'
   - '+.btgame.com'
   - '+.btgcjs.com'
+  - '+.btghotels.com'
   - '+.btgljt.com'
   - '+.btgtravel.com'
   - '+.bth.vip'
@@ -24607,6 +24608,7 @@ payload:
   - '+.cnsihai.com'
   - '+.cnsikao.com'
   - '+.cnsimeng.com'
+  - '+.cnsimg.net'
   - '+.cnsimin.com'
   - '+.cnsiwu.com'
   - '+.cnskg.com'
@@ -32223,6 +32225,7 @@ payload:
   - '+.edgeonevod1.com'
   - '+.edgeonevod1.net'
   - '+.edgep.net'
+  - '+.edgescloud.cloud'
   - '+.edgesrv.com'
   - '+.edgetls.xyz'
   - '+.edhic.com'
@@ -43498,6 +43501,7 @@ payload:
   - '+.habbygames.com'
   - '+.habctv.com'
   - '+.habwjc.com'
+  - '+.hacg.site'
   - '+.hach-hanna.com'
   - '+.hachicnc.com'
   - '+.hacjkq.com'
@@ -54968,6 +54972,7 @@ payload:
   - '+.jinjiang.tv'
   - '+.jinjianghotels.com'
   - '+.jinjianginns.com'
+  - '+.jinjiangonline.net'
   - '+.jinjiangwater.com'
   - '+.jinjiaomh.com'
   - '+.jinjie.tech'
@@ -66716,6 +66721,7 @@ payload:
   - '+.mingpian.net'
   - '+.mingqi.co'
   - '+.mingqu.xyz'
+  - '+.mingque.com'
   - '+.mingr.com'
   - '+.mingren888.com'
   - '+.mingrsoft.com'
@@ -71550,6 +71556,7 @@ payload:
   - '+.oemnew.com'
   - '+.oempromo.com'
   - '+.oemresource.com'
+  - '+.oemxitong.com'
   - '+.oeob.net'
   - '+.oepamvxq.com'
   - '+.oepkgs.net'
@@ -73183,6 +73190,7 @@ payload:
   - '+.peekpipai.com'
   - '+.peento.com'
   - '+.peepic.com'
+  - '+.peer.as'
   - '+.peerkennel.com'
   - '+.pegbiocq.com'
   - '+.peidibrand.com'
@@ -77740,6 +77748,7 @@ payload:
   - '+.rationalwh.com'
   - '+.ratogh.com'
   - '+.ratoo.net'
+  - '+.rauqa.net'
   - '+.rauto.com'
   - '+.ravenna0943.xyz'
   - '+.raverstern.site'
@@ -87114,6 +87123,7 @@ payload:
   - '+.syrc.org'
   - '+.syrcb.net'
   - '+.syrczpw.com'
+  - '+.syrds.pro'
   - '+.syreads.com'
   - '+.syrecovery.com'
   - '+.syrhkj.com'
@@ -90007,6 +90017,7 @@ payload:
   - '+.tianxingjianyiliao.com'
   - '+.tianxinkeji.com'
   - '+.tianya.com'
+  - '+.tianya.net'
   - '+.tianya.tv'
   - '+.tianya66.com'
   - '+.tianyablog.com'
@@ -93962,6 +93973,7 @@ payload:
   - '+.videougc.com'
   - '+.videoxiaoyouxi.com'
   - '+.videoyx.com'
+  - '+.vidhash.net'
   - '+.vidmate.mobi'
   - '+.vidmate.net'
   - '+.vidmatefilm.org'
@@ -100910,6 +100922,7 @@ payload:
   - '+.xinmeijiutian.com'
   - '+.xinmeinuo.com'
   - '+.xinmem.com'
+  - '+.xinmeng.info'
   - '+.xinmenglife.com'
   - '+.xinmeow.com'
   - '+.xinmeti.com'
@@ -101809,6 +101822,7 @@ payload:
   - '+.xn--fjq5py34j65v.com'
   - '+.xn--glr604k.com'
   - '+.xn--gmqr9gdtrhuf56g.com'
+  - '+.xn--h5qy75o.vip'
   - '+.xn--husx9zj2eepau0se83d.com'
   - '+.xn--hutn94av9amzg.net'
   - '+.xn--i6q33br88fkud.com'

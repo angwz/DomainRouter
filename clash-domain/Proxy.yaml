@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-03 03:34:33 (UTC+8)
+# UPDATED: 2026-06-04 03:40:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 28895
+# TOTAL: 28896
 payload:
   - '+.adult'
   - '+.amazon'
@@ -22388,6 +22388,7 @@ payload:
   - '+.tomsguide.com'
   - '+.tomshardware.com'
   - '+.ton.org'
+  - '+.toncenter.com'
   - '+.tonec.com'
   - '+.tonicmovies.com'
   - '+.tono-oka.jp'

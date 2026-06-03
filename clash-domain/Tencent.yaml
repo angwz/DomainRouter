@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-03 03:42:44 (UTC+8)
+# UPDATED: 2026-06-04 03:49:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 2523
+# TOTAL: 2544
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -426,6 +426,7 @@ payload:
   - '+.exmailgz.com'
   - '+.extqq.com'
   - '+.eyaodev.xyz'
+  - '+.fanxingliveshow.com'
   - '+.fatfreader.com'
   - '+.feie.work'
   - '+.ffbuddy.com'
@@ -678,12 +679,30 @@ payload:
   - '+.jxemailbk.cn'
   - '+.jxqy.city'
   - '+.kefu01.com'
+  - '+.kgimg.com'
+  - '+.kglink.cn'
+  - '+.koowo.cn'
+  - '+.koowo.com'
   - '+.kr-tencentclb.cloud'
   - '+.kr-tencentclb.com'
   - '+.kr-tencentclb.net'
   - '+.kr-tencentclb.work'
   - '+.kting.info'
+  - '+.ktv.com'
+  - '+.kugoo.com'
+  - '+.kugou.com'
+  - '+.kugou.net'
+  - '+.kugouaudio.com'
+  - '+.kugouipv6.com'
+  - '+.kugoukid.com'
+  - '+.kugouliveshow.com'
+  - '+.kugouringtone.com'
+  - '+.kugousenior.com'
+  - '+.kugoustore.com'
+  - '+.kugouvoice.com'
+  - '+.kugouyouth.com'
   - '+.kuledushu.com'
+  - '+.kuwo.cn'
   - '+.kwsou.cn'
   - '+.l1xn.cn'
   - '+.labycore.cn'
@@ -2226,12 +2245,14 @@ payload:
   - '+.xijingjianzhan7.com'
   - '+.xijingjianzhan8.com'
   - '+.xijingjianzhan9.com'
+  - '+.ximalaya.com'
   - '+.xindongdinglv.com'
   - '+.xinyueclub.com'
   - '+.xiyec-tencentclb.cloud'
   - '+.xiyec-tencentclb.com'
   - '+.xiyec-tencentclb.net'
   - '+.xiyec-tencentclb.work'
+  - '+.xmcdn.com'
   - '+.xn--owtw8cc49ajfl.cn'
   - '+.xn--r70as2s.xn--fiqs8s'
   - '+.xqa1.cn'
