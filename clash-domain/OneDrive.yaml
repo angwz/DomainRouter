@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-04 03:49:05 (UTC+8)
+# UPDATED: 2026-06-05 02:14:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 673
+# TOTAL: 668
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -261,7 +261,6 @@ payload:
   - 'funfile.org'
   - 'hdreactor.org'
   - 'jutone.com'
-  - 'jvavav.com'
   - 'kaztorka.org'
   - 'kinorun.com'
   - 'leet-tracker.moe'
@@ -304,7 +303,6 @@ payload:
   - 'tracker810.xyz'
   - 'uabits.today'
   - 'uatracker.net'
-  - 'vito-tracker.space'
   - 'wepzone.net'
   - 'xbtrutor.com'
   - 'xtremewrestlingtorrents.net'
@@ -532,7 +530,6 @@ payload:
   - 'tracker.healthcareindia.store'
   - 'tracker.hifitechindia.com'
   - 'tracker.hismz.cn'
-  - 'tracker.huadongblower.xyz'
   - 'tracker.imgoingto.icu'
   - 'tracker.internetwarriors.net'
   - 'tracker.iperson.xyz'
@@ -640,7 +637,6 @@ payload:
   - 'tracker2.dler.org'
   - 'tracker2.itzmx.com'
   - 'tracker2.torrentino.com'
-  - 'tracker3.ctix.cn'
   - 'tracker3.dler.org'
   - 'tracker3.itzmx.com'
   - 'tracker3.torrentino.com'
@@ -652,7 +648,6 @@ payload:
   - 'ttk2.nbaonlineservice.com'
   - 'u.peer-exchange.download'
   - 'v6.vito-tracker.space'
-  - 'vito-tracker.duckdns.org'
   - 'wg.mortis.me'
   - 'whybother.torrentonline.cc'
   - 'ws.peer.ooo'
