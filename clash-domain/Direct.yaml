@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-05 02:06:14 (UTC+8)
+# UPDATED: 2026-06-06 01:44:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 1977
+# TOTAL: 1978
 payload:
   - '+.java'
   - '+.oracle'
@@ -689,6 +689,7 @@ payload:
   - '+.xinghuo.xfyun.cn'
   - '+.xuexi365.com.cn'
   - '+.yiyan.baidu.com'
+  - '+.yuanbao.tencent.com'
   - '+.yuanqi.tencent.com'
   - '+.zaifan.com.cn'
   - '+.100.100.in-addr.arpa'

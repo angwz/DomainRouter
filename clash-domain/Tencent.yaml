@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-05 02:14:48 (UTC+8)
+# UPDATED: 2026-06-06 01:53:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 2544
+# TOTAL: 2548
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -40,6 +40,7 @@ payload:
   - '+.7888.com'
   - '+.7grandcross.com'
   - '+.91facts.com'
+  - '+.97ting.com'
   - '+.9uma.cn'
   - '+.abetterchoice.cn'
   - '+.accessibility-union.cn'
@@ -1011,6 +1012,7 @@ payload:
   - '+.qqmapyx.com'
   - '+.qqmra.cn'
   - '+.qqmra.com'
+  - '+.qqmusic.com'
   - '+.qqmusic.store'
   - '+.qqnaozhong.com'
   - '+.qqopenapp.com'
@@ -1778,6 +1780,7 @@ payload:
   - '+.timibase.com'
   - '+.timmerse.com'
   - '+.tingbook.com'
+  - '+.tingmall.com'
   - '+.tisi.org'
   - '+.titanm.com'
   - '+.tjstats.com'
@@ -2031,6 +2034,7 @@ payload:
   - '+.ugcimg.cn'
   - '+.ugdtimg.com'
   - '+.uisa0.cn'
+  - '+.ultimatemusic.cn'
   - '+.um.run'
   - '+.uncnn.cn'
   - '+.univod.cn'

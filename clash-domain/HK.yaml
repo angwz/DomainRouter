@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-05 02:06:59 (UTC+8)
+# UPDATED: 2026-06-06 01:45:31 (UTC+8)
 # TYPE: domain
-# TOTAL: 744
+# TOTAL: 746
 payload:
   - '+.azure'
   - '+.hk'
@@ -563,6 +563,8 @@ payload:
   - '+.xoom.io'
   - '+.xoom.us'
   - '+.xoomcom.com'
+  - '+.youku.tv'
+  - '+.youkuplay.com'
   - '+.zerotier.com'
   - '+.1fhjlv1.oloadcdn.net'
   - '+.a.o333o.com'
