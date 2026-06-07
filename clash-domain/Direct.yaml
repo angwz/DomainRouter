@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-07 00:55:58 (UTC+8)
+# UPDATED: 2026-06-08 01:02:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 1978
+# TOTAL: 1981
 payload:
   - '+.java'
   - '+.oracle'
@@ -282,6 +282,7 @@ payload:
   - '+.kindle.cn'
   - '+.kindleoasis.cn'
   - '+.kk1.vip'
+  - '+.klingai.com'
   - '+.kshbank.cn'
   - '+.lala.gg'
   - '+.lawyee.org'
@@ -372,6 +373,7 @@ payload:
   - '+.peoplerail.com'
   - '+.pgyer.com'
   - '+.phicomm.me'
+  - '+.php.cn'
   - '+.phpweblog.net'
   - '+.picpic-ai.cn'
   - '+.pingcap.cn'
@@ -434,6 +436,7 @@ payload:
   - '+.swiftui.cn'
   - '+.sxl.cn'
   - '+.sxlcdn.cn'
+  - '+.sxlcdn.com'
   - '+.tapnow.top'
   - '+.tcwqqdy.guru'
   - '+.tdpress.com'

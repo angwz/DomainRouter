@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-07 00:56:43 (UTC+8)
+# UPDATED: 2026-06-08 01:03:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 257
+# TOTAL: 260
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -118,6 +118,7 @@ payload:
   - '+.msunlimitedcloudsummit.com'
   - '+.notebooklm.google'
   - '+.oaistatic.com'
+  - '+.oaistatsig.com'
   - '+.oaiusercontent.com'
   - '+.observeit.net'
   - '+.office365love.com'
@@ -138,9 +139,11 @@ payload:
   - '+.poecdn.net'
   - '+.pplx.ai'
   - '+.pscp.tv'
+  - '+.qoder.com'
   - '+.renovacionoffice.com'
   - '+.segment.io'
   - '+.sentry.io'
+  - '+.sider.ai'
   - '+.sora.com'
   - '+.spicywriter.com'
   - '+.sprinklesapp.com'

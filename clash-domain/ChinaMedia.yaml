@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-07 01:04:39 (UTC+8)
+# UPDATED: 2026-06-08 01:11:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 5323
+# TOTAL: 5325
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -75,6 +75,7 @@ payload:
   - '+.189.cn'
   - '+.189jk.cn'
   - '+.189qas.com'
+  - '+.189smarthome.com'
   - '+.1huizhan.com'
   - '+.2-class.com'
   - '+.21cn.com'
@@ -4424,6 +4425,7 @@ payload:
   - 'guangshui-live21.cjyun.org'
   - 'gztr.chinashadt.com'
   - 'h5.baojinews.com'
+  - 'hb.imgix.net'
   - 'hb2stream1.baoxinwen.com'
   - 'hbbz.chinashadt.com'
   - 'hbca.chinashadt.com'
