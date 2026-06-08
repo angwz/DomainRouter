@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-08 01:03:12 (UTC+8)
+# UPDATED: 2026-06-09 02:16:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 29114
+# TOTAL: 29115
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16818,6 +16818,7 @@ payload:
   - '+.noticias-rt.com'
   - '+.notimundo.press'
   - '+.notion-static.com'
+  - '+.notion-status.com'
   - '+.notion.com'
   - '+.notion.new'
   - '+.notion.site'
