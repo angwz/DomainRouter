@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-10 01:51:22 (UTC+8)
+# UPDATED: 2026-06-11 02:23:09 (UTC+8)
 # TYPE: domain
-# TOTAL: 29115
+# TOTAL: 29120
 payload:
   - '+.adult'
   - '+.amazon'
@@ -12230,6 +12230,7 @@ payload:
   - '+.info-graf.fr'
   - '+.infocert.digital'
   - '+.infocert.it'
+  - '+.infoq.com'
   - '+.infoq.jp'
   - '+.informer.com'
   - '+.informs.org'
@@ -17028,6 +17029,7 @@ payload:
   - '+.nwtca.org'
   - '+.nwxs8.com'
   - '+.nxta.org'
+  - '+.nxtv.jp'
   - '+.nyaa.eu'
   - '+.nyaa.net'
   - '+.nyaa.si'
@@ -23269,6 +23271,8 @@ payload:
   - '+.underhentai.net'
   - '+.underlords.com'
   - '+.underwoodammo.com'
+  - '+.unext-info.jp'
+  - '+.unext.jp'
   - '+.unfiltered.news'
   - '+.ungrounded.net'
   - '+.unholyknight.com'
@@ -28587,6 +28591,7 @@ payload:
   - '+.umap.openstreetmap.fr'
   - '+.umsoplaneta.com.br'
   - '+.unblock.cn.com'
+  - '+.unext.co.jp'
   - '+.unification.org.tw'
   - '+.url.com.tw'
   - '+.us.weibo.com'

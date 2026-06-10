@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-10 01:59:24 (UTC+8)
+# UPDATED: 2026-06-11 02:31:17 (UTC+8)
 # TYPE: domain
-# TOTAL: 5325
+# TOTAL: 5327
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1414,6 +1414,7 @@ payload:
   - '+.gdbnet.cn'
   - '+.gdtianshanoa.com'
   - '+.gdtimg.com'
+  - '+.geekbang.org'
   - '+.geekpark.net'
   - '+.genshinimpact.com'
   - '+.gfdwsx.com'
@@ -2119,6 +2120,7 @@ payload:
   - '+.inewsweek.cn'
   - '+.infiniteborders3kingdoms.com'
   - '+.info-insur.com'
+  - '+.infoq.cn'
   - '+.instituteofwar.org'
   - '+.ipanda.cn'
   - '+.ipanda.com'

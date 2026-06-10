@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-10 01:59:23 (UTC+8)
+# UPDATED: 2026-06-11 02:31:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 11080
+# TOTAL: 11081
 payload:
   - '+.adult'
   - '+.bbc'
@@ -3613,6 +3613,7 @@ payload:
   - '+.infinitetoons.com'
   - '+.infinitetube.com'
   - '+.influencersgonewild.com'
+  - '+.infoq.com'
   - '+.infowars.com'
   - '+.infowarsmedia.com'
   - '+.inherd.mom'
