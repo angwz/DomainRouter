@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-11 02:23:09 (UTC+8)
+# UPDATED: 2026-06-12 02:39:17 (UTC+8)
 # TYPE: domain
-# TOTAL: 1691
+# TOTAL: 1709
 payload:
   - '+.android'
   - '+.intel'
@@ -308,6 +308,9 @@ payload:
   - '+.dev.to'
   - '+.developria.com'
   - '+.devopsassessment.net'
+  - '+.discourse-cdn.com'
+  - '+.discourse.group'
+  - '+.discourse.org'
   - '+.dml-lang.org'
   - '+.doceapower.com'
   - '+.docker.com'
@@ -339,6 +342,7 @@ payload:
   - '+.elastic.com'
   - '+.electrochem.org'
   - '+.electronjs.org'
+  - '+.elegantthemes.com'
   - '+.elementary.io'
   - '+.elgaronline.com'
   - '+.elifesciences.org'
@@ -458,6 +462,7 @@ payload:
   - '+.ggsrv.com'
   - '+.gh.io'
   - '+.ghcr.io'
+  - '+.ghe.com'
   - '+.git-scm.com'
   - '+.git.io'
   - '+.gitbook.com'
@@ -520,6 +525,7 @@ payload:
   - '+.hhvm.com'
   - '+.highwirepress.com'
   - '+.hindawi.com'
+  - '+.hivepress.io'
   - '+.hk1lib.org'
   - '+.hkbu.hk'
   - '+.hku.hk'
@@ -912,6 +918,7 @@ payload:
   - '+.mono-project.com'
   - '+.morganclaypool.com'
   - '+.motolia.com'
+  - '+.motopress.com'
   - '+.movidius.com'
   - '+.movidius.net'
   - '+.movidius.org'
@@ -1340,6 +1347,7 @@ payload:
   - '+.viacomcbspressexpress.com'
   - '+.videojs.com'
   - '+.videolan.org'
+  - '+.videopress.com'
   - '+.vim.org'
   - '+.visualstudio-staging.com'
   - '+.visualstudio.co'
@@ -1355,6 +1363,7 @@ payload:
   - '+.vscode-unpkg.net'
   - '+.vscode.dev'
   - '+.vtsociety.org'
+  - '+.w.org'
   - '+.wanfangdata.com'
   - '+.wapm.io'
   - '+.wasmer.io'
@@ -1372,11 +1381,20 @@ payload:
   - '+.wireshark.org'
   - '+.wkap.nl'
   - '+.wolterskluwer.com'
+  - '+.wordcamp.org'
+  - '+.wordpress.com'
+  - '+.wordpress.net'
+  - '+.wordpress.org'
+  - '+.wordpress.tv'
   - '+.worldbank.org'
   - '+.worldscientific.com'
   - '+.worldsecureemail.com'
   - '+.worldsecuresystems.com'
+  - '+.wp-themes.com'
+  - '+.wp.com'
   - '+.wpewebkit.org'
+  - '+.wpmailsmtp.com'
+  - '+.wpvip.com'
   - '+.wwwhuluplus.com'
   - '+.x.org'
   - '+.xamarin.com'

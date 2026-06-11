@@ -1,14 +1,15 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-11 02:31:16 (UTC+8)
+# UPDATED: 2026-06-12 02:47:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 11081
+# TOTAL: 11084
 payload:
   - '+.adult'
   - '+.bbc'
   - '+.bloomberg'
   - '+.fox'
+  - '+.nhk'
   - '+.porn'
   - '+.sky'
   - '+.youtube'
@@ -4955,6 +4956,8 @@ payload:
   - '+.nhentai.xxx'
   - '+.nhentaihaven.com'
   - '+.nhentaihaven.org'
+  - '+.nhk.jp'
+  - '+.nhkworld.jp'
   - '+.niceanimegames.com'
   - '+.niceporn.tv'
   - '+.nichepornsite.com'
@@ -8574,7 +8577,6 @@ payload:
   - '+.knowswho.co.jp'
   - '+.konachan.wjcodes.com'
   - '+.livrariart.com.br'
-  - '+.location-plus.nhk.jp'
   - '+.logx.optimizely.com'
   - '+.love-sextoys.co.uk'
   - '+.ltn.com.tw'
@@ -8626,6 +8628,7 @@ payload:
   - '+.nexttv.com.tw'
   - '+.nextwork.com.hk'
   - '+.nextwork.com.tw'
+  - '+.nhk.or.jp'
   - '+.night.livedoor.biz'
   - '+.nikkei-cnbc.co.jp'
   - '+.nikkei.co.jp'

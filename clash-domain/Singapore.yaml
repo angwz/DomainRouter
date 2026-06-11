@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-11 02:31:11 (UTC+8)
+# UPDATED: 2026-06-12 02:47:04 (UTC+8)
 # TYPE: domain
-# TOTAL: 884
+# TOTAL: 889
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -147,6 +147,7 @@ payload:
   - '+.coincheckup.com'
   - '+.coincodex.com'
   - '+.coindesk.com'
+  - '+.coingate.com'
   - '+.coingecko.com'
   - '+.coinglass.com'
   - '+.coinmap.org'
@@ -597,6 +598,7 @@ payload:
   - '+.huobiasia.vip'
   - '+.huobigroup.com'
   - '+.huobitoken.com'
+  - '+.hyperliquid.xyz'
   - '+.i.org'
   - '+.icodrops.com'
   - '+.ig.me'
@@ -668,6 +670,8 @@ payload:
   - '+.kraken.onl'
   - '+.kucoin.com'
   - '+.kucoin.plus'
+  - '+.lighter.exchange'
+  - '+.lighter.xyz'
   - '+.lightning.community'
   - '+.lightning.engineering'
   - '+.liquid.com'
@@ -878,6 +882,7 @@ payload:
   - '+.redotpay.zendesk.com'
   - '+.wisekey.com.hk'
   - '+.xhpjc6-cdn-settings.appsflyersdk.com'
+  - '+.zklighter.elliot.ai'
   - '+.ip6.static.sl-reverse.com'
   - '+.okx.com.cdn.cloudflare.net'
   - '+.rp-static-apne1.s3.ap-northeast-1.amazonaws.com'
