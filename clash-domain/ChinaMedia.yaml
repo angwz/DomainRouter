@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-12 02:47:11 (UTC+8)
+# UPDATED: 2026-06-13 02:05:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 5354
+# TOTAL: 5356
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1198,6 +1198,7 @@ payload:
   - '+.donkeykongcountryreturns.com'
   - '+.doom.com'
   - '+.doservice.com'
+  - '+.dota2.com'
   - '+.dotwe.org'
   - '+.douban.com'
   - '+.douban.fm'
@@ -3543,6 +3544,7 @@ payload:
   - '+.uwtmy.cn'
   - '+.uyunad.com'
   - '+.v-56.com'
+  - '+.valve.net'
   - '+.valvesoftware.com'
   - '+.vctianshanvs.com'
   - '+.vg.com'

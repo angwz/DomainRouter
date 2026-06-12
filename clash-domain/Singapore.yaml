@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-12 02:47:04 (UTC+8)
+# UPDATED: 2026-06-13 02:05:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 889
+# TOTAL: 890
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -741,6 +741,7 @@ payload:
   - '+.okx-dns.com'
   - '+.okx-dns1.com'
   - '+.okx-dns2.com'
+  - '+.okx.ac'
   - '+.okx.cab'
   - '+.okx.com'
   - '+.onekey-asset.com'

@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-12 02:39:16 (UTC+8)
+# UPDATED: 2026-06-13 01:57:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 746
+# TOTAL: 748
 payload:
   - '+.azure'
   - '+.hk'
@@ -225,6 +225,7 @@ payload:
   - '+.deepflood.com'
   - '+.devopsms.com'
   - '+.devtools-paypal.com'
+  - '+.dota2.com'
   - '+.duolingo.cn'
   - '+.duolingo.com'
   - '+.encryptedsni.com'
@@ -517,6 +518,7 @@ payload:
   - '+.tryfunctions.com'
   - '+.underlords.com'
   - '+.unity3dcloud.cn'
+  - '+.valve.net'
   - '+.valvesoftware.com'
   - '+.venmo-touch.com'
   - '+.venmo.com'

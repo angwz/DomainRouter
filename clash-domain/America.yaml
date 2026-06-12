@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-12 02:39:17 (UTC+8)
+# UPDATED: 2026-06-13 01:57:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 1709
+# TOTAL: 1711
 payload:
   - '+.android'
   - '+.intel'
@@ -276,6 +276,7 @@ payload:
   - '+.cotolia.com'
   - '+.cpan.org'
   - '+.cqvip.com'
+  - '+.crashlytics.com'
   - '+.crates.io'
   - '+.creativecloud.com'
   - '+.creativesdk.com'
@@ -1449,6 +1450,7 @@ payload:
   - '+.acaric.co.jp'
   - '+.altera.co.jp'
   - '+.amdigital.co.uk'
+  - '+.api2.amplitude.com'
   - '+.assetshuluimcom-a.akamaihd.net'
   - '+.bam.nr-data.net'
   - '+.cws-hulu.conviva.com'
@@ -1556,6 +1558,7 @@ payload:
   - 'angle.com.tw'
   - 'beck-online.beck.de'
   - 'bingsettingssearch.trafficmanager.net'
+  - 'crashlyticsreports-pa.googleapis.com'
   - 'crl.versign.net'
   - 'd29vzk4ow07wi7.cloudfront.net'
   - 'database.asahi.com'
@@ -1564,7 +1567,6 @@ payload:
   - 'developers.facebook.com'
   - 'dl.begellhouse.com'
   - 'dtlgalleryint.cloudapp.net'
-  - 'firebase-settings.crashlytics.com'
   - 'firebase.google.com'
   - 'firebase.googleapis.com'
   - 'firebaseappcheck.googleapis.com'

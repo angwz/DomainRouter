@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-12 02:38:31 (UTC+8)
+# UPDATED: 2026-06-13 01:57:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 1984
+# TOTAL: 1986
 payload:
   - '+.java'
   - '+.oracle'
@@ -956,6 +956,7 @@ payload:
   - 'client-teamviewer-com.trafficmanager.net'
   - 'cnpull.sccnfb.com'
   - 'content-origin.steampowered.com'
+  - 'crashlyticsreports-pa.googleapis.com'
   - 'csgo.wmsj.cn'
   - 'cueme-api.quark.cn'
   - 'czlive.czgd.tv'
@@ -1540,6 +1541,7 @@ payload:
   - 'tvpull.smartwq.cn'
   - 'ubisoftconnect.eo-edgefunctions7.com'
   - 'uni6rtmp.tulix.tv'
+  - 'update.crashlytics.com'
   - 'v.xstv.net'
   - 'v1.one-tv.com'
   - 'vfile.cfrtv.cn'
