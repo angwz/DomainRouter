@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-13 02:05:50 (UTC+8)
+# UPDATED: 2026-06-14 01:15:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 1010
+# TOTAL: 1011
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -444,6 +444,7 @@ payload:
   - '+.huoshanzhibo.com'
   - '+.huoshanzhibo.net'
   - '+.hypercachenet.com'
+  - '+.hypercachenode.com'
   - '+.ibdxiguaimg.com'
   - '+.ibdxigualive.com'
   - '+.ibdxiguastatic.com'
