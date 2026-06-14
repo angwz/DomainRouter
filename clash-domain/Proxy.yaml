@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-14 01:07:50 (UTC+8)
+# UPDATED: 2026-06-15 01:06:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 29175
+# TOTAL: 29191
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9475,12 +9475,21 @@ payload:
   - '+.futanarihq.com'
   - '+.futhead.com'
   - '+.futpromos.com'
+  - '+.futu.link'
+  - '+.futu5.com'
+  - '+.futuau.com'
+  - '+.futuesop.com'
   - '+.futufin.com'
   - '+.futuhk.com'
+  - '+.futuhk1.com'
+  - '+.futuhk2.com'
   - '+.futuhkapp.com'
   - '+.futuhn.com'
   - '+.futuholdings.com'
   - '+.futunited.com'
+  - '+.futuniuniu.com'
+  - '+.futunn.com'
+  - '+.futuoa.com'
   - '+.future-cs.ru'
   - '+.futurechinaforum.org'
   - '+.futuremessage.org'
@@ -9488,6 +9497,9 @@ payload:
   - '+.futureofbusinesssurvey.org'
   - '+.futureofmaktingthings.com'
   - '+.futureshop.ca'
+  - '+.futusg.com'
+  - '+.futustatic.com'
+  - '+.fututrade.com'
   - '+.fux.com'
   - '+.fuxporn.com'
   - '+.fuyin.net'
@@ -13824,6 +13836,7 @@ payload:
   - '+.lantosfoundation.org'
   - '+.laogai.org'
   - '+.laogairesearch.org'
+  - '+.laohu8.com'
   - '+.laomiu.com'
   - '+.laosijifuli9009.top'
   - '+.laowang.vip'
@@ -14237,6 +14250,7 @@ payload:
   - '+.longbridge.hk'
   - '+.longbridge.sg'
   - '+.longbridgeapp.com'
+  - '+.longbridgehk.com'
   - '+.longhair.hk'
   - '+.longmabook.com'
   - '+.longmabookcn.com'
@@ -22484,6 +22498,7 @@ payload:
   - '+.tiendabestbuy.com'
   - '+.tiffany-towers.com'
   - '+.tig-ol-bitties.live'
+  - '+.tigerbbs.com'
   - '+.tigervpn.com'
   - '+.tik-tokapi.com'
   - '+.tiktok-minis.com'
@@ -25211,6 +25226,7 @@ payload:
   - '+.xiaofu.me'
   - '+.xiaogirls.com'
   - '+.xiaohexie.com'
+  - '+.xiaohu8.com'
   - '+.xiaolan.me'
   - '+.xiaoma.org'
   - '+.xiaomi.eu'
