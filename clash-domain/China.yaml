@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-15 01:14:34 (UTC+8)
+# UPDATED: 2026-06-16 03:44:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 113290
+# TOTAL: 113303
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -11916,6 +11916,7 @@ payload:
   - '+.allbrightlaw.com'
   - '+.allchips.com'
   - '+.allcitygo.com'
+  - '+.allday.work'
   - '+.alldobetter.com'
   - '+.alldragon.com'
   - '+.alleadprint.com'
@@ -11998,6 +11999,7 @@ payload:
   - '+.altamob.com'
   - '+.altratek.com'
   - '+.altstory.com'
+  - '+.altusad.com'
   - '+.altxw.com'
   - '+.alu-ledprofile.com'
   - '+.aluaa.com'
@@ -18920,6 +18922,7 @@ payload:
   - '+.cangmang.xyz'
   - '+.cangoonline.com'
   - '+.cangowin.com'
+  - '+.cangpeng.com'
   - '+.cangpie.com'
   - '+.cangqiang.com'
   - '+.cangqiongkanshu.com'
@@ -33073,6 +33076,7 @@ payload:
   - '+.ernest.me'
   - '+.eroacg.com'
   - '+.erongdu.com'
+  - '+.erp198.com'
   - '+.erp321.com'
   - '+.erp321.net'
   - '+.erpang.cc'
@@ -40320,6 +40324,7 @@ payload:
   - '+.guanxf.com'
   - '+.guanxian.org'
   - '+.guanxingyun.com'
+  - '+.guanxinlab.com'
   - '+.guanxintec.com'
   - '+.guanxxg.com'
   - '+.guanyezipper.com'
@@ -42833,6 +42838,7 @@ payload:
   - '+.gzhd56.com'
   - '+.gzhdcs.com'
   - '+.gzhe.net'
+  - '+.gzhemera.com'
   - '+.gzhengdian.com'
   - '+.gzhengdou.com'
   - '+.gzheyoukeji.com'
@@ -51872,6 +51878,7 @@ payload:
   - '+.innoplayfun.com'
   - '+.innopro.cc'
   - '+.innos.com'
+  - '+.innoscience.com'
   - '+.innotechx.com'
   - '+.innotek-co.com'
   - '+.innotimegood.com'
@@ -64261,6 +64268,7 @@ payload:
   - '+.lzmckq.com'
   - '+.lzmei.com'
   - '+.lzmljdzx.com'
+  - '+.lzmmob.com'
   - '+.lzmoyin.com'
   - '+.lzmun.com'
   - '+.lzmy123.com'
@@ -65655,6 +65663,7 @@ payload:
   - '+.meishilife.com'
   - '+.meishiqin.com'
   - '+.meishischool.com'
+  - '+.meishitx.com'
   - '+.meishiwangluo.com'
   - '+.meishizuofa.com'
   - '+.meishow.com'
@@ -71163,6 +71172,7 @@ payload:
   - '+.nzygyt.com'
   - '+.o--o.win'
   - '+.o-hr.com'
+  - '+.o-n-e-dns.com'
   - '+.o-netcom.com'
   - '+.o-star.cc'
   - '+.o014148q7p.com'
@@ -113065,6 +113075,7 @@ payload:
   - 'hls.qguiyang.com'
   - 'hls.qxtv0763.com'
   - 'hls.wlrn.mobi'
+  - 'i.dell.com'
   - 'i.pki.goog'
   - 'icecast-ruvr.cdnvideo.ru'
   - 'image.maimn.com'
@@ -113213,8 +113224,10 @@ payload:
   - 'wuwm.streamguys1.com'
   - 'www-csb.dell.com'
   - 'www.cbsnews.com'
+  - 'www.dell.com'
   - 'www.destinationurl.com'
   - 'www.filmon.com'
+  - 'www.microsoft.com'
   - 'www.pxcc.com'
   - 'www.pxitv.com'
   - 'www.recaptcha-cn.net'

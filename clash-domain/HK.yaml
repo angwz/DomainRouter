@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-15 01:06:40 (UTC+8)
+# UPDATED: 2026-06-16 03:36:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 749
+# TOTAL: 750
 payload:
   - '+.azure'
   - '+.hk'
@@ -487,6 +487,7 @@ payload:
   - '+.steam.tv'
   - '+.steamchina.com'
   - '+.steamcommunity.com'
+  - '+.steamconnecttest.com'
   - '+.steamcontent.com'
   - '+.steamdeck.com'
   - '+.steamgames.com'
