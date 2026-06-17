@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-17 03:34:12 (UTC+8)
+# UPDATED: 2026-06-18 02:15:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 11084
+# TOTAL: 11093
 payload:
   - '+.adult'
   - '+.bbc'
@@ -1425,6 +1425,7 @@ payload:
   - '+.celebforum.co'
   - '+.celebmasta.live'
   - '+.celebritygay.com'
+  - '+.celebritymoviearchive.com'
   - '+.celebritynakeds.com'
   - '+.celebrityslips.com'
   - '+.celebritystorysite.com'
@@ -2595,6 +2596,7 @@ payload:
   - '+.foxtvdvd.com'
   - '+.foxuv.com'
   - '+.foxweatherwatch.com'
+  - '+.fpo.xxx'
   - '+.free-3d-porn.com'
   - '+.free-abbywinters.com'
   - '+.free-avx.jp'
@@ -2648,6 +2650,8 @@ payload:
   - '+.freesexyindians.com'
   - '+.freesexyindians.org'
   - '+.freeuseporn.com'
+  - '+.freexh.blog'
+  - '+.freexh.live'
   - '+.freexvideos.org'
   - '+.freexxx.best'
   - '+.freexxx.win'
@@ -5339,6 +5343,7 @@ payload:
   - '+.pictocum.com'
   - '+.pigav.com'
   - '+.pikabu.monster'
+  - '+.pimpbunny.com'
   - '+.pinduck.com'
   - '+.pinflix.com'
   - '+.pingguotv.xyz'
@@ -5734,6 +5739,7 @@ payload:
   - '+.potplayer.tv'
   - '+.povpornonly.com'
   - '+.povr.com'
+  - '+.powfans.com'
   - '+.pp6.info'
   - '+.ppb-mod.buzz'
   - '+.ppe.lawyer'
@@ -6237,6 +6243,7 @@ payload:
   - '+.seqingwangzhan.pro'
   - '+.seqingx.com'
   - '+.ser7.cc'
+  - '+.serakon.com'
   - '+.serbiporno.net'
   - '+.serlucap.lol'
   - '+.serlutv258.xyz'
@@ -7446,6 +7453,7 @@ payload:
   - '+.vrsexgames.biz'
   - '+.vrsmash.com'
   - '+.vrsumo.com'
+  - '+.vsex.in'
   - '+.vsezoo.com'
   - '+.vtrahe.page'
   - '+.vtvan.com'
@@ -7685,6 +7693,7 @@ payload:
   - '+.xhamster2.com'
   - '+.xhamster3.com'
   - '+.xhamsterlive.com'
+  - '+.xhapp.live'
   - '+.xhcdn.com'
   - '+.xhnews.live'
   - '+.xhot.pro'
