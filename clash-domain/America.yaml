@@ -1,7 +1,7 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-18 02:07:26 (UTC+8)
+# UPDATED: 2026-06-19 02:19:34 (UTC+8)
 # TYPE: domain
 # TOTAL: 1711
 payload:
@@ -1499,6 +1499,7 @@ payload:
   - '+.intel.com.tw'
   - '+.intel.com.uy'
   - '+.intel.com.ve'
+  - '+.jetbrains.com.cn'
   - '+.lawdata.com.tw'
   - '+.mageconf.com.ua'
   - '+.marketo.co.uk'
@@ -1540,7 +1541,6 @@ payload:
   - '+.cbsplaylistserver.aws.syncbak.com'
   - '+.cbsservice.aws.syncbak.com'
   - '+.courier-push-apple.com.akadns.net'
-  - '+.download-cdn.jetbrains.com.cn'
   - '+.github-atom-io-herokuapp-com.freetls.fastly.net'
   - '+.github-avatars.oss-cn-hongkong.aliyuncs.com'
   - '+.github-cloud.s3.amazonaws.com'

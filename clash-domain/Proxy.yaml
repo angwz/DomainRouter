@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-18 02:07:26 (UTC+8)
+# UPDATED: 2026-06-19 02:19:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 29243
+# TOTAL: 29251
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1934,6 +1934,7 @@ payload:
   - '+.appbridge.it'
   - '+.appcenter.ms'
   - '+.appcloud.com'
+  - '+.appconsent.io'
   - '+.appdomain.cloud'
   - '+.appdownloader.net'
   - '+.appdynamics.com'
@@ -2767,6 +2768,7 @@ payload:
   - '+.awwcn.buzz'
   - '+.awwcn.xyz'
   - '+.awxcdn.com'
+  - '+.axept.io'
   - '+.axios.com'
   - '+.axureformac.com'
   - '+.ayabank.com'
@@ -5019,6 +5021,7 @@ payload:
   - '+.cdkworkshop.com'
   - '+.cdmatech.com'
   - '+.cdn-apple.com'
+  - '+.cdn-cookieyes.com'
   - '+.cdn-telegram.org'
   - '+.cdn-terapeak.com'
   - '+.cdn-tinkoff.ru'
@@ -5797,6 +5800,7 @@ payload:
   - '+.conquerwithcharacter.com'
   - '+.conscrypt.com'
   - '+.conscrypt.org'
+  - '+.consentmanager.net'
   - '+.consentpro.com'
   - '+.constitutionalism.solutions'
   - '+.constructware.com'
@@ -5811,9 +5815,11 @@ payload:
   - '+.convrgencegame.com'
   - '+.coobay.com'
   - '+.cooer.su'
+  - '+.cookiebot.com'
   - '+.cookiechoices.org'
   - '+.cookielaw.org'
   - '+.cookiepro.com'
+  - '+.cookieyes.com'
   - '+.cool-comics.com'
   - '+.cool18.com'
   - '+.cool3c.com'
@@ -22169,6 +22175,7 @@ payload:
   - '+.teraperk.com'
   - '+.terk.nl'
   - '+.termius.com'
+  - '+.termly.io'
   - '+.termux.com'
   - '+.termux.dev'
   - '+.termux.org'
@@ -22874,6 +22881,7 @@ payload:
   - '+.trulyergonomic.com'
   - '+.trunest.com'
   - '+.trust-provider.com'
+  - '+.trustarc.com'
   - '+.trustasiassl.com'
   - '+.trustcor.ca'
   - '+.trustcor.com'

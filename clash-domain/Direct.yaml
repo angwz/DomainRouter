@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-18 02:06:39 (UTC+8)
+# UPDATED: 2026-06-19 02:18:47 (UTC+8)
 # TYPE: domain
 # TOTAL: 1986
 payload:
@@ -625,6 +625,7 @@ payload:
   - '+.hunyuan.tencent.com'
   - '+.hxb.com.cn'
   - '+.iscas.ac.cn'
+  - '+.jetbrains.com.cn'
   - '+.jiasu.bohe.com'
   - '+.kindleoasis.com.cn'
   - '+.las.ac.cn'
@@ -785,7 +786,6 @@ payload:
   - '+.d.f.ip6.arpa'
   - '+.de.ntp.org.cn'
   - '+.dl.steam.clngaa.com'
-  - '+.download-cdn.jetbrains.com.cn'
   - '+.download.dm.origin.com'
   - '+.download.visualstudio.microsoft.com'
   - '+.edu.ntp.org.cn'

@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-18 02:15:35 (UTC+8)
+# UPDATED: 2026-06-19 02:27:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 5359
+# TOTAL: 5360
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -4923,6 +4923,7 @@ payload:
   - 'streaming.czgd.cn'
   - 'streaming.sltv.net'
   - 'streamipcf.akamaized.net'
+  - 'supercell.zendesk.com'
   - 'sxjc.chinashadt.com'
   - 'sxll.chinashadt.com'
   - 'sxlx.chinashadt.com'
