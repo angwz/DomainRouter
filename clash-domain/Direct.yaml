@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-20 01:45:36 (UTC+8)
+# UPDATED: 2026-06-21 01:13:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 1986
+# TOTAL: 1985
 payload:
   - '+.java'
   - '+.oracle'
@@ -601,7 +601,6 @@ payload:
   - '+.ctldl.windowsupdate.com'
   - '+.cup.com.cn'
   - '+.data.pharmacodia.com'
-  - '+.devblogs.microsoft.com'
   - '+.developer.microsoft.com'
   - '+.dl.playstation.net'
   - '+.dns.alidns.com'
