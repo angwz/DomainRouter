@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-21 01:14:03 (UTC+8)
+# UPDATED: 2026-06-22 01:16:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 29284
+# TOTAL: 29285
 payload:
   - '+.adult'
   - '+.amazon'
@@ -29279,6 +29279,7 @@ payload:
   - 'cbsservice.aws.syncbak.com'
   - 'datarouter.apps.netherrealm.com'
   - 'elib.maruzen.co.jp'
+  - 'gog-cdn-lumen.secure2.footprint.net'
   - 'licdn.cn.cdn20.com'
   - 'public-us-pingsx.api.clonoth.com'
   - 'roovza.inapps.appsflyersdk.com'

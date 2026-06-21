@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-21 01:13:18 (UTC+8)
+# UPDATED: 2026-06-22 01:15:44 (UTC+8)
 # TYPE: domain
-# TOTAL: 1985
+# TOTAL: 1982
 payload:
   - '+.java'
   - '+.oracle'
@@ -825,6 +825,7 @@ payload:
   - '+.s2k.time.edu.cn'
   - '+.s2m.time.edu.cn'
   - '+.sgp.ntp.org.cn'
+  - '+.shell.cdn.office.net'
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'
   - '+.st.dl.pinyuncloud.com'
@@ -885,15 +886,19 @@ payload:
   - '+.pdl.wow.battlenet.com.cn'
   - '+.rsm.download.prss.microsoft.com'
   - '+.software.download.prss.microsoft.com'
+  - '+.statics.teams.cdn.office.net'
   - '+.storecorefulfillment.download.prss.microsoft.com'
   - '+.storeedgefd.dsx.mp.microsoft.com'
   - '+.surface.download.prss.microsoft.com'
+  - '+.surface.downloads.prss.microsoft.com'
   - '+.vlportal.download.prss.microsoft.com'
   - '+.volic.download.prss.microsoft.com'
   - '+.vscode.download.prss.microsoft.com'
   - '+.vz.download.prss.microsoft.com'
   - '+.windbg.download.prss.microsoft.com'
   - '+.255.255.255.255.in-addr.arpa'
+  - '+.b.c2r.ts.cdn.office.net'
+  - '+.f.c2r.ts.cdn.office.net'
   - '+.8.b.d.0.1.0.0.2.ip6.arpa'
   - '+.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
   - 'asusrouter.com'
@@ -1007,10 +1012,7 @@ payload:
   - 'gddb.chinashadt.com'
   - 'gdhj.chinashadt.com'
   - 'glive.grtn.cn'
-  - 'gog-cdn-fastly.gog.com'
-  - 'gog-cdn.akamaized.net'
   - 'gog.qtlglb.com'
-  - 'gogalaxy.gog-statics.com'
   - 'gpb-hls.streamguys1.com'
   - 'guangshui-live21.cjyun.org'
   - 'gztr.chinashadt.com'
@@ -1300,7 +1302,6 @@ payload:
   - 'media.trrtv.com'
   - 'media.vtibet.com'
   - 'mediaprima.rastream.com'
-  - 'menu-static.gog-statics.com'
   - 'mms.ldntv.cn'
   - 'mobile.ccdntech.com'
   - 'movie.mcas.jp'
@@ -1389,7 +1390,6 @@ payload:
   - 'pluslive.wrbtv.cn'
   - 'pluslive.zhxww.net'
   - 'pluslive1.sjzntv.cn'
-  - 'productcard.gog-statics.com'
   - 'pull.dayuntongzhou.com'
   - 'pull.hnedutv.com'
   - 'pull.hrbtv.net'
@@ -1431,7 +1431,6 @@ payload:
   - 'snlive.scsntv.com'
   - 'sobeylingyun02pull.sobeylive.com'
   - 'sohucao.duapp.com'
-  - 'static-login.gog-statics.com'
   - 'steampipe-kr.akamaized.net'
   - 'steampipe-partner.akamaized.net'
   - 'steampipe.akamaized.net'
@@ -1577,7 +1576,6 @@ payload:
   - 'www.wxhcgbds.com'
   - 'www.ynbit.com'
   - 'www.zlnews.cn'
-  - 'www4-static.gog-statics.com'
   - 'xhalive.qwmedia.cn'
   - 'xianfeng-live21.cjyun.org'
   - 'xiangyang-live21.cjyun.org'
@@ -1965,7 +1963,6 @@ payload:
   - 'prodforza.blob.core.windows.net'
   - 'res-h3.public.cdn.office.net'
   - 'shbu.live.bestvcdn.com.cn'
-  - 'statics.teams.cdn.office.net'
   - 'store.ovp.wsrtv.com.cn'
   - 'teamviewer.com.cdn.cloudflare.net'
   - 'tvfile.jy.lsrm.org.cn'

@@ -1,9 +1,9 @@
 # NAME: Star
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-21 01:14:04 (UTC+8)
+# UPDATED: 2026-06-22 01:16:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 256
+# TOTAL: 257
 payload:
   - '+.anthemgame.com'
   - '+.anthemthegame.com'
@@ -258,6 +258,7 @@ payload:
   - 'blizzard.nefficient.co.kr'
   - 'cloudsync-prod.s3.amazonaws.com'
   - 'ea.tt.omtrdc.net'
+  - 'gog-cdn-lumen.secure2.footprint.net'
   - 'ubisoft-orbit-savegames.s3.amazonaws.com'
   - 'ubisoft-uplay-savegames.s3.amazonaws.com'
   - 'ubisoft.siteintercept.qualtrics.com'

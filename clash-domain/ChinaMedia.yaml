@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-21 01:22:05 (UTC+8)
+# UPDATED: 2026-06-22 01:24:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 5360
+# TOTAL: 5361
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -5127,6 +5127,7 @@ payload:
   - 'gccncc.v.wscdns.com'
   - 'gctxyc.liveplay.myqcloud.com'
   - 'ggpagerl.live.sxmty.com'
+  - 'gog-cdn-lumen.secure2.footprint.net'
   - 'haiyan.liveyun.hoge.cn'
   - 'hellotv-iptv.uwp.ac.cn'
   - 'hongan.live.cjyun.org'
