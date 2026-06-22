@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-22 01:24:36 (UTC+8)
+# UPDATED: 2026-06-23 03:25:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 755
+# TOTAL: 760
 payload:
   - '+.azure'
   - '+.bing'
@@ -93,6 +93,7 @@ payload:
   - '+.azure-dns.info'
   - '+.azure-dns.net'
   - '+.azure-dns.org'
+  - '+.azure-mobile.cn'
   - '+.azure-mobile.net'
   - '+.azure-sphere.com'
   - '+.azure-test.net'
@@ -608,6 +609,10 @@ payload:
   - '+.skypeassets.com'
   - '+.skypeassets.net'
   - '+.skypeforbusiness.com'
+  - '+.sovcloud-mx.cn'
+  - '+.sovcloud-static.cn'
+  - '+.sovcloud-usercontent.cn'
+  - '+.sovcloud.cn'
   - '+.spo-msedge.net'
   - '+.sprinklesapp.com'
   - '+.sqlserveronlinux.com'

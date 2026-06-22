@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-22 01:15:44 (UTC+8)
+# UPDATED: 2026-06-23 03:16:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 1982
+# TOTAL: 1989
 payload:
   - '+.java'
   - '+.oracle'
@@ -139,6 +139,7 @@ payload:
   - '+.cnsciedu.com'
   - '+.cnthinkers.com'
   - '+.cnweblog.com'
+  - '+.cocos.com'
   - '+.codebuddy.cn'
   - '+.codechina.net'
   - '+.coding.me'
@@ -192,6 +193,7 @@ payload:
   - '+.doudou.com'
   - '+.dui.ai'
   - '+.duiopen.com'
+  - '+.dumate.cn'
   - '+.duxiu.com'
   - '+.ejoy.com'
   - '+.elderscrolls.com'
@@ -311,11 +313,13 @@ payload:
   - '+.mchost.guru'
   - '+.mcmod.cn'
   - '+.mcprev.cn'
+  - '+.mcpworld.com'
   - '+.medalink.cn'
   - '+.medicexam.net'
   - '+.meta.law'
   - '+.metaso.cn'
   - '+.miaibox.com'
+  - '+.miaoda.cn'
   - '+.miaoyanai.com'
   - '+.microsoftreactor.cn'
   - '+.mindspore.cn'
@@ -482,6 +486,7 @@ payload:
   - '+.unionpayintl.com'
   - '+.unionpaysecure.com'
   - '+.unity.cn'
+  - '+.unity3dcloud.cn'
   - '+.unitychina.cn'
   - '+.uonline-sh.com'
   - '+.uonline-sh.net'
@@ -597,6 +602,7 @@ payload:
   - '+.crscl.com.cn'
   - '+.csdl.ac.cn'
   - '+.csdn.net.cn'
+  - '+.csgo.com.cn'
   - '+.csgo.wmsj.cn'
   - '+.ctldl.windowsupdate.com'
   - '+.cup.com.cn'
@@ -605,6 +611,7 @@ payload:
   - '+.dl.playstation.net'
   - '+.dns.alidns.com'
   - '+.doh.360.cn'
+  - '+.dota2.com.cn'
   - '+.dota2.wmsj.cn'
   - '+.download.epicgames.com'
   - '+.download.microsoft.com'

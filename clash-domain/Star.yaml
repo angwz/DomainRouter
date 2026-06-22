@@ -1,9 +1,9 @@
 # NAME: Star
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-22 01:16:32 (UTC+8)
+# UPDATED: 2026-06-23 03:17:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 257
+# TOTAL: 259
 payload:
   - '+.anthemgame.com'
   - '+.anthemthegame.com'
@@ -89,8 +89,10 @@ payload:
   - '+.futpromos.com'
   - '+.futunited.com'
   - '+.ghostgames.com'
+  - '+.gog-services.com'
   - '+.gog-statics.com'
   - '+.gog.com'
+  - '+.gogalaxy.com'
   - '+.heroesofdragonage.com'
   - '+.heroesofthestorm.com'
   - '+.hutpromos.com'

@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-22 01:16:32 (UTC+8)
+# UPDATED: 2026-06-23 03:17:23 (UTC+8)
 # TYPE: domain
-# TOTAL: 750
+# TOTAL: 756
 payload:
   - '+.azure'
   - '+.hk'
@@ -84,6 +84,7 @@ payload:
   - '+.azure-dns.info'
   - '+.azure-dns.net'
   - '+.azure-dns.org'
+  - '+.azure-mobile.cn'
   - '+.azure-mobile.net'
   - '+.azure-sphere.com'
   - '+.azure-test.net'
@@ -480,6 +481,10 @@ payload:
   - '+.securepaypal.info'
   - '+.serverlesslibrary.net'
   - '+.simility.com'
+  - '+.sovcloud-mx.cn'
+  - '+.sovcloud-static.cn'
+  - '+.sovcloud-usercontent.cn'
+  - '+.sovcloud.cn'
   - '+.speedcurve.com'
   - '+.sslpaypal.org'
   - '+.steam-api.com'
@@ -518,7 +523,6 @@ payload:
   - '+.trycloudflare.com'
   - '+.tryfunctions.com'
   - '+.underlords.com'
-  - '+.unity3dcloud.cn'
   - '+.valve.net'
   - '+.valvesoftware.com'
   - '+.venmo-touch.com'
@@ -581,9 +585,11 @@ payload:
   - '+.cdn.vidarequre.com'
   - '+.client-update.queniuqe.com'
   - '+.cnbeta.com.tw'
+  - '+.csgo.com.cn'
   - '+.csgo.wmsj.cn'
   - '+.deliver.vkcdnservice.com'
   - '+.dog1.verystream.com'
+  - '+.dota2.com.cn'
   - '+.dota2.wmsj.cn'
   - '+.l-0005.dc-msedge.net'
   - '+.l-0005.l-msedge.net'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-22 01:16:32 (UTC+8)
+# UPDATED: 2026-06-23 03:17:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 29285
+# TOTAL: 29291
 payload:
   - '+.adult'
   - '+.amazon'
@@ -9517,6 +9517,7 @@ payload:
   - '+.futu8.com'
   - '+.futu9.com'
   - '+.futuau.com'
+  - '+.futubull.cn'
   - '+.futuchain.com'
   - '+.futuesop.com'
   - '+.futufin.com'
@@ -10159,8 +10160,10 @@ payload:
   - '+.gofucker.com'
   - '+.gofuckmenow.com'
   - '+.gofundme.com'
+  - '+.gog-services.com'
   - '+.gog-statics.com'
   - '+.gog.com'
+  - '+.gogalaxy.com'
   - '+.gogettaxi.org'
   - '+.gogle.com'
   - '+.gogo-load.com'
@@ -14302,6 +14305,7 @@ payload:
   - '+.longmabookcn.com'
   - '+.longman.ch'
   - '+.longmusic.com'
+  - '+.longportapp.cn'
   - '+.longportapp.com'
   - '+.longtailvideo.com'
   - '+.longtermly.net'
@@ -26444,6 +26448,7 @@ payload:
   - '+.zhenlibu.info'
   - '+.zhenlibu1984.com'
   - '+.zhenxiang.biz'
+  - '+.zhijianfengyi.cn'
   - '+.zhijianfengyi.com'
   - '+.zhimeishe888.com'
   - '+.zhinengluyou.com'
@@ -28468,6 +28473,7 @@ payload:
   - '+.scanservice1.qcpp1.net'
   - '+.scanservice1.qpdp1.net'
   - '+.schwab.co.uk'
+  - '+.schwab.com.cn'
   - '+.schwab.com.hk'
   - '+.schwab.com.sg'
   - '+.sci-hub.it.nf'
