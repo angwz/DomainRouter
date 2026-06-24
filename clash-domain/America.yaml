@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-24 01:43:48 (UTC+8)
+# UPDATED: 2026-06-25 01:46:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 1711
+# TOTAL: 1719
 payload:
   - '+.android'
   - '+.intel'
@@ -88,6 +88,7 @@ payload:
   - '+.airiti.com'
   - '+.airitilibrary.com'
   - '+.alexanderstreet.com'
+  - '+.almalinux.org'
   - '+.alphaxiv.org'
   - '+.alpinelinux.org'
   - '+.altera.com'
@@ -196,6 +197,7 @@ payload:
   - '+.buckbuild.com'
   - '+.bugsnag.com'
   - '+.businesscatalyst.com'
+  - '+.busybox.net'
   - '+.buyaltera.com'
   - '+.bvdinfo.com'
   - '+.cabdirect.org'
@@ -471,6 +473,7 @@ payload:
   - '+.gitgud.io'
   - '+.github.ai'
   - '+.github.blog'
+  - '+.github.career'
   - '+.github.com'
   - '+.github.community'
   - '+.github.dev'
@@ -869,6 +872,7 @@ payload:
   - '+.makebettercode.com'
   - '+.makeitopen.com'
   - '+.makesenseofdata.com'
+  - '+.manjaro.org'
   - '+.mariadb.org'
   - '+.marketing-cloud.com'
   - '+.marketing-nirvana.com'
@@ -1148,6 +1152,7 @@ payload:
   - '+.rocksdb.com'
   - '+.rocksdb.net'
   - '+.rocksdb.org'
+  - '+.rockylinux.org'
   - '+.routledgehandbooks.com'
   - '+.royalsocietypublishing.org'
   - '+.rpmfusion.org'
@@ -1362,7 +1367,10 @@ payload:
   - '+.vsassets.io'
   - '+.vscode-cdn.net'
   - '+.vscode-unpkg.net'
+  - '+.vscode-webview.net'
   - '+.vscode.dev'
+  - '+.vscodeedu.app'
+  - '+.vscodeedu.com'
   - '+.vtsociety.org'
   - '+.w.org'
   - '+.wanfangdata.com'

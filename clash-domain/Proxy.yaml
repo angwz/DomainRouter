@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-24 01:43:47 (UTC+8)
+# UPDATED: 2026-06-25 01:46:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 29291
+# TOTAL: 29301
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1491,6 +1491,7 @@ payload:
   - '+.allspyclips.com'
   - '+.allswingersclubs.org'
   - '+.allthefallen.moe'
+  - '+.almalinux.org'
   - '+.almasdarnews.com'
   - '+.almostmy.com'
   - '+.alohatube.com'
@@ -4602,6 +4603,7 @@ payload:
   - '+.bustyoldsluts.com'
   - '+.bustysammieblack.com'
   - '+.busu.org'
+  - '+.busybox.net'
   - '+.busytrade.com'
   - '+.buugaa.com'
   - '+.buy-from-shanghai.com'
@@ -8063,6 +8065,7 @@ payload:
   - '+.exoav.com'
   - '+.exotic-ghana.com'
   - '+.exoticuganda.com'
+  - '+.exp-tas.com'
   - '+.expatshield.com'
   - '+.expecthim.com'
   - '+.expekt.com'
@@ -10005,6 +10008,7 @@ payload:
   - '+.githack.com'
   - '+.github.ai'
   - '+.github.blog'
+  - '+.github.career'
   - '+.github.com'
   - '+.github.community'
   - '+.github.dev'
@@ -14074,6 +14078,7 @@ payload:
   - '+.licenseparser.com'
   - '+.lidecheng.com'
   - '+.life-global.org'
+  - '+.lifeatspotify.com'
   - '+.lifemiles.com'
   - '+.lifeselector.com'
   - '+.lifestyle-tec.ru'
@@ -14615,6 +14620,7 @@ payload:
   - '+.maniakey.homes'
   - '+.maniash.com'
   - '+.manicur4ik.ru'
+  - '+.manjaro.org'
   - '+.manorama.com'
   - '+.manoramanews.com'
   - '+.manoramaonline.com'
@@ -19775,6 +19781,7 @@ payload:
   - '+.rocksextube.com'
   - '+.rockstargames.com'
   - '+.rockstarnorth.com'
+  - '+.rockylinux.org'
   - '+.rojo.com'
   - '+.roku.com'
   - '+.rokutime.com'
@@ -21346,6 +21353,7 @@ payload:
   - '+.spotifycharts.com'
   - '+.spotifycodes.com'
   - '+.spotifyforbrands.com'
+  - '+.spotifyforvendors.com'
   - '+.spotifyjobs.com'
   - '+.spraynwash.com'
   - '+.spreadporn.org'
@@ -24426,7 +24434,10 @@ payload:
   - '+.vsco.co'
   - '+.vscode-cdn.net'
   - '+.vscode-unpkg.net'
+  - '+.vscode-webview.net'
   - '+.vscode.dev'
+  - '+.vscodeedu.app'
+  - '+.vscodeedu.com'
   - '+.vsemrabota.ru'
   - '+.vsex.in'
   - '+.vsezoo.com'
@@ -29215,7 +29226,6 @@ payload:
   - 'community.oneplus.com'
   - 'crl.versign.net'
   - 'databank.worldbank.org'
-  - 'default.exp-tas.com'
   - 'deutschewelle.h-cdn.com'
   - 'dl.begellhouse.com'
   - 'faronics.kayako.com'
