@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-25 01:46:05 (UTC+8)
+# UPDATED: 2026-06-26 02:00:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 29301
+# TOTAL: 29302
 payload:
   - '+.adult'
   - '+.amazon'
@@ -27509,6 +27509,7 @@ payload:
   - '+.geforce.com.tw'
   - '+.gelbooru.wjcodes.com'
   - '+.geocities.co.jp'
+  - '+.get.dappcdn.com'
   - '+.gettyimages.co.jp'
   - '+.gettyimages.co.nz'
   - '+.gettyimages.co.uk'
