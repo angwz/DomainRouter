@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-26 02:00:30 (UTC+8)
+# UPDATED: 2026-06-27 01:28:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 29302
+# TOTAL: 29303
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5927,6 +5927,7 @@ payload:
   - '+.crbug.com'
   - '+.crchina.org'
   - '+.crd-net.org'
+  - '+.creader.com'
   - '+.creaders.net'
   - '+.creadersnet.com'
   - '+.creamasia.com'

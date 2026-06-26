@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-26 01:59:55 (UTC+8)
+# UPDATED: 2026-06-27 01:27:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 1989
+# TOTAL: 1990
 payload:
   - '+.java'
   - '+.oracle'
@@ -1694,6 +1694,7 @@ payload:
   - 'dongtai-tv-hls.cm.jstv.com'
   - 'download.dm.origin.com'
   - 'download.hikarifield.co.jp'
+  - 'download.visualstudio.microsoft.com'
   - 'embl.emsyd.jrem.cn'
   - 'enshi.live.cjyun.org'
   - 'epicgames-download1-1251447533.file.myqcloud.com'
