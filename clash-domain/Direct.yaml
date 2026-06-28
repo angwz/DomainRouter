@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-28 00:53:29 (UTC+8)
+# UPDATED: 2026-06-29 00:55:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 1990
+# TOTAL: 1991
 payload:
   - '+.java'
   - '+.oracle'
@@ -361,6 +361,7 @@ payload:
   - '+.obriccloud.com'
   - '+.obricclouddw.com'
   - '+.oceancloudapi.com'
+  - '+.oend.net'
   - '+.oklink.com'
   - '+.oojsq.com'
   - '+.openkylin.top'

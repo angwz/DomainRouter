@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-28 00:54:16 (UTC+8)
+# UPDATED: 2026-06-29 00:56:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 260
+# TOTAL: 261
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -153,6 +153,7 @@ payload:
   - '+.tellapart.com'
   - '+.themeforest.net'
   - '+.trae.ai'
+  - '+.tripo3d.ai'
   - '+.tweetdeck.com'
   - '+.twimg.co'
   - '+.twimg.com'
