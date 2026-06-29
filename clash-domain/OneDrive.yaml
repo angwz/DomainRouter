@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-06-29 01:04:23 (UTC+8)
+# UPDATED: 2026-06-30 02:10:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 668
+# TOTAL: 673
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -50,6 +50,7 @@ payload:
   - '+.cyanbug.net'
   - '+.dicmusic.club'
   - '+.dicmusic.com'
+  - '+.digitalcore.club'
   - '+.discfan.net'
   - '+.dmhy.best'
   - '+.dmhy.org'
@@ -167,6 +168,7 @@ payload:
   - '+.qingwa.pro'
   - '+.rainbowisland.co'
   - '+.redacted.ch'
+  - '+.redacted.sh'
   - '+.rousi.zip'
   - '+.sdbits.org'
   - '+.searchtor.to'
@@ -179,7 +181,9 @@ payload:
   - '+.skyey2.com'
   - '+.skyeysnow.com'
   - '+.soulvoice.club'
+  - '+.sportscult.org'
   - '+.springsunday.net'
+  - '+.superbits.org'
   - '+.thegeeks.bz'
   - '+.theoccult.bz'
   - '+.theplace.bz'
@@ -188,6 +192,7 @@ payload:
   - '+.tju.pt'
   - '+.tjupt.org'
   - '+.torrentday.com'
+  - '+.torrentleech.cc'
   - '+.torrentleech.org'
   - '+.torrentseeds.org'
   - '+.torrentsnipe.info'
