@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-02 01:44:59 (UTC+8)
+# UPDATED: 2026-07-03 01:24:13 (UTC+8)
 # TYPE: domain
-# TOTAL: 29324
+# TOTAL: 29333
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3739,6 +3739,7 @@ payload:
   - '+.blackstonespoliceservice.com'
   - '+.blacktowhite.net'
   - '+.blackvpn.com'
+  - '+.blanc.ru'
   - '+.blaoshi.cc'
   - '+.blast.io'
   - '+.blazor.net'
@@ -4328,6 +4329,7 @@ payload:
   - '+.bot.nu'
   - '+.botanwang.com'
   - '+.botframework.com'
+  - '+.botim.me'
   - '+.botmechanic.io'
   - '+.botorch.org'
   - '+.botstop.com'
@@ -11359,6 +11361,9 @@ payload:
   - '+.horizontal-systems.com'
   - '+.horizontalglue.com'
   - '+.horizontalsystems.com'
+  - '+.hornet.com'
+  - '+.hornetapp.com'
+  - '+.hornetx.com'
   - '+.hornyasianmilfs.com'
   - '+.hornybitches.org'
   - '+.hornybutt.com'
@@ -14178,6 +14183,7 @@ payload:
   - '+.listinganalytics.net'
   - '+.listorious.com'
   - '+.litbus-anime.com'
+  - '+.litecoin.org'
   - '+.litenews.hk'
   - '+.literatumonline.com'
   - '+.literotica.com'
@@ -16474,7 +16480,9 @@ payload:
   - '+.netflixtechblog.com'
   - '+.netlify.app'
   - '+.netlify.com'
+  - '+.netlifydns.com'
   - '+.netlifystatus.com'
+  - '+.netlifyusercontent.com'
   - '+.netlock.hu'
   - '+.netmarble.com'
   - '+.netme.cc'
@@ -17015,6 +17023,7 @@ payload:
   - '+.ntdtvla.com'
   - '+.ntdvideo.tw'
   - '+.ntdvn.com'
+  - '+.ntl.fyi'
   - '+.ntp.se'
   - '+.ntrfun.com'
   - '+.ntten-mg.buzz'

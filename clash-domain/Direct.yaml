@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-02 01:44:19 (UTC+8)
+# UPDATED: 2026-07-03 01:23:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 1991
+# TOTAL: 1992
 payload:
   - '+.java'
   - '+.oracle'
@@ -134,6 +134,7 @@ payload:
   - '+.cnb.cool'
   - '+.cnbksy.com'
   - '+.cnblogs.com'
+  - '+.cnblogs.vip'
   - '+.cnitblog.com'
   - '+.cnki.net'
   - '+.cnsciedu.com'

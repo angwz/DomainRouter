@@ -1,14 +1,14 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-02 01:45:00 (UTC+8)
+# UPDATED: 2026-07-03 01:24:13 (UTC+8)
 # TYPE: ipcidr
 # TOTAL: 23
 # IP-CIDR TOTAL: 20
 # IP-CIDR6 TOTAL: 3
 payload:
   - '103.252.112.0/22'
-  - '104.244.40.0/23'
+  - '104.244.41.0/24'
   - '104.244.42.0/24'
   - '104.244.44.0/22'
   - '185.45.4.0/22'

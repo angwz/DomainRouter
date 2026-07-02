@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-02 01:51:54 (UTC+8)
+# UPDATED: 2026-07-03 01:31:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 1011
+# TOTAL: 1013
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -229,6 +229,7 @@ payload:
   - '+.bytescm.com'
   - '+.bytesfield.com'
   - '+.bytesmanager.com'
+  - '+.bytespeech.com'
   - '+.bytesslb.net'
   - '+.bytesyscdn.com'
   - '+.bytetcc.com'
@@ -596,6 +597,7 @@ payload:
   - '+.okr.cn'
   - '+.okr.com'
   - '+.oortgslb.com'
+  - '+.open-douyin.com'
   - '+.openbcs.com'
   - '+.openve.cn'
   - '+.originalimg.com'

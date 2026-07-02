@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-02 01:51:54 (UTC+8)
+# UPDATED: 2026-07-03 01:31:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 2579
+# TOTAL: 2590
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -61,6 +61,7 @@ payload:
   - '+.agcloudcs.com'
   - '+.agpolis.com'
   - '+.aigclsp.com'
+  - '+.aireads.cn'
   - '+.aitangyou.com'
   - '+.aitransfy.com'
   - '+.aizools.com'
@@ -161,6 +162,14 @@ payload:
   - '+.cgoec-tencentclb.com'
   - '+.cgoec-tencentclb.net'
   - '+.cgoec-tencentclb.work'
+  - '+.chatdrama.cn'
+  - '+.chatdrama.net'
+  - '+.chatqidian.cn'
+  - '+.chatqidian.net'
+  - '+.chattext.cn'
+  - '+.chatwrite.net'
+  - '+.chatxiaoxiang.com'
+  - '+.chatyuewen.cn'
   - '+.chinatechie.cn'
   - '+.chinatechie.com'
   - '+.chinatechie.net'
@@ -271,6 +280,7 @@ payload:
   - '+.discuz.com'
   - '+.discuz.net'
   - '+.discuz.org'
+  - '+.dishu3.com'
   - '+.dllzff.cn'
   - '+.dns.pub'
   - '+.dnsapi.cn'
@@ -2295,6 +2305,7 @@ payload:
   - '+.xuz0.cn'
   - '+.xxsy.com'
   - '+.xxsy.net'
+  - '+.xxsypro.com'
   - '+.yakgamer.com'
   - '+.yayagushi.cn'
   - '+.yayagushi.com'

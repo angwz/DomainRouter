@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-02 01:51:58 (UTC+8)
+# UPDATED: 2026-07-03 01:31:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 11093
+# TOTAL: 11097
 payload:
   - '+.adult'
   - '+.bbc'
@@ -3343,6 +3343,9 @@ payload:
   - '+.hooloo.tv'
   - '+.hoolu.com'
   - '+.hoolu.tv'
+  - '+.hornet.com'
+  - '+.hornetapp.com'
+  - '+.hornetx.com'
   - '+.hornyasianmilfs.com'
   - '+.hornybitches.org'
   - '+.hornybutt.com'
@@ -6809,6 +6812,7 @@ payload:
   - '+.techatbloomberg.com'
   - '+.technews.tw'
   - '+.techradar.com'
+  - '+.techspot.com'
   - '+.techtudo.com'
   - '+.teen-girl.net'
   - '+.teen-lover.net'

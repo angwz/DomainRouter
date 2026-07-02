@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-02 01:51:54 (UTC+8)
+# UPDATED: 2026-07-03 01:31:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 922
+# TOTAL: 923
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -691,6 +691,7 @@ payload:
   - '+.lightning.community'
   - '+.lightning.engineering'
   - '+.liquid.com'
+  - '+.litecoin.org'
   - '+.liverail.com'
   - '+.liverail.tv'
   - '+.llama.com'

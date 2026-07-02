@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-02 01:51:59 (UTC+8)
+# UPDATED: 2026-07-03 01:31:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 5404
+# TOTAL: 5416
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -167,6 +167,7 @@ payload:
   - '+.59bob.cn'
   - '+.5wyxi.com'
   - '+.6655.com'
+  - '+.66rpg.com'
   - '+.6ts7c.cn'
   - '+.6tt.com'
   - '+.71.am'
@@ -180,6 +181,7 @@ payload:
   - '+.7k2k1.cn'
   - '+.7k7k.com'
   - '+.8009900800.com'
+  - '+.81.cn'
   - '+.816798.net'
   - '+.8531.cn'
   - '+.88cha.com'
@@ -886,6 +888,7 @@ payload:
   - '+.ce.cn'
   - '+.ceeunion.com'
   - '+.cftsupport.com'
+  - '+.cgyouxi.com'
   - '+.chaindd.com'
   - '+.chainedbox.com'
   - '+.championshipseriesleague.com'
@@ -1182,6 +1185,7 @@ payload:
   - '+.dicela.net'
   - '+.diddykongracing.com'
   - '+.dingding.xin'
+  - '+.dingstore.cn'
   - '+.dingtalk.cn'
   - '+.dingtalk.com'
   - '+.dingtalk.net'
@@ -1303,6 +1307,7 @@ payload:
   - '+.eastore.com'
   - '+.easy.ac'
   - '+.easyanticheat.net'
+  - '+.ebrun.com'
   - '+.ecns.cn'
   - '+.edcfda.com'
   - '+.edu4399.com'
@@ -2773,6 +2778,7 @@ payload:
   - '+.mznznj.com'
   - '+.n0vadesktop.com'
   - '+.nagcloudcs.com'
+  - '+.nalrer.cn'
   - '+.namemc.com'
   - '+.nanyuenews.com'
   - '+.natgmj.com'
@@ -3360,6 +3366,7 @@ payload:
   - '+.static163.net'
   - '+.statickksmg.com'
   - '+.stcn.com'
+  - '+.stdaily.com'
   - '+.steam-api.com'
   - '+.steam-chat.com'
   - '+.steam.tv'
@@ -3651,6 +3658,7 @@ payload:
   - '+.wegame.com'
   - '+.wegameplus.com'
   - '+.weiphone.net'
+  - '+.weiyang.cn'
   - '+.wenku.in'
   - '+.wenyupages.com'
   - '+.wfdata.club'
@@ -3681,6 +3689,7 @@ payload:
   - '+.wobaif.com'
   - '+.wom186.com'
   - '+.workbenchapi.com'
+  - '+.workercn.cn'
   - '+.worldflipper.jp'
   - '+.worldoftanks.com'
   - '+.worldoftanks.eu'
@@ -3857,6 +3866,7 @@ payload:
   - '+.yjs-cdn8.com'
   - '+.yjs-cdn9.com'
   - '+.yjsops.com'
+  - '+.yjwujian.cn'
   - '+.ykimg.com'
   - '+.ylands.com'
   - '+.ynet.cn'
@@ -3941,6 +3951,7 @@ payload:
   - '+.yxhimg.com'
   - '+.yximg.cn'
   - '+.yxwsgame.com'
+  - '+.yysls.cn'
   - '+.yzlngi.com'
   - '+.yzsnen.com'
   - '+.yzwb.net'
@@ -4151,6 +4162,7 @@ payload:
   - '+.jxlog.istreamsche.com'
   - '+.jxnews.com.cn'
   - '+.kanduoduo.com.cn'
+  - '+.kjrb.com.cn'
   - '+.konami.co.jp'
   - '+.kssdata-yz1.kuaipandata.com'
   - '+.kssdata-yz2-lt.kuaipandata.com'
