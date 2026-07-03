@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-03 01:24:13 (UTC+8)
+# UPDATED: 2026-07-04 01:10:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 29333
+# TOTAL: 29335
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5846,6 +5846,7 @@ payload:
   - '+.coova.com'
   - '+.coova.net'
   - '+.coova.org'
+  - '+.copilot.com'
   - '+.copro.pw'
   - '+.copy-manga.com'
   - '+.copy20.com'
@@ -24698,6 +24699,7 @@ payload:
   - '+.webrush.net'
   - '+.webs-tv.net'
   - '+.websdr.org'
+  - '+.webshare.io'
   - '+.website.new'
   - '+.websitepulse.com'
   - '+.websnapr.com'

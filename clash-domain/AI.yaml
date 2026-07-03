@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-03 01:24:13 (UTC+8)
+# UPDATED: 2026-07-04 01:10:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 261
+# TOTAL: 264
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -54,6 +54,7 @@ payload:
   - '+.comfy.org'
   - '+.comfyci.org'
   - '+.comfyregistry.org'
+  - '+.copilot.com'
   - '+.coze.com'
   - '+.crewai.com'
   - '+.crixet.com'
@@ -248,6 +249,7 @@ payload:
   - 'notebooklm.googleapis.com'
   - 'oaic.report-uri.com'
   - 'openai-api.arkoselabs.com'
+  - 'openai.qualtrics.com'
   - 'openaiapi-site.azureedge.net'
   - 'openaicom.imgix.net'
   - 'pplx-res.cloudinary.com'
@@ -264,5 +266,6 @@ payload:
   - 'ppl-ai-file-upload.s3.amazonaws.com'
   - 'webchannel-alkalimakersuite-pa.clients6.google.com'
   - 'copilotprodattachments.blob.core.windows.net'
+  - 'openaiassets.blob.core.windows.net'
   - 'openaicomproductionae4b.blob.core.windows.net'
   - 'self.events.data.microsoft.com'
