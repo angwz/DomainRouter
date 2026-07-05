@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-05 00:50:22 (UTC+8)
+# UPDATED: 2026-07-06 00:52:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 757
+# TOTAL: 759
 payload:
   - '+.azure'
   - '+.hk'
@@ -61,6 +61,7 @@ payload:
   - '+.aznbcontent.cn'
   - '+.aztask.cn'
   - '+.azure-api.cn'
+  - '+.azure-api.net'
   - '+.azure-apihub.cn'
   - '+.azure-automation.cn'
   - '+.azure-connectedvehicles-stage.cn'
@@ -124,6 +125,7 @@ payload:
   - '+.azureserviceprofiler.com'
   - '+.azuresmartspaces.net'
   - '+.azurestackvalidation.com'
+  - '+.azurestaticapps.net'
   - '+.azurewebsites.net'
   - '+.b2clogin.cn'
   - '+.b3itech.cn'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-05 00:50:21 (UTC+8)
+# UPDATED: 2026-07-06 00:52:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 29335
+# TOTAL: 29338
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1972,6 +1972,7 @@ payload:
   - '+.apple-pay.wang'
   - '+.apple-store.net'
   - '+.apple-store.wang'
+  - '+.apple-studies.com'
   - '+.apple-usa.net'
   - '+.apple.ae'
   - '+.apple.at'
@@ -2410,6 +2411,7 @@ payload:
   - '+.atlassian-dev.net'
   - '+.atlassian.com'
   - '+.atlassian.net'
+  - '+.atmeta.com'
   - '+.atnext.com'
   - '+.atokara.jp'
   - '+.atom.io'
@@ -2794,6 +2796,7 @@ payload:
   - '+.azirevpn.com'
   - '+.aznude.com'
   - '+.azubu.tv'
+  - '+.azure-api.net'
   - '+.azure-devices-int.net'
   - '+.azure-devices.net'
   - '+.azure-dns.com'
@@ -2831,6 +2834,7 @@ payload:
   - '+.azureserviceprofiler.com'
   - '+.azuresmartspaces.net'
   - '+.azurestackvalidation.com'
+  - '+.azurestaticapps.net'
   - '+.azurewebsites.net'
   - '+.b-cdn.net'
   - '+.b-eroland.net'
@@ -29271,7 +29275,6 @@ payload:
   - 'hub.slarker.me'
   - 'i.jeded.com'
   - 'imperial.insendi.com'
-  - 'ingest.apple-studies.com'
   - 'live-patreon-marketing.pantheonsite.io'
   - 'medone-education.thieme.com'
   - 'muse.jhu.edu'

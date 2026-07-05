@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-05 00:57:55 (UTC+8)
+# UPDATED: 2026-07-06 01:00:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 764
+# TOTAL: 766
 payload:
   - '+.azure'
   - '+.bing'
@@ -69,6 +69,7 @@ payload:
   - '+.aznbcontent.cn'
   - '+.aztask.cn'
   - '+.azure-api.cn'
+  - '+.azure-api.net'
   - '+.azure-apihub.cn'
   - '+.azure-apim.net'
   - '+.azure-automation.cn'
@@ -135,6 +136,7 @@ payload:
   - '+.azureserviceprofiler.com'
   - '+.azuresmartspaces.net'
   - '+.azurestackvalidation.com'
+  - '+.azurestaticapps.net'
   - '+.azurewebsites.net'
   - '+.b2clogin.cn'
   - '+.b3itech.cn'

@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-05 00:50:22 (UTC+8)
+# UPDATED: 2026-07-06 00:52:39 (UTC+8)
 # TYPE: domain
 # TOTAL: 1563
 payload:
@@ -93,6 +93,7 @@ payload:
   - '+.apple-store.cn'
   - '+.apple-store.net'
   - '+.apple-store.wang'
+  - '+.apple-studies.com'
   - '+.apple-usa.net'
   - '+.apple.ae'
   - '+.apple.at'
@@ -1558,7 +1559,6 @@ payload:
   - '+.gsp4-cn.ls.apple.com.edgekey.net'
   - 'apple-events.akamaized.net'
   - 'apple.comscoreresearch.com'
-  - 'ingest.apple-studies.com'
   - 'p-events-delivery.akamaized.net'
   - 'appleworldwidedeveloper.hb-api.omtrdc.net'
   - 'appleworldwidedeveloper.sc.omtrdc.net'
