@@ -1,23 +1,28 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-06 01:00:36 (UTC+8)
+# UPDATED: 2026-07-07 02:11:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 112647
+# TOTAL: 112653
 payload:
   - '+.alibaba'
   - '+.alipay'
+  - '+.anquan'
   - '+.baidu'
   - '+.citic'
   - '+.cn'
   - '+.full'
   - '+.icbc'
   - '+.ms'
+  - '+.shouji'
+  - '+.sina'
   - '+.sohu'
   - '+.taobao'
   - '+.tmall'
   - '+.unicom'
   - '+.wang'
+  - '+.weibo'
+  - '+.xihuan'
   - '+.xn--1qqw23a'
   - '+.xn--3bst00m'
   - '+.xn--3ds443g'
@@ -28,6 +33,7 @@ payload:
   - '+.xn--6qq986b3xl'
   - '+.xn--8y0a063a'
   - '+.xn--9et52u'
+  - '+.xn--9krt00a'
   - '+.xn--czr694b'
   - '+.xn--czrs0t'
   - '+.xn--czru2d'
@@ -50,6 +56,7 @@ payload:
   - '+.xn--vuq861b'
   - '+.xn--xhq521b'
   - '+.xn--zfr164b'
+  - '+.yun'
   - '+.0.zone'
   - '+.00.net'
   - '+.000.link'
@@ -32446,7 +32453,6 @@ payload:
   - '+.embryochina.com'
   - '+.embsky.com'
   - '+.emby.men'
-  - '+.emby.yun'
   - '+.embyvip.org'
   - '+.emcbj.com'
   - '+.emcdir.com'
