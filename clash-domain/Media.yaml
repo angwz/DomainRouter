@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-07 02:11:12 (UTC+8)
+# UPDATED: 2026-07-08 01:58:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 11097
+# TOTAL: 11099
 payload:
   - '+.adult'
   - '+.bbc'
@@ -5280,6 +5280,8 @@ payload:
   - '+.passion-hd.com'
   - '+.passion.com'
   - '+.passiontimes.hk'
+  - '+.pawchive.pw'
+  - '+.pawchive.st'
   - '+.payhulu.com'
   - '+.payserve.com'
   - '+.paysitesreviews.net'

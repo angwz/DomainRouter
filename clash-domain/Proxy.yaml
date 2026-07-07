@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-07 02:03:12 (UTC+8)
+# UPDATED: 2026-07-08 01:49:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 29338
+# TOTAL: 29340
 payload:
   - '+.adult'
   - '+.amazon'
@@ -17830,6 +17830,8 @@ payload:
   - '+.patreonusercontent.com'
   - '+.paulsimon-music.com'
   - '+.pavpal.com'
+  - '+.pawchive.pw'
+  - '+.pawchive.st'
   - '+.pawoo.net'
   - '+.paxful.com'
   - '+.paxlicense.org'
