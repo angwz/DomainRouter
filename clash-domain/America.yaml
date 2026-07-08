@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-08 01:49:55 (UTC+8)
+# UPDATED: 2026-07-09 01:16:47 (UTC+8)
 # TYPE: domain
-# TOTAL: 1719
+# TOTAL: 1720
 payload:
   - '+.android'
   - '+.intel'
@@ -1309,6 +1309,7 @@ payload:
   - '+.tilda.ws'
   - '+.tildaapi.com'
   - '+.tildacdn.com'
+  - '+.tildacdn.net'
   - '+.timelinestoryteller.com'
   - '+.topcoder.com'
   - '+.totalmateria.com'

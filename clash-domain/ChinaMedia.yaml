@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-08 01:58:03 (UTC+8)
+# UPDATED: 2026-07-09 01:24:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 5416
+# TOTAL: 5428
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -65,6 +65,8 @@ payload:
   - '+.166dns.com'
   - '+.1688.com'
   - '+.169ol.com'
+  - '+.17173.com'
+  - '+.17173cdn.com'
   - '+.17lai.org'
   - '+.17roco.com'
   - '+.17swan.com'
@@ -2837,6 +2839,7 @@ payload:
   - '+.nikke-jp.com'
   - '+.nikke-kr.com'
   - '+.nikke-sea.com'
+  - '+.nikkigames.cn'
   - '+.nintendo-europe-sales.com'
   - '+.nintendo-europe.com'
   - '+.nintendo.at'
@@ -2930,6 +2933,8 @@ payload:
   - '+.pailitao.com'
   - '+.paipai.com'
   - '+.pandanet-igs.com'
+  - '+.papegames.cn'
+  - '+.papegames.com'
   - '+.papermc.io'
   - '+.paragon.com'
   - '+.paydxm.com'
@@ -3428,6 +3433,7 @@ payload:
   - '+.take2games.com'
   - '+.takungpao.com'
   - '+.tangping.com'
+  - '+.tanwan.com'
   - '+.tanx.com'
   - '+.tao123.com'
   - '+.taobao.cn'
@@ -3548,6 +3554,8 @@ payload:
   - '+.tvcc.cn'
   - '+.twinmotion.com'
   - '+.twmsuf.com'
+  - '+.twyx.cn'
+  - '+.twyxh.com'
   - '+.tx163.com'
   - '+.tyututy.com'
   - '+.tzygd.cn'
@@ -3843,6 +3851,8 @@ payload:
   - '+.yeah.net'
   - '+.yesky.com'
   - '+.yeyingkf.com'
+  - '+.yeyou.com'
+  - '+.yeyoucdn.com'
   - '+.yhcdn.cn'
   - '+.yhd.com'
   - '+.yicai.com'
@@ -3999,6 +4009,7 @@ payload:
   - '+.zuoyebang.com'
   - '+.zwmrxd.com'
   - '+.zwtianshangm.com'
+  - '+.zx.com'
   - '+.zxsales.cn'
   - '+.zybang.com'
   - '+.zynga.com'
@@ -4207,6 +4218,7 @@ payload:
   - '+.nexon.co.jp'
   - '+.nexoncdn.co.kr'
   - '+.nexongames.co.kr'
+  - '+.nikkigames.com.cn'
   - '+.nintendo.co.jp'
   - '+.nintendo.co.kr'
   - '+.nintendo.co.uk'
