@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-10 01:45:01 (UTC+8)
+# UPDATED: 2026-07-11 01:38:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 1996
+# TOTAL: 1995
 payload:
   - '+.java'
   - '+.oracle'
@@ -899,9 +899,7 @@ payload:
   - '+.pdl.wow.battlenet.com.cn'
   - '+.rsm.download.prss.microsoft.com'
   - '+.software.download.prss.microsoft.com'
-  - '+.statics.teams.cdn.office.net'
   - '+.storecorefulfillment.download.prss.microsoft.com'
-  - '+.storeedgefd.dsx.mp.microsoft.com'
   - '+.surface.download.prss.microsoft.com'
   - '+.surface.downloads.prss.microsoft.com'
   - '+.vlportal.download.prss.microsoft.com'
@@ -1977,6 +1975,7 @@ payload:
   - 'prodforza.blob.core.windows.net'
   - 'res-h3.public.cdn.office.net'
   - 'shbu.live.bestvcdn.com.cn'
+  - 'statics.teams.cdn.office.net'
   - 'store.ovp.wsrtv.com.cn'
   - 'teamviewer.com.cdn.cloudflare.net'
   - 'tvfile.jy.lsrm.org.cn'
