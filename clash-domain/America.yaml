@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-11 01:39:29 (UTC+8)
+# UPDATED: 2026-07-12 00:40:52 (UTC+8)
 # TYPE: domain
-# TOTAL: 1720
+# TOTAL: 1722
 payload:
   - '+.android'
   - '+.intel'
@@ -282,6 +282,7 @@ payload:
   - '+.crates.io'
   - '+.creativecloud.com'
   - '+.creativesdk.com'
+  - '+.crocoblock.com'
   - '+.crossref.org'
   - '+.crosswalk-project.com'
   - '+.crosswalk-project.net'
@@ -922,6 +923,7 @@ payload:
   - '+.mongodb.org'
   - '+.mono-project.com'
   - '+.morganclaypool.com'
+  - '+.motocms.com'
   - '+.motolia.com'
   - '+.motopress.com'
   - '+.movidius.com'

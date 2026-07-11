@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-11 01:47:35 (UTC+8)
+# UPDATED: 2026-07-12 00:47:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 924
+# TOTAL: 933
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -37,6 +37,9 @@ payload:
   - '+.atscaleconference.com'
   - '+.avax.network'
   - '+.base.org'
+  - '+.bestchange.com'
+  - '+.bestchange.net'
+  - '+.bestchange.ru'
   - '+.bibox.com'
   - '+.binance.cc'
   - '+.binance.charity'
@@ -193,6 +196,7 @@ payload:
   - '+.defillama.com'
   - '+.defipulse.com'
   - '+.defirate.com'
+  - '+.delets.online'
   - '+.deribit.com'
   - '+.devcon.org'
   - '+.dextools.io'
@@ -771,6 +775,7 @@ payload:
   - '+.onekey-asset.com'
   - '+.onekey.so'
   - '+.onekeycn.com'
+  - '+.onemoment.cc'
   - '+.onfinality.io'
   - '+.oninstagram.com'
   - '+.online-deals.net'
@@ -787,13 +792,17 @@ payload:
   - '+.parity.io'
   - '+.parse.com'
   - '+.paxful.com'
+  - '+.payget.pro'
   - '+.phantom.app'
+  - '+.platov.co'
   - '+.poloniex.com'
   - '+.poly.network'
   - '+.polymarket.com'
   - '+.poolin.com'
   - '+.powersunitedvr.com'
   - '+.pyrobot.org'
+  - '+.ramon.cash'
+  - '+.ramon.money'
   - '+.raydium.io'
   - '+.reachtheworldonfacebook.com'
   - '+.react.com'
