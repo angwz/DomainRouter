@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-13 00:43:13 (UTC+8)
+# UPDATED: 2026-07-14 01:47:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 29362
+# TOTAL: 29363
 payload:
   - '+.adult'
   - '+.amazon'
@@ -24653,6 +24653,7 @@ payload:
   - '+.wbautomation.ru'
   - '+.wbautomation.tech'
   - '+.wbbasket.ru'
+  - '+.wbcontent.net'
   - '+.wbd.ms'
   - '+.wbdnbo.net'
   - '+.wbdubna.ru'
