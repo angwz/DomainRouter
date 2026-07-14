@@ -1,9 +1,9 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-14 01:52:37 (UTC+8)
+# UPDATED: 2026-07-15 01:08:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 673
+# TOTAL: 672
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
@@ -288,7 +288,6 @@ payload:
   - 'pow7.com'
   - 'proaudiotorrents.org'
   - 'pubt.net'
-  - 'retracker.local'
   - 'ryjer.com'
   - 'seeders-paradise.org'
   - 'seedpeer.net'

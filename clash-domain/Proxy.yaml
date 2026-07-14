@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-14 01:47:30 (UTC+8)
+# UPDATED: 2026-07-15 01:00:11 (UTC+8)
 # TYPE: domain
-# TOTAL: 29363
+# TOTAL: 29362
 payload:
   - '+.adult'
   - '+.amazon'
@@ -29,7 +29,6 @@ payload:
   - '+.gmail'
   - '+.gmo'
   - '+.godaddy'
-  - '+.goo'
   - '+.goog'
   - '+.google'
   - '+.gucci'
@@ -40,11 +39,9 @@ payload:
   - '+.hsbc'
   - '+.ibm'
   - '+.imdb'
-  - '+.intel'
   - '+.intuit'
   - '+.java'
   - '+.kindle'
-  - '+.konami'
   - '+.microsoft'
   - '+.mini'
   - '+.mit'
@@ -5162,6 +5159,7 @@ payload:
   - '+.chat.com'
   - '+.chatango.com'
   - '+.chatgpt.com'
+  - '+.chatgpt.site'
   - '+.chatgptvideo.xyz'
   - '+.chatgptvideob.buzz'
   - '+.chatnook.com'
@@ -13670,6 +13668,7 @@ payload:
   - '+.khotruyentranhx.com'
   - '+.kichiku-doujinko.com'
   - '+.kichikuou.com'
+  - '+.kick.com'
   - '+.kickporn.com'
   - '+.kickshatchannel.com'
   - '+.kicksnike1.com'

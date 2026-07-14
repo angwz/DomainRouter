@@ -1,12 +1,11 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-14 01:47:30 (UTC+8)
+# UPDATED: 2026-07-15 01:00:11 (UTC+8)
 # TYPE: domain
-# TOTAL: 1724
+# TOTAL: 1719
 payload:
   - '+.android'
-  - '+.intel'
   - '+.java'
   - '+.mit'
   - '+.us'
@@ -1565,7 +1564,6 @@ payload:
   - '+.hulu.playback.edge.bamgrid.com'
   - '+.notary-submissions-prod.s3.us-west-2.amazonaws.com'
   - 'adobeereg.com'
-  - 'practivate.adobe'
   - 'amp.akamaized.net'
   - 'android.googlesource.com'
   - 'angle.com.tw'
@@ -1602,9 +1600,6 @@ payload:
   - 'p-events-delivery.akamaized.net'
   - 'packages.microsoft.com'
   - 'poshtestgallery.cloudapp.net'
-  - 'practivate.adobe.ipp'
-  - 'practivate.adobe.newoa'
-  - 'practivate.adobe.ntp'
   - 'psg-int-centralus.cloudapp.net'
   - 'psg-int-eastus.cloudapp.net'
   - 'rink.hockeyapp.net'

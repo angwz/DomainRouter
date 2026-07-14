@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-14 01:47:00 (UTC+8)
+# UPDATED: 2026-07-15 00:59:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 1997
+# TOTAL: 1998
 payload:
   - '+.java'
   - '+.oracle'
@@ -556,6 +556,7 @@ payload:
   - '+.ymbank.com'
   - '+.yoma.cn'
   - '+.yuelun.com'
+  - '+.yzsgo.com'
   - '+.z-bank.com'
   - '+.z.ai'
   - '+.z.cn'
