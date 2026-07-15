@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-15 01:00:11 (UTC+8)
+# UPDATED: 2026-07-16 01:02:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 29362
+# TOTAL: 29378
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4243,6 +4243,7 @@ payload:
   - '+.bnn.co'
   - '+.bnrmetal.com'
   - '+.bntrace.com'
+  - '+.bnxz.net'
   - '+.boardreader.com'
   - '+.boboporn.com'
   - '+.boboporn.net'
@@ -4687,6 +4688,7 @@ payload:
   - '+.bypasscensorship.org'
   - '+.byrut.org'
   - '+.byspotify.com'
+  - '+.bystys.tech'
   - '+.bytedapm.com'
   - '+.byteoversea.com'
   - '+.bytick.com'
@@ -14124,7 +14126,14 @@ payload:
   - '+.lih.kg'
   - '+.lihkg.com'
   - '+.lihksnap.com'
+  - '+.like-video.com'
   - '+.like.com'
+  - '+.like.video'
+  - '+.likee.com'
+  - '+.likee.video'
+  - '+.likeeapp.ru'
+  - '+.likeevideo.com'
+  - '+.likeevideo.ru'
   - '+.likeseiyu.com'
   - '+.liketruyen.net'
   - '+.liketwice.com'
@@ -17654,6 +17663,7 @@ payload:
   - '+.owind.com'
   - '+.owl.li'
   - '+.owltail.com'
+  - '+.owxd.xyz'
   - '+.oxfordaasc.com'
   - '+.oxfordartonline.com'
   - '+.oxfordbibliographies.com'
@@ -23638,6 +23648,7 @@ payload:
   - '+.uwpcommunitytoolkit.com'
   - '+.uxthemes.com'
   - '+.uxxxporn.com'
+  - '+.uxzw.club'
   - '+.uyghur-j.org'
   - '+.uyghuraa.org'
   - '+.uyghuramerican.org'
@@ -26388,6 +26399,7 @@ payload:
   - '+.ytimg.com'
   - '+.yuanming.net'
   - '+.yuanzhengtang.org'
+  - '+.yucf.top'
   - '+.yuenuge113.xyz'
   - '+.yuenuge18.cc'
   - '+.yugioh-card.com'
@@ -29274,6 +29286,7 @@ payload:
   - 'yangzhi.app'
   - 'ztedevices.com'
   - '1password.drift.click'
+  - 'agb9r0ad.qllfkl.com'
   - 'angle.com.tw'
   - 'api-p.videomarket.jp'
   - 'api.waqi.info'
@@ -29294,6 +29307,7 @@ payload:
   - 'firstsearch.oclc.org'
   - 'github-api.arkoselabs.com'
   - 'gog.qtlglb.com'
+  - 'hb4bbbbb.pmhcjk.com'
   - 'holoxx.f5.si'
   - 'hpstore.corpmerchandise.com'
   - 'hub.slarker.me'
@@ -29302,6 +29316,7 @@ payload:
   - 'live-patreon-marketing.pantheonsite.io'
   - 'medone-education.thieme.com'
   - 'muse.jhu.edu'
+  - 'nbbb1bb7.pmhcjk.com'
   - 'ntp-c.colorado.edu'
   - 'ntp.time.nl'
   - 'ntp0.ntp-servers.net'
@@ -29321,6 +29336,7 @@ payload:
   - 'practivate.adobe.ipp'
   - 'practivate.adobe.newoa'
   - 'practivate.adobe.ntp'
+  - 'q676790b.pmhcjk.com'
   - 'roovza-launches.appsflyersdk.com'
   - 'rss.4040940.xyz'
   - 'rss.datuan.dev'
