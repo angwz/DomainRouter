@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-16 01:02:39 (UTC+8)
+# UPDATED: 2026-07-17 01:00:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 266
+# TOTAL: 268
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -55,6 +55,7 @@ payload:
   - '+.comfy.org'
   - '+.comfyci.org'
   - '+.comfyregistry.org'
+  - '+.copilot-stg.com'
   - '+.copilot.com'
   - '+.coze.com'
   - '+.crewai.com'
@@ -79,6 +80,7 @@ payload:
   - '+.envatousercontent.com'
   - '+.featuregates.org'
   - '+.flipwithsurface.com'
+  - '+.flow.google'
   - '+.g.ai'
   - '+.gemini.google'
   - '+.generativeai.google'

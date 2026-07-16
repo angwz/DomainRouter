@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-16 01:02:39 (UTC+8)
+# UPDATED: 2026-07-17 01:00:35 (UTC+8)
 # TYPE: domain
-# TOTAL: 29378
+# TOTAL: 29381
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2822,6 +2822,7 @@ payload:
   - '+.azuredns-prd.org'
   - '+.azureedge-test.net'
   - '+.azureedge.net'
+  - '+.azureedge.us'
   - '+.azurefd.net'
   - '+.azureiotcentral.com'
   - '+.azureiotsolutions.com'
@@ -5853,6 +5854,7 @@ payload:
   - '+.coova.com'
   - '+.coova.net'
   - '+.coova.org'
+  - '+.copilot-stg.com'
   - '+.copilot.com'
   - '+.copro.pw'
   - '+.copy-manga.com'
@@ -15091,6 +15093,7 @@ payload:
   - '+.mh4u.org'
   - '+.mhcb.ru'
   - '+.mhcbr.ru'
+  - '+.mhgui.com'
   - '+.mhhanman.xyz'
   - '+.mhqwe.xyz'
   - '+.mhradio.org'
@@ -21584,6 +21587,7 @@ payload:
   - '+.starfox.com'
   - '+.stargazer-games.com'
   - '+.stark-verlag.ch'
+  - '+.starlink.com'
   - '+.starott.com'
   - '+.starp2p.com'
   - '+.starplus.com'
@@ -26808,7 +26812,6 @@ payload:
   - '+.ait.org.tw'
   - '+.akamai.co.kr'
   - '+.akita-bank.co.jp'
-  - '+.alfabank.oavdo.amc'
   - '+.alfera.com.hk'
   - '+.alfera.com.my'
   - '+.alibabacloud.co.in'
