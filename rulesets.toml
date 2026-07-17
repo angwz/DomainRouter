@@ -245,6 +245,12 @@ type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
+group = "🌌 星星啊"
+ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Star-classic.yaml"
+type = "clash-classic"
+interval = 21600
+
+[[rulesets]]
 group = "⛳ 美国专线"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/America.yaml"
 type = "clash-domain"
