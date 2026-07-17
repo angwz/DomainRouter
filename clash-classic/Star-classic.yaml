@@ -1,0 +1,11 @@
+# NAME: Star
+# AUTHOR: Angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2026-07-17 19:41:40 (UTC+8)
+# TYPE: classic
+# TOTAL: 3
+# DOMAIN-KEYWORD TOTAL: 3
+payload:
+  - DOMAIN-KEYWORD,steambroadcast
+  - DOMAIN-KEYWORD,steamstore
+  - DOMAIN-KEYWORD,steamuserimages

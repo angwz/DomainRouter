@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-17 01:00:35 (UTC+8)
+# UPDATED: 2026-07-17 19:41:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 29381
+# TOTAL: 29382
 payload:
   - '+.adult'
   - '+.amazon'
@@ -16527,6 +16527,7 @@ payload:
   - '+.network54.com'
   - '+.networkedblogs.com'
   - '+.networktunnel.net'
+  - '+.netxh.blog'
   - '+.netzerobuildings.com'
   - '+.netzerobuildingstudio.com'
   - '+.neuerporno.com'

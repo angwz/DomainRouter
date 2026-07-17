@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-17 01:06:30 (UTC+8)
+# UPDATED: 2026-07-17 19:49:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 11099
+# TOTAL: 11100
 payload:
   - '+.adult'
   - '+.bbc'
@@ -4908,6 +4908,7 @@ payload:
   - '+.netpornsex.net'
   - '+.nettyinternet.com'
   - '+.netvideogirls.com'
+  - '+.netxh.blog'
   - '+.neuerporno.com'
   - '+.new-akiba.com'
   - '+.new-jero.net'
