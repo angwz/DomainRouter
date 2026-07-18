@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-18 00:57:11 (UTC+8)
+# UPDATED: 2026-07-19 00:42:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 29382
+# TOTAL: 29383
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19265,6 +19265,7 @@ payload:
   - '+.qmttqg3k.me'
   - '+.qmzdd.com'
   - '+.qnap.com'
+  - '+.qnapsupport.net'
   - '+.qobuz.com'
   - '+.qoder.com'
   - '+.qombol.com'
