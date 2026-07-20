@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-20 00:47:52 (UTC+8)
+# UPDATED: 2026-07-21 01:24:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 112411
+# TOTAL: 112412
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -67478,6 +67478,7 @@ payload:
   - '+.mychuguan.com'
   - '+.mychunyan.net'
   - '+.myckjr.com'
+  - '+.mycloudnas.com'
   - '+.mycloudstudy.com'
   - '+.myclub2.com'
   - '+.mycnc.org'
