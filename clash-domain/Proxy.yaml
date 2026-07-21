@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-21 01:16:34 (UTC+8)
+# UPDATED: 2026-07-22 01:05:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 29383
+# TOTAL: 29392
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3387,6 +3387,7 @@ payload:
   - '+.berlinerbericht.de'
   - '+.berlintwitterwall.com'
   - '+.best-sex-games.com'
+  - '+.best2pay.net'
   - '+.best3dhere.com'
   - '+.best4bim.com'
   - '+.bestamateurcumshots.com'
@@ -5497,6 +5498,7 @@ payload:
   - '+.clashofclans.com'
   - '+.clashroyale.com'
   - '+.clashroyaleapp.com'
+  - '+.clashyun.com'
   - '+.clasporno.org'
   - '+.classicalguitarblog.net'
   - '+.classicnike.com'
@@ -8132,6 +8134,8 @@ payload:
   - '+.f-droid.com'
   - '+.f-droid.org'
   - '+.f-secure.com'
+  - '+.f1.com'
+  - '+.f1tv.com'
   - '+.f2pool.com'
   - '+.f5pf.com'
   - '+.f6.dev'
@@ -9014,6 +9018,7 @@ payload:
   - '+.formit360.com'
   - '+.formitfactory.com'
   - '+.forms.new'
+  - '+.formula1.com'
   - '+.forpojie.pics'
   - '+.forshtadt.ru'
   - '+.fortawesome.com'
@@ -11806,6 +11811,7 @@ payload:
   - '+.hutong9.net'
   - '+.hutpromos.com'
   - '+.huyandex.com'
+  - '+.hva.im'
   - '+.hwadzan.tw'
   - '+.hwcdn.net'
   - '+.hwgo.com'
@@ -19492,8 +19498,10 @@ payload:
   - '+.rbnainternational.com'
   - '+.rbplc.com'
   - '+.rbrandlibrary.com'
+  - '+.rbsgate.com'
   - '+.rbsgr.com'
   - '+.rbspeakup.com'
+  - '+.rbsuat.com'
   - '+.rbth.com'
   - '+.rbx.com'
   - '+.rbxcdn.com'
@@ -21969,6 +21977,7 @@ payload:
   - '+.sysinternals.com'
   - '+.sysresccd.org'
   - '+.system76.com'
+  - '+.sysub.com'
   - '+.sytes.net'
   - '+.syx86.com'
   - '+.syzbj36.xyz'
