@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-22 01:05:05 (UTC+8)
+# UPDATED: 2026-07-23 01:05:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 29392
+# TOTAL: 29393
 payload:
   - '+.adult'
   - '+.amazon'
@@ -26516,6 +26516,7 @@ payload:
   - '+.zenit.ru'
   - '+.zenlesszonezero.com'
   - '+.zenmate.com'
+  - '+.zenmux.ai'
   - '+.zenodo.org'
   - '+.zeplin.dev'
   - '+.zeplin.io'
