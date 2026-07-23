@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-23 01:05:08 (UTC+8)
+# UPDATED: 2026-07-24 01:07:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 29393
+# TOTAL: 29394
 payload:
   - '+.adult'
   - '+.amazon'
@@ -22783,6 +22783,7 @@ payload:
   - '+.tok.media'
   - '+.token.im'
   - '+.tokenlon.im'
+  - '+.tokenplus.app'
   - '+.tokyo-247.com'
   - '+.tokyo-hot.com'
   - '+.tokyo-porn-tube.com'
