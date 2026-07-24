@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-24 01:15:22 (UTC+8)
+# UPDATED: 2026-07-25 01:27:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 112468
+# TOTAL: 112472
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -19469,6 +19469,7 @@ payload:
   - '+.cd-zc.com'
   - '+.cd00c44f211031.beer'
   - '+.cd120.com'
+  - '+.cd120.info'
   - '+.cd12371.com'
   - '+.cd1958.com'
   - '+.cd20.net'
@@ -66579,6 +66580,7 @@ payload:
   - '+.moecat.best'
   - '+.moeclub.org'
   - '+.moedot.net'
+  - '+.moedu.com'
   - '+.moeelf.com'
   - '+.moefactory.com'
   - '+.moefantasy.com'
@@ -90644,6 +90646,7 @@ payload:
   - '+.tsingpost.com'
   - '+.tsingshang.com'
   - '+.tsingtek.com'
+  - '+.tsingtengms.com'
   - '+.tsingtoo.com'
   - '+.tsingtuo.com'
   - '+.tsingyangroup.com'
@@ -98258,6 +98261,7 @@ payload:
   - '+.xcxymw.com'
   - '+.xcxzww.com'
   - '+.xcyg.net'
+  - '+.xcz.im'
   - '+.xczhmzb.com'
   - '+.xczhsh.com'
   - '+.xczim.com'
