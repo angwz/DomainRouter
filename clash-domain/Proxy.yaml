@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-25 01:19:10 (UTC+8)
+# UPDATED: 2026-07-26 00:43:17 (UTC+8)
 # TYPE: domain
-# TOTAL: 29394
+# TOTAL: 29399
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5410,6 +5410,7 @@ payload:
   - '+.cinny.in'
   - '+.cios.org'
   - '+.cipfg.org'
+  - '+.circle19.org'
   - '+.circlethebayfortibet.org'
   - '+.cirosantilli.com'
   - '+.cisco-returns.com'
@@ -6938,6 +6939,7 @@ payload:
   - '+.docs.com'
   - '+.docs.new'
   - '+.docs.rs'
+  - '+.docs.rw'
   - '+.doctor-videos.com'
   - '+.doctorvoice.org'
   - '+.documentforce.com'
@@ -13578,6 +13580,7 @@ payload:
   - '+.karabako-gmo.com'
   - '+.karafarinbank.ir'
   - '+.karayou.com'
+  - '+.kards.com'
   - '+.karechat.ai'
   - '+.karger.com'
   - '+.karinahart.com'
@@ -14309,6 +14312,7 @@ payload:
   - '+.localpresshk.com'
   - '+.localxlist.org'
   - '+.lockestek.com'
+  - '+.log.rw'
   - '+.logbot.net'
   - '+.logi.com'
   - '+.logicoolg.com'
@@ -23027,6 +23031,7 @@ payload:
   - '+.truyenkk1.com'
   - '+.truyentranh86.com'
   - '+.truyenwk.com'
+  - '+.try.rw'
   - '+.tryalias.com'
   - '+.tryboobs.com'
   - '+.trycloudflare.com'
