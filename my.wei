@@ -52,9 +52,6 @@ SRC-PORT,9993
 85.113.70.0/24
 2403:71c0:2000:1433::/64
 
-# RN
-192.129.133.0/24
-
 
 
 kiwivm.64clouds.com
@@ -158,7 +155,8 @@ nodeimage.com
 
 DOMAIN-KEYWORD,annas-archive
 
-
+# RN
+192.129.133.0/24
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nodeseek.yaml
 
