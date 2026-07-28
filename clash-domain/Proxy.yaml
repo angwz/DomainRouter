@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-28 01:27:15 (UTC+8)
+# UPDATED: 2026-07-29 01:16:18 (UTC+8)
 # TYPE: domain
-# TOTAL: 29399
+# TOTAL: 29401
 payload:
   - '+.adult'
   - '+.amazon'
@@ -10055,6 +10055,7 @@ payload:
   - '+.githubnext.com'
   - '+.githubpreview.dev'
   - '+.githubstatus.com'
+  - '+.githubsupport.com'
   - '+.githubuniverse.com'
   - '+.githubusercontent.com'
   - '+.gitlab-static.net'
@@ -23032,6 +23033,7 @@ payload:
   - '+.truyentranh86.com'
   - '+.truyenwk.com'
   - '+.try.rw'
+  - '+.tryai.dev'
   - '+.tryalias.com'
   - '+.tryboobs.com'
   - '+.trycloudflare.com'
