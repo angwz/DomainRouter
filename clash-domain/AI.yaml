@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-29 01:16:18 (UTC+8)
+# UPDATED: 2026-07-30 01:02:17 (UTC+8)
 # TYPE: domain
-# TOTAL: 268
+# TOTAL: 269
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -86,6 +86,7 @@ payload:
   - '+.generativeai.google'
   - '+.githubcopilot.com'
   - '+.grok.com'
+  - '+.grokipedia.com'
   - '+.groq.com'
   - '+.h2o.ai'
   - '+.hf.co'
