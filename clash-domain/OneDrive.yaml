@@ -1,15 +1,16 @@
 # NAME: OneDrive
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-07-31 01:17:39 (UTC+8)
+# UPDATED: 2026-08-01 01:22:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 672
+# TOTAL: 676
 payload:
   - '+.onedrive'
   - '+.onedriveupdater'
   - '+.1drv.com'
   - '+.1ptba.com'
   - '+.2xfree.org'
+  - '+.52dic.vip'
   - '+.52pt.site'
   - '+.aidoru-online.me'
   - '+.all4nothin.net'
@@ -42,6 +43,7 @@ payload:
   - '+.chdbits.co'
   - '+.chdbits.xyz'
   - '+.chddiy.xyz'
+  - '+.cinefiles.info'
   - '+.cinemageddon.net'
   - '+.cinematik.net'
   - '+.cinemaz.to'
@@ -98,6 +100,7 @@ payload:
   - '+.hdvideo.one'
   - '+.hdzone.me'
   - '+.hhan.club'
+  - '+.hhanclub.net'
   - '+.hhanclub.top'
   - '+.hitpt.com'
   - '+.hitpt.org'
@@ -160,6 +163,7 @@ payload:
   - '+.ptchdbits.co'
   - '+.ptchina.org'
   - '+.pterclub.com'
+  - '+.pterclub.net'
   - '+.pthome.net'
   - '+.ptsbao.club'
   - '+.pttime.org'
