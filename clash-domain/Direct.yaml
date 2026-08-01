@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-01 01:16:57 (UTC+8)
+# UPDATED: 2026-08-02 00:44:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 1957
+# TOTAL: 1958
 payload:
   - '+.java'
   - '+.oracle'
@@ -408,6 +408,7 @@ payload:
   - '+.segmentfault.com'
   - '+.shidianbaike.com'
   - '+.shrbank.com'
+  - '+.shunjing.xin'
   - '+.sifou.com'
   - '+.skillhub.cn'
   - '+.sleeplesshorizon.cn'
