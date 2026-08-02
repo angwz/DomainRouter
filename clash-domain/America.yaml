@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-02 00:45:12 (UTC+8)
+# UPDATED: 2026-08-03 00:44:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 1720
+# TOTAL: 1728
 payload:
   - '+.android'
   - '+.java'
@@ -805,7 +805,10 @@ payload:
   - '+.jetbrains.ai'
   - '+.jetbrains.cloud'
   - '+.jetbrains.com'
+  - '+.jetbrains.dev'
   - '+.jetbrains.net'
+  - '+.jetbrains.org'
+  - '+.jetbrains.ru'
   - '+.jetbrains.space'
   - '+.jetbrains.team'
   - '+.jfrog.com'
@@ -830,7 +833,10 @@ payload:
   - '+.kde.org'
   - '+.kernel.org'
   - '+.knovel.com'
+  - '+.kotl.in'
+  - '+.kotlinconf.com'
   - '+.kotlinlang.org'
+  - '+.ktor.io'
   - '+.kubernetes.io'
   - '+.kuke.com'
   - '+.latencytop.com'
@@ -943,6 +949,7 @@ payload:
   - '+.mvnrepository.com'
   - '+.myhulu.com'
   - '+.myilibrary.com'
+  - '+.myjetbrains.com'
   - '+.myoctocat.com'
   - '+.mysql.com'
   - '+.mystrikingly.com'
@@ -1279,6 +1286,7 @@ payload:
   - '+.symcb.com'
   - '+.symcd.com'
   - '+.system76.com'
+  - '+.talkingkotlin.com'
   - '+.tampermonkey.net'
   - '+.tandfonline.com'
   - '+.taylorandfrancis.com'

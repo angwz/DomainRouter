@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-02 00:45:12 (UTC+8)
+# UPDATED: 2026-08-03 00:44:00 (UTC+8)
 # TYPE: domain
-# TOTAL: 269
+# TOTAL: 272
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -85,6 +85,7 @@ payload:
   - '+.gemini.google'
   - '+.generativeai.google'
   - '+.githubcopilot.com'
+  - '+.grazie.ai'
   - '+.grok.com'
   - '+.grokipedia.com'
   - '+.groq.com'
@@ -96,6 +97,7 @@ payload:
   - '+.intercom.io'
   - '+.intercomcdn.com'
   - '+.jasper.ai'
+  - '+.jetbrains.ai'
   - '+.jules.google'
   - '+.kiro.dev'
   - '+.labs.google'
@@ -210,6 +212,7 @@ payload:
   - '+.jules.google.com'
   - '+.labs.google.com'
   - '+.makersuite.google.com'
+  - '+.notebook.google.com'
   - '+.notebooklm.google.com'
   - '+.opal.google.com'
   - '+.openaiapi-site.azureedge.net'
@@ -220,6 +223,7 @@ payload:
   - '+.turn.livekit.cloud'
   - '+.coderabbit.gallery.vsassets.io'
   - '+.gateway.ai.cloudflare.com'
+  - '+.grazie.aws.intellij.net'
   - '+.twitter.map.fastly.net'
   - '+.openai.com.cdn.cloudflare.net'
   - 'antigravity-unleash.goog'
@@ -232,7 +236,6 @@ payload:
   - 'antigravity-pa.googleapis.com'
   - 'antigravity.googleapis.com'
   - 'api.github.com'
-  - 'api.jetbrains.ai'
   - 'api.msn.com'
   - 'api.revenuecat.com'
   - 'api.statsig.com'
