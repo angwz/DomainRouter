@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-04 01:39:43 (UTC+8)
+# UPDATED: 2026-08-05 01:27:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 29439
+# TOTAL: 29437
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19426,7 +19426,6 @@ payload:
   - '+.radio.garden'
   - '+.radiofarda.com'
   - '+.radiohilight.net'
-  - '+.radiojar.com'
   - '+.radioline.co'
   - '+.radiomango.fm'
   - '+.radiomarsho.com'
@@ -29095,7 +29094,6 @@ payload:
   - '+.workerdemo.org.hk'
   - '+.worldcurrencycard.co.za'
   - '+.wufi.org.tw'
-  - '+.www.clashverge.dev'
   - '+.www.destinationurl.com'
   - '+.www.pxcc.com'
   - '+.xhpjc6-cdn-settings.appsflyersdk.com'
