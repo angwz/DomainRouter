@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-05 01:35:29 (UTC+8)
+# UPDATED: 2026-08-06 01:23:58 (UTC+8)
 # TYPE: domain
-# TOTAL: 11100
+# TOTAL: 11101
 payload:
   - '+.adult'
   - '+.bbc'
@@ -11105,3 +11105,4 @@ payload:
   - 'vasanth.live.cdn.bitgravity.com'
   - 'wshdl.load.cdn.zhanqi.tv'
   - 'xapp510394368c1000199.f.l.z.lb.core-cdn.net'
+  - '7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe'

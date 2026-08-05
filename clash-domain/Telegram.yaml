@@ -1,9 +1,9 @@
 # NAME: Telegram
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-05 01:35:24 (UTC+8)
+# UPDATED: 2026-08-06 01:23:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 27
+# TOTAL: 28
 payload:
   - '+.cdn-telegram.org'
   - '+.comments.app'
@@ -32,3 +32,4 @@ payload:
   - '+.usercontent.dev'
   - 'api.imem.app'
   - 'api.swiftgram.app'
+  - '7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe'

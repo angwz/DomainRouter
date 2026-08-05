@@ -1,9 +1,9 @@
 # NAME: Apple
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-05 01:27:39 (UTC+8)
+# UPDATED: 2026-08-06 01:16:29 (UTC+8)
 # TYPE: domain
-# TOTAL: 1563
+# TOTAL: 1564
 payload:
   - '+.apple'
   - '+.100beatscheap.com'
@@ -1568,3 +1568,4 @@ payload:
   - 'lookup-api.apple.com.edgekey.net'
   - 'notary-submissions-prod.s3.us-west-2.amazonaws.com'
   - 'store.apple.com.edgekey.net'
+  - '7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe'

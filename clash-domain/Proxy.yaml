@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-05 01:27:38 (UTC+8)
+# UPDATED: 2026-08-06 01:16:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 29437
+# TOTAL: 29451
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6367,6 +6367,8 @@ payload:
   - '+.deepfreeze.tech'
   - '+.deepl.com'
   - '+.deepmind.com'
+  - '+.deepwiki.com'
+  - '+.deepwiki.org'
   - '+.deezer.com'
   - '+.definebabe.com'
   - '+.definefetish.com'
@@ -8975,8 +8977,11 @@ payload:
   - '+.fluidpreview.com'
   - '+.flutter.dev'
   - '+.flutterapp.com'
+  - '+.fly.dev'
+  - '+.fly.io'
   - '+.flyflv.com'
   - '+.flyingjizz.com'
+  - '+.flyio.net'
   - '+.flypool.org'
   - '+.flyvpn.com'
   - '+.flyyindh-cc.sbs'
@@ -10094,6 +10099,7 @@ payload:
   - '+.glasamerike.net'
   - '+.glass8.eu'
   - '+.gleline.com'
+  - '+.glitchwave.com'
   - '+.global-sci.org'
   - '+.globaledu.org'
   - '+.globaljihad.net'
@@ -17736,12 +17742,15 @@ payload:
   - '+.ozon-credit.ru'
   - '+.ozon-dostavka.ru'
   - '+.ozon-tech.ru'
+  - '+.ozon.app'
   - '+.ozon.by'
   - '+.ozon.com'
   - '+.ozon.dev'
   - '+.ozon.express'
+  - '+.ozon.global'
   - '+.ozon.kz'
   - '+.ozon.li'
+  - '+.ozon.market'
   - '+.ozon.ru'
   - '+.ozon.tech'
   - '+.ozon.tm'
@@ -20075,6 +20084,7 @@ payload:
   - '+.rutrecker.net'
   - '+.rutrk.org'
   - '+.rutube.ru'
+  - '+.rutube.sport'
   - '+.rutubelist.ru'
   - '+.ruvideos.net'
   - '+.ruyiseek.com'
@@ -20083,6 +20093,7 @@ payload:
   - '+.rwbautomation.tech'
   - '+.rwbgeo.ru'
   - '+.rxhj.net'
+  - '+.rym.fm'
   - '+.rzr.to'
   - '+.s-bluemix.net'
   - '+.s-books.com'
@@ -21184,6 +21195,7 @@ payload:
   - '+.snjulebu.com'
   - '+.snk-corp.info'
   - '+.snkplaymore.info'
+  - '+.snmc.io'
   - '+.snow.me'
   - '+.snowcorp.com'
   - '+.snowlionpub.com'
@@ -21260,6 +21272,8 @@ payload:
   - '+.somanylolies.com'
   - '+.somee.com'
   - '+.sonatype.org'
+  - '+.sonematic.net'
+  - '+.sonemic.com'
   - '+.songjianjun.com'
   - '+.sonicbbs.cc'
   - '+.sonidodelaesperanza.org'

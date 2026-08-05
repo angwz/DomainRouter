@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-05 01:26:52 (UTC+8)
+# UPDATED: 2026-08-06 01:15:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 1958
+# TOTAL: 1959
 payload:
   - '+.java'
   - '+.oracle'
@@ -1963,3 +1963,4 @@ payload:
   - 'starfish.qd.aliyun.001.qingting.fm'
   - 'starfish.qd.aliyun.005.qingting.fm'
   - 'gs.hdp.ds.lunbocl.ott.cibntv.net'
+  - '7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe'
