@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-06 01:16:29 (UTC+8)
+# UPDATED: 2026-08-08 00:39:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 683
+# TOTAL: 685
 payload:
   - '+.azure'
   - '+.hk'
@@ -184,9 +184,11 @@ payload:
   - '+.cloudflare-ipfs.com'
   - '+.cloudflare-quic.com'
   - '+.cloudflare-terms-of-service-abuse.com'
+  - '+.cloudflare.app'
   - '+.cloudflare.com'
   - '+.cloudflare.dev'
   - '+.cloudflare.net'
+  - '+.cloudflare.pay'
   - '+.cloudflare.tv'
   - '+.cloudflareaccess.com'
   - '+.cloudflareanycast.net'

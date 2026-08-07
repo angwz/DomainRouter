@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-06 01:23:53 (UTC+8)
+# UPDATED: 2026-08-08 00:47:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 1148
+# TOTAL: 1150
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -280,6 +280,8 @@ payload:
   - '+.bytexservice.com'
   - '+.cache4ever.com'
   - '+.cache666.com'
+  - '+.capcut.com'
+  - '+.capcutcdn-us.com'
   - '+.capturetheflag.fun'
   - '+.cdn-build.com'
   - '+.cdn-build.net'
