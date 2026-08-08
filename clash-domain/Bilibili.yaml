@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-08 00:47:22 (UTC+8)
+# UPDATED: 2026-08-09 00:26:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 1150
+# TOTAL: 1153
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -280,6 +280,7 @@ payload:
   - '+.bytexservice.com'
   - '+.cache4ever.com'
   - '+.cache666.com'
+  - '+.capcut.cn'
   - '+.capcut.com'
   - '+.capcutcdn-us.com'
   - '+.capturetheflag.fun'
@@ -590,6 +591,7 @@ payload:
   - '+.larksuiteimg-pre.com'
   - '+.larksuiteimg.com'
   - '+.larkvc.com'
+  - '+.lifexue.com'
   - '+.lingovalley-cdn.cn'
   - '+.livecdnstatic.com'
   - '+.livesaascdn.com'
@@ -819,6 +821,7 @@ payload:
   - '+.ulikecam.com'
   - '+.ulikecam.mobi'
   - '+.ulikecam.net'
+  - '+.ulpay.com'
   - '+.ultracachenode.com'
   - '+.updream.cn'
   - '+.v2ig.cn'

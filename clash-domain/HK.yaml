@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-08 00:39:48 (UTC+8)
+# UPDATED: 2026-08-09 00:18:27 (UTC+8)
 # TYPE: domain
-# TOTAL: 685
+# TOTAL: 686
 payload:
   - '+.azure'
   - '+.hk'
@@ -565,6 +565,7 @@ payload:
   - '+.ap-southeast-1.aliyuncs.com'
   - '+.beibao.com.cn'
   - '+.cdn.vidarequre.com'
+  - '+.cn-hongkong.aliyuncs.com'
   - '+.cnbeta.com.tw'
   - '+.deliver.vkcdnservice.com'
   - '+.dog1.verystream.com'

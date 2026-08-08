@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-08 00:47:21 (UTC+8)
+# UPDATED: 2026-08-09 00:26:06 (UTC+8)
 # TYPE: domain
-# TOTAL: 111891
+# TOTAL: 111894
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -63622,6 +63622,7 @@ payload:
   - '+.madajiefood.com'
   - '+.madaomall.com'
   - '+.madboxi.com'
+  - '+.made-in-china.com'
   - '+.madefuns.com'
   - '+.madeinchinastone.com'
   - '+.madewei.com'
@@ -65352,6 +65353,7 @@ payload:
   - '+.microxiang.com'
   - '+.microyan.com'
   - '+.microzuji.com'
+  - '+.micstatic.com'
   - '+.mictormedical.com'
   - '+.micu.hk'
   - '+.micun.com'
@@ -72985,6 +72987,7 @@ payload:
   - '+.powerchinayun.com'
   - '+.powerde.com'
   - '+.powereasy.net'
+  - '+.poweremarket.com'
   - '+.powerex1.com'
   - '+.powerflow-tech.com'
   - '+.powerfulchina.com'
