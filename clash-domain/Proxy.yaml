@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-10 00:19:52 (UTC+8)
+# UPDATED: 2026-08-11 00:40:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 29491
+# TOTAL: 29493
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1185,6 +1185,7 @@ payload:
   - '+.aiasahi.jp'
   - '+.aibaobei.me'
   - '+.aicoin.com'
+  - '+.aihub.top'
   - '+.aimei133.com'
   - '+.aimoon.com'
   - '+.aimsciences.org'
@@ -27599,6 +27600,7 @@ payload:
   - '+.erotera.blogo.jp'
   - '+.escape.com.au'
   - '+.escapestudios.co.uk'
+  - '+.esim.redteago.com'
   - '+.espadoldettol.com.ar'
   - '+.espn.co.uk'
   - '+.estudio360.com.co'

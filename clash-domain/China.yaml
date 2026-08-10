@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-10 00:27:44 (UTC+8)
+# UPDATED: 2026-08-11 00:46:19 (UTC+8)
 # TYPE: domain
-# TOTAL: 111894
+# TOTAL: 111895
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -60949,6 +60949,7 @@ payload:
   - '+.lifevc.com'
   - '+.lifevccdn.com'
   - '+.lifeweeker.com'
+  - '+.lifexue.com'
   - '+.lifeyk.com'
   - '+.lifeyn.net'
   - '+.lifezb.com'
