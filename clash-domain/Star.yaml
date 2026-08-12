@@ -1,9 +1,9 @@
 # NAME: Star
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-12 00:44:00 (UTC+8)
+# UPDATED: 2026-08-13 00:43:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 526
+# TOTAL: 528
 payload:
   - '+.playstation'
   - '+.xbox'
@@ -61,7 +61,9 @@ payload:
   - '+.dawngate.com'
   - '+.dawngatechronicles.com'
   - '+.deadspacegame.com'
+  - '+.diablo.com'
   - '+.diablo3.com'
+  - '+.diablo4.com'
   - '+.diabloimmortal.com'
   - '+.dialga.com'
   - '+.dice.se'
