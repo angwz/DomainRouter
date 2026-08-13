@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-13 00:49:46 (UTC+8)
+# UPDATED: 2026-08-14 00:50:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 5501
+# TOTAL: 5509
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -114,6 +114,7 @@ payload:
   - '+.36kr.com'
   - '+.36krcdn.com'
   - '+.36krcnd.com'
+  - '+.36linkr.com'
   - '+.37.com'
   - '+.37swan.com'
   - '+.37wan.net'
@@ -606,6 +607,7 @@ payload:
   - '+.bakshifen.com'
   - '+.ban-ma.cn'
   - '+.bandao.cn'
+  - '+.banyuetan.org'
   - '+.baobaoaichi.cn'
   - '+.battle.net'
   - '+.battlebreakers.com'
@@ -943,6 +945,7 @@ payload:
   - '+.chuanke.com'
   - '+.chunkbase.com'
   - '+.cibntv.net'
+  - '+.cih-index.com'
   - '+.citybrain.com'
   - '+.ckxx.net'
   - '+.clash.com'
@@ -2425,6 +2428,7 @@ payload:
   - '+.kanbox.com'
   - '+.kankanews.com'
   - '+.kankannews.com'
+  - '+.kanshangjie.com'
   - '+.kaola.com'
   - '+.kaolacdn.com'
   - '+.kelude.cn'
@@ -3543,6 +3547,7 @@ payload:
   - '+.texasholdemcup.cn'
   - '+.texasholdemcup.com'
   - '+.texasholdemcup.net'
+  - '+.tfcaijing.com'
   - '+.tggypn.com'
   - '+.tgpro.top'
   - '+.tgprocs.net'
@@ -3573,6 +3578,7 @@ payload:
   - '+.tiburon.com'
   - '+.tieba.com'
   - '+.tiebaimg.com'
+  - '+.time-weekly.com'
   - '+.timibase.com'
   - '+.timipc.com'
   - '+.titanfall.com'
@@ -4140,6 +4146,7 @@ payload:
   - '+.bnetshopus.akamaized.net'
   - '+.caijing.com.cn'
   - '+.cainiao.com.cn'
+  - '+.ccreports.com.cn'
   - '+.cctvlib.com.cn'
   - '+.cctvlibrary.com.cn'
   - '+.cctvpro.com.cn'
@@ -4367,6 +4374,7 @@ payload:
   - '+.thumb-yz96.kuaipandata.com'
   - '+.tidenews.com.cn'
   - '+.tigeek.net.cn'
+  - '+.timesmedia.com.cn'
   - '+.tmallplay.com.cn'
   - '+.tqiangg.com.cn'
   - '+.tvcc.com.cn'

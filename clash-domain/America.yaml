@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-13 00:43:55 (UTC+8)
+# UPDATED: 2026-08-14 00:42:50 (UTC+8)
 # TYPE: domain
-# TOTAL: 1728
+# TOTAL: 1738
 payload:
   - '+.android'
   - '+.java'
@@ -195,6 +195,7 @@ payload:
   - '+.buck.build'
   - '+.buckbuild.com'
   - '+.bugsnag.com'
+  - '+.builtwithnix.org'
   - '+.businesscatalyst.com'
   - '+.busybox.net'
   - '+.buyaltera.com'
@@ -950,6 +951,7 @@ payload:
   - '+.myhulu.com'
   - '+.myilibrary.com'
   - '+.myjetbrains.com'
+  - '+.mynixos.com'
   - '+.myoctocat.com'
   - '+.mysql.com'
   - '+.mystrikingly.com'
@@ -970,7 +972,15 @@ payload:
   - '+.nginx.org'
   - '+.niosii.com'
   - '+.niosii.net'
+  - '+.nix-community.org'
+  - '+.nix.dev'
+  - '+.nix.store'
+  - '+.nixcon.org'
+  - '+.nixcon2017.org'
+  - '+.nixlang.com'
   - '+.nixos.org'
+  - '+.nixos.wiki'
+  - '+.nixpkgs.org'
   - '+.nodejs.org'
   - '+.nodesource.com'
   - '+.nomadproject.io'
