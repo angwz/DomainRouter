@@ -91,7 +91,7 @@ lazy = false
 name = "🛫 香港专线"
 rule = [
   "(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*Lightlayer).*$)",
-  "[]🎇 香港高速",
+  "[]🧊 新加坡专线",
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
@@ -100,7 +100,7 @@ url = "https://www.gstatic.com/generate_204"
 interval = 127
 lazy = false
 name = "🌺 日本专线"
-rule = ["[]🗾 日本高速", "[]🏞️ 美利坚高速"]
+rule = ["[]🗾 日本高速", "[]⛳ 美国专线"]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
@@ -108,7 +108,7 @@ url = "https://www.gstatic.com/generate_204"
 interval = 177
 lazy = false
 name = "🧊 新加坡专线"
-rule = ["[]🦁 新加坡高速", "[]🏞️ 美利坚高速"]
+rule = ["[]🦁 新加坡高速", "[]⛳ 美国专线"]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
 
@@ -130,7 +130,7 @@ name = "🎇 香港高速"
 rule = [
   "(^(?=.*(港|HK|hk|Hong Kong|HongKong|hongkong))(?=.*Cera).*$)",
   "(港|HK|hk|Hong Kong|HongKong|hongkong)",
-  "[]🏞️ 美利坚高速",
+  "[]⛳ 美国专线",
 ]
 type = "fallback"
 url = "https://www.gstatic.com/generate_204"
