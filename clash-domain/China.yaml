@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-14 00:50:42 (UTC+8)
+# UPDATED: 2026-08-14 22:17:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 111898
+# TOTAL: 111905
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -2478,6 +2478,7 @@ payload:
   - '+.194nb.com'
   - '+.195155.com'
   - '+.195268032591463.icu'
+  - '+.1958xy.com'
   - '+.195idc.com'
   - '+.196b7adb23969e39.com'
   - '+.196g.com'
@@ -4093,6 +4094,7 @@ payload:
   - '+.36kr.net'
   - '+.36krcdn.com'
   - '+.36krcnd.com'
+  - '+.36linkr.com'
   - '+.36pnes36t0qs.com'
   - '+.36qp.com'
   - '+.36rv3j3.shop'
@@ -14127,7 +14129,6 @@ payload:
   - '+.bamboofactorychina.com'
   - '+.bambooolab.com'
   - '+.bambu-lab.com'
-  - '+.bambulab.com'
   - '+.bamengame.com'
   - '+.bamensq.com'
   - '+.bamenzhushou.com'
@@ -16683,6 +16684,7 @@ payload:
   - '+.bktencent.com'
   - '+.bktsj.com'
   - '+.bkweek.com'
+  - '+.bkzhibo.com'
   - '+.bkzzy.com'
   - '+.bl.com'
   - '+.bl0757.com'
@@ -52987,6 +52989,7 @@ payload:
   - '+.jgsemicon.com'
   - '+.jgstour.com'
   - '+.jgsxfw.com'
+  - '+.jgtab.link'
   - '+.jgtc315.com'
   - '+.jguanjia.com'
   - '+.jgums.com'
@@ -54732,6 +54735,7 @@ payload:
   - '+.jkyule.com'
   - '+.jkzhilu.com'
   - '+.jkzl.com'
+  - '+.jkzlrs.com'
   - '+.jkzn365.com'
   - '+.jl-er.com'
   - '+.jl-jssk.com'
@@ -56387,6 +56391,7 @@ payload:
   - '+.juwanhezi.com'
   - '+.juwanshe.com'
   - '+.juweixin.com'
+  - '+.juwinmedia.com'
   - '+.juwuxian.com'
   - '+.juxia.com'
   - '+.juxian.com'
@@ -85579,6 +85584,7 @@ payload:
   - '+.sxyj.net'
   - '+.sxyqgs.asia'
   - '+.sxyyc.net'
+  - '+.sxyygh.com'
   - '+.sxzhaobiao.com'
   - '+.sxzhongfei.com'
   - '+.sxzhyy.com'
@@ -98088,6 +98094,7 @@ payload:
   - '+.xhscdn.net'
   - '+.xhsd.com'
   - '+.xhsd.net'
+  - '+.xhsdzd.com'
   - '+.xhsf.com'
   - '+.xhslink.com'
   - '+.xhslw.com'

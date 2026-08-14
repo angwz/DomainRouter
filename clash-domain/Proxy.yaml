@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-14 00:42:49 (UTC+8)
+# UPDATED: 2026-08-14 22:10:01 (UTC+8)
 # TYPE: domain
-# TOTAL: 29534
+# TOTAL: 29537
 payload:
   - '+.adult'
   - '+.amazon'
@@ -20014,6 +20014,7 @@ payload:
   - '+.rsdlmonitor.com'
   - '+.rsf-chinese.org'
   - '+.rsf.org'
+  - '+.rsg.ms'
   - '+.rsg.sc'
   - '+.rsgamen.org'
   - '+.rshb.ru'
@@ -20344,6 +20345,8 @@ payload:
   - '+.sbrf.ru'
   - '+.sbuxcard.com'
   - '+.sc-cdn.net'
+  - '+.sc-gw.com'
+  - '+.sc-static.net'
   - '+.sc.com'
   - '+.sca-tolo.info'
   - '+.scala-lang.org'
