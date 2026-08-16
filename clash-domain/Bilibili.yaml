@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-16 00:16:59 (UTC+8)
+# UPDATED: 2026-08-17 00:18:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 1153
+# TOTAL: 1155
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -39,6 +39,7 @@ payload:
   - '+.anitama.net'
   - '+.anycross.com'
   - '+.api-building.fun'
+  - '+.applogcdn.com'
   - '+.arco.design'
   - '+.ark-doc-resources.cn'
   - '+.artistrylab.net'
@@ -704,6 +705,7 @@ payload:
   - '+.samasty.com'
   - '+.sealsuite.com'
   - '+.sealsuite.net'
+  - '+.searchpstatp.com'
   - '+.searchstatic.com'
   - '+.searchtoutiaolive.com'
   - '+.securityfeishu.cn'
