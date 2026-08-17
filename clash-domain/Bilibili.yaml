@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-17 00:18:41 (UTC+8)
+# UPDATED: 2026-08-18 00:18:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 1155
+# TOTAL: 1159
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -353,6 +353,7 @@ payload:
   - '+.douyinhanyu.com'
   - '+.douyinliving.com'
   - '+.douyinmusicclips.com'
+  - '+.douyinmusicpromotion.com'
   - '+.douyinmusicvideo.com'
   - '+.douyinpay.com'
   - '+.douyinpic.com'
@@ -592,6 +593,7 @@ payload:
   - '+.larksuiteimg-pre.com'
   - '+.larksuiteimg.com'
   - '+.larkvc.com'
+  - '+.letsign.com'
   - '+.lifexue.com'
   - '+.lingovalley-cdn.cn'
   - '+.livecdnstatic.com'
@@ -1019,6 +1021,7 @@ payload:
   - '+.wukongwenda.com'
   - '+.xck31.cn'
   - '+.xflowedge.com'
+  - '+.xiaohe.cn'
   - '+.xiaoxiaapi.com'
   - '+.xiguaapp.cn'
   - '+.xiguaapp.com'
@@ -1026,6 +1029,7 @@ payload:
   - '+.xiguashipin.net'
   - '+.xiguavideo.cn'
   - '+.xiguavideo.net'
+  - '+.xingtu.cn'
   - '+.xitu.io'
   - '+.xsgtvacct.com'
   - '+.xyf61.cn'

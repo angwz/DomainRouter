@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-17 00:18:48 (UTC+8)
+# UPDATED: 2026-08-18 00:18:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 5510
+# TOTAL: 5513
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -167,6 +167,7 @@ payload:
   - '+.576nt.cn'
   - '+.5945i.com'
   - '+.59bob.cn'
+  - '+.5gxcx.net'
   - '+.5wyxi.com'
   - '+.6655.com'
   - '+.66rpg.com'
@@ -2006,6 +2007,7 @@ payload:
   - '+.herogame.com'
   - '+.hexin.cn'
   - '+.hexun.com'
+  - '+.hfx.net'
   - '+.hgfdrf.com'
   - '+.hiapk.com'
   - '+.hiascend.cn'
@@ -2454,6 +2456,7 @@ payload:
   - '+.kmop-cn-east-3.cn'
   - '+.kmop-cn-north-4.cn'
   - '+.knewsmart.com'
+  - '+.komect.com'
   - '+.konami-igaming.online'
   - '+.konami.com'
   - '+.konami.net'

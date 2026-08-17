@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-17 00:10:18 (UTC+8)
+# UPDATED: 2026-08-18 00:13:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 1971
+# TOTAL: 1972
 payload:
   - '+.java'
   - '+.oracle'
@@ -379,6 +379,7 @@ payload:
   - '+.pwsannong.com'
   - '+.qbittorrent.org'
   - '+.qianwen.com'
+  - '+.qianwenai.com'
   - '+.qiuwen.wiki'
   - '+.qiuwenbaike.cn'
   - '+.qiyou.cn'
