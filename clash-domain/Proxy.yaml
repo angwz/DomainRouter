@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-19 00:17:15 (UTC+8)
+# UPDATED: 2026-08-20 00:17:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 29538
+# TOTAL: 29539
 payload:
   - '+.adult'
   - '+.amazon'
@@ -17062,6 +17062,7 @@ payload:
   - '+.noodlevpn.com'
   - '+.noosferabank.ru'
   - '+.norbulingka.org'
+  - '+.nordcdn.com'
   - '+.nordstrom.com'
   - '+.nordstromimage.com'
   - '+.nordstrommedia.com'
