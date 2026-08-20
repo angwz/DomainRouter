@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-20 00:17:37 (UTC+8)
+# UPDATED: 2026-08-21 00:20:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 275
+# TOTAL: 281
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -74,6 +74,7 @@ payload:
   - '+.dictate.ms'
   - '+.dify.ai'
   - '+.dola.com'
+  - '+.dreamgen.com'
   - '+.duck.ai'
   - '+.elevenlabs.com'
   - '+.elevenlabs.io'
@@ -101,6 +102,7 @@ payload:
   - '+.jasper.ai'
   - '+.jetbrains.ai'
   - '+.jules.google'
+  - '+.kimi.ai'
   - '+.kiro.dev'
   - '+.labs.google'
   - '+.langchain.com'
@@ -123,9 +125,12 @@ payload:
   - '+.midjourney.com'
   - '+.minimax.io'
   - '+.mistral.ai'
+  - '+.moonshot.ai'
   - '+.mozilla.ai'
   - '+.msunlimitedcloudsummit.com'
   - '+.notebooklm.google'
+  - '+.notegpt.io'
+  - '+.novelai.net'
   - '+.oaistatic.com'
   - '+.oaistatsig.com'
   - '+.oaiusercontent.com'
@@ -158,6 +163,7 @@ payload:
   - '+.sprinklesapp.com'
   - '+.stripe.com'
   - '+.t.co'
+  - '+.talkai.info'
   - '+.tapnow.ai'
   - '+.tellapart.com'
   - '+.themeforest.net'
