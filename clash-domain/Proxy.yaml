@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-22 00:18:32 (UTC+8)
+# UPDATED: 2026-08-23 00:09:51 (UTC+8)
 # TYPE: domain
-# TOTAL: 29551
+# TOTAL: 29552
 payload:
   - '+.adult'
   - '+.amazon'
@@ -4453,6 +4453,7 @@ payload:
   - '+.brewmp.com'
   - '+.briantreepayments.net'
   - '+.briantreepayments.tv'
+  - '+.briarproject.org'
   - '+.bridgebim.com'
   - '+.bridgestone-asiapacific.com'
   - '+.bridgestone-bandag.com'
