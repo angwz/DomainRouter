@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-23 00:09:51 (UTC+8)
+# UPDATED: 2026-08-24 00:11:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 29552
+# TOTAL: 29555
 payload:
   - '+.adult'
   - '+.amazon'
@@ -11276,6 +11276,7 @@ payload:
   - '+.hiporn.net'
   - '+.hippyhillscomix.com'
   - '+.hipzoom.net'
+  - '+.historylines.net'
   - '+.historyofdota.com'
   - '+.historyofdota.net'
   - '+.historyofdota.org'
@@ -13846,6 +13847,7 @@ payload:
   - '+.kiwi.jp'
   - '+.kiwi.kz'
   - '+.kiwibrowser.com'
+  - '+.kiwix.org'
   - '+.kk.stream'
   - '+.kkbox.com'
   - '+.kkddsex7.com'
@@ -15000,6 +15002,7 @@ payload:
   - '+.mcdonalds.se'
   - '+.mcdonaldsapps.com'
   - '+.mcdonaldsarabia.com'
+  - '+.mceindex.com'
   - '+.mcfog.com'
   - '+.mcisco.com'
   - '+.mcpeaceofmind.com'
