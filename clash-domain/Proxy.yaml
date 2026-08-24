@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-24 00:11:10 (UTC+8)
+# UPDATED: 2026-08-25 00:22:05 (UTC+8)
 # TYPE: domain
-# TOTAL: 29555
+# TOTAL: 29557
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25445,6 +25445,7 @@ payload:
   - '+.x3guide.com'
   - '+.x3vid.com'
   - '+.x6av.com'
+  - '+.x86.fr'
   - '+.x99av.com'
   - '+.x9wang.com'
   - '+.xacmbq.xyz'
@@ -27068,6 +27069,7 @@ payload:
   - '+.api.mixpanel.com'
   - '+.api.moomoobull.com'
   - '+.api.nebula-emby.com'
+  - '+.api.shuaiapi.com'
   - '+.appdynamics.co.uk'
   - '+.apple.co.cr'
   - '+.apple.co.hu'
