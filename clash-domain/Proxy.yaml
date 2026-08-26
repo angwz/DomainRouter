@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-26 00:22:39 (UTC+8)
+# UPDATED: 2026-08-27 00:40:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 29557
+# TOTAL: 29560
 payload:
   - '+.adult'
   - '+.amazon'
@@ -920,6 +920,7 @@ payload:
   - '+.adguard.io'
   - '+.adguard.org'
   - '+.adguardaccount.com'
+  - '+.adguardaccount.net'
   - '+.adguardcdn.com'
   - '+.adguardvpn.com'
   - '+.adhelpnews.com'
@@ -17763,6 +17764,7 @@ payload:
   - '+.oursogo.com'
   - '+.oursweb.net'
   - '+.ourtv.hk'
+  - '+.ouryahoo.com'
   - '+.out-app-purchase.com'
   - '+.outbound.io'
   - '+.outdoorpublicsex.com'
@@ -26163,6 +26165,7 @@ payload:
   - '+.yahoodns.net'
   - '+.yahoofinance.com'
   - '+.yahoohealth.com'
+  - '+.yahooinc.com'
   - '+.yahoomusic.com'
   - '+.yahoosandbox.com'
   - '+.yahoosportsbook.com'
