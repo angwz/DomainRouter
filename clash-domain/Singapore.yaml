@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-27 00:47:34 (UTC+8)
+# UPDATED: 2026-08-28 08:47:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 933
+# TOTAL: 934
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -687,6 +687,7 @@ payload:
   - '+.jaxx.io'
   - '+.kingstagram.com'
   - '+.klik.me'
+  - '+.krak.app'
   - '+.kraken.com'
   - '+.kraken.onl'
   - '+.kucoin.com'

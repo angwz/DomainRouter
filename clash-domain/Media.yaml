@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-27 00:47:39 (UTC+8)
+# UPDATED: 2026-08-28 08:47:51 (UTC+8)
 # TYPE: domain
-# TOTAL: 11115
+# TOTAL: 11116
 payload:
   - '+.adult'
   - '+.bbc'
@@ -4965,6 +4965,7 @@ payload:
   - '+.nfscdict.com'
   - '+.nfscofficial.com'
   - '+.ngeo.com'
+  - '+.ngfiles.com'
   - '+.nhentai.com'
   - '+.nhentai.io'
   - '+.nhentai.net'
