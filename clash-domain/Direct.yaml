@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-28 08:39:25 (UTC+8)
+# UPDATED: 2026-08-29 08:12:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 1971
+# TOTAL: 1970
 payload:
   - '+.java'
   - '+.oracle'
@@ -562,7 +562,6 @@ payload:
   - '+.client-update.queniuqe.com'
   - '+.cm.steampowered.com'
   - '+.cmbc.com.cn'
-  - '+.cn.windowssearch.com'
   - '+.cnki.com.cn'
   - '+.content.steampowered.com'
   - '+.crecc.com.cn'

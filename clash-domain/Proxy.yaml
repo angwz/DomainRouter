@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-28 08:40:11 (UTC+8)
+# UPDATED: 2026-08-29 08:12:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 29561
+# TOTAL: 29563
 payload:
   - '+.adult'
   - '+.amazon'
@@ -19804,6 +19804,7 @@ payload:
   - '+.religionnews.com'
   - '+.religioustolerance.org'
   - '+.remirepo.net'
+  - '+.remna.st'
   - '+.rencapbank.ru'
   - '+.renchead.com'
   - '+.rencredit.ru'
@@ -25345,6 +25346,7 @@ payload:
   - '+.wrchina.org'
   - '+.wrenchead.com'
   - '+.wretch.cc'
+  - '+.write.as'
   - '+.writesonic.com'
   - '+.ws-blau.com'
   - '+.ws-tcg.com'
