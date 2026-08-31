@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-08-31 02:54:12 (UTC+8)
+# UPDATED: 2026-09-01 05:10:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 1738
+# TOTAL: 1737
 payload:
   - '+.android'
   - '+.java'
@@ -1481,7 +1481,6 @@ payload:
   - '+.acaric.co.jp'
   - '+.altera.co.jp'
   - '+.amdigital.co.uk'
-  - '+.api2.amplitude.com'
   - '+.assetshuluimcom-a.akamaihd.net'
   - '+.bam.nr-data.net'
   - '+.cws-hulu.conviva.com'
