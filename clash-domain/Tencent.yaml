@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-01 05:18:12 (UTC+8)
+# UPDATED: 2026-09-02 03:02:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 2590
+# TOTAL: 2591
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -1702,6 +1702,7 @@ payload:
   - '+.tencentmfa.cn'
   - '+.tencentmfa.com'
   - '+.tencentmind.com'
+  - '+.tencentmiying.com'
   - '+.tencentmovie.com'
   - '+.tencentmusic.com'
   - '+.tencentntp.cn'

@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-01 05:09:47 (UTC+8)
+# UPDATED: 2026-09-02 02:55:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 1970
+# TOTAL: 1974
 payload:
   - '+.java'
   - '+.oracle'
@@ -177,6 +177,7 @@ payload:
   - '+.dayainfo.com'
   - '+.dbbuilding.fun'
   - '+.deepseek.com'
+  - '+.deepseeksvc.com'
   - '+.dengguobi.com'
   - '+.devui.design'
   - '+.diandianlife.top'
@@ -432,6 +433,7 @@ payload:
   - '+.sxlcdn.cn'
   - '+.sxlcdn.com'
   - '+.tapnow.top'
+  - '+.tctpwebankcdn.net'
   - '+.tcwqqdy.guru'
   - '+.tdpress.com'
   - '+.teachblog.net'
@@ -479,6 +481,7 @@ payload:
   - '+.vipexam.org'
   - '+.virtualbox.org'
   - '+.waifushangcheng.com'
+  - '+.wbweilicai.com'
   - '+.webank.com'
   - '+.webankcdn.net'
   - '+.weboss.hk'
@@ -491,6 +494,7 @@ payload:
   - '+.whccb.com'
   - '+.wifi.cmcc'
   - '+.wmsjsteam.com'
+  - '+.workbuddy.cn'
   - '+.wxsbank.com'
   - '+.xa-bank.com'
   - '+.xiaoaiassist.com'

@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-01 05:18:17 (UTC+8)
+# UPDATED: 2026-09-02 03:02:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 11116
+# TOTAL: 11121
 payload:
   - '+.adult'
   - '+.bbc'
@@ -1127,6 +1127,7 @@ payload:
   - '+.blackamateursvideos.com'
   - '+.blackandstacked.com'
   - '+.blacked.com'
+  - '+.blackedraw.com'
   - '+.blackhomeporn.com'
   - '+.blackmonsterterror.com'
   - '+.blackshemalevideo.com'
@@ -4573,6 +4574,7 @@ payload:
   - '+.milftube.pro'
   - '+.milftugs.com'
   - '+.milfvr.com'
+  - '+.milfy.com'
   - '+.milfzr.com'
   - '+.miliav.com'
   - '+.milkmanbook.com'
@@ -6581,6 +6583,7 @@ payload:
   - '+.sl99mod.buzz'
   - '+.slashdot.org'
   - '+.slavicstar.com'
+  - '+.slayed.com'
   - '+.sldolls.com'
   - '+.sleazyneasy.com'
   - '+.slobodnaevropa.mk'
@@ -7184,6 +7187,7 @@ payload:
   - '+.tukif.com'
   - '+.turbogvideos.com'
   - '+.tushy.com'
+  - '+.tushyraw.com'
   - '+.tvb.com'
   - '+.tvbanywhere.com'
   - '+.tvbusa.com'
@@ -7408,6 +7412,7 @@ payload:
   - '+.viu.tv'
   - '+.vivaxnxx.com'
   - '+.vixen.com'
+  - '+.vixengroup.com'
   - '+.vixvids.to'
   - '+.vjav.com'
   - '+.vl4x.net'

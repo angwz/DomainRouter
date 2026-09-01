@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-01 05:10:33 (UTC+8)
+# UPDATED: 2026-09-02 02:56:34 (UTC+8)
 # TYPE: domain
-# TOTAL: 29564
+# TOTAL: 29571
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3755,6 +3755,7 @@ payload:
   - '+.blackandstacked.com'
   - '+.blackboxgames.com'
   - '+.blacked.com'
+  - '+.blackedraw.com'
   - '+.blackfridaydrebeatsnew.com'
   - '+.blackfridaydrebeatsshop.com'
   - '+.blackhomeporn.com'
@@ -9767,6 +9768,8 @@ payload:
   - '+.gate.cc'
   - '+.gate.com'
   - '+.gate.io'
+  - '+.gate.tv'
+  - '+.gateapi.io'
   - '+.gatecoin.com'
   - '+.gatedata.org'
   - '+.gateimg.com'
@@ -15357,6 +15360,7 @@ payload:
   - '+.milftube.pro'
   - '+.milftugs.com'
   - '+.milfvr.com'
+  - '+.milfy.com'
   - '+.milfzr.com'
   - '+.miliav.com'
   - '+.milkmanbook.com'
@@ -21191,6 +21195,7 @@ payload:
   - '+.slashine.onl'
   - '+.slavbank.ru'
   - '+.slavicstar.com'
+  - '+.slayed.com'
   - '+.slaytizle.com'
   - '+.slc.tl'
   - '+.sldolls.com'
@@ -23326,6 +23331,7 @@ payload:
   - '+.tusco.ru'
   - '+.tushy.com'
   - '+.tushycash.com'
+  - '+.tushyraw.com'
   - '+.tuta.com'
   - '+.tuta.io'
   - '+.tutamail.com'
@@ -24298,6 +24304,7 @@ payload:
   - '+.vivaxnxx.com'
   - '+.vivthomas.com'
   - '+.vixen.com'
+  - '+.vixengroup.com'
   - '+.vixvids.to'
   - '+.vizvaz.com'
   - '+.vjav.com'

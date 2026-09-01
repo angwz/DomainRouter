@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-01 05:18:12 (UTC+8)
+# UPDATED: 2026-09-02 03:02:16 (UTC+8)
 # TYPE: domain
-# TOTAL: 934
+# TOTAL: 937
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -582,7 +582,10 @@ payload:
   - '+.gacebook.com'
   - '+.gameroom.com'
   - '+.gate.ac'
+  - '+.gate.com'
   - '+.gate.io'
+  - '+.gate.tv'
+  - '+.gateapi.io'
   - '+.gatedata.org'
   - '+.gateimg.com'
   - '+.gateio.live'
