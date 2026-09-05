@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-05 02:39:20 (UTC+8)
+# UPDATED: 2026-09-06 01:46:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 1737
+# TOTAL: 1740
 payload:
   - '+.android'
   - '+.java'
@@ -529,6 +529,8 @@ payload:
   - '+.heinonline.org'
   - '+.hex.pm'
   - '+.hexdocs.pm'
+  - '+.hf.co'
+  - '+.hf.space'
   - '+.hhvm.com'
   - '+.highwirepress.com'
   - '+.hindawi.com'
@@ -542,6 +544,7 @@ payload:
   - '+.hoolu.tv'
   - '+.hotcrp.com'
   - '+.hu1u.com'
+  - '+.huggingface.co'
   - '+.huloo.cc'
   - '+.huloo.tv'
   - '+.hulu.com'

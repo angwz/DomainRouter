@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-05 02:39:19 (UTC+8)
+# UPDATED: 2026-09-06 01:46:36 (UTC+8)
 # TYPE: domain
-# TOTAL: 29571
+# TOTAL: 29572
 payload:
   - '+.adult'
   - '+.amazon'
@@ -14290,6 +14290,7 @@ payload:
   - '+.linseysworld.com'
   - '+.linux.do'
   - '+.linux.org'
+  - '+.linux.sb'
   - '+.linuxfoundation.org'
   - '+.linuxfromscratch.org'
   - '+.linuxmint.com'
