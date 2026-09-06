@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-06 01:46:36 (UTC+8)
+# UPDATED: 2026-09-07 01:50:45 (UTC+8)
 # TYPE: domain
-# TOTAL: 29572
+# TOTAL: 29578
 payload:
   - '+.adult'
   - '+.amazon'
@@ -116,6 +116,8 @@ payload:
   - '+.119474.xyz'
   - '+.11jav.com'
   - '+.123-hp.com'
+  - '+.123av.com'
+  - '+.123av.me'
   - '+.123bin.cc'
   - '+.123dapp.com'
   - '+.123dappipad.com'
@@ -19968,6 +19970,7 @@ payload:
   - '+.roborecall.com'
   - '+.robotoffice.com'
   - '+.robustnessiskey.com'
+  - '+.roc-taiwan.org'
   - '+.rocket-inc.net'
   - '+.rocket.chat'
   - '+.rocketbbs.com'
@@ -20018,6 +20021,7 @@ payload:
   - '+.roudaosp.cc'
   - '+.roughebonysex.com'
   - '+.roughman.net'
+  - '+.roushuwo.com'
   - '+.routerboard.com'
   - '+.routledgehandbooks.com'
   - '+.rowblocks.com'
@@ -22203,6 +22207,7 @@ payload:
   - '+.taiwancon.com'
   - '+.taiwandaily.net'
   - '+.taiwandc.org'
+  - '+.taiwanembassy.org'
   - '+.taiwanhot.net'
   - '+.taiwanjustice.com'
   - '+.taiwanjustice.net'
@@ -25370,6 +25375,7 @@ payload:
   - '+.wsjshop.com'
   - '+.wsjwine.com'
   - '+.wtbn.org'
+  - '+.wtfpass.com'
   - '+.wtfpeople.com'
   - '+.wtmobile.com'
   - '+.wto.org'
