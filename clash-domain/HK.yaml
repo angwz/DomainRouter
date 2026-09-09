@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-09 03:04:39 (UTC+8)
+# UPDATED: 2026-09-10 02:54:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 686
+# TOTAL: 687
 payload:
   - '+.azure'
   - '+.hk'
@@ -293,6 +293,7 @@ payload:
   - '+.nodeimage.com'
   - '+.nodequality.com'
   - '+.nodeseek.com'
+  - '+.nodeseek.org'
   - '+.openload.co'
   - '+.pa9pal.com'
   - '+.paaypal.com'
