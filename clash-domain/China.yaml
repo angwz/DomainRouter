@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-10 03:01:56 (UTC+8)
+# UPDATED: 2026-09-11 02:54:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 111593
+# TOTAL: 111594
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -104878,6 +104878,7 @@ payload:
   - '+.yuanpanguoji.com'
   - '+.yuanqiao.net'
   - '+.yuanqiao.pw'
+  - '+.yuanqidesk.com'
   - '+.yuanqilt.com'
   - '+.yuanqingsh.com'
   - '+.yuanqisenlin.com'
