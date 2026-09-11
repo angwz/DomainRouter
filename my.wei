@@ -32,18 +32,16 @@ SRC-PORT,9993
 8.137.63.0/24
 2408:4006:113a:e000::/64
 
+47.76.70.0/24
+240b:4001:15c:5900::/64
+
+47.100.195.0/24
+
 # HostDZire
 163.227.192.0/24
 
 # Lightlayer
 207.56.18.0/24
-
-# Tencent Cloud
-101.35.79.0/24
-2402:4e00:c032:8500::/64
-
-# Voll
-103.20.223.0/24
 
 # GreenCloud
 85.113.70.0/24
@@ -603,7 +601,7 @@ Telegram: 🛸 Telegram
 Japan: 🌺 日本专线
 HK: 🛫 香港专线
 Singapore: 🧊 新加坡专线
-Star: 🌌 星星啊
+Star: ⛅ OneDrive
 America: ⛳ 美国专线
 ChinaMedia: DIRECT
 OneDrive: ⛅ OneDrive
