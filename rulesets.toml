@@ -233,19 +233,19 @@ type = "clash-classic"
 interval = 21600
 
 [[rulesets]]
-group = "🌌 星星啊"
+group = "⛅ OneDrive"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-domain/Star.yaml"
 type = "clash-domain"
 interval = 21600
 
 [[rulesets]]
-group = "🌌 星星啊"
+group = "⛅ OneDrive"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-ipcidr/Star-ipcidr.yaml"
 type = "clash-ipcidr"
 interval = 21600
 
 [[rulesets]]
-group = "🌌 星星啊"
+group = "⛅ OneDrive"
 ruleset = "https://raw.githubusercontent.com/angwz/DomainRouter/release/clash-classic/Star-classic.yaml"
 type = "clash-classic"
 interval = 21600
