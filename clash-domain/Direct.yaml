@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-13 01:56:26 (UTC+8)
+# UPDATED: 2026-09-14 02:23:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 1974
+# TOTAL: 1973
 payload:
   - '+.java'
   - '+.oracle'
@@ -181,7 +181,6 @@ payload:
   - '+.dengguobi.com'
   - '+.devui.design'
   - '+.diandianlife.top'
-  - '+.dmit.io'
   - '+.doh.pub'
   - '+.doubao-dev.com'
   - '+.doubao.com'
