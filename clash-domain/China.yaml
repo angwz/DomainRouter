@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-14 02:31:31 (UTC+8)
+# UPDATED: 2026-09-15 04:07:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 111594
+# TOTAL: 111593
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -83804,7 +83804,6 @@ payload:
   - '+.spsicloudport.com'
   - '+.spsisctgroup.com'
   - '+.spsisncl.com'
-  - '+.spst2.com'
   - '+.spsy.org'
   - '+.sptcc.com'
   - '+.sptccn.com'
