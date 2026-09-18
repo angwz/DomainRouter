@@ -31,10 +31,8 @@ SRC-PORT,9993
 8.137.63.0/24
 2408:4006:113a:e000::/64
 
-47.76.70.0/24
-240b:4001:15c:5900::/64
-
-47.100.195.0/24
+# GCP
+35.212.224.0/24
 
 # HostDZire
 163.227.192.0/24
@@ -42,9 +40,13 @@ SRC-PORT,9993
 # Lightlayer
 207.56.18.0/24
 
+# Zouter
+143.20.156.0/24
+2a0e:97c0:3f0:1::/64
+
 # GreenCloud
-85.113.70.0/24
-2403:71c0:2000:1433::/64
+45.89.232.0/24
+2a12:a304:4:a38::/64
 
 
 
@@ -131,6 +133,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 nodeseek.com
 DOMAIN-KEYWORD,nodeseek
 
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nodeseek.yaml
 
 [HK]
 '+.hk'
@@ -151,14 +154,29 @@ nodeimage.com
 
 DOMAIN-KEYWORD,annas-archive
 
+plex.tv
+
 # RN
 192.129.133.0/24
 
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nodeseek.yaml
+# Apple Push
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-KEYWORD,apple.com.edgekey.net
 
+17.249.0.0/16
+17.252.0.0/16
+17.57.144.0/22
+17.188.128.0/18
+17.188.20.0/23
 
-tktn.be
-https://raw.githubusercontent.com/SIJULY/Rules/main/Surge/talkatone.list
+2620:149:a44::/48
+2403:300:a42::/48
+2403:300:a51::/48
+2a01:b740:a42::/48
+
+https://raw.githubusercontent.com/QuixoticHeart/rule-set/refs/heads/master/custom/apns.list
+
 
 # Duolingo
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/duolingo.yaml
@@ -201,6 +219,52 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 
 # [Angwz]
 # Angwz: 🌠 节点选择
+
+# Steam
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
+
+# Xbox
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/xbox%40cn.yaml
+
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xbox.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.list
+
+# Nintendo
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nintendo.yaml
+https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Nintendo/Nintendo.list
+
+# PlayStation
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/playstation.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/PlayStation/PlayStation.list
+
+# Ubisoft
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ubisoft.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list
+
+# EA
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ea.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list
+
+# 暴雪
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/blizzard.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list
+
+# GOG
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gog.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gog/Gog.list
+
+# Rockstar
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/rockstar.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Rockstar/Rockstar.list
+
+# NVIDIA
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nvidia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list
+
+# GitHub
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
 
 
 [AI]
@@ -277,60 +341,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 
 
-[Star]
-# Steam
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
-
-# Xbox
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/xbox%40cn.yaml
-
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xbox.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Xbox/Xbox.list
-
-# Nintendo
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nintendo.yaml
-https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Nintendo/Nintendo.list
-
-# PlayStation
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/playstation.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/PlayStation/PlayStation.list
-
-# Ubisoft
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ubisoft.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list
-
-# EA
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ea.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list
-
-# 暴雪
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/blizzard.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list
-
-# GOG
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gog.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gog/Gog.list
-
-# Rockstar
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/rockstar.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Rockstar/Rockstar.list
-
 
 [America]
 '+.us'
-plex.tv
 
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/USMedia/USMedia.list
 
-# NVIDIA
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nvidia.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list
-
-# GitHub
-https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
 
 # Dev
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-dev.yaml
@@ -408,7 +425,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 
 [Singapore]
 '+.sg'
-claw.cloud
+
 
 krak.app
 
@@ -591,7 +608,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 Direct: DIRECT
 NS: 🏖️ Community
 AI: 🗨️ ChatGPT
-Apple: 🍎 Apple
 TikTok: 📱 TikTok
 Bilibili: 📺 哔哩哔哩
 Tencent: DIRECT
@@ -601,8 +617,8 @@ Google: 📩 Google
 Telegram: 🛸 Telegram
 Japan: 🌺 日本专线
 HK: 🛫 香港专线
+Apple: 🍎 Apple
 Singapore: 🧊 新加坡专线
-Star: ⛅ OneDrive
 America: ⛳ 美国专线
 ChinaMedia: DIRECT
 OneDrive: ⛅ OneDrive
