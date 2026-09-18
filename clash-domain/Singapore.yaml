@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-18 03:28:38 (UTC+8)
+# UPDATED: 2026-09-19 00:59:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 937
+# TOTAL: 936
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -150,7 +150,6 @@ payload:
   - '+.chickstagram.com'
   - '+.china-facebook.com'
   - '+.chippay.com'
-  - '+.claw.cloud'
   - '+.clearpool.finance'
   - '+.click-url.com'
   - '+.coin.dance'

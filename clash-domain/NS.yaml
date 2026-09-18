@@ -1,8 +1,14 @@
 # NAME: NS
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-18 03:22:05 (UTC+8)
+# UPDATED: 2026-09-19 00:52:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 1
+# TOTAL: 7
 payload:
+  - '+.22112211.xyz'
+  - '+.deepflood.com'
+  - '+.nodeget.com'
+  - '+.nodeimage.com'
+  - '+.nodequality.com'
   - '+.nodeseek.com'
+  - '+.nodeseek.org'

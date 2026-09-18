@@ -1,10 +1,11 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-18 03:22:05 (UTC+8)
+# UPDATED: 2026-09-19 00:52:25 (UTC+8)
 # TYPE: classic
-# TOTAL: 2
-# DOMAIN-KEYWORD TOTAL: 2
+# TOTAL: 3
+# DOMAIN-KEYWORD TOTAL: 3
 payload:
   - DOMAIN-KEYWORD,annas-archive
+  - DOMAIN-KEYWORD,apple.com.edgekey.net
   - DOMAIN-KEYWORD,paypal
