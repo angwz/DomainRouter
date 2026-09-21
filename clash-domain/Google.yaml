@@ -1,9 +1,9 @@
 # NAME: Google
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-21 02:25:19 (UTC+8)
+# UPDATED: 2026-09-22 04:18:42 (UTC+8)
 # TYPE: domain
-# TOTAL: 918
+# TOTAL: 919
 payload:
   - '+.android'
   - '+.chrome'
@@ -199,6 +199,7 @@ payload:
   - '+.fflick.com'
   - '+.financeleadsonline.com'
   - '+.firebase.com'
+  - '+.firebase.dev'
   - '+.firebase.io'
   - '+.firebaseapp.com'
   - '+.firebaseio.com'

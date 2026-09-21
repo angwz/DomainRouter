@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-21 02:21:26 (UTC+8)
+# UPDATED: 2026-09-22 04:11:11 (UTC+8)
 # TYPE: domain
-# TOTAL: 1670
+# TOTAL: 1675
 payload:
   - '+.android'
   - '+.java'
@@ -261,6 +261,7 @@ payload:
   - '+.cochranelibrary.com'
   - '+.codeberg.org'
   - '+.codeberg.page'
+  - '+.codebuff.com'
   - '+.codeforaliving.io'
   - '+.codethemicrobit.com'
   - '+.comm-verse.com'
@@ -406,6 +407,7 @@ payload:
   - '+.findyourlimits.com'
   - '+.fiotolia.com'
   - '+.firebase.com'
+  - '+.firebase.dev'
   - '+.firebase.io'
   - '+.firebaseapp.com'
   - '+.firebaseio.com'
@@ -436,6 +438,7 @@ payload:
   - '+.framerstatic.com'
   - '+.framerusercontent.com'
   - '+.freebsd.org'
+  - '+.freebuff.com'
   - '+.freehulu.com'
   - '+.frescolib.org'
   - '+.frontiersin.org'
@@ -1449,6 +1452,7 @@ payload:
   - '+.dlib.eastview.com'
   - '+.dln1.ncdn.ec'
   - '+.espn.co.uk'
+  - '+.firebase.google.com'
   - '+.greenend.org.uk'
   - '+.hanzhen.xmulib.org'
   - '+.icsd.fiz-karlsruhe.de'
@@ -1530,9 +1534,10 @@ payload:
   - 'developers.facebook.com'
   - 'dl.begellhouse.com'
   - 'dtlgalleryint.cloudapp.net'
-  - 'firebase.google.com'
   - 'firebase.googleapis.com'
   - 'firebaseappcheck.googleapis.com'
+  - 'firebaseappdistribution.googleapis.com'
+  - 'firebaseapptesters.googleapis.com'
   - 'firebasedynamiclinks-ipv4.googleapis.com'
   - 'firebasedynamiclinks-ipv6.googleapis.com'
   - 'firebasedynamiclinks.googleapis.com'

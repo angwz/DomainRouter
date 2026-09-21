@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-21 02:21:26 (UTC+8)
+# UPDATED: 2026-09-22 04:11:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 281
+# TOTAL: 283
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -128,6 +128,7 @@ payload:
   - '+.moonshot.ai'
   - '+.mozilla.ai'
   - '+.msunlimitedcloudsummit.com'
+  - '+.notebook.google'
   - '+.notebooklm.google'
   - '+.notegpt.io'
   - '+.novelai.net'
@@ -212,6 +213,7 @@ payload:
   - '+.copilot.microsoft.com'
   - '+.ditu.live.com'
   - '+.events.statsigapi.net'
+  - '+.flow.google.com'
   - '+.geller-pa.googleapis.com'
   - '+.gemini.google.com'
   - '+.gemini.gstatic.com'

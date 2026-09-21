@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-21 02:21:02 (UTC+8)
+# UPDATED: 2026-09-22 04:10:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 1973
+# TOTAL: 1977
 payload:
   - '+.java'
   - '+.oracle'
@@ -89,6 +89,8 @@ payload:
   - '+.building.fun'
   - '+.butterfly-static.cn'
   - '+.butterflyai.cn'
+  - '+.cae.cn'
+  - '+.cas.cn'
   - '+.ccspeed.cn'
   - '+.cebbank.com'
   - '+.cf-china.info'
@@ -111,6 +113,7 @@ payload:
   - '+.chinaums.com'
   - '+.chinaunionpay.com'
   - '+.chinaunionpay.net'
+  - '+.chinaxiv.org'
   - '+.chndoi.org'
   - '+.clawhub-mirror.com'
   - '+.cloudflare-cn.com'
@@ -527,6 +530,7 @@ payload:
   - '+.zhihang100.com'
   - '+.zhipuai.cn'
   - '+.zhipucn.com'
+  - '+.zsyyb.cn'
   - '+.zte.home'
   - '+.zuidaima.com'
   - '+.10.in-addr.arpa'

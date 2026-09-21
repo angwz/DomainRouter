@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-21 02:25:19 (UTC+8)
+# UPDATED: 2026-09-22 04:18:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 936
+# TOTAL: 937
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -841,6 +841,7 @@ payload:
   - '+.taiko.xyz'
   - '+.terragraph.com'
   - '+.tether.to'
+  - '+.tfbnw.net'
   - '+.theblock.co'
   - '+.thefacebook.com'
   - '+.thefacebook.net'

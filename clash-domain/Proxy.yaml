@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-21 02:21:26 (UTC+8)
+# UPDATED: 2026-09-22 04:11:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 29583
+# TOTAL: 29588
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5729,6 +5729,7 @@ payload:
   - '+.code1984.com'
   - '+.codeberg.org'
   - '+.codeberg.page'
+  - '+.codebuff.com'
   - '+.codecademy.com'
   - '+.codeforaliving.io'
   - '+.codeforces.com'
@@ -8915,11 +8916,13 @@ payload:
   - '+.fire-emblem-heroes.com'
   - '+.firearmsworld.net'
   - '+.firebase.com'
+  - '+.firebase.dev'
   - '+.firebase.io'
   - '+.firebaseapp.com'
   - '+.firebaseio.com'
   - '+.firech.at'
   - '+.fireemblemawakening.com'
+  - '+.firefox-portal-detection.com'
   - '+.firefox.com'
   - '+.firefox.hu'
   - '+.firefoxtweetmachine.com'
@@ -9342,6 +9345,7 @@ payload:
   - '+.freebrowser.org'
   - '+.freebs.com'
   - '+.freebsd.org'
+  - '+.freebuff.com'
   - '+.freecamsfan.com'
   - '+.freecamstars.com'
   - '+.freecartoons.biz'
@@ -22476,6 +22480,7 @@ payload:
   - '+.textnow.me'
   - '+.texttobuy.org'
   - '+.texture.com'
+  - '+.tfbnw.net'
   - '+.tferwq.com'
   - '+.tfhub.dev'
   - '+.tfiflve.com'
