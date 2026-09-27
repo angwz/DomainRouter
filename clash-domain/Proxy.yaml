@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-27 02:47:46 (UTC+8)
+# UPDATED: 2026-09-28 03:22:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 29590
+# TOTAL: 29592
 payload:
   - '+.adult'
   - '+.amazon'
@@ -23937,6 +23937,7 @@ payload:
   - '+.vaultify.info'
   - '+.vaultify.net'
   - '+.vaultproject.io'
+  - '+.vava8.com'
   - '+.vbcdn.com'
   - '+.vbcdn.net'
   - '+.vbejeyv.shop'
@@ -27363,6 +27364,7 @@ payload:
   - '+.businessweekly.com.tw'
   - '+.bx.in.th'
   - '+.bynet.co.il'
+  - '+.c.go-mpulse.net'
   - '+.c.mi.com'
   - '+.cabletv.com.hk'
   - '+.cahr.org.tw'
