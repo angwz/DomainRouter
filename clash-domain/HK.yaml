@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-28 03:22:54 (UTC+8)
+# UPDATED: 2026-09-29 00:42:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 1334
+# TOTAL: 1331
 payload:
   - '+.azure'
   - '+.hk'
@@ -27,7 +27,6 @@ payload:
   - '+.aeplatform.ru'
   - '+.aestatic.net'
   - '+.aggresmart.com'
-  - '+.akadns.net'
   - '+.alibabacloud.com'
   - '+.alice.sh'
   - '+.alice.ws'
@@ -1084,7 +1083,6 @@ payload:
   - '+.paypal.net.cn'
   - '+.paypal.org.cn'
   - '+.paypalhere.com.cn'
-  - '+.push.apple.com'
   - '+.reddit.app.link'
   - '+.signal.netu.tv'
   - '+.steambroadcast.akamaized.net'
@@ -1228,7 +1226,6 @@ payload:
   - 'i.233py.com'
   - 'ibksturm.synology.me'
   - 'ibuki.cgnat.net'
-  - 'identity.apple.com'
   - 'img-prod-cms-rt-microsoft-com.akamaized.net'
   - 'jp.tiar.app'
   - 'jp.tiarap.org'
