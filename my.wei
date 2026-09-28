@@ -159,24 +159,6 @@ plex.tv
 # RN
 192.129.133.0/24
 
-# Apple Push
-DOMAIN-SUFFIX,push.apple.com
-DOMAIN-SUFFIX,akadns.net
-DOMAIN-KEYWORD,apple.com.edgekey.net
-
-17.249.0.0/16
-17.252.0.0/16
-17.57.144.0/22
-17.188.128.0/18
-17.188.20.0/23
-
-2620:149:a44::/48
-2403:300:a42::/48
-2403:300:a51::/48
-2a01:b740:a42::/48
-
-https://raw.githubusercontent.com/QuixoticHeart/rule-set/refs/heads/master/custom/apns.list
-
 
 # Duolingo
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/duolingo.yaml
