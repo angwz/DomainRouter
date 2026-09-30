@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-30 04:26:05 (UTC+8)
+# UPDATED: 2026-10-01 04:32:17 (UTC+8)
 # TYPE: domain
-# TOTAL: 937
+# TOTAL: 939
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -727,6 +727,7 @@ payload:
   - '+.messengerdevelopers.com'
   - '+.meta.ai'
   - '+.meta.com'
+  - '+.metaaivm.com'
   - '+.metalpha.finance'
   - '+.metamask.io'
   - '+.mexc.co'
@@ -735,6 +736,7 @@ payload:
   - '+.midentsolutions.com'
   - '+.mobilefacebook.com'
   - '+.moneywithfacebook.com'
+  - '+.muse.ai'
   - '+.myetherwallet.com'
   - '+.myfbfans.com'
   - '+.mytokenapi.com'

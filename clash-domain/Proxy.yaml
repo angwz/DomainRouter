@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-30 04:18:33 (UTC+8)
+# UPDATED: 2026-10-01 04:23:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 29592
+# TOTAL: 29596
 payload:
   - '+.adult'
   - '+.amazon'
@@ -11792,6 +11792,7 @@ payload:
   - '+.huaren4us.com'
   - '+.huarenav.com'
   - '+.huarenporn.com'
+  - '+.huarun.win'
   - '+.huashangnews.com'
   - '+.huashundg.com'
   - '+.huasing.org'
@@ -15161,6 +15162,7 @@ payload:
   - '+.met-nude.com'
   - '+.meta.ai'
   - '+.meta.com'
+  - '+.metaaivm.com'
   - '+.metabora.io'
   - '+.metabrainz.org'
   - '+.metacafe.com'
@@ -16141,6 +16143,7 @@ payload:
   - '+.muscache.com'
   - '+.muscdn.com'
   - '+.musclegirlflix.com'
+  - '+.muse.ai'
   - '+.mushroomtrack.com'
   - '+.mushymush.tv'
   - '+.musicade.net'
@@ -17638,6 +17641,7 @@ payload:
   - '+.openbase.com'
   - '+.opencas.io'
   - '+.openclaw.ai'
+  - '+.opencode.ai'
   - '+.opencollective.com'
   - '+.opencreate.org'
   - '+.opencritic.com'

@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-09-30 04:18:34 (UTC+8)
+# UPDATED: 2026-10-01 04:23:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 283
+# TOTAL: 289
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -116,6 +116,7 @@ payload:
   - '+.marscode.com'
   - '+.masalladeloslimites.com'
   - '+.meta.ai'
+  - '+.metaaivm.com'
   - '+.microsoft-give.com'
   - '+.microsoftcloudsummit.com'
   - '+.microsoftdiplomados.com'
@@ -128,6 +129,7 @@ payload:
   - '+.moonshot.ai'
   - '+.mozilla.ai'
   - '+.msunlimitedcloudsummit.com'
+  - '+.muse.ai'
   - '+.notebook.google'
   - '+.notebooklm.google'
   - '+.notegpt.io'
@@ -143,6 +145,7 @@ payload:
   - '+.openai.com'
   - '+.openart.ai'
   - '+.openclaw.ai'
+  - '+.opencode.ai'
   - '+.openrouter.ai'
   - '+.openspec.dev'
   - '+.oystermercury.top'
@@ -234,6 +237,7 @@ payload:
   - '+.coderabbit.gallery.vsassets.io'
   - '+.gateway.ai.cloudflare.com'
   - '+.grazie.aws.intellij.net'
+  - '+.labstailwind.pa.googleapis.com'
   - '+.twitter.map.fastly.net'
   - '+.openai.com.cdn.cloudflare.net'
   - 'antigravity-unleash.goog'
@@ -279,6 +283,8 @@ payload:
   - 'gateway.ai.cloudflare.com'
   - 'gateway.bingviz.microsoft.net'
   - 'gateway.bingviz.microsoftapp.net'
+  - 'geminiweb-pa.clients.google.com'
+  - 'geminiweb-pa.clients6.google.com'
   - 'odc.officeapps.live.com'
   - 'openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
   - 'ppl-ai-file-upload.s3.amazonaws.com'
