@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-03 04:13:14 (UTC+8)
+# UPDATED: 2026-10-04 02:52:43 (UTC+8)
 # TYPE: domain
-# TOTAL: 29597
+# TOTAL: 29598
 payload:
   - '+.adult'
   - '+.amazon'
@@ -5550,6 +5550,7 @@ payload:
   - '+.clau.de'
   - '+.claude.ai'
   - '+.claude.com'
+  - '+.claude.dev'
   - '+.claudemcpclient.com'
   - '+.claudemcpcontent.com'
   - '+.claudeusercontent.com'
