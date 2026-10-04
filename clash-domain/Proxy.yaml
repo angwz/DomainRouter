@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-04 02:52:43 (UTC+8)
+# UPDATED: 2026-10-05 02:52:26 (UTC+8)
 # TYPE: domain
-# TOTAL: 29598
+# TOTAL: 29600
 payload:
   - '+.adult'
   - '+.amazon'
@@ -25122,6 +25122,7 @@ payload:
   - '+.wikidata.org'
   - '+.wikidot.com'
   - '+.wikifeet.com'
+  - '+.wikifunctions.org'
   - '+.wikihow.com'
   - '+.wikileaks-forum.com'
   - '+.wikileaks.ch'
@@ -25145,6 +25146,7 @@ payload:
   - '+.wikis.tw'
   - '+.wikisexguide.com'
   - '+.wikisource.org'
+  - '+.wikispecies.org'
   - '+.wikiunblocked.org'
   - '+.wikiversity.org'
   - '+.wikivoyage.org'
