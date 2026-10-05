@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-05 02:52:26 (UTC+8)
+# UPDATED: 2026-10-06 06:14:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 29600
+# TOTAL: 29601
 payload:
   - '+.adult'
   - '+.amazon'
@@ -10517,6 +10517,7 @@ payload:
   - '+.googlepagecreator.com'
   - '+.googlephotos.com'
   - '+.googleplay.com'
+  - '+.googleplaycensorship.com'
   - '+.googleplex.com'
   - '+.googleplus.com'
   - '+.googlescholar.com'
