@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-08 04:52:26 (UTC+8)
+# UPDATED: 2026-10-09 04:54:22 (UTC+8)
 # TYPE: domain
-# TOTAL: 29628
+# TOTAL: 29632
 payload:
   - '+.adult'
   - '+.amazon'
@@ -15094,6 +15094,7 @@ payload:
   - '+.mefound.com'
   - '+.mega.io'
   - '+.mega.nz'
+  - '+.megaad.nz'
   - '+.megacamz.com'
   - '+.megaeth.com'
   - '+.megafilmporno.com'
@@ -15104,11 +15105,13 @@ payload:
   - '+.megalodon.jp'
   - '+.megamarket.ru'
   - '+.megamarket.tech'
+  - '+.megapay.nz'
   - '+.megaphone.fm'
   - '+.megapornfreehd.com'
   - '+.megapornpics.com'
   - '+.megaproxy.com'
   - '+.megarotic.com'
+  - '+.megas4.com'
   - '+.megasrv.de'
   - '+.megatitsminka.com'
   - '+.megaupload.com'
@@ -23130,6 +23133,7 @@ payload:
   - '+.transangels.com'
   - '+.transarmuito.com'
   - '+.transcamslive.com'
+  - '+.transfer.it'
   - '+.transferwise.com'
   - '+.translatetheweb.com'
   - '+.translatewiki.net'
