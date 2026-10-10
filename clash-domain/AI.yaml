@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-10 04:23:50 (UTC+8)
+# UPDATED: 2026-10-11 03:37:15 (UTC+8)
 # TYPE: domain
-# TOTAL: 290
+# TOTAL: 291
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -167,6 +167,7 @@ payload:
   - '+.spicywriter.com'
   - '+.sprinklesapp.com'
   - '+.stripe.com'
+  - '+.syntx.ai'
   - '+.t.co'
   - '+.talkai.info'
   - '+.tapnow.ai'
