@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-15 03:47:46 (UTC+8)
+# UPDATED: 2026-10-16 03:31:25 (UTC+8)
 # TYPE: domain
-# TOTAL: 1978
+# TOTAL: 1977
 payload:
   - '+.java'
   - '+.oracle'
@@ -587,7 +587,6 @@ payload:
   - '+.dota2.com.cn'
   - '+.dota2.wmsj.cn'
   - '+.download.epicgames.com'
-  - '+.download.microsoft.com'
   - '+.download.windowsupdate.com'
   - '+.download.xbox.com'
   - '+.drcnet.com.cn'
