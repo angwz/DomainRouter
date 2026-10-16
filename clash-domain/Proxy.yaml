@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-16 03:32:13 (UTC+8)
+# UPDATED: 2026-10-17 03:06:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 29718
+# TOTAL: 29722
 payload:
   - '+.adult'
   - '+.amazon'
@@ -20480,6 +20480,7 @@ payload:
   - '+.scatville.com'
   - '+.scb.ru'
   - '+.scdn.co'
+  - '+.scea.com'
   - '+.scene7.com'
   - '+.scenesource.me'
   - '+.scharferporno.com'
@@ -21524,6 +21525,7 @@ payload:
   - '+.sonydna.com'
   - '+.sonyentertainmentnetwork.com'
   - '+.sonyglobalsolutions.jp'
+  - '+.sonyinteractive.com'
   - '+.sonykigyo.jp'
   - '+.sonylatvija.com'
   - '+.sonypcl.jp'
@@ -28975,12 +28977,14 @@ payload:
   - '+.sony.com.pa'
   - '+.sony.com.pe'
   - '+.sony.com.ph'
+  - '+.sony.com.py'
   - '+.sony.com.sg'
   - '+.sony.com.sv'
   - '+.sony.com.tr'
   - '+.sony.com.tw'
   - '+.sony.com.vn'
   - '+.sonybo.co.jp'
+  - '+.sonymusic.com.hk'
   - '+.sonynetwork.co.jp'
   - '+.sonyprotechnosupport.co.jp'
   - '+.sonystoragemedia.co.jp'
