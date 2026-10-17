@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-17 03:06:03 (UTC+8)
+# UPDATED: 2026-10-18 02:00:28 (UTC+8)
 # TYPE: domain
-# TOTAL: 29722
+# TOTAL: 29723
 payload:
   - '+.adult'
   - '+.amazon'
@@ -622,6 +622,7 @@ payload:
   - '+.7tb.cc'
   - '+.7tv.app'
   - '+.7tv.io'
+  - '+.7x24hrs.com'
   - '+.8-d.com'
   - '+.8008206616.com'
   - '+.8111y.top'
