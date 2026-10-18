@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-18 02:00:28 (UTC+8)
+# UPDATED: 2026-10-19 02:19:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 29723
+# TOTAL: 29729
 payload:
   - '+.adult'
   - '+.amazon'
@@ -6158,6 +6158,7 @@ payload:
   - '+.cursor.com'
   - '+.cursor.sh'
   - '+.cursorapi.com'
+  - '+.cursorvm.com'
   - '+.curve.fi'
   - '+.curvefish.com'
   - '+.curvybbwwives.com'
@@ -17709,6 +17710,7 @@ payload:
   - '+.op7979.com'
   - '+.opac-project.eu'
   - '+.openai.com'
+  - '+.openai.org'
   - '+.openallweb.com'
   - '+.openamt.com'
   - '+.openapiplatform.com'
@@ -20491,6 +20493,7 @@ payload:
   - '+.scholarpedia.org'
   - '+.schwab.com'
   - '+.schwabassetmanagement.com'
+  - '+.schwabcdn.com'
   - '+.schwabplan.com'
   - '+.sci-hub.ee'
   - '+.sci-hub.se'
@@ -22966,6 +22969,8 @@ payload:
   - '+.timestalks.com'
   - '+.timeweb.cloud'
   - '+.timeweb.com'
+  - '+.timeweb.tech'
+  - '+.timewebcloud.kz'
   - '+.timi1.me'
   - '+.timo0.com'
   - '+.timsah.com'
@@ -23628,6 +23633,7 @@ payload:
   - '+.typekit.net'
   - '+.typenetwork.com'
   - '+.typepad.com'
+  - '+.typesafe.ai'
   - '+.typeset.io'
   - '+.typesquare.com'
   - '+.typography.com'

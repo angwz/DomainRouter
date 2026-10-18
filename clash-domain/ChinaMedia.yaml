@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-18 02:04:17 (UTC+8)
+# UPDATED: 2026-10-19 02:23:48 (UTC+8)
 # TYPE: domain
-# TOTAL: 5576
+# TOTAL: 5579
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -4633,6 +4633,7 @@ payload:
   - 'ctdsb.clouddiffuse.xyz'
   - 'czlive.czgd.tv'
   - 'd1unuk07s6td74.cloudfront.net'
+  - 'd348twzf7a8p5.cloudfront.net'
   - 'd9af5a60.edmonst.net'
   - 'dayeyun-live21.cjyun.org'
   - 'dazulive.cbg.cn'
@@ -4641,6 +4642,7 @@ payload:
   - 'dlgarenanow-a.akamaihd.net'
   - 'dlhls-cdn-mp.zhanqi.tv'
   - 'dlmobilegarena-a.akamaihd.net'
+  - 'doy2mn9upadnk.cloudfront.net'
   - 'dslive.grtn.cn'
   - 'dstpush1.retalltech.com'
   - 'dtrmlive.qhdtrm.cn'
@@ -5570,6 +5572,7 @@ payload:
   - 'wshdl.load.cdn.zhanqi.tv'
   - 'yunshangdawu.live.tempsource.cjyun.org'
   - 'bst.broadcast.live.bestvcdn.com.cn'
+  - 'devforum-uploads.s3.dualstack.us-east-2.amazonaws.com'
   - 'e1.vdowowza.vip.hk1.tvb.com'
   - 'starfish.bj.aliyun.001.qingting.fm'
   - 'starfish.bj.aliyun.002.qingting.fm'
