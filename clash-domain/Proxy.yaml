@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-19 02:19:33 (UTC+8)
+# UPDATED: 2026-10-20 04:46:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 29729
+# TOTAL: 29741
 payload:
   - '+.adult'
   - '+.amazon'
@@ -3385,8 +3385,15 @@ payload:
   - '+.beforeigners.com'
   - '+.befuck.com'
   - '+.befuck.net'
+  - '+.beget.app'
+  - '+.beget.cloud'
   - '+.beget.com'
+  - '+.beget.de'
+  - '+.beget.hosting'
+  - '+.beget.pro'
   - '+.beget.ru'
+  - '+.beget.tech'
+  - '+.begetcdn.cloud'
   - '+.begin-trade.com'
   - '+.behance.net'
   - '+.behindkink.com'
@@ -3423,6 +3430,7 @@ payload:
   - '+.berlinerbericht.de'
   - '+.berlintwitterwall.com'
   - '+.beru.ru'
+  - '+.beserver.ru'
   - '+.best-sex-games.com'
   - '+.best2pay.net'
   - '+.best3dhere.com'
@@ -3541,6 +3549,7 @@ payload:
   - '+.bffshd.com'
   - '+.bfnn.org'
   - '+.bfsh.hk'
+  - '+.bget.ru'
   - '+.bgicdn.com'
   - '+.bgm.tv'
   - '+.bgme.me'
@@ -19416,6 +19425,7 @@ payload:
   - '+.putlocker.com'
   - '+.putty.org'
   - '+.puuko.com'
+  - '+.pv-cdn.net'
   - '+.pvp.net'
   - '+.pvp.tv'
   - '+.pvt.sexy'
@@ -21696,6 +21706,7 @@ payload:
   - '+.sprite.org'
   - '+.sproutcore.com'
   - '+.sproxy.info'
+  - '+.sprut.io'
   - '+.sptvbroadcast.com'
   - '+.sputnikglobe.com'
   - '+.sputnikimages.com'
@@ -25829,6 +25840,7 @@ payload:
   - '+.xn--90ab.com'
   - '+.xn--90ab2c.xn--p1ai'
   - '+.xn--90absjljw3g.xn--p1ai'
+  - '+.xn--90aefb9d.xn--p1ai'
   - '+.xn--90aifd0az.shop'
   - '+.xn--90aifd0azb.xn--p1acf'
   - '+.xn--90wwvt03e.com'

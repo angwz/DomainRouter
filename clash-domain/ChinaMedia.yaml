@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-19 02:23:48 (UTC+8)
+# UPDATED: 2026-10-20 04:54:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 5579
+# TOTAL: 5576
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -534,7 +534,6 @@ payload:
   - '+.ashgdf.com'
   - '+.askci.com'
   - '+.asmlink.cn'
-  - '+.asobostudio.com'
   - '+.astral-vector.com'
   - '+.atatech.org'
   - '+.atb.so'
@@ -1442,7 +1441,6 @@ payload:
   - '+.flhimalayandn.com'
   - '+.fliggy.com'
   - '+.fliggy.hk'
-  - '+.flightsimulator.com'
   - '+.flipnotestudio.com'
   - '+.fm365.com'
   - '+.focus-img.cn'
@@ -4668,7 +4666,6 @@ payload:
   - 'fjnhdb.chinashadt.com'
   - 'fjpc.chinashadt.com'
   - 'fjsh.chinashadt.com'
-  - 'flightsimulator.azureedge.net'
   - 'fm901.cityfm.tw'
   - 'fm929.cityfm.tw'
   - 'fm971.cityfm.tw'

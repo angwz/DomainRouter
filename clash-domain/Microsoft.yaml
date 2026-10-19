@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-19 02:23:45 (UTC+8)
+# UPDATED: 2026-10-20 04:54:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 770
+# TOTAL: 768
 payload:
   - '+.azure'
   - '+.bing'
@@ -39,7 +39,6 @@ payload:
   - '+.applicationinsights.net'
   - '+.appserviceenvironment.cn'
   - '+.aria.ms'
-  - '+.asobostudio.com'
   - '+.asp.net'
   - '+.aspnetcdn.com'
   - '+.assets-yammer.com'
@@ -230,7 +229,6 @@ payload:
   - '+.fabric.io'
   - '+.fasttrackreadysupport.com'
   - '+.femalefounderscomp.com'
-  - '+.flightsimulator.com'
   - '+.flipwithsurface.com'
   - '+.fluidpreview.com'
   - '+.footprintdns.com'

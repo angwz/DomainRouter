@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-19 02:19:33 (UTC+8)
+# UPDATED: 2026-10-20 04:46:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 1331
+# TOTAL: 1329
 payload:
   - '+.azure'
   - '+.hk'
@@ -42,7 +42,6 @@ payload:
   - '+.apihub-internal.cn'
   - '+.appserviceenvironment.cn'
   - '+.argotunnel.com'
-  - '+.asobostudio.com'
   - '+.atom.io'
   - '+.awayoutgame.com'
   - '+.ayudanintendo.com'
@@ -342,7 +341,6 @@ payload:
   - '+.fire-emblem-heroes.com'
   - '+.fireemblemawakening.com'
   - '+.firesidegatherings.com'
-  - '+.flightsimulator.com'
   - '+.flipnotestudio.com'
   - '+.forza.net'
   - '+.forzamotorsport.net'
