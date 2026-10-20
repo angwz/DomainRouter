@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-20 04:46:54 (UTC+8)
+# UPDATED: 2026-10-21 03:41:54 (UTC+8)
 # TYPE: domain
-# TOTAL: 29741
+# TOTAL: 29742
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2386,7 +2386,6 @@ payload:
   - '+.asmr.gay'
   - '+.asmrbuluo.com'
   - '+.asn-online.org'
-  - '+.asobostudio.com'
   - '+.asp-cc.com'
   - '+.asp.net'
   - '+.aspbjournals.org'
@@ -9047,7 +9046,6 @@ payload:
   - '+.flickr.net'
   - '+.flickrhivemind.net'
   - '+.flickriver.com'
-  - '+.flightsimulator.com'
   - '+.fling.com'
   - '+.flipboard.com'
   - '+.flipfap.com'
@@ -14750,6 +14748,7 @@ payload:
   - '+.magic-net.info'
   - '+.magicalmirai.com'
   - '+.magicmovies.com'
+  - '+.magnific.com'
   - '+.mahabodhi.org'
   - '+.mahajantech.com'
   - '+.mahjongsoul.com'
@@ -16171,6 +16170,7 @@ payload:
   - '+.mt0011.site'
   - '+.mtao.fun'
   - '+.mthruf.com'
+  - '+.mts-link.ru'
   - '+.mts-ws.net'
   - '+.mts.ru'
   - '+.mtsbank.ru'
@@ -19116,6 +19116,7 @@ payload:
   - '+.postimg.cc'
   - '+.postimg.org'
   - '+.postini.com'
+  - '+.postman.com'
   - '+.posty.kr'
   - '+.postyourgirls.ws'
   - '+.potato.im'

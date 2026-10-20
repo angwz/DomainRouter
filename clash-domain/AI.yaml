@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-20 04:46:54 (UTC+8)
+# UPDATED: 2026-10-21 03:41:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 294
+# TOTAL: 295
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -113,6 +113,7 @@ payload:
   - '+.lmstudio.ai'
   - '+.lovart.ai'
   - '+.lpsnmedia.net'
+  - '+.magnific.com'
   - '+.manus.im'
   - '+.manuscdn.com'
   - '+.marscode.com'

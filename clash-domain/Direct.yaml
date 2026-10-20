@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-20 04:46:06 (UTC+8)
+# UPDATED: 2026-10-21 03:41:07 (UTC+8)
 # TYPE: domain
-# TOTAL: 1977
+# TOTAL: 1979
 payload:
   - '+.java'
   - '+.oracle'
@@ -1767,6 +1767,7 @@ payload:
   - 'livepgc.cmc.ningxiahuangheyun.com'
   - 'livewai.sdetv.com.cn'
   - 'liveyc.cmc.yuechirmt.cn'
+  - 'localhost.weixin.qq.com'
   - 'luotian.live.cjyun.org'
   - 'm.m3u8.wifiwx.com'
   - 'm3u8-kd.channel.ganzitv.com'
@@ -1949,6 +1950,7 @@ payload:
   - 'live2.plus.jinhua.com.cn'
   - 'livecdn.pull.cdbs.com.cn'
   - 'local.live.jxtvcn.com.cn'
+  - 'localhost.work.weixin.qq.com'
   - 'm-tvlmedia.public.bcs.ysten.com'
   - 'm3u8.channel.wsrtv.com.cn'
   - 'pili-live-hls.lyzx.live.chinacici.cn'

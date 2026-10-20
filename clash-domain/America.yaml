@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-20 04:46:54 (UTC+8)
+# UPDATED: 2026-10-21 03:41:55 (UTC+8)
 # TYPE: domain
-# TOTAL: 1675
+# TOTAL: 1676
 payload:
   - '+.android'
   - '+.java'
@@ -1080,6 +1080,7 @@ payload:
   - '+.poshtestgallery.com'
   - '+.postgresql.org'
   - '+.postman-echo.com'
+  - '+.postman.com'
   - '+.poweredbyintel.com'
   - '+.pplusstatic.com'
   - '+.princeton.edu'
