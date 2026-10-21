@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-21 03:41:54 (UTC+8)
+# UPDATED: 2026-10-22 03:44:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 29742
+# TOTAL: 29744
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2708,8 +2708,10 @@ payload:
   - '+.avinin.com'
   - '+.avira.com'
   - '+.avistaz.to'
+  - '+.avito.com'
   - '+.avito.ru'
   - '+.avito.st'
+  - '+.avito.tech'
   - '+.avizoon.site'
   - '+.avizoone.com'
   - '+.avjb.com'

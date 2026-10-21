@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-21 03:41:55 (UTC+8)
+# UPDATED: 2026-10-22 03:44:49 (UTC+8)
 # TYPE: domain
-# TOTAL: 295
+# TOTAL: 305
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -11,9 +11,12 @@ payload:
   - '+.ai.com'
   - '+.ai.studio'
   - '+.algolia.net'
+  - '+.ant.dev'
   - '+.anthropic.com'
+  - '+.anthropic.team'
   - '+.antigravity-unleash.goog'
   - '+.antigravity.google'
+  - '+.antspace.dev'
   - '+.anythingllm.com'
   - '+.arena.ai'
   - '+.auth0.com'
@@ -31,6 +34,7 @@ payload:
   - '+.bluehatnights.com'
   - '+.cerebras.ai'
   - '+.chat.com'
+  - '+.chatbotclaude.com'
   - '+.chatgpt.com'
   - '+.chatgpt.site'
   - '+.chutes.ai'
@@ -39,10 +43,16 @@ payload:
   - '+.ciciaicdn.com'
   - '+.clau.de'
   - '+.claude.ai'
+  - '+.claude.app'
   - '+.claude.com'
   - '+.claude.dev'
+  - '+.claude.new'
+  - '+.claude.site'
+  - '+.claudeacademy.com'
   - '+.claudemcpclient.com'
   - '+.claudemcpcontent.com'
+  - '+.claudepages.dev'
+  - '+.claudestudio.com'
   - '+.claudeusercontent.com'
   - '+.clawhub.ai'
   - '+.clipdrop.co'
