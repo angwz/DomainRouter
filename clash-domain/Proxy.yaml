@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-22 03:44:49 (UTC+8)
+# UPDATED: 2026-10-23 03:36:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 29744
+# TOTAL: 29765
 payload:
   - '+.adult'
   - '+.amazon'
@@ -1855,6 +1855,7 @@ payload:
   - '+.anpopo.com'
   - '+.ansarbank.com'
   - '+.answering-islam.org'
+  - '+.ant.dev'
   - '+.antarvasnaclips.com'
   - '+.antarvasnax.com'
   - '+.antd.org'
@@ -1862,12 +1863,14 @@ payload:
   - '+.anthemthegame.com'
   - '+.anthonycalzadilla.com'
   - '+.anthropic.com'
+  - '+.anthropic.team'
   - '+.anti1984.com'
   - '+.antichristendom.com'
   - '+.antiphishing.nl'
   - '+.antiphishing.ru'
   - '+.antiwave.net'
   - '+.antpool.com'
+  - '+.antspace.dev'
   - '+.anudetube.com'
   - '+.anuneko.com'
   - '+.anxiangxing.com'
@@ -5227,6 +5230,7 @@ payload:
   - '+.charticulator.com'
   - '+.chat.com'
   - '+.chatango.com'
+  - '+.chatbotclaude.com'
   - '+.chatgpt.com'
   - '+.chatgpt.site'
   - '+.chatgptvideo.xyz'
@@ -5583,10 +5587,16 @@ payload:
   - '+.classymomsex.com'
   - '+.clau.de'
   - '+.claude.ai'
+  - '+.claude.app'
   - '+.claude.com'
   - '+.claude.dev'
+  - '+.claude.new'
+  - '+.claude.site'
+  - '+.claudeacademy.com'
   - '+.claudemcpclient.com'
   - '+.claudemcpcontent.com'
+  - '+.claudepages.dev'
+  - '+.claudestudio.com'
   - '+.claudeusercontent.com'
   - '+.clawhub.ai'
   - '+.clck.ru'
@@ -9080,6 +9090,17 @@ payload:
   - '+.fluidpreview.com'
   - '+.flutter.dev'
   - '+.flutterapp.com'
+  - '+.fluxer.app'
+  - '+.fluxer.com'
+  - '+.fluxer.dev'
+  - '+.fluxer.gg'
+  - '+.fluxer.gift'
+  - '+.fluxer.media'
+  - '+.fluxer.tools'
+  - '+.fluxerapp.com'
+  - '+.fluxerstatic.com'
+  - '+.fluxerstatus.com'
+  - '+.fluxerusercontent.com'
   - '+.fly.dev'
   - '+.fly.io'
   - '+.flyflv.com'
