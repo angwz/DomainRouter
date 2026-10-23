@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-23 03:43:48 (UTC+8)
+# UPDATED: 2026-10-24 03:44:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 5576
+# TOTAL: 5583
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -1472,6 +1472,7 @@ payload:
   - '+.game-client.com'
   - '+.game-repack.site'
   - '+.gameabc.com'
+  - '+.gamebanana.com'
   - '+.gamebonfire.com'
   - '+.gamehaopu.com'
   - '+.gameitop.com'
@@ -3169,6 +3170,7 @@ payload:
   - '+.qy.com'
   - '+.qy.net'
   - '+.qzwb.com'
+  - '+.r2modman.com'
   - '+.r8zc9.cn'
   - '+.radgametools.com'
   - '+.radio.cn'
@@ -3492,6 +3494,7 @@ payload:
   - '+.steamdeck.com'
   - '+.steamgames.com'
   - '+.steaminventoryhelper.com'
+  - '+.steamos.cloud'
   - '+.steampowered.com'
   - '+.steamserver.net'
   - '+.steamstat.us'
@@ -3614,6 +3617,8 @@ payload:
   - '+.thinkprinter.net'
   - '+.ths123.com'
   - '+.thsi.cn'
+  - '+.thunderstore.io'
+  - '+.thunderstore.org'
   - '+.tianchi.com'
   - '+.tiancity.com'
   - '+.tiancitycdn.com'
@@ -3827,6 +3832,7 @@ payload:
   - '+.worldoftanks.eu'
   - '+.worldofwarcraft.com'
   - '+.worldofwarplanes.com'
+  - '+.worldofwarships.asia'
   - '+.worldofwarships.com'
   - '+.worldseriesofwarzone.com'
   - '+.woshipm.com'
@@ -3835,6 +3841,7 @@ payload:
   - '+.wowchina.com'
   - '+.wowsblitz.com'
   - '+.wowtb.com'
+  - '+.wplace.live'
   - '+.wshifen.com'
   - '+.wsoso.com'
   - '+.wssanguo.com'

@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-23 03:36:03 (UTC+8)
+# UPDATED: 2026-10-24 03:36:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 1676
+# TOTAL: 1681
 payload:
   - '+.android'
   - '+.java'
@@ -462,6 +462,7 @@ payload:
   - '+.getcomposer.org'
   - '+.getfedora.org'
   - '+.getpaint.net'
+  - '+.getsafety.com'
   - '+.getsentry.com'
   - '+.getzola.org'
   - '+.gfotolia.com'
@@ -1098,6 +1099,7 @@ payload:
   - '+.pyrobot.org'
   - '+.python.org'
   - '+.pythonhosted.org'
+  - '+.pyup.io'
   - '+.qt-project.org'
   - '+.qt.io'
   - '+.qualtrics.com'
@@ -1151,6 +1153,7 @@ payload:
   - '+.rustup.rs'
   - '+.s2stagehance.com'
   - '+.sae.org'
+  - '+.safetycli.com'
   - '+.saffrontech.com'
   - '+.sagepub.com'
   - '+.sanjesh.org'
@@ -1269,6 +1272,7 @@ payload:
   - '+.taylorfrancis.com'
   - '+.technologyandsociety.org'
   - '+.techstreet.com'
+  - '+.templatemonster.com'
   - '+.tenbyfotolia.com'
   - '+.termius.com'
   - '+.termux.com'
@@ -1295,6 +1299,7 @@ payload:
   - '+.tildacdn.com'
   - '+.tildacdn.net'
   - '+.timelinestoryteller.com'
+  - '+.tmimgcdn.com'
   - '+.topcoder.com'
   - '+.totalmateria.com'
   - '+.toutapp.com'

@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-23 03:43:41 (UTC+8)
+# UPDATED: 2026-10-24 03:44:08 (UTC+8)
 # TYPE: domain
-# TOTAL: 939
+# TOTAL: 943
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -100,6 +100,7 @@ payload:
   - '+.block.one'
   - '+.blockchain.com'
   - '+.blockchair.com'
+  - '+.blockchair.net'
   - '+.blockfrost.io'
   - '+.bloks.io'
   - '+.bmwweb.solutions'
@@ -180,6 +181,7 @@ payload:
   - '+.cryptoart.io'
   - '+.cryptocompare.com'
   - '+.cryptofees.info'
+  - '+.cryptoid.info'
   - '+.cryptomus.com'
   - '+.cryptoquant.com'
   - '+.cryptorank.io'
@@ -195,6 +197,7 @@ payload:
   - '+.defillama.com'
   - '+.defipulse.com'
   - '+.defirate.com'
+  - '+.delets.cash'
   - '+.delets.online'
   - '+.deribit.com'
   - '+.devcon.org'
@@ -694,6 +697,7 @@ payload:
   - '+.kraken.onl'
   - '+.kucoin.com'
   - '+.kucoin.plus'
+  - '+.kurs.expert'
   - '+.lighter.exchange'
   - '+.lighter.xyz'
   - '+.lightning.community'
