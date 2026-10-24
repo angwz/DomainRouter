@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-24 03:36:30 (UTC+8)
+# UPDATED: 2026-10-25 02:25:46 (UTC+8)
 # TYPE: domain
-# TOTAL: 29790
+# TOTAL: 29791
 payload:
   - '+.adult'
   - '+.amazon'
@@ -27967,6 +27967,7 @@ payload:
   - '+.fuyu.org.tw'
   - '+.g.kfd.me'
   - '+.g1.com.br'
+  - '+.ga.jspm.io'
   - '+.gamebase.com.tw'
   - '+.gamefocus.co.kr'
   - '+.gameover.com.hk'
