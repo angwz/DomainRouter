@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-25 02:24:56 (UTC+8)
+# UPDATED: 2026-10-26 02:35:21 (UTC+8)
 # TYPE: domain
-# TOTAL: 1979
+# TOTAL: 1985
 payload:
   - '+.java'
   - '+.oracle'
@@ -92,6 +92,8 @@ payload:
   - '+.cae.cn'
   - '+.cas.cn'
   - '+.ccspeed.cn'
+  - '+.cdrcb.com'
+  - '+.cdrcbank.com'
   - '+.cebbank.com'
   - '+.cf-china.info'
   - '+.cf-ns.com'
@@ -116,6 +118,7 @@ payload:
   - '+.chinaxiv.org'
   - '+.chndoi.org'
   - '+.clawhub-mirror.com'
+  - '+.cldisk.com'
   - '+.cloudflare-cn.com'
   - '+.cloudflareanycast.net'
   - '+.cloudflarechina.cn'
@@ -259,6 +262,7 @@ payload:
   - '+.huijiwiki.com'
   - '+.hwshu.com'
   - '+.hytung.cn'
+  - '+.ibangbank.com'
   - '+.ibcet.org'
   - '+.ifconfig.me'
   - '+.incopat.com'
@@ -321,7 +325,6 @@ payload:
   - '+.mindspore.cn'
   - '+.minimaxi.com'
   - '+.mndqlib.net'
-  - '+.moegirl.org'
   - '+.moonshot.cn'
   - '+.ms-bank.cn'
   - '+.mti100.com'
@@ -507,6 +510,7 @@ payload:
   - '+.xitu.io'
   - '+.xuexi365.com'
   - '+.xuexi365.net'
+  - '+.xuexitong.com'
   - '+.xunyou.com'
   - '+.xunyou.mobi'
   - '+.xwbank.com'
@@ -553,6 +557,7 @@ payload:
   - '+.awsapps.com.cn'
   - '+.baltamatica.org.cn'
   - '+.bankofbeijing.com.cn'
+  - '+.bocd.com.cn'
   - '+.bsb.com.cn'
   - '+.ccf.org.cn'
   - '+.cdn-patch.swtor.com'
@@ -610,7 +615,6 @@ payload:
   - '+.las.ac.cn'
   - '+.marscode.com.cn'
   - '+.microsoftreactor.com.cn'
-  - '+.moegirl.org.cn'
   - '+.njcb.com.cn'
   - '+.ntp.aliyun.com'
   - '+.ntp.tencent.com'
@@ -1651,6 +1655,7 @@ payload:
   - 'aldirect.hls.huya.com'
   - 'antvlive.ab5c6921.cdnviet.com'
   - 'aod.xjbs.com.cn'
+  - 'app.moegirl.org.cn'
   - 'baidu.live.cqccn.com'
   - 'cast.news98.com.tw'
   - 'cast.uforadio.com.tw'
@@ -1852,6 +1857,7 @@ payload:
   - 'steampipe.steamcontent.tnkjmec.com'
   - 'steampowered.com.8686c.com'
   - 'steamstatic.com.8686c.com'
+  - 'storage.moegirl.org.cn'
   - 'stream.fhtv.net.cn'
   - 'stream.gsqytv.com.cn'
   - 'stream.gstv.com.cn'

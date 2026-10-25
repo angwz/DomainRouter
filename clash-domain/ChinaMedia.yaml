@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-25 02:33:42 (UTC+8)
+# UPDATED: 2026-10-26 02:41:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 5583
+# TOTAL: 5589
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -908,6 +908,10 @@ payload:
   - '+.cdnhwczth23.com'
   - '+.cdnhwcztu09.com'
   - '+.cdnhwczxh101.com'
+  - '+.cdpred.services'
+  - '+.cdprojekt.com'
+  - '+.cdprojekt.red'
+  - '+.cdprojektred.com'
   - '+.ce.cn'
   - '+.ceeunion.com'
   - '+.cfi.cn'
@@ -1151,6 +1155,7 @@ payload:
   - '+.curseforge.com'
   - '+.cxzx10086.cn'
   - '+.cy.com'
+  - '+.cyberpunk.net'
   - '+.cygames.jp'
   - '+.cyol.com'
   - '+.cyol.net'
@@ -1507,7 +1512,6 @@ payload:
   - '+.gd165.com'
   - '+.gdbnet.cn'
   - '+.gdtianshanoa.com'
-  - '+.gdtimg.com'
   - '+.geekbang.org'
   - '+.geekpark.net'
   - '+.genshinimpact.com'
@@ -3057,6 +3061,7 @@ payload:
   - '+.playcool.com'
   - '+.playdisorder.com'
   - '+.playfab.cn'
+  - '+.playgwent.com'
   - '+.playhearthstone.com'
   - '+.playnintendo.com'
   - '+.playoverwatch.com'
@@ -3610,6 +3615,7 @@ payload:
   - '+.thesims3.com'
   - '+.thesims4.com'
   - '+.thesimssocial.com'
+  - '+.thewitcher.com'
   - '+.thewonderful101.com'
   - '+.thinkcloudlab.com'
   - '+.thinkpad.com'
