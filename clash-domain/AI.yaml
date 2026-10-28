@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-28 04:17:11 (UTC+8)
+# UPDATED: 2026-10-29 04:39:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 308
+# TOTAL: 314
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -19,6 +19,7 @@ payload:
   - '+.antspace.dev'
   - '+.anythingllm.com'
   - '+.arena.ai'
+  - '+.artificialanalysis.ai'
   - '+.auth0.com'
   - '+.bing.com'
   - '+.bing.net'
@@ -55,6 +56,7 @@ payload:
   - '+.claudestudio.com'
   - '+.claudeusercontent.com'
   - '+.clawhub.ai'
+  - '+.cline.bot'
   - '+.clipdrop.co'
   - '+.cloudflareinsights.com'
   - '+.cms-twdigitalassets.com'
@@ -66,6 +68,8 @@ payload:
   - '+.comfy.org'
   - '+.comfyci.org'
   - '+.comfyregistry.org'
+  - '+.commandcode.ai'
+  - '+.context7.com'
   - '+.copilot-stg.com'
   - '+.copilot.com'
   - '+.coze.com'
@@ -129,6 +133,7 @@ payload:
   - '+.marscode.com'
   - '+.masalladeloslimites.com'
   - '+.meta.ai'
+  - '+.metaaiusercontent.com'
   - '+.metaaivm.com'
   - '+.microsoft-give.com'
   - '+.microsoftcloudsummit.com'
@@ -146,6 +151,7 @@ payload:
   - '+.notebook.google'
   - '+.notebooklm.google'
   - '+.notegpt.io'
+  - '+.nousresearch.com'
   - '+.novelai.net'
   - '+.oaistatic.com'
   - '+.oaistatsig.com'

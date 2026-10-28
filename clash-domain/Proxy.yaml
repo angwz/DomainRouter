@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-28 04:17:11 (UTC+8)
+# UPDATED: 2026-10-29 04:39:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 29809
+# TOTAL: 29816
 payload:
   - '+.adult'
   - '+.amazon'
@@ -2305,6 +2305,7 @@ payload:
   - '+.artel.watch'
   - '+.arteldoc.com'
   - '+.arteldoc.tv'
+  - '+.artificialanalysis.ai'
   - '+.artixlinux.org'
   - '+.artnudegalleries.com'
   - '+.artoferotica.info'
@@ -5627,6 +5628,7 @@ payload:
   - '+.click-url.com'
   - '+.clien.net'
   - '+.climate-server.com'
+  - '+.cline.bot'
   - '+.clinica-tibet.ru'
   - '+.clinical-videos.com'
   - '+.clinicalkey.com'
@@ -5880,6 +5882,7 @@ payload:
   - '+.comm-verse.com'
   - '+.commandandconquer.com'
   - '+.commandarms.com'
+  - '+.commandcode.ai'
   - '+.comments.app'
   - '+.commentshk.com'
   - '+.commerceos.com'
@@ -5936,6 +5939,7 @@ payload:
   - '+.contechacademy.com'
   - '+.contentful.com'
   - '+.contest.com'
+  - '+.context7.com'
   - '+.convio.net'
   - '+.convrgencegame.com'
   - '+.coobay.com'
@@ -15285,6 +15289,7 @@ payload:
   - '+.met-nude.com'
   - '+.meta.ai'
   - '+.meta.com'
+  - '+.metaaiusercontent.com'
   - '+.metaaivm.com'
   - '+.metabora.io'
   - '+.metabrainz.org'
@@ -17254,6 +17259,7 @@ payload:
   - '+.notion.so'
   - '+.notionusercontent.com'
   - '+.nottinghampost.com'
+  - '+.nousresearch.com'
   - '+.novafile.com'
   - '+.novelai.net'
   - '+.novelasia.com'
@@ -22857,6 +22863,7 @@ payload:
   - '+.thinkgeek.com'
   - '+.thinkingtaiwan.com'
   - '+.thinkofliving.com'
+  - '+.thinkorswim.com'
   - '+.thinkquarterly.com'
   - '+.thinkwithgoogle.com'
   - '+.thirdmill.org'

@@ -1,9 +1,9 @@
 # NAME: China
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-28 04:24:47 (UTC+8)
+# UPDATED: 2026-10-29 04:46:57 (UTC+8)
 # TYPE: domain
-# TOTAL: 110749
+# TOTAL: 110751
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -33812,6 +33812,7 @@ payload:
   - '+.fillersmart.com'
   - '+.fillseo.com'
   - '+.film-yuelongchina.com'
+  - '+.filmorigin.com'
   - '+.fily.fun'
   - '+.fim34s.com'
   - '+.fimmu.com'
@@ -56320,6 +56321,7 @@ payload:
   - '+.kakappt.com'
   - '+.kakashuzi.net'
   - '+.kakatx.com'
+  - '+.kakaxing.com'
   - '+.kakayuy.net'
   - '+.kaken-china.com'
   - '+.kaku-scdn.com'
