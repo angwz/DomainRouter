@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-29 04:39:14 (UTC+8)
+# UPDATED: 2026-10-30 04:43:32 (UTC+8)
 # TYPE: domain
-# TOTAL: 29816
+# TOTAL: 29817
 payload:
   - '+.adult'
   - '+.amazon'
@@ -13165,6 +13165,7 @@ payload:
   - '+.ivacy.com'
   - '+.iverycd.com'
   - '+.ivi.ru'
+  - '+.ivi.tv'
   - '+.ivicdn.tv'
   - '+.ivintageporn.com'
   - '+.ivonblog.com'

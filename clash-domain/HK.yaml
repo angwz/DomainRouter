@@ -1,9 +1,9 @@
 # NAME: HK
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-29 04:39:14 (UTC+8)
+# UPDATED: 2026-10-30 04:43:33 (UTC+8)
 # TYPE: domain
-# TOTAL: 1330
+# TOTAL: 1328
 payload:
   - '+.azure'
   - '+.hk'
@@ -913,8 +913,6 @@ payload:
   - '+.videodelivery.net'
   - '+.visceralgames.com'
   - '+.vkcache.com'
-  - '+.vollcloud.com'
-  - '+.vps.town'
   - '+.w.wiki'
   - '+.wariolandshakeit.com'
   - '+.wariowarediy.com'
