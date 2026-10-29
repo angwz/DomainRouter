@@ -5,8 +5,6 @@ teracloud.jp
 racknerd.com
 bagevm.com
 
-www.023168.xyz
-
 
 DST-PORT,9993
 SRC-PORT,9993
@@ -30,12 +28,6 @@ SRC-PORT,9993
 # Aliyun
 8.137.63.0/24
 2408:4006:113a:e000::/64
-
-# GCP
-35.212.224.0/24
-
-# HostDZire
-163.227.192.0/24
 
 # Lightlayer
 207.56.18.0/24
@@ -135,15 +127,15 @@ DOMAIN-KEYWORD,nodeseek
 
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nodeseek.yaml
 
+
+
 [HK]
 '+.hk'
 zerotier.com
 
 bandwagonhost.com
-vollcloud.com
 alice.sh
 alice.ws
-vps.town
 dmit.io
 
 
@@ -158,6 +150,16 @@ plex.tv
 
 # RN
 192.129.133.0/24
+
+# GreenCloud
+45.89.232.0/24
+2a12:a304:4:a38::/64
+
+# GCP
+35.212.224.0/24
+
+# HostDZire
+163.227.192.0/24
 
 
 # Duolingo
