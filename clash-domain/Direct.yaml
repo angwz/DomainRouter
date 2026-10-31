@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-31 04:14:01 (UTC+8)
+# UPDATED: 2026-11-01 03:36:37 (UTC+8)
 # TYPE: domain
-# TOTAL: 1984
+# TOTAL: 1987
 payload:
   - '+.java'
   - '+.oracle'
@@ -207,6 +207,9 @@ payload:
   - '+.ersjk.com'
   - '+.et-api.com'
   - '+.et001.com'
+  - '+.favonis.cloud'
+  - '+.favonis.com'
+  - '+.favonis.space'
   - '+.faxingbao.com'
   - '+.fbank.com'
   - '+.fgo.wiki'

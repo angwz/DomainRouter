@@ -1,9 +1,9 @@
 # NAME: Media
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-10-31 04:22:41 (UTC+8)
+# UPDATED: 2026-11-01 03:41:10 (UTC+8)
 # TYPE: domain
-# TOTAL: 11121
+# TOTAL: 11122
 payload:
   - '+.adult'
   - '+.bbc'
@@ -70,6 +70,7 @@ payload:
   - '+.18comic-god.xyz'
   - '+.18comic.cc'
   - '+.18comic.company'
+  - '+.18comic.ink'
   - '+.18comic.org'
   - '+.18comic.vip'
   - '+.18commic.com'
