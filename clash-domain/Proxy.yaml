@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-01 03:37:02 (UTC+8)
+# UPDATED: 2026-11-01 22:44:20 (UTC+8)
 # TYPE: domain
-# TOTAL: 29825
+# TOTAL: 29827
 payload:
   - '+.adult'
   - '+.amazon'
@@ -23248,6 +23248,7 @@ payload:
   - '+.torproject.org'
   - '+.torrentgalaxy.to'
   - '+.torrentkitty.tv'
+  - '+.torrentleech.org'
   - '+.torrentleen.com'
   - '+.torrentmac.net'
   - '+.torrentprivacy.com'
@@ -26769,6 +26770,7 @@ payload:
   - '+.youtubekids.com'
   - '+.youtubemobilesupport.com'
   - '+.youversion.com'
+  - '+.youversionapi.com'
   - '+.youwin.com'
   - '+.youwuss.com'
   - '+.youx.xxx'
