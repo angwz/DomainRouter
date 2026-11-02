@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-02 04:04:32 (UTC+8)
+# UPDATED: 2026-11-03 07:22:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 2591
+# TOTAL: 2594
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -1774,6 +1774,7 @@ payload:
   - '+.tengyunqq.com'
   - '+.tenovatech.com'
   - '+.tenpay.com'
+  - '+.tenpayglobal.com'
   - '+.tensure.com'
   - '+.tenwukong.com'
   - '+.teo-rum.com'
@@ -2206,6 +2207,8 @@ payload:
   - '+.wesing-game.com'
   - '+.wesingapp.cn'
   - '+.wesingapp.com'
+  - '+.wesure.cn'
+  - '+.wesure100.com'
   - '+.wetest.cn'
   - '+.wetest.host'
   - '+.wetest.net'

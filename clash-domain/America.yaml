@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-02 03:56:47 (UTC+8)
+# UPDATED: 2026-11-03 07:15:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 1671
+# TOTAL: 1686
 payload:
   - '+.android'
   - '+.java'
@@ -174,6 +174,8 @@ payload:
   - '+.bloomsburydesignlibrary.com'
   - '+.bluefootcms.com'
   - '+.bmj.com'
+  - '+.bmonkeys.net'
+  - '+.boldgrid.com'
   - '+.book4you.org'
   - '+.bookfi.net'
   - '+.booksc.eu'
@@ -254,6 +256,7 @@ payload:
   - '+.clinicalkey.com'
   - '+.clojure.org'
   - '+.cloudinsights.com'
+  - '+.cloudwp.dev'
   - '+.clusterconnection.com'
   - '+.cmu.edu'
   - '+.cnki.net'
@@ -340,6 +343,7 @@ payload:
   - '+.echosign.com'
   - '+.ecr.aws'
   - '+.edgefonts.net'
+  - '+.editorx.com'
   - '+.edu.hk'
   - '+.edu.ir'
   - '+.eduhk.hk'
@@ -1048,6 +1052,7 @@ payload:
   - '+.paint.net'
   - '+.paramount.com'
   - '+.paramountplus.com'
+  - '+.parastorage.com'
   - '+.parse.com'
   - '+.passwordday.org'
   - '+.payhulu.com'
@@ -1367,17 +1372,27 @@ payload:
   - '+.wapm.io'
   - '+.wasmer.io'
   - '+.watchespn.com'
+  - '+.webflow-ext.com'
   - '+.webflow.com'
+  - '+.webflow.io'
   - '+.webkit.org'
   - '+.webkitgtk.org'
   - '+.weblate.org'
   - '+.webobjects.com'
   - '+.webofknowledge.com'
   - '+.webofscience.com'
+  - '+.website-files.com'
   - '+.westlaw.com'
   - '+.westlawchina.com'
   - '+.wiley.com'
   - '+.wireshark.org'
+  - '+.wix-code.com'
+  - '+.wix.com'
+  - '+.wixanswers.com'
+  - '+.wixapps.net'
+  - '+.wixmp.com'
+  - '+.wixsite.com'
+  - '+.wixstatic.com'
   - '+.wkap.nl'
   - '+.wolterskluwer.com'
   - '+.wordcamp.org'

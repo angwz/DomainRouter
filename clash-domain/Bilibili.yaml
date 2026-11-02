@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-02 04:04:32 (UTC+8)
+# UPDATED: 2026-11-03 07:22:56 (UTC+8)
 # TYPE: domain
-# TOTAL: 1162
+# TOTAL: 1165
 payload:
   - '+.2333333333333.com'
   - '+.365yg.com'
@@ -338,6 +338,7 @@ payload:
   - '+.doubao-dev.com'
   - '+.doubao.cn'
   - '+.doubao.com'
+  - '+.doubaoapps.com'
   - '+.doubaocdn.com'
   - '+.doubo03.com'
   - '+.doudou.com'
@@ -377,6 +378,7 @@ payload:
   - '+.ecombdimg.com'
   - '+.ecombdstatic.com'
   - '+.ecombdvod.com'
+  - '+.edge-byted.com'
   - '+.edgeceler.com'
   - '+.emr-volces.com'
   - '+.faceu.com'
@@ -450,6 +452,7 @@ payload:
   - '+.goofy-edge.cn'
   - '+.gslbdns.com'
   - '+.gslbdns.net'
+  - '+.haimian.com'
   - '+.hapierxia.com'
   - '+.hapipixia.com'
   - '+.hapiyixia.com'

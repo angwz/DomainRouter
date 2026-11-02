@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-02 04:04:38 (UTC+8)
+# UPDATED: 2026-11-03 07:23:03 (UTC+8)
 # TYPE: domain
-# TOTAL: 5590
+# TOTAL: 5598
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -2056,6 +2056,7 @@ payload:
   - '+.hitv.com'
   - '+.hiu58.cn'
   - '+.hkgcloudcs.com'
+  - '+.hmxs.cn'
   - '+.hndt.com'
   - '+.hnol.net'
   - '+.hnr.cn'
@@ -2678,6 +2679,7 @@ payload:
   - '+.masseffectarchives.com'
   - '+.masteroforion.com'
   - '+.maxis.com'
+  - '+.mayibao.cn'
   - '+.mayshijia.com'
   - '+.mcbbs.net'
   - '+.mdeer.com'
@@ -3501,6 +3503,7 @@ payload:
   - '+.steamgames.com'
   - '+.steaminventoryhelper.com'
   - '+.steamos.cloud'
+  - '+.steampeek.hu'
   - '+.steampowered.com'
   - '+.steamserver.net'
   - '+.steamstat.us'
@@ -4533,6 +4536,11 @@ payload:
   - '+.xiaomi.open.qingting.fm'
   - '+.edge.steam-dns.top.comcast.net'
   - '+.lenovo.com.cdn.cloudflare.net'
+  - '+.mnc000.mcc460.pub.3gppnetwork.org'
+  - '+.mnc002.mcc460.pub.3gppnetwork.org'
+  - '+.mnc004.mcc460.pub.3gppnetwork.org'
+  - '+.mnc007.mcc460.pub.3gppnetwork.org'
+  - '+.mnc011.mcc460.pub.3gppnetwork.org'
   - '+.steam.cdn.orcon.net.nz'
   - '+.steam.cdn.slingshot.co.nz'
   - 'gayotv.net'
