@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-05 05:43:57 (UTC+8)
+# UPDATED: 2026-11-06 05:46:40 (UTC+8)
 # TYPE: domain
-# TOTAL: 5598
+# TOTAL: 5603
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -2606,6 +2606,9 @@ payload:
   - '+.liangtv.cn'
   - '+.liangxinyao.com'
   - '+.liffmp.com'
+  - '+.limbuscompany.global'
+  - '+.limbuscompanyapi.com'
+  - '+.limbuscompanycdn.org'
   - '+.limgs.cn'
   - '+.linezing.com'
   - '+.linglonglife.com'
@@ -3121,6 +3124,7 @@ payload:
   - '+.prismlauncher.org'
   - '+.procg.cn'
   - '+.projectapex.com'
+  - '+.projectmoon.studio'
   - '+.protondb.com'
   - '+.proximabeta.com'
   - '+.puata.info'
@@ -3433,6 +3437,7 @@ payload:
   - '+.sk2cdsnw.cn'
   - '+.skate2.com'
   - '+.sketchfab.com'
+  - '+.skinswap.com'
   - '+.skydweller.cn'
   - '+.skylanders.com'
   - '+.sl916.com'

@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-05 05:36:22 (UTC+8)
+# UPDATED: 2026-11-06 05:39:02 (UTC+8)
 # TYPE: domain
-# TOTAL: 29838
+# TOTAL: 29843
 payload:
   - '+.adult'
   - '+.amazon'
@@ -14381,6 +14381,9 @@ payload:
   - '+.lilhumpers.com'
   - '+.liliav.com'
   - '+.lilith-soft.com'
+  - '+.limbuscompany.global'
+  - '+.limbuscompanyapi.com'
+  - '+.limbuscompanycdn.org'
   - '+.limedia.tw'
   - '+.limelight.com'
   - '+.limer.tw'
@@ -19361,6 +19364,7 @@ payload:
   - '+.projectcircuitbreaker.com'
   - '+.projecteuclid.org'
   - '+.projectjav.com'
+  - '+.projectmoon.studio'
   - '+.projectmurphy.net'
   - '+.projectpoint.com'
   - '+.projectpoint.net'
@@ -21333,6 +21337,7 @@ payload:
   - '+.skillshare.com'
   - '+.skimtube.com'
   - '+.skinstrip.net'
+  - '+.skinswap.com'
   - '+.skk.moe'
   - '+.skokka.com'
   - '+.sksarab.top'
