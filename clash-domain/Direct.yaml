@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-07 05:07:25 (UTC+8)
+# UPDATED: 2026-11-08 03:42:14 (UTC+8)
 # TYPE: domain
-# TOTAL: 1989
+# TOTAL: 1998
 payload:
   - '+.java'
   - '+.oracle'
@@ -13,6 +13,7 @@ payload:
   - '+.51ccd.com'
   - '+.5read.com'
   - '+.95306.cn'
+  - '+.95508.com'
   - '+.95516.com'
   - '+.95516.net'
   - '+.95572.com'
@@ -24,6 +25,7 @@ payload:
   - '+.addthis.com'
   - '+.addthiscdn.com'
   - '+.addthisedge.com'
+  - '+.ai-indeed.com'
   - '+.ai-yyds.com'
   - '+.aichaoxing.com'
   - '+.airitilibrary.cn'
@@ -419,6 +421,12 @@ payload:
   - '+.sciencechina.cn'
   - '+.sec-wiki.com'
   - '+.segmentfault.com'
+  - '+.senseaudio.cn'
+  - '+.senseavatar.com'
+  - '+.sensecore.cn'
+  - '+.sensefoundry.cn'
+  - '+.sensenova.cn'
+  - '+.sensetime.com'
   - '+.shidianbaike.com'
   - '+.shrbank.com'
   - '+.shunjing.xin'
@@ -509,6 +517,7 @@ payload:
   - '+.wxsbank.com'
   - '+.xa-bank.com'
   - '+.xiaoaiassist.com'
+  - '+.xiaohuanxiong.com'
   - '+.xiaomimimo.com'
   - '+.xiezuocat.com'
   - '+.xingyeai.com'

@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-07 05:15:56 (UTC+8)
+# UPDATED: 2026-11-08 03:46:41 (UTC+8)
 # TYPE: domain
-# TOTAL: 2594
+# TOTAL: 2597
 payload:
   - '+.001dl.cn'
   - '+.002dl.cn'
@@ -723,6 +723,7 @@ payload:
   - '+.labycore.cn'
   - '+.lazyaudio.com'
   - '+.leshare.work'
+  - '+.levelinfinite.com'
   - '+.lexiang-app.com'
   - '+.lexiang-asset.com'
   - '+.lexiang-asset.net'
@@ -830,6 +831,7 @@ payload:
   - '+.nextplayground.com'
   - '+.nextstudios.com'
   - '+.nextworkshop.net'
+  - '+.nikke-en.com'
   - '+.nintendoswitch.cn'
   - '+.nj-tencentclb.cloud'
   - '+.nj-tencentclb.com'
@@ -1668,6 +1670,7 @@ payload:
   - '+.tencentfoundation.org'
   - '+.tencentga.com'
   - '+.tencentgames.co'
+  - '+.tencentgames.com'
   - '+.tencentgames.us'
   - '+.tencentgme.com'
   - '+.tencentgoosefs.cn'
