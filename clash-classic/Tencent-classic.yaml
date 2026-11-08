@@ -1,0 +1,9 @@
+# NAME: Tencent
+# AUTHOR: Angwz
+# REPO: https://github.com/angwz/DomainRouter
+# UPDATED: 2026-11-09 00:50:36 (UTC+8)
+# TYPE: classic
+# TOTAL: 1
+# IP-ASN TOTAL: 1
+payload:
+  - IP-ASN,132203,no-resolve
