@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-09 04:09:27 (UTC+8)
+# UPDATED: 2026-11-16 04:47:53 (UTC+8)
 # TYPE: domain
-# TOTAL: 1998
+# TOTAL: 1999
 payload:
   - '+.java'
   - '+.oracle'
@@ -343,6 +343,7 @@ payload:
   - '+.namiso.com'
   - '+.neohytung.com'
   - '+.newupbank.com'
+  - '+.nia-teams.com'
   - '+.nihaoafrica.org'
   - '+.nihaorwanda.cn'
   - '+.nmrdata.com'

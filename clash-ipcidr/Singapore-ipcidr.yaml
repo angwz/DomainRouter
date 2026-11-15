@@ -1,11 +1,11 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-09 04:17:49 (UTC+8)
+# UPDATED: 2026-11-16 04:55:51 (UTC+8)
 # TYPE: ipcidr
-# TOTAL: 142
+# TOTAL: 141
 # IP-CIDR TOTAL: 99
-# IP-CIDR6 TOTAL: 43
+# IP-CIDR6 TOTAL: 42
 payload:
   - '102.132.112.0/24'
   - '102.132.115.0/24'
@@ -138,8 +138,7 @@ payload:
   - '2a03:2887:ff60::/48'
   - '2a03:2887:ff62::/47'
   - '2a03:2887:ff64::/46'
-  - '2a03:2887:ff68::/47'
-  - '2a03:2887:ff6a::/48'
+  - '2a03:2887:ff68::/46'
   - '2a03:2887:ff6c::/48'
   - '2a03:2887:ff6f::/48'
   - '2a03:2887:ff70::/46'

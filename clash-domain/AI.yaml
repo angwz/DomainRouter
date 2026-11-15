@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-09 04:10:16 (UTC+8)
+# UPDATED: 2026-11-16 04:48:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 318
+# TOTAL: 321
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -269,6 +269,7 @@ payload:
   - 'browser-intake-datadoghq.com'
   - 'openrouter.ai'
   - 'ai.google.dev'
+  - 'aicode.googleapis.com'
   - 'aida.googleapis.com'
   - 'aisandbox-pa.googleapis.com'
   - 'antigravity-pa.googleapis.com'
@@ -280,6 +281,7 @@ payload:
   - 'appsgenaiserver-pa.googleapis.com'
   - 'assets.msn.com'
   - 'cdn.usefathom.com'
+  - 'cloud.zed.dev'
   - 'cloudaicompanion.googleapis.com'
   - 'cloudcode-pa.googleapis.com'
   - 'copilot-proxy.githubusercontent.com'
@@ -307,6 +309,7 @@ payload:
   - 'alkalimakersuite-pa.clients6.google.com'
   - 'appsgenaiserver-pa.clients.google.com'
   - 'appsgenaiserver-pa.clients6.google.com'
+  - 'daily-cloudcode-pa.sandbox.googleapis.com'
   - 'gateway.ai.cloudflare.com'
   - 'gateway.bingviz.microsoft.net'
   - 'gateway.bingviz.microsoftapp.net'

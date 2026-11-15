@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-09 04:10:16 (UTC+8)
+# UPDATED: 2026-11-16 04:48:39 (UTC+8)
 # TYPE: domain
-# TOTAL: 1687
+# TOTAL: 1689
 payload:
   - '+.android'
   - '+.java'
@@ -518,6 +518,8 @@ payload:
   - '+.golang.org'
   - '+.gordonmoore.com'
   - '+.gostorego.com'
+  - '+.grafana.com'
+  - '+.grafana.net'
   - '+.granulate.io'
   - '+.graphengine.io'
   - '+.grazie.ai'

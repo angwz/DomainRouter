@@ -1,9 +1,9 @@
 # NAME: Proxy
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-09 04:10:15 (UTC+8)
+# UPDATED: 2026-11-16 04:48:38 (UTC+8)
 # TYPE: domain
-# TOTAL: 29845
+# TOTAL: 29850
 payload:
   - '+.adult'
   - '+.amazon'
@@ -512,6 +512,7 @@ payload:
   - '+.51luoben.com'
   - '+.51luoli.info'
   - '+.51mh.app'
+  - '+.51papaya.com'
   - '+.51pincha.cc'
   - '+.51tuqiang.com'
   - '+.520aa.tv'
@@ -10714,6 +10715,8 @@ payload:
   - '+.grabpussy.com'
   - '+.gradconnection.com'
   - '+.gradeuptube.com'
+  - '+.grafana.com'
+  - '+.grafana.net'
   - '+.grafolio.com'
   - '+.graias.com'
   - '+.graiasmovies.com'
@@ -19632,6 +19635,7 @@ payload:
   - '+.quantumbooter.net'
   - '+.quatrowireless.com'
   - '+.quay.io'
+  - '+.questionablequesting.com'
   - '+.questvisual.com'
   - '+.quicinc.com'
   - '+.quickbooks.com'
@@ -21693,6 +21697,7 @@ payload:
   - '+.soylent.com'
   - '+.soylentnews.org'
   - '+.sp.cool'
+  - '+.spacebattles.com'
   - '+.spaceexplored.com'
   - '+.spaceforce.mil'
   - '+.spacemail.com'
