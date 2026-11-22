@@ -1,9 +1,9 @@
 # NAME: Direct
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-16 04:47:53 (UTC+8)
+# UPDATED: 2026-11-23 05:30:12 (UTC+8)
 # TYPE: domain
-# TOTAL: 1999
+# TOTAL: 2000
 payload:
   - '+.java'
   - '+.oracle'
@@ -1986,6 +1986,7 @@ payload:
   - 'tvfile.sw.lsrm.org.cn'
   - 'tx.liveplay.live.kugou.com'
   - 'uplaypc-s-ubisoft.cdn.ubionline.com.cn'
+  - 'vscode.download.prss.microsoft.com'
   - 'wshdl.load.cdn.zhanqi.tv'
   - 'yf.m.l.cztv.com'
   - 'yunshangdawu.live.tempsource.cjyun.org'

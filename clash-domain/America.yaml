@@ -1,9 +1,9 @@
 # NAME: America
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-16 04:48:39 (UTC+8)
+# UPDATED: 2026-11-23 05:30:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 1689
+# TOTAL: 1695
 payload:
   - '+.android'
   - '+.java'
@@ -1135,6 +1135,7 @@ payload:
   - '+.registerhulu.com'
   - '+.remirepo.net'
   - '+.renderingtoolkit.org'
+  - '+.replit.com'
   - '+.repo.new'
   - '+.researchandcare.org'
   - '+.researchgate.net'
@@ -1308,6 +1309,7 @@ payload:
   - '+.timelinestoryteller.com'
   - '+.tmimgcdn.com'
   - '+.topcoder.com'
+  - '+.tortoisegit.org'
   - '+.totalmateria.com'
   - '+.toutapp.com'
   - '+.trustedanalytics.com'
@@ -1546,6 +1548,7 @@ payload:
   - 'developer.microsoft.com'
   - 'developers.facebook.com'
   - 'dl.begellhouse.com'
+  - 'dotnetcli.trafficmanager.net'
   - 'dtlgalleryint.cloudapp.net'
   - 'firebase.googleapis.com'
   - 'firebaseappcheck.googleapis.com'
@@ -1608,10 +1611,12 @@ payload:
   - 'scholar.google.si'
   - 'scholar.google.sk'
   - 'scholar.googleusercontent.com'
+  - 'sundry-star-net-geo.trafficmanager.net'
   - 'vscode-sync-insiders.trafficmanager.net'
   - 'vscode-sync.trafficmanager.net'
   - 'vsmarketplacebadge.apphb.com'
   - 'az764295.vo.msecnd.net'
+  - 'builds.dotnet.microsoft.com'
   - 'cc-ext-prod-pkgs.s3.amazonaws.com'
   - 'docker-pinata-support.s3.amazonaws.com'
   - 'download.visualstudio.microsoft.com'
@@ -1694,3 +1699,4 @@ payload:
   - 'productionresultssa8.blob.core.windows.net'
   - 'productionresultssa9.blob.core.windows.net'
   - 'vscode.blob.core.windows.net'
+  - 'vscode.download.prss.microsoft.com'

@@ -1,9 +1,9 @@
 # NAME: ChinaMedia
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-16 04:55:57 (UTC+8)
+# UPDATED: 2026-11-23 05:38:30 (UTC+8)
 # TYPE: domain
-# TOTAL: 5539
+# TOTAL: 5544
 payload:
   - '+.alibaba'
   - '+.alipay'
@@ -78,6 +78,8 @@ payload:
   - '+.189qas.com'
   - '+.189smarthome.com'
   - '+.1huizhan.com'
+  - '+.1y.com'
+  - '+.1ycdn.com'
   - '+.2-class.com'
   - '+.21cn.com'
   - '+.21cn.net'
@@ -1155,6 +1157,7 @@ payload:
   - '+.cxzx10086.cn'
   - '+.cy.com'
   - '+.cyberpunk.net'
+  - '+.cygames.com'
   - '+.cygames.jp'
   - '+.cyol.com'
   - '+.cyol.net'
@@ -2556,6 +2559,7 @@ payload:
   - '+.learnwithleague.com'
   - '+.lecoo.com'
   - '+.ledu.com'
+  - '+.lefile.cn'
   - '+.legendofzelda.cn'
   - '+.leijun.com'
   - '+.leikeji.com'
@@ -2568,6 +2572,8 @@ payload:
   - '+.lenovocust.cn'
   - '+.lenovoeservice.com'
   - '+.lenovofile.com'
+  - '+.lenovofoundation.cn'
+  - '+.lenovofuturecenter.com'
   - '+.lenovogame.com'
   - '+.lenovoimage.cn'
   - '+.lenovoimage.com'
@@ -3231,7 +3237,6 @@ payload:
   - '+.sanguosha.com'
   - '+.sanguows.com'
   - '+.sankuai.com'
-  - '+.saxyit.com'
   - '+.sbhimalayanml.com'
   - '+.scdaily.cn'
   - '+.scdn0077.com'

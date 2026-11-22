@@ -1,9 +1,9 @@
 # NAME: AI
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-16 04:48:38 (UTC+8)
+# UPDATED: 2026-11-23 05:30:59 (UTC+8)
 # TYPE: domain
-# TOTAL: 321
+# TOTAL: 323
 payload:
   - '+.bing'
   - '+.ads-twitter.com'
@@ -95,6 +95,7 @@ payload:
   - '+.duck.ai'
   - '+.elevenlabs.com'
   - '+.elevenlabs.io'
+  - '+.elevenlabsusercontent.com'
   - '+.envato-static.com'
   - '+.envato.com'
   - '+.envatousercontent.com'
@@ -267,6 +268,7 @@ payload:
   - 'antigravity-unleash.goog'
   - 'antigravity.google'
   - 'browser-intake-datadoghq.com'
+  - 'claude.site'
   - 'openrouter.ai'
   - 'ai.google.dev'
   - 'aicode.googleapis.com'

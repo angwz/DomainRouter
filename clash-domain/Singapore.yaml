@@ -1,9 +1,9 @@
 # NAME: Singapore
 # AUTHOR: Angwz
 # REPO: https://github.com/angwz/DomainRouter
-# UPDATED: 2026-11-16 04:55:51 (UTC+8)
+# UPDATED: 2026-11-23 05:38:24 (UTC+8)
 # TYPE: domain
-# TOTAL: 944
+# TOTAL: 945
 payload:
   - '+.sg'
   - '+.1inch.io'
@@ -193,6 +193,7 @@ payload:
   - '+.dappradar.com'
   - '+.dcabtc.com'
   - '+.debank.com'
+  - '+.debot.ai'
   - '+.defieye.io'
   - '+.defillama.com'
   - '+.defipulse.com'
